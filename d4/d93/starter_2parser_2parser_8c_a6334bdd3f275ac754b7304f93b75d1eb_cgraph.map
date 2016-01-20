@@ -1,0 +1,13 @@
+<map id="conf_parser_open_next_file" name="conf_parser_open_next_file">
+<area shape="rect" id="node2" href="$d8/d33/lexer_8c.html#a11cff0225010dbaa02fd31b82eac3e09" title="conf_parser__create\l_buffer" alt="" coords="247,55,387,97"/>
+<area shape="rect" id="node9" href="$d8/d33/lexer_8c.html#a4e2b81f61e8132edaabdf593e5b3e786" title="conf_parser_push_buffer\l_state" alt="" coords="235,121,400,162"/>
+<area shape="rect" id="node12" href="$d8/d33/lexer_8c.html#ab9593844c97911458eb048d6be572545" title="conf_parser_set_in" alt="" coords="251,187,383,213"/>
+<area shape="rect" id="node3" href="$d8/d33/lexer_8c.html#a74c4a277c68d4f6f7db9f0bf3f8866aa" title="conf_parser__init_buffer" alt="" coords="449,20,610,47"/>
+<area shape="rect" id="node7" href="$d8/d33/lexer_8c.html#a5c92df5e9b76e083443a5592a8ffa809" title="conf_parser_alloc" alt="" coords="665,172,789,199"/>
+<area shape="rect" id="node4" href="$d8/d33/lexer_8c.html#ab5f09a0d6018d9fde4d6989e1b00bad3" title="conf_parser__flush\l_buffer" alt="" coords="661,5,793,46"/>
+<area shape="rect" id="node6" href="$d8/d33/lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="699,71,754,97"/>
+<area shape="rect" id="node5" href="$d8/d33/lexer_8c.html#a5383c22049979cbcc28d08f9554ab318" title="conf_parser__load_buffer\l_state" alt="" coords="843,55,1011,97"/>
+<area shape="rect" id="node8" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="897,172,957,199"/>
+<area shape="rect" id="node10" href="$d8/d33/lexer_8c.html#a4ca0185431ab494c7fdd119459f18af4" title="conf_parser_ensure\l_buffer_stack" alt="" coords="461,173,597,214"/>
+<area shape="rect" id="node11" href="$d8/d33/lexer_8c.html#a695b1608f3d3a5a67b1b7bfe0f93bb1c" title="conf_parser_realloc" alt="" coords="659,223,794,249"/>
+</map>

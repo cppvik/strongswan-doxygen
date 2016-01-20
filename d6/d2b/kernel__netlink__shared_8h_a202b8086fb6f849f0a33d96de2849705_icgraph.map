@@ -1,0 +1,21 @@
+<map id="netlink_add_attribute" name="netlink_add_attribute">
+<area shape="rect" id="node2" href="$dd/d75/libhydra_2plugins_2kernel__netlink_2suites_2test__socket_8c.html#a3bef441d88113bb370aacf3e2075aa77" title="CALLBACK" alt="" coords="213,5,305,32"/>
+<area shape="rect" id="node3" href="$d5/d90/kernel__netlink__net_8c.html#add8ea34240fa67be8682f623e7b61891" title="get_route" alt="" coords="221,56,297,83"/>
+<area shape="rect" id="node5" href="$d5/d90/kernel__netlink__net_8c.html#a1160788a04132956fb9fcd0ab0552ba4" title="manage_ipaddr" alt="" coords="546,107,657,133"/>
+<area shape="rect" id="node7" href="$d5/d90/kernel__netlink__net_8c.html#a2fc64fdc22a19e137870e17197ed5cc2" title="manage_rule" alt="" coords="211,208,307,235"/>
+<area shape="rect" id="node11" href="$d5/d90/kernel__netlink__net_8c.html#a0fb4225c5228122371f3ef9fe600c523" title="manage_srcroute" alt="" coords="197,157,320,184"/>
+<area shape="rect" id="node19" href="$d5/d47/kernel__netlink__ipsec_8c.html#a2912a8f4edc334b8e72d3b8f5a0ccf2c" title="METHOD" alt="" coords="219,259,299,285"/>
+<area shape="rect" id="node20" href="$dd/d75/libhydra_2plugins_2kernel__netlink_2suites_2test__socket_8c.html#ac3091da86c226c6f028b842a7215d78d" title="START_TEST" alt="" coords="205,309,312,336"/>
+<area shape="rect" id="node4" href="$d5/d90/kernel__netlink__net_8c.html#a427a6e01d6e9699d3396211dabe5fdbb" title="METHOD" alt="" coords="384,56,464,83"/>
+<area shape="rect" id="node6" href="$d5/d90/kernel__netlink__net_8c.html#aeca4a8be4eca27916eee69fadda9b886" title="METHOD" alt="" coords="733,107,813,133"/>
+<area shape="rect" id="node8" href="$d5/dbb/group__kernel__netlink__net__i.html#ga085e463746e0ef5b2537f94dee888bb3" title="kernel_netlink_net\l_create" alt="" coords="1038,201,1165,242"/>
+<area shape="rect" id="node10" href="$d5/d90/kernel__netlink__net_8c.html#acf60c75dd18e7081cecee6bc166bcebf" title="METHOD" alt="" coords="384,309,464,336"/>
+<area shape="rect" id="node9" href="$da/d4c/kernel__netlink__plugin_8c.html#afff6cb796b37dd206b1f16ec44e924d0" title="METHOD" alt="" coords="1213,208,1293,235"/>
+<area shape="rect" id="node12" href="$d5/d90/kernel__netlink__net_8c.html#a6518ff90e8fda63a800cc1f01d138520" title="METHOD" alt="" coords="384,208,464,235"/>
+<area shape="rect" id="node13" href="$d5/d90/kernel__netlink__net_8c.html#af3cebb1319733db373466a7b44f0aebf" title="reinstall_routes" alt="" coords="369,157,479,184"/>
+<area shape="rect" id="node14" href="$d5/d90/kernel__netlink__net_8c.html#a0f4d312f2e3ae7e2ef669ff35e21bee8" title="queue_route_reinstall" alt="" coords="529,157,674,184"/>
+<area shape="rect" id="node15" href="$d5/d90/kernel__netlink__net_8c.html#a524a440e79bfb8f59290902a14bb30e8" title="process_addr" alt="" coords="723,157,823,184"/>
+<area shape="rect" id="node18" href="$d5/d90/kernel__netlink__net_8c.html#a0f87b0e61837c8bde853f9eda9756613" title="process_link" alt="" coords="726,208,821,235"/>
+<area shape="rect" id="node16" href="$d5/d90/kernel__netlink__net_8c.html#a6171ad9e6cb4f8e8abc248a8e14182ca" title="init_address_list" alt="" coords="873,208,989,235"/>
+<area shape="rect" id="node17" href="$d5/d90/kernel__netlink__net_8c.html#aadc72ac0ee4c3eee050dcde86c5230d6" title="receive_events" alt="" coords="875,157,986,184"/>
+</map>

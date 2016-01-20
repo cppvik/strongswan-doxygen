@@ -1,0 +1,10 @@
+<map id="unlock_single_segment" name="unlock_single_segment">
+<area shape="rect" id="node2" href="$d0/df4/ike__sa__manager_8c.html#a6a14bada09a5439c7fb5df982b6336f1" title="get_entry_by_match\l_function" alt="" coords="214,23,354,65"/>
+<area shape="rect" id="node7" href="$d0/df4/ike__sa__manager_8c.html#aab987f95727cf9a7ccc0f6c1b1244090" title="METHOD" alt="" coords="244,89,324,116"/>
+<area shape="rect" id="node8" href="$d0/df4/ike__sa__manager_8c.html#a7b7a651b060acc88a3ea99458f2d2c27" title="remove_entry_at" alt="" coords="225,140,343,167"/>
+<area shape="rect" id="node3" href="$d0/df4/ike__sa__manager_8c.html#a3dec6a20169a9fe94b99d4ffb23a2ec2" title="get_entry_by_id" alt="" coords="405,5,520,32"/>
+<area shape="rect" id="node5" href="$d0/df4/ike__sa__manager_8c.html#adee543b7ac6678b771f9c611d92ac764" title="get_entry_by_sa" alt="" coords="403,56,522,83"/>
+<area shape="rect" id="node4" href="$d0/df4/ike__sa__manager_8c.html#a009efaffdc0ed1feeae4947a96647308" title="METHOD" alt="" coords="571,5,651,32"/>
+<area shape="rect" id="node6" href="$d0/df4/ike__sa__manager_8c.html#aa93814e3b638bdb4c781f110678d673d" title="METHOD" alt="" coords="571,56,651,83"/>
+<area shape="rect" id="node9" href="$d0/df4/ike__sa__manager_8c.html#a3167b24c7074959ed7a74af119e83e56" title="METHOD" alt="" coords="423,140,503,167"/>
+</map>

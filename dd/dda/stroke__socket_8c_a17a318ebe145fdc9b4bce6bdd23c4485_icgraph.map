@@ -1,0 +1,23 @@
+<map id="pop_string" name="pop_string">
+<area shape="rect" id="node2" href="$dd/dda/stroke__socket_8c.html#a475b32789a6e1d39df6613ca0b023569" title="pop_end" alt="" coords="178,5,249,32"/>
+<area shape="rect" id="node3" href="$dd/dda/stroke__socket_8c.html#a1eb7d1d12326054b6ca44b22aa2d1f45" title="stroke_add_conn" alt="" coords="339,56,461,83"/>
+<area shape="rect" id="node8" href="$dd/dda/stroke__socket_8c.html#a3195365e26b016db39b10c308c51959e" title="stroke_add_ca" alt="" coords="347,107,453,133"/>
+<area shape="rect" id="node9" href="$dd/dda/stroke__socket_8c.html#a957fb6cf505a0b1ee2e53d2e543f0867" title="stroke_counters" alt="" coords="343,157,457,184"/>
+<area shape="rect" id="node10" href="$dd/dda/stroke__socket_8c.html#a8868f70fcbbcc19f33db3907aaaf0e44" title="stroke_del_ca" alt="" coords="349,208,451,235"/>
+<area shape="rect" id="node11" href="$dd/dda/stroke__socket_8c.html#aa04ebd6accdb782987dc87c8c798f411" title="stroke_del_conn" alt="" coords="341,259,459,285"/>
+<area shape="rect" id="node12" href="$dd/dda/stroke__socket_8c.html#a1f800b4a8e2ab423433a149e17eca16d" title="stroke_export" alt="" coords="349,309,451,336"/>
+<area shape="rect" id="node13" href="$dd/dda/stroke__socket_8c.html#a23354c25d5ca522309199ff6c2e3a5d4" title="stroke_initiate" alt="" coords="349,360,451,387"/>
+<area shape="rect" id="node14" href="$dd/dda/stroke__socket_8c.html#aa065be30a4d519779ad2c14b5696aa10" title="stroke_leases" alt="" coords="349,411,451,437"/>
+<area shape="rect" id="node15" href="$dd/dda/stroke__socket_8c.html#a39592cefa4d451393b33e50d6456bbd1" title="stroke_loglevel" alt="" coords="345,461,455,488"/>
+<area shape="rect" id="node16" href="$dd/dda/stroke__socket_8c.html#ad6cee807219ac6fcc8862eb336702b6b" title="stroke_rekey" alt="" coords="165,512,262,539"/>
+<area shape="rect" id="node17" href="$dd/dda/stroke__socket_8c.html#a200903ed2bdf23c38e94d0239c516d03" title="stroke_route" alt="" coords="166,563,261,589"/>
+<area shape="rect" id="node18" href="$dd/dda/stroke__socket_8c.html#a781431cdad9b56a68a07dad118d90d8d" title="stroke_status" alt="" coords="163,613,264,640"/>
+<area shape="rect" id="node19" href="$dd/dda/stroke__socket_8c.html#a5fc7b1da07f231431da6a2d7ac13db83" title="stroke_terminate" alt="" coords="154,664,273,691"/>
+<area shape="rect" id="node20" href="$dd/dda/stroke__socket_8c.html#a1a30e2ee398ff9a2290213ce60641a5b" title="stroke_terminate_srcip" alt="" coords="136,715,291,741"/>
+<area shape="rect" id="node21" href="$dd/dda/stroke__socket_8c.html#a0a6f291bf05ab9b64720a1218785daaa" title="stroke_unroute" alt="" coords="159,765,267,792"/>
+<area shape="rect" id="node22" href="$dd/dda/stroke__socket_8c.html#afc73631b9c529d449f853fed7792d87b" title="stroke_user_creds" alt="" coords="149,816,278,843"/>
+<area shape="rect" id="node4" href="$dd/dda/stroke__socket_8c.html#acc127cd2eeaa4ed7c6d30c613f02a76e" title="on_accept" alt="" coords="509,436,592,463"/>
+<area shape="rect" id="node5" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="640,436,787,463"/>
+<area shape="rect" id="node6" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="835,436,943,463"/>
+<area shape="rect" id="node7" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="992,436,1072,463"/>
+</map>

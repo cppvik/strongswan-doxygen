@@ -1,0 +1,10 @@
+<map id="private_kernel_netlink_net_t" name="private_kernel_netlink_net_t">
+<area shape="rect" id="node2" href="$dc/dff/structrwlock__condvar__t.html" title="rwlock_condvar_t" alt="" coords="267,12,391,39"/>
+<area shape="rect" id="node3" href="$db/d86/structrwlock__t.html" title="rwlock_t" alt="" coords="294,63,365,89"/>
+<area shape="rect" id="node5" href="$dd/d49/structhashtable__t.html" title="hashtable_t" alt="" coords="285,209,374,236"/>
+<area shape="rect" id="node6" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="5,249,104,276"/>
+<area shape="rect" id="node10" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="284,299,375,325"/>
+<area shape="rect" id="node7" href="$d9/dda/structspinlock__t.html" title="spinlock_t" alt="" coords="289,349,370,376"/>
+<area shape="rect" id="node8" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="295,407,364,433"/>
+<area shape="rect" id="node9" href="$d4/dfc/structnetlink__socket__t.html" title="netlink_socket_t" alt="" coords="271,457,388,484"/>
+</map>

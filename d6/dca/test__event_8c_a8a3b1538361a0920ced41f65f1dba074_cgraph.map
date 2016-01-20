@@ -1,0 +1,8 @@
+<map id="event_cb" name="event_cb">
+<area shape="rect" id="node2" href="$dc/d7a/group__libvici.html#ga8ce91f7bbd32712758370e6dc5a49d64" title="vici_parse" alt="" coords="158,5,239,32"/>
+<area shape="rect" id="node3" href="$dc/d7a/group__libvici.html#ga096e5f3ed65379ecb6b96a4a67e50976" title="vici_parse_name" alt="" coords="139,56,259,83"/>
+<area shape="rect" id="node4" href="$dc/d7a/group__libvici.html#ga9f9353ea41485c6356fb07edafb4413f" title="vici_parse_value_str" alt="" coords="128,107,269,133"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gab2fee6d4908a46297e2a0f818d8df2a7" title="chunk_printable" alt="" coords="318,81,431,108"/>
+<area shape="rect" id="node6" href="$da/d9b/group__windows.html#ga8b860ba32fef12da8acd4507c059e509" title="strndup" alt="" coords="342,132,407,159"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="481,132,541,159"/>
+</map>

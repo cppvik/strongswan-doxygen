@@ -1,0 +1,18 @@
+<map id="cookie_verify" name="cookie_verify">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaef4ef97b1a4298f2b3aacb9fe48a2c85" title="chunk_equals_const" alt="" coords="152,5,293,32"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="179,56,266,83"/>
+<area shape="rect" id="node6" href="$d0/d09/receiver_8c.html#aee85f6681ecc486d7c8d1927fd862327" title="cookie_build" alt="" coords="175,107,270,133"/>
+<area shape="rect" id="node7" href="$d9/d7b/settings__lexer_8c.html#a33e91cd0cef6786e9e3a27ac67707207" title="if" alt="" coords="203,157,242,184"/>
+<area shape="rect" id="node17" href="$d9/df9/group__time__i.html#gafa0e4f2038e67e1bb455fb3730f59a1e" title="time_monotonic" alt="" coords="165,208,280,235"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#gaf513a161cbe0ba0964578ee21ca4263b" title="memeq_const" alt="" coords="371,5,475,32"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="401,56,445,83"/>
+<area shape="rect" id="node8" href="$d9/d7b/settings__lexer_8c.html#a929da0caf3950387991ecbd5e8eef08e" title="settings_parser_ensure\l_buffer_stack" alt="" coords="344,107,501,149"/>
+<area shape="rect" id="node12" href="$d9/d7b/settings__lexer_8c.html#a7ae01c54e2bcf9fd7a55137fbb2a80ed" title="settings_parser__create\l_buffer" alt="" coords="342,173,503,214"/>
+<area shape="rect" id="node15" href="$d9/d7b/settings__lexer_8c.html#a33d4f53352a864e4f156061745955b95" title="settings_parser__load\l_buffer_state" alt="" coords="960,202,1109,243"/>
+<area shape="rect" id="node9" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="558,119,703,145"/>
+<area shape="rect" id="node11" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="553,68,709,95"/>
+<area shape="rect" id="node10" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="805,96,865,123"/>
+<area shape="rect" id="node13" href="$d9/d7b/settings__lexer_8c.html#a4386e14dca16b9ec4faef188ba2d8d87" title="settings_parser__init\l_buffer" alt="" coords="559,173,702,214"/>
+<area shape="rect" id="node14" href="$d9/d7b/settings__lexer_8c.html#abb6474cb0d8cf8c06c5f0570a0bfe36d" title="settings_parser__flush\l_buffer" alt="" coords="758,147,911,189"/>
+<area shape="rect" id="node16" href="$d9/d7b/settings__lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="807,213,862,240"/>
+</map>

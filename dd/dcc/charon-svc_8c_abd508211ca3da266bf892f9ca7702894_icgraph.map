@@ -1,0 +1,8 @@
+<map id="update_status" name="update_status">
+<area shape="rect" id="node2" href="$dd/dcc/charon-svc_8c.html#adf34d40d8df8587725c4a1cbbd807141" title="console_wait" alt="" coords="157,5,256,32"/>
+<area shape="rect" id="node5" href="$dd/dcc/charon-svc_8c.html#a2a57519866b925dd058567c145b8ae45" title="init_and_run" alt="" coords="161,56,253,83"/>
+<area shape="rect" id="node7" href="$dd/dcc/charon-svc_8c.html#a132ea4cdd62910216c8ea9605a224108" title="service_wait" alt="" coords="159,107,254,133"/>
+<area shape="rect" id="node3" href="$dd/dcc/charon-svc_8c.html#abbee77e5d66102b8a8b52c080af297b0" title="console_main" alt="" coords="305,31,407,57"/>
+<area shape="rect" id="node4" href="$dd/dcc/charon-svc_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="456,56,507,83"/>
+<area shape="rect" id="node6" href="$dd/dcc/charon-svc_8c.html#a2187fa70ac95082f38e9cf770aa45af2" title="service_main" alt="" coords="307,81,405,108"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="401,5,501,32"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gaadc119e547e9a456a8c2c6271290b584" title="chunk_from_hex" alt="" coords="165,56,283,83"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="202,107,246,133"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__pts__comp__evidence.html#gaa79cff32cb16aaa43cd34d456acced8b" title="pts_comp_evidence_create" alt="" coords="133,157,315,184"/>
+<area shape="rect" id="node8" href="$d5/d8c/group__pts__comp__evidence.html#ga2f265372d8df2bf2a4f11e8f3c93f1fb" title="pts_meas_algo_to_pcr\l_transform" alt="" coords="147,209,301,250"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="421,56,481,83"/>
+<area shape="rect" id="node5" href="$d8/d39/chunk_8c.html#a0674de9b4dc86d182ca6a08b9595279f" title="hex2bin" alt="" coords="417,107,484,133"/>
+<area shape="rect" id="node9" href="$d7/dbc/group__pts__meas__algo.html#ga04d190cdc6cdc52c4515b2c146dfab41" title="pts_meas_algo_hash_size" alt="" coords="363,216,539,243"/>
+</map>

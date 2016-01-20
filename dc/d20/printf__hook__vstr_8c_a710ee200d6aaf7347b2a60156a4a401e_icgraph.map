@@ -1,0 +1,16 @@
+<map id="vstr_fmt_add_handler" name="vstr_fmt_add_handler">
+<area shape="rect" id="node2" href="$dc/d20/printf__hook__vstr_8c.html#a1e4ee85d05b5fa1d6a6f2b9d9014a196" title="create_vstr_conf" alt="" coords="201,56,319,83"/>
+<area shape="rect" id="node4" href="$dc/d20/printf__hook__vstr_8c.html#a866b1712e576dc1667cc102a5a580d16" title="METHOD" alt="" coords="555,5,635,32"/>
+<area shape="rect" id="node3" href="$dc/d20/printf__hook__vstr_8c.html#a98cef88c86ef222934a40832938ce100" title="get_vstr_conf" alt="" coords="368,56,469,83"/>
+<area shape="rect" id="node5" href="$d2/dc7/group__printf__hook__vstr.html#ga4da1510a7ef3b4bfb5ac1e07e364c4ed" title="vstr_wrapper_vfprintf" alt="" coords="523,56,667,83"/>
+<area shape="rect" id="node7" href="$d2/dc7/group__printf__hook__vstr.html#gaa464c44eb08f0593d9eac00ed09f36c1" title="vstr_wrapper_vprintf" alt="" coords="525,107,665,133"/>
+<area shape="rect" id="node9" href="$dc/d20/printf__hook__vstr_8c.html#a35f88e1bacbe287ea7624eca1239b7e4" title="vstr_wrapper_vsnprintf\l_internal" alt="" coords="517,179,672,221"/>
+<area shape="rect" id="node6" href="$d2/dc7/group__printf__hook__vstr.html#ga977f6d32a3d8aacee8b63766e3fea528" title="vstr_wrapper_fprintf" alt="" coords="729,56,866,83"/>
+<area shape="rect" id="node8" href="$d2/dc7/group__printf__hook__vstr.html#ga5198171b292985f466ca68ee44a8d76e" title="vstr_wrapper_printf" alt="" coords="731,107,864,133"/>
+<area shape="rect" id="node10" href="$d2/dc7/group__printf__hook__vstr.html#gab2f427816ea7b641fbe5edda6b67c62c" title="vstr_wrapper_vsprintf" alt="" coords="724,157,871,184"/>
+<area shape="rect" id="node12" href="$d2/dc7/group__printf__hook__vstr.html#gaa4363d0630752e84c1fc7615ba04a27d" title="vstr_wrapper_vsnprintf" alt="" coords="720,208,875,235"/>
+<area shape="rect" id="node14" href="$d2/dc7/group__printf__hook__vstr.html#ga7da25e719199199ca100f3fd6c091a73" title="vstr_wrapper_vasprintf" alt="" coords="720,259,875,285"/>
+<area shape="rect" id="node11" href="$d2/dc7/group__printf__hook__vstr.html#gac66b4e2d671622d036785a8923189364" title="vstr_wrapper_sprintf" alt="" coords="926,157,1066,184"/>
+<area shape="rect" id="node13" href="$d2/dc7/group__printf__hook__vstr.html#ga77a3b3052ac8e2354a24077a1714ab6a" title="vstr_wrapper_snprintf" alt="" coords="923,208,1069,235"/>
+<area shape="rect" id="node15" href="$d2/dc7/group__printf__hook__vstr.html#ga643877c11cd04c4b525fb75577459318" title="vstr_wrapper_asprintf" alt="" coords="923,259,1069,285"/>
+</map>

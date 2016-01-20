@@ -1,0 +1,9 @@
+<map id="kernel_wfp" name="kernel_wfp">
+<area shape="rect" id="node1" href="dir_4b7ee8f73549126318e6ec7c6166f929.html" title="kernel_wfp" alt="" coords="27,52,112,100"/>
+<area shape="rect" id="node2" href="dir_0c96bf3061e49db820f4fd61efe724b9.html" title="libstrongswan" alt="" coords="18,244,120,292"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000171_000001.html" title="10" alt="" coords="63,217,78,232"/>
+<area shape="rect" id="node3" href="dir_6f63d64429d786849a1d5a9c3466ac82.html" title="libhydra" alt="" coords="71,148,143,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000171_000143.html" title="2" alt="" coords="95,121,103,135"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000143_000001.html" title="64" alt="" coords="86,223,100,238"/>
+<area shape="rect" id="clust1" href="dir_e95fbb61b3ca66c999b17ff93fb55178.html" title="plugins" alt="" coords="16,16,123,111"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="chunk_hash_static" name="chunk_hash_static">
+<area shape="rect" id="node2" href="$de/d51/charon-systemd_8c.html#a11da5489212269b1b7c6881aaaf1672e" title="METHOD" alt="" coords="197,56,277,83"/>
+<area shape="rect" id="node3" href="$d7/d9c/dhcp__socket_8c.html#aca1b95b8578f55ed8ad19a5183803f9d" title="prepare_dhcp" alt="" coords="187,107,287,133"/>
+<area shape="rect" id="node14" href="$d8/dd2/test__chunk_8c.html#aba1df9f8ec99863fadd48a56be56dcf5" title="START_TEST" alt="" coords="184,157,291,184"/>
+<area shape="rect" id="node4" href="$d7/d9c/dhcp__socket_8c.html#abf4151ba824edec81b317bbc4ca3eec5" title="discover" alt="" coords="343,107,414,133"/>
+<area shape="rect" id="node11" href="$d7/d9c/dhcp__socket_8c.html#a5d7b039ac706205ae357f797482662c6" title="METHOD" alt="" coords="339,157,419,184"/>
+<area shape="rect" id="node12" href="$d7/d9c/dhcp__socket_8c.html#af48ca5478752e05491994395168af201" title="request" alt="" coords="346,56,411,83"/>
+<area shape="rect" id="node5" href="$d7/d9c/dhcp__socket_8c.html#a9121cb2edebb11210fc2bab1bcd05339" title="handle_offer" alt="" coords="467,107,560,133"/>
+<area shape="rect" id="node10" href="$d7/d9c/dhcp__socket_8c.html#afa44dd6e92d10083cecf3ff5718efe88" title="METHOD" alt="" coords="473,56,553,83"/>
+<area shape="rect" id="node6" href="$d7/d9c/dhcp__socket_8c.html#a1787e3b02a30bd48b0d1a953c7c3643d" title="receive_dhcp" alt="" coords="608,56,707,83"/>
+<area shape="rect" id="node7" href="$d5/dcb/group__dhcp__socket.html#ga9a7544edfbcbc54c6890592fcd674504" title="dhcp_socket_create" alt="" coords="755,56,893,83"/>
+<area shape="rect" id="node8" href="$df/da0/dhcp__plugin_8c.html#a4d463038ce5b1946f5e7f959ec9420cd" title="plugin_cb" alt="" coords="941,56,1019,83"/>
+<area shape="rect" id="node9" href="$df/da0/dhcp__plugin_8c.html#aba3f8ed40ce4bb383ee09193bc544dac" title="METHOD" alt="" coords="1067,56,1147,83"/>
+<area shape="rect" id="node13" href="$d7/d9c/dhcp__socket_8c.html#aaca9c982b6e2f9557a3a4d86b6b2306e" title="handle_ack" alt="" coords="469,5,557,32"/>
+</map>

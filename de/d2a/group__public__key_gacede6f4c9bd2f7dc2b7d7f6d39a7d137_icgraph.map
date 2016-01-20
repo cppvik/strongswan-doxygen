@@ -1,0 +1,13 @@
+<map id="signature_scheme_from_oid" name="signature_scheme_from_oid">
+<area shape="rect" id="node2" href="$dd/da3/pkcs7__signed__data_8c.html#abd5ca1bfb2bd0598beca15ea88de487e" title="generate" alt="" coords="293,5,365,32"/>
+<area shape="rect" id="node5" href="$dd/da3/pkcs7__signed__data_8c.html#ab3da21cf11d6f1542311ed08c0beca22" title="METHOD" alt="" coords="289,56,369,83"/>
+<area shape="rect" id="node6" href="$df/d92/openssl__x509_8c.html#a4ebbd75cb63ee23c7666b551978177a8" title="parse_certificate" alt="" coords="270,107,389,133"/>
+<area shape="rect" id="node9" href="$dc/d02/openssl__crl_8c.html#abff2d6070689427aa5084562ef76cdb5" title="parse_crl" alt="" coords="292,157,367,184"/>
+<area shape="rect" id="node11" href="$d4/d9a/pubkey__authenticator_8c.html#a2c2bf9a13060884441e46e129c6206cf" title="parse_signature_auth_data" alt="" coords="240,208,419,235"/>
+<area shape="rect" id="node3" href="$d9/d41/group__pkcs7__signed__data.html#ga60fa9831a4d09c66f9c8bfbaefdc1fc3" title="pkcs7_signed_data_gen" alt="" coords="467,5,629,32"/>
+<area shape="rect" id="node4" href="$da/d07/pkcs7__plugin_8c.html#a26022c3058197bb6b288cddc37aff7be" title="METHOD" alt="" coords="677,5,757,32"/>
+<area shape="rect" id="node7" href="$d2/df8/group__openssl__x509.html#gabea8771feb1a22fce04d437d2b89636e" title="openssl_x509_load" alt="" coords="481,107,615,133"/>
+<area shape="rect" id="node8" href="$d5/dea/openssl__plugin_8c.html#a6cb7014ee98f0ca392567d83fb943139" title="METHOD" alt="" coords="677,132,757,159"/>
+<area shape="rect" id="node10" href="$d0/d18/group__openssl__crl.html#ga6c46d010503ce12fbddc6d0e9d80d4da" title="openssl_crl_load" alt="" coords="489,157,607,184"/>
+<area shape="rect" id="node12" href="$d4/d9a/pubkey__authenticator_8c.html#a30f97ec99b01ef9a12f127a61efa3f88" title="METHOD" alt="" coords="508,208,588,235"/>
+</map>

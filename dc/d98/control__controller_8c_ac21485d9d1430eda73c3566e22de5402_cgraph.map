@@ -1,0 +1,6 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$dc/d98/control__controller_8c.html#aa4767cb33ab1c2f9cd62af4aa0af63f0" title="initiate" alt="" coords="142,5,202,32"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="405,81,456,108"/>
+<area shape="rect" id="node5" href="$dc/d98/control__controller_8c.html#a74238fbc0f2a6a7ae3048f4d9104c022" title="terminate" alt="" coords="134,56,210,83"/>
+<area shape="rect" id="node3" href="$dc/d98/control__controller_8c.html#ad9b995f433cbd1fa0c110fc773dabfca" title="handle_result" alt="" coords="259,56,357,83"/>
+</map>

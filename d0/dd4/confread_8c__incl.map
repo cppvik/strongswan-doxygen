@@ -1,0 +1,36 @@
+<map id="confread.c" name="confread.c">
+<area shape="rect" id="node7" href="$da/d66/string_8h.html" title="string.h" alt="" coords="2849,469,2914,496"/>
+<area shape="rect" id="node10" href="$dd/d08/library_8h.html" title="library.h" alt="" coords="1874,155,1942,181"/>
+<area shape="rect" id="node41" href="$db/d16/debug_8h.html" title="utils/debug.h" alt="" coords="372,320,468,347"/>
+<area shape="rect" id="node44" href="$d2/db7/keywords_8h.html" title="keywords.h" alt="" coords="3498,155,3587,181"/>
+<area shape="rect" id="node45" href="$dc/d19/confread_8h.html" title="confread.h" alt="" coords="3748,80,3830,107"/>
+<area shape="rect" id="node47" href="$db/d77/args_8h.html" title="args.h" alt="" coords="3532,80,3590,107"/>
+<area shape="rect" id="node48" href="$dd/d20/files_8h.html" title="files.h" alt="" coords="3666,80,3723,107"/>
+<area shape="rect" id="node49" href="$d7/d80/conf__parser_8h.html" title="parser/conf_parser.h" alt="" coords="2962,80,3102,107"/>
+<area shape="rect" id="node11" href="$dc/d6a/printf__hook_8h.html" title="utils/printf_hook/printf\l_hook.h" alt="" coords="2390,545,2536,586"/>
+<area shape="rect" id="node12" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="2219,395,2304,421"/>
+<area shape="rect" id="node23" href="$d2/d0c/host__resolver_8h.html" title="networking/host_resolver.h" alt="" coords="1296,237,1475,264"/>
+<area shape="rect" id="node24" href="$d7/d82/stream__manager_8h.html" title="networking/streams\l/stream_manager.h" alt="" coords="1499,230,1634,271"/>
+<area shape="rect" id="node25" href="$d9/d99/processor_8h.html" title="processing/processor.h" alt="" coords="1202,320,1359,347"/>
+<area shape="rect" id="node26" href="$d2/dd8/scheduler_8h.html" title="processing/scheduler.h" alt="" coords="1660,237,1815,264"/>
+<area shape="rect" id="node27" href="$dd/d33/watcher_8h.html" title="processing/watcher.h" alt="" coords="1891,237,2038,264"/>
+<area shape="rect" id="node28" href="$d4/d1b/crypto__factory_8h.html" title="crypto/crypto_factory.h" alt="" coords="2062,237,2218,264"/>
+<area shape="rect" id="node29" href="$d3/dc3/proposal__keywords_8h.html" title="crypto/proposal/proposal\l_keywords.h" alt="" coords="2242,230,2406,271"/>
+<area shape="rect" id="node30" href="$d3/db8/fetcher__manager_8h.html" title="fetcher/fetcher_manager.h" alt="" coords="2430,237,2604,264"/>
+<area shape="rect" id="node31" href="$d0/d65/resolver__manager_8h.html" title="resolver/resolver_manager.h" alt="" coords="2782,237,2968,264"/>
+<area shape="rect" id="node32" href="$d7/db6/database__factory_8h.html" title="database/database_factory.h" alt="" coords="2993,237,3183,264"/>
+<area shape="rect" id="node33" href="$d3/dc9/credential__factory_8h.html" title="credentials/credential\l_factory.h" alt="" coords="3208,230,3352,271"/>
+<area shape="rect" id="node34" href="$d1/db3/credential__manager_8h.html" title="credentials/credential\l_manager.h" alt="" coords="522,230,667,271"/>
+<area shape="rect" id="node35" href="$d6/d2f/cred__encoding_8h.html" title="credentials/cred_encoding.h" alt="" coords="692,237,876,264"/>
+<area shape="rect" id="node36" href="$dd/dd5/chunk_8h.html" title="utils/chunk.h" alt="" coords="2731,320,2827,347"/>
+<area shape="rect" id="node37" href="$d8/d14/capabilities_8h.html" title="utils/capabilities.h" alt="" coords="901,237,1027,264"/>
+<area shape="rect" id="node38" href="$df/d43/integrity__checker_8h.html" title="utils/integrity_checker.h" alt="" coords="2423,320,2582,347"/>
+<area shape="rect" id="node39" href="$de/d86/leak__detective_8h.html" title="utils/leak_detective.h" alt="" coords="1052,237,1196,264"/>
+<area shape="rect" id="node40" href="$de/db6/plugin__loader_8h.html" title="plugins/plugin_loader.h" alt="" coords="343,237,496,264"/>
+<area shape="rect" id="node43" href="$de/d60/settings_8h.html" title="settings/settings.h" alt="" coords="1993,320,2122,347"/>
+<area shape="rect" id="node20" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="2131,469,2224,496"/>
+<area shape="rect" id="node21" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="2430,469,2495,496"/>
+<area shape="rect" id="node22" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="2299,469,2406,496"/>
+<area shape="rect" id="node46" href="$d3/d46/kernel__ipsec_8h.html" title="kernel/kernel_ipsec.h" alt="" coords="3717,155,3862,181"/>
+<area shape="rect" id="node50" href="$d6/dfd/dictionary_8h.html" title="collections/dictionary.h" alt="" coords="2955,155,3108,181"/>
+</map>

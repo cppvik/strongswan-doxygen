@@ -1,0 +1,10 @@
+<map id="private_ha_cache_t" name="private_ha_cache_t">
+<area shape="rect" id="node2" href="$de/dc8/structha__socket__t.html" title="ha_socket_t" alt="" coords="136,197,229,224"/>
+<area shape="rect" id="node3" href="$d9/d99/structha__message__t.html" title="ha_message_t" alt="" coords="97,96,204,123"/>
+<area shape="rect" id="node4" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="200,5,299,32"/>
+<area shape="rect" id="node7" href="$dd/d49/structhashtable__t.html" title="hashtable_t" alt="" coords="297,147,385,173"/>
+<area shape="rect" id="node8" href="$dc/d70/structha__tunnel__t.html" title="ha_tunnel_t" alt="" coords="471,197,560,224"/>
+<area shape="rect" id="node9" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="585,197,655,224"/>
+<area shape="rect" id="node10" href="$d4/d04/structha__kernel__t.html" title="ha_kernel_t" alt="" coords="679,197,768,224"/>
+</map>

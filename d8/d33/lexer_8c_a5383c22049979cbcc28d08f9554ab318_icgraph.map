@@ -1,0 +1,20 @@
+<map id="conf_parser__load_buffer_state" name="conf_parser__load_buffer_state">
+<area shape="rect" id="node2" href="$d8/d33/lexer_8c.html#ab5f09a0d6018d9fde4d6989e1b00bad3" title="conf_parser__flush\l_buffer" alt="" coords="227,179,359,221"/>
+<area shape="rect" id="node10" href="$d8/d33/lexer_8c.html#af4e3b27b0745c16f1e3eb9b0a2cbd63a" title="conf_parser_restart" alt="" coords="877,236,1011,263"/>
+<area shape="rect" id="node12" href="$d8/d33/lexer_8c.html#a33e91cd0cef6786e9e3a27ac67707207" title="if" alt="" coords="925,175,963,201"/>
+<area shape="rect" id="node13" href="$d8/d33/lexer_8c.html#ae1dc21d0d64e10feba8c57f8ded2ad2c" title="conf_parser__switch\l_to_buffer" alt="" coords="222,345,365,386"/>
+<area shape="rect" id="node17" href="$d8/d33/lexer_8c.html#a0315cce01003460c0ea78651622f74b5" title="conf_parser_pop_buffer\l_state" alt="" coords="641,5,799,46"/>
+<area shape="rect" id="node19" href="$d8/d33/lexer_8c.html#a4e2b81f61e8132edaabdf593e5b3e786" title="conf_parser_push_buffer\l_state" alt="" coords="417,62,583,103"/>
+<area shape="rect" id="node3" href="$d8/d33/lexer_8c.html#a74c4a277c68d4f6f7db9f0bf3f8866aa" title="conf_parser__init_buffer" alt="" coords="419,187,581,213"/>
+<area shape="rect" id="node4" href="$d8/d33/lexer_8c.html#a11cff0225010dbaa02fd31b82eac3e09" title="conf_parser__create\l_buffer" alt="" coords="650,177,790,218"/>
+<area shape="rect" id="node5" href="$d4/d93/starter_2parser_2parser_8c.html#a6334bdd3f275ac754b7304f93b75d1eb" title="conf_parser_open_next_file" alt="" coords="853,113,1035,140"/>
+<area shape="rect" id="node6" href="$d8/d33/lexer_8c.html#a8fdafe3be7e00ce3d4f0cb50a9a5eb39" title="while" alt="" coords="1299,139,1351,165"/>
+<area shape="rect" id="node7" href="$d8/d33/lexer_8c.html#ad7836f9633b0d29af4652910119cda91" title="include_files" alt="" coords="1113,164,1207,191"/>
+<area shape="rect" id="node8" href="$d4/d93/starter_2parser_2parser_8c.html#abf9497431d6d137c7640f2eb5ac53464" title="conf_parser_parse_file" alt="" coords="1083,12,1237,39"/>
+<area shape="rect" id="node9" href="$d6/dea/conf__parser_8c.html#a512e3569a0766613b708f947f05eb4aa" title="METHOD" alt="" coords="1285,12,1365,39"/>
+<area shape="rect" id="node11" href="$d8/d33/lexer_8c.html#a29d30a2c7f7ce166f1198f5a1c1d7757" title="yy_get_next_buffer" alt="" coords="1093,228,1227,255"/>
+<area shape="rect" id="node14" href="$d8/d33/lexer_8c.html#a7ba9960cc581611e6fea3d4f3bf41b5f" title="conf_parser__scan_buffer" alt="" coords="414,352,586,379"/>
+<area shape="rect" id="node15" href="$d8/d33/lexer_8c.html#a17689b71e42f4a5e155a125ee0fa90de" title="conf_parser__scan_bytes" alt="" coords="635,352,805,379"/>
+<area shape="rect" id="node16" href="$d8/d33/lexer_8c.html#a673e8f89fd21a7edb219ddf1d0e7a6dc" title="conf_parser__scan_string" alt="" coords="859,352,1029,379"/>
+<area shape="rect" id="node18" href="$d4/d93/starter_2parser_2parser_8c.html#aad7dcaab857a7466553097fce36ba311" title="conf_parser_lex_destroy" alt="" coords="862,12,1026,39"/>
+</map>

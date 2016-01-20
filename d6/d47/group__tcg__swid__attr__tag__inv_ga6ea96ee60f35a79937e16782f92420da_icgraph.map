@@ -1,0 +1,6 @@
+<map id="tcg_swid_attr_tag_inv_create" name="tcg_swid_attr_tag_inv_create">
+<area shape="rect" id="node2" href="$d3/de6/imc__swid_8c.html#a9f43dc74dc35a76a413fcf4fd412f390" title="add_swid_inventory" alt="" coords="203,31,341,57"/>
+<area shape="rect" id="node3" href="$d3/de6/imc__swid_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="390,31,514,57"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="577,5,767,32"/>
+<area shape="rect" id="node5" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="563,56,781,83"/>
+</map>

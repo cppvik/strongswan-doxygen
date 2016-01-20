@@ -1,0 +1,6 @@
+<map id="signal_handler" name="signal_handler">
+<area shape="rect" id="node2" href="$da/d9b/group__windows.html#ga1af9acc6b6efdca3576cb8223d95f401" title="asprintf" alt="" coords="206,5,271,32"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="217,56,261,83"/>
+<area shape="rect" id="node4" href="$df/d81/invokecharon_8c.html#abea949e300930d4f34cca5705200ef49" title="starter_charon_pid" alt="" coords="174,107,303,133"/>
+<area shape="rect" id="node5" href="$df/d81/invokecharon_8c.html#a6a0bec0d8500af0d244a066d4b165b2e" title="starter_charon_sigchild" alt="" coords="161,157,317,184"/>
+</map>

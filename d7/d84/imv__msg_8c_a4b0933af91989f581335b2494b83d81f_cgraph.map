@@ -1,0 +1,11 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$da/d9e/mode__config_8c.html#a0f6b13639d25b3de1966b5a4c5f6bb90" title="add_attribute" alt="" coords="170,12,267,39"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="169,63,269,89"/>
+<area shape="rect" id="node6" href="$df/dfc/group__ietf__attr__assess__resultt.html#gad7cfb9bc3353f1b8a913fa75f93f4d90" title="ietf_attr_assess_result\l_create" alt="" coords="141,114,296,155"/>
+<area shape="rect" id="node7" href="$d6/d51/group__ietf__attr__remediation__instrt.html#ga68a35c2955da2968d6205cb0742b3544" title="ietf_attr_remediation\l_instr_create_from_string" alt="" coords="134,179,303,221"/>
+<area shape="rect" id="node10" href="$d6/d51/group__ietf__attr__remediation__instrt.html#gab767a853bbd27d76c7d3433cf15705fd" title="ietf_attr_remediation\l_instr_create_from_uri" alt="" coords="143,245,294,286"/>
+<area shape="rect" id="node3" href="$d9/deb/group__configuration__attribute.html#ga798de12d4d07bb9ea37583a5316ba4e9" title="configuration_attribute\l_create_chunk" alt="" coords="353,5,503,46"/>
+<area shape="rect" id="node4" href="$d9/deb/group__configuration__attribute.html#ga4751fb80cd7a70cab7bb88cbaef9131c" title="configuration_attribute\l_create" alt="" coords="553,5,703,46"/>
+<area shape="rect" id="node8" href="$dd/d3c/group__bio__writer.html#gac7993ee5c686c5e28413eef0a03e1e89" title="bio_writer_create" alt="" coords="367,187,489,213"/>
+<area shape="rect" id="node9" href="$d6/d51/group__ietf__attr__remediation__instrt.html#ga087cd795376e5850e21cfedcfc4875b7" title="ietf_attr_remediation\l_instr_create" alt="" coords="358,241,498,282"/>
+</map>

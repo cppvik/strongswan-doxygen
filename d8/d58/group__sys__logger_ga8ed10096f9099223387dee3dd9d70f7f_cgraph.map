@@ -1,0 +1,4 @@
+<map id="sys_logger_create" name="sys_logger_create">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gacbf89470b1f7a4a0d621faeeb8b485c5" title="mutex_create" alt="" coords="183,5,284,32"/>
+<area shape="rect" id="node3" href="$db/ded/group__rwlock.html#ga3646a4244d6c3368a3fbb03354974838" title="rwlock_create" alt="" coords="182,56,285,83"/>
+</map>

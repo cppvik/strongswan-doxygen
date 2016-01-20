@@ -1,0 +1,5 @@
+<map id="builtin_vasprintf" name="builtin_vasprintf">
+<area shape="rect" id="node2" href="$d1/dc8/group__printf__hook__builtin.html#gad5fb3c98ab0e9f5aa922c7b3c0f974fb" title="builtin_vsnprintf" alt="" coords="169,31,282,57"/>
+<area shape="rect" id="node3" href="$d0/dfb/printf__hook__builtin_8c.html#a79967ff4c081f98ab339deb2b247e78b" title="format_int" alt="" coords="343,5,423,32"/>
+<area shape="rect" id="node4" href="$d0/dfb/printf__hook__builtin_8c.html#a26a18529936c3e9f811409b68485cc6e" title="format_double" alt="" coords="331,56,435,83"/>
+</map>

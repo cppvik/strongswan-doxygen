@@ -1,0 +1,7 @@
+<map id="padlock" name="padlock">
+<area shape="rect" id="node1" href="$de/dbd/group__padlock__rng.html" title="padlock_rng" alt="" coords="261,5,353,32"/>
+<area shape="rect" id="node2" href="$dd/d20/group__padlock__aes__crypter.html" title="padlock_aes_crypter" alt="" coords="235,56,378,83"/>
+<area shape="rect" id="node3" href="$d0/d18/group__padlock__sha1__hasher.html" title="padlock_sha1_hasher" alt="" coords="233,107,381,133"/>
+<area shape="rect" id="node4" href="$d0/de7/group__padlock__plugin.html" title="padlock_plugin" alt="" coords="253,157,361,184"/>
+<area shape="rect" id="node6" href="$d1/d29/group__plugins.html" title="plugins" alt="" coords="6,81,69,108"/>
+</map>

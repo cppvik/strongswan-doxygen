@@ -1,0 +1,11 @@
+<map id="pgp_plugin_create" name="pgp_plugin_create">
+<area shape="rect" id="node2" href="$de/d97/group__pgp__encoder.html#ga4257dfd024f30a27f48d4ae77600a8a2" title="pgp_encoder_encode" alt="" coords="182,31,327,57"/>
+<area shape="rect" id="node3" href="$d7/d29/pgp__encoder_8c.html#a211d80f7239cce9e227ee080947c552b" title="build_v3_fingerprint" alt="" coords="377,31,511,57"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="585,5,673,32"/>
+<area shape="rect" id="node5" href="$d4/d66/group__cred__encoding.html#ga0293cf1082e7400772f96f5ac6c21285" title="cred_encoding_args" alt="" coords="560,56,699,83"/>
+<area shape="rect" id="node6" href="$d8/d11/cowfs_8c.html#a5b0505fc0548c5d6cf20d2488e284c14" title="copy" alt="" coords="747,56,797,83"/>
+<area shape="rect" id="node7" href="$d8/d11/cowfs_8c.html#a6bc193d06d35104f58eca4b16dd22a90" title="clone_path" alt="" coords="845,5,931,32"/>
+<area shape="rect" id="node8" href="$d8/d11/cowfs_8c.html#af229e42f46d714577ab5f90bb28b0004" title="get_rd" alt="" coords="859,56,917,83"/>
+<area shape="rect" id="node10" href="$d8/d11/cowfs_8c.html#ac5b3444ea5c41d728ba6cc339e882d35" title="get_wr" alt="" coords="857,107,919,133"/>
+<area shape="rect" id="node9" href="$d8/d11/cowfs_8c.html#a0495882a58d90abec4b4901207bd17b7" title="get_this" alt="" coords="979,81,1047,108"/>
+</map>

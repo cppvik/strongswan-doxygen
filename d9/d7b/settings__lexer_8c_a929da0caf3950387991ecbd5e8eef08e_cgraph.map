@@ -1,0 +1,5 @@
+<map id="settings_parser_ensure_buffer_stack" name="settings_parser_ensure_buffer_stack">
+<area shape="rect" id="node2" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="217,5,362,32"/>
+<area shape="rect" id="node4" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="211,56,367,83"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="417,5,477,32"/>
+</map>

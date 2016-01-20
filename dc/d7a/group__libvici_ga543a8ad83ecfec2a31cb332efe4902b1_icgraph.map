@@ -1,0 +1,30 @@
+<map id="vici_add_key_value" name="vici_add_key_value">
+<area shape="rect" id="node2" href="$d6/d79/load__authorities_8c.html#aa0db9b3ed6f174739c6e4809cb941545" title="add_file_key_value" alt="" coords="189,128,323,155"/>
+<area shape="rect" id="node15" href="$d6/de4/test__request_8c.html#ac2da257849078073872c16163eb62b25" title="encode_section" alt="" coords="199,204,313,231"/>
+<area shape="rect" id="node17" href="$db/d5d/load__creds_8c.html#ac9bda4162b815e5a18ea735acb7c44dc" title="load_cert" alt="" coords="397,255,472,281"/>
+<area shape="rect" id="node25" href="$db/d5d/load__creds_8c.html#a603b7ae6f50fe31c02cea986b72541dd" title="load_key" alt="" coords="219,305,293,332"/>
+<area shape="rect" id="node29" href="$db/d5d/load__creds_8c.html#aa5c257a0cfe4fc87931caaf8939df70f" title="load_secret" alt="" coords="211,381,301,408"/>
+<area shape="rect" id="node3" href="$d6/d79/load__authorities_8c.html#ad598c59ef1ae559d2abd870808a146a0" title="add_key_values" alt="" coords="377,116,493,143"/>
+<area shape="rect" id="node4" href="$d6/d79/load__authorities_8c.html#acdef5292456bb1ea3c3796e765994e6f" title="load_authority" alt="" coords="565,109,667,136"/>
+<area shape="rect" id="node5" href="$dd/d5a/load__authorities_8h.html#a26c16b66a3dc71685c4011633984c484" title="load_authorities_cfg" alt="" coords="749,109,888,136"/>
+<area shape="rect" id="node10" href="$d4/def/vici__authority_8c.html#a6c46969ca476cf42d9a489c13daf995b" title="manage_commands" alt="" coords="749,56,888,83"/>
+<area shape="rect" id="node6" href="$d2/d26/load__all_8c.html#a1604e07dc05a333c8e6940f98edc67e4" title="load_all" alt="" coords="1313,183,1380,209"/>
+<area shape="rect" id="node8" href="$d6/d79/load__authorities_8c.html#a16dd6706ea94680cad6a8c58e4931f7a" title="load_authorities" alt="" coords="967,107,1081,133"/>
+<area shape="rect" id="node7" href="$d2/d26/load__all_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="1438,183,1535,209"/>
+<area shape="rect" id="node9" href="$d6/d79/load__authorities_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="1151,107,1249,133"/>
+<area shape="rect" id="node11" href="$d4/def/vici__authority_8c.html#ac9756fe28c485f630d34491d8ccee7fd" title="METHOD" alt="" coords="984,56,1064,83"/>
+<area shape="rect" id="node12" href="$de/d3b/group__vici__authority.html#ga492900251ad3011c0312a3878ec304a4" title="vici_authority_create" alt="" coords="953,5,1095,32"/>
+<area shape="rect" id="node13" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="1154,5,1246,32"/>
+<area shape="rect" id="node14" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="1307,5,1387,32"/>
+<area shape="rect" id="node16" href="$d6/de4/test__request_8c.html#a5fd23d08b67066d7ee805df5a867fab0" title="START_TEST" alt="" coords="381,204,488,231"/>
+<area shape="rect" id="node18" href="$db/d5d/load__creds_8c.html#a97f3c86385df52c3da55373d65caa504" title="load_certs" alt="" coords="575,204,657,231"/>
+<area shape="rect" id="node22" href="$db/d5d/load__creds_8c.html#aad20f4753562372fcf57eefe07086a32" title="load_pkcs12" alt="" coords="569,255,663,281"/>
+<area shape="rect" id="node19" href="$dd/d85/load__creds_8h.html#aa94d3df77f3176923f8ec8361f499c22" title="load_creds_cfg" alt="" coords="1145,259,1255,285"/>
+<area shape="rect" id="node20" href="$db/d5d/load__creds_8c.html#a8a9c6ce353ed7f32f4ebf42ee47b6db7" title="load_creds" alt="" coords="1304,259,1389,285"/>
+<area shape="rect" id="node21" href="$db/d5d/load__creds_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="1438,259,1535,285"/>
+<area shape="rect" id="node23" href="$db/d5d/load__creds_8c.html#a9a9929bf5e89ec07ca618fadc671c69a" title="load_encrypted_container" alt="" coords="733,259,904,285"/>
+<area shape="rect" id="node24" href="$db/d5d/load__creds_8c.html#aa8bb512209a10ecda50ad02f98e14676" title="load_containers" alt="" coords="967,259,1081,285"/>
+<area shape="rect" id="node26" href="$db/d5d/load__creds_8c.html#a9b0c921a55fa65ccb5ab72a648e28b16" title="load_key_anytype" alt="" coords="371,305,498,332"/>
+<area shape="rect" id="node28" href="$db/d5d/load__creds_8c.html#a5299951ad7d215341b9b1216dbb82fbf" title="load_keys" alt="" coords="778,309,859,336"/>
+<area shape="rect" id="node27" href="$db/d5d/load__creds_8c.html#ac6294ae6dda10054629994f04a2089bd" title="load_encrypted_key" alt="" coords="547,305,685,332"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="settings_kv_add" name="settings_kv_add">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#a4bbdf48d6d709172d74fb33f4ce3ece1" title="add_setting" alt="" coords="207,5,297,32"/>
+<area shape="rect" id="node4" href="$d3/d6a/settings_8c.html#a926f487adf1adcdb88bac2d83bf24256" title="find_value_buffered" alt="" coords="726,157,861,184"/>
+<area shape="rect" id="node9" href="$d4/d9d/group__settings__types.html#gaafbd0032beb7965ac43759271c442070" title="settings_section_extend" alt="" coords="171,56,333,83"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a36f4ac5b11f5d30cd26b5f3d1e4cdadc" title="yyparse" alt="" coords="962,5,1030,32"/>
+<area shape="rect" id="node5" href="$d3/d6a/settings_8c.html#aaecad16983c68299d4fb4cbe01652073" title="find_value" alt="" coords="955,208,1037,235"/>
+<area shape="rect" id="node7" href="$d3/d6a/settings_8c.html#ad5a4f4780ae52591100608f9156cc646" title="set_value" alt="" coords="957,157,1035,184"/>
+<area shape="rect" id="node6" href="$d3/d6a/settings_8c.html#afca924ff620e92c9d359a9257adab70e" title="METHOD" alt="" coords="1125,208,1205,235"/>
+<area shape="rect" id="node8" href="$d3/d6a/settings_8c.html#a461d0dc55fff9769a0a92a6893f039d7" title="METHOD" alt="" coords="1125,157,1205,184"/>
+<area shape="rect" id="node10" href="$d3/d6a/settings_8c.html#aa948d357c53715b200263977574d1244" title="load_internal" alt="" coords="382,107,477,133"/>
+<area shape="rect" id="node12" href="$d5/d08/settings__types_8c.html#a4c7fbd820478c8ccd4f288b47dd9b35a" title="add_section" alt="" coords="383,56,475,83"/>
+<area shape="rect" id="node11" href="$d3/d6a/settings_8c.html#a9e187d059223d386f6258d3870f3cebd" title="METHOD" alt="" coords="559,107,639,133"/>
+<area shape="rect" id="node13" href="$d4/d9d/group__settings__types.html#gad9743c761f0ce6a1bc4da4ce1a7cd03d" title="settings_section_add" alt="" coords="526,56,671,83"/>
+<area shape="rect" id="node14" href="$d3/d6a/settings_8c.html#afa8073d4dd6e47b3cd35ceb7e2b60185" title="find_section_buffered" alt="" coords="720,107,867,133"/>
+<area shape="rect" id="node18" href="$da/dfc/settings__parser_8c.html#a2399640719197394fd7f06465e538857" title="add_section" alt="" coords="747,56,839,83"/>
+<area shape="rect" id="node15" href="$d3/d6a/settings_8c.html#a4c945b3b7f3dce3ce3582953c90a0666" title="add_fallback_to_section" alt="" coords="915,107,1077,133"/>
+<area shape="rect" id="node17" href="$d3/d6a/settings_8c.html#abe0b110cd85e763416ffd9f0fc06901e" title="ensure_section" alt="" coords="941,56,1051,83"/>
+<area shape="rect" id="node16" href="$d3/d6a/settings_8c.html#a775e1834574961647f07db9301e52763" title="METHOD" alt="" coords="1125,81,1205,108"/>
+</map>

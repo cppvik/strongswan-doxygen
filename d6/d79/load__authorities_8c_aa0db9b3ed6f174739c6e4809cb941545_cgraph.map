@@ -1,0 +1,12 @@
+<map id="add_file_key_value" name="add_file_key_value">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gacf27867de490f5002ea59616f97e4bfb" title="chunk_map" alt="" coords="210,107,299,133"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#ga23adb71a767a9ab767166ee2a8362860" title="chunk_unmap" alt="" coords="374,5,477,32"/>
+<area shape="rect" id="node8" href="$d9/d7a/group__path__i.html#gad6c03cef10cc0eae27b8003b715bb789" title="path_absolute" alt="" coords="203,233,306,260"/>
+<area shape="rect" id="node11" href="$dc/d7a/group__libvici.html#ga543a8ad83ecfec2a31cb332efe4902b1" title="vici_add_key_value" alt="" coords="187,183,323,209"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="557,56,601,83"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="529,157,629,184"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="371,107,479,133"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="549,107,609,133"/>
+<area shape="rect" id="node9" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="398,259,453,285"/>
+<area shape="rect" id="node10" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="549,259,608,285"/>
+</map>

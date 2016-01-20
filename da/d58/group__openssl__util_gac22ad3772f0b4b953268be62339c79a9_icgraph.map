@@ -1,0 +1,10 @@
+<map id="openssl_asn1_obj2chunk" name="openssl_asn1_obj2chunk">
+<area shape="rect" id="node2" href="$da/d58/group__openssl__util.html#ga39b64dc0fa8614f65464fee6477058be" title="openssl_asn1_known_oid" alt="" coords="221,88,392,114"/>
+<area shape="rect" id="node5" href="$df/d92/openssl__x509_8c.html#a4ebbd75cb63ee23c7666b551978177a8" title="parse_certificate" alt="" coords="865,62,983,89"/>
+<area shape="rect" id="node8" href="$dc/d02/openssl__crl_8c.html#abff2d6070689427aa5084562ef76cdb5" title="parse_crl" alt="" coords="504,138,579,165"/>
+<area shape="rect" id="node3" href="$df/d92/openssl__x509_8c.html#a06cffb234a6e0808e3fcdb9a5e0dd339" title="parse_authorityInfoAccess_ext" alt="" coords="440,37,643,64"/>
+<area shape="rect" id="node4" href="$df/d92/openssl__x509_8c.html#a3d1d0a001d114348387b7fa47e782745" title="parse_extensions" alt="" coords="691,37,815,64"/>
+<area shape="rect" id="node6" href="$d2/df8/group__openssl__x509.html#gabea8771feb1a22fce04d437d2b89636e" title="openssl_x509_load" alt="" coords="1032,62,1165,89"/>
+<area shape="rect" id="node7" href="$d5/dea/openssl__plugin_8c.html#a6cb7014ee98f0ca392567d83fb943139" title="METHOD" alt="" coords="1213,88,1293,114"/>
+<area shape="rect" id="node9" href="$d0/d18/group__openssl__crl.html#ga6c46d010503ce12fbddc6d0e9d80d4da" title="openssl_crl_load" alt="" coords="865,113,983,140"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="get_logger_entry" name="get_logger_entry">
+<area shape="rect" id="node2" href="$d4/d9c/group__file__logger.html#gae11e358236c2d283c46258432f644374" title="file_logger_create" alt="" coords="179,5,303,32"/>
+<area shape="rect" id="node5" href="$dc/d21/daemon_8c.html#ac9887f6d45f6501328923f3740ff4708" title="get_syslog_facility" alt="" coords="176,107,307,133"/>
+<area shape="rect" id="node7" href="$dc/d21/daemon_8c.html#a1859a60dd99be35be14aebd33f5aff66" title="logger_entry_match" alt="" coords="173,157,309,184"/>
+<area shape="rect" id="node8" href="$d8/d58/group__sys__logger.html#ga8ed10096f9099223387dee3dd9d70f7f" title="sys_logger_create" alt="" coords="177,56,305,83"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gacbf89470b1f7a4a0d621faeeb8b485c5" title="mutex_create" alt="" coords="359,56,460,83"/>
+<area shape="rect" id="node4" href="$db/ded/group__rwlock.html#ga3646a4244d6c3368a3fbb03354974838" title="rwlock_create" alt="" coords="358,5,461,32"/>
+<area shape="rect" id="node6" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="384,132,435,159"/>
+</map>

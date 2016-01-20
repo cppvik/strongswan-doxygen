@@ -1,0 +1,19 @@
+<map id="mgf1_bitspender_create" name="mgf1_bitspender_create">
+<area shape="rect" id="node2" href="$d4/d56/group__bliss__sampler.html#ga236997e728bbf14fd428176e07b1ef3a" title="bliss_sampler_create" alt="" coords="237,56,382,83"/>
+<area shape="rect" id="node6" href="$dc/d77/group__bliss__utils.html#gab8cb1ca1fbcfe60c8a265480ecb3981b" title="bliss_utils_generate_c" alt="" coords="234,107,385,133"/>
+<area shape="rect" id="node9" href="$df/d6a/bliss__private__key_8c.html#a897ee254c4e8e165d694b8ea3c7d39e7" title="create_vector_from_seed" alt="" coords="225,157,394,184"/>
+<area shape="rect" id="node13" href="$da/d95/group__ntru__poly.html#gafde02c0429516026e999771360dca38f" title="ntru_poly_create_from_seed" alt="" coords="216,208,403,235"/>
+<area shape="rect" id="node17" href="$d8/d13/group__ntru__trits.html#ga8aea89affcdead2c681f452ca249c14a" title="ntru_trits_create" alt="" coords="251,259,367,285"/>
+<area shape="rect" id="node18" href="$d7/d04/test__mgf1_8c.html#ab70545a39d1a487b8e6f5062b5ca8751" title="START_TEST" alt="" coords="256,309,363,336"/>
+<area shape="rect" id="node3" href="$df/d6a/bliss__private__key_8c.html#a52e7b9c7811e98c43de8b59db6a0ace7" title="sign_bliss" alt="" coords="492,56,572,83"/>
+<area shape="rect" id="node5" href="$d3/de3/test__bliss__sampler_8c.html#ab9f0c18ff8be21f444d3dbb4161f15d5" title="START_TEST" alt="" coords="479,5,585,32"/>
+<area shape="rect" id="node4" href="$df/d6a/bliss__private__key_8c.html#adfdd187b2c41e043115232aa3853913b" title="METHOD" alt="" coords="697,56,777,83"/>
+<area shape="rect" id="node7" href="$d4/df7/bliss__public__key_8c.html#a7ff773c129de176e630bc2c95799a266" title="verify_bliss" alt="" coords="488,107,576,133"/>
+<area shape="rect" id="node8" href="$d4/df7/bliss__public__key_8c.html#a1b067ce4202e8726223d5ffb997809f2" title="METHOD" alt="" coords="697,107,777,133"/>
+<area shape="rect" id="node10" href="$df/d6a/bliss__private__key_8c.html#a0775d045dc73030738bca2cc81b175bd" title="create_secret" alt="" coords="481,157,583,184"/>
+<area shape="rect" id="node11" href="$db/d74/group__bliss__private__key.html#ga9824d75b75befd39dafc31674573d643" title="bliss_private_key_gen" alt="" coords="662,157,813,184"/>
+<area shape="rect" id="node12" href="$d9/def/bliss__plugin_8c.html#a6e7caee2f2d5ad8c1b363e2175e6bdcb" title="METHOD" alt="" coords="861,157,941,184"/>
+<area shape="rect" id="node14" href="$d3/dde/ntru__private__key_8c.html#ad0f4709bd63a8239f3a0f6f12810af3b" title="METHOD" alt="" coords="492,208,572,235"/>
+<area shape="rect" id="node15" href="$df/d9d/group__ntru__private__key.html#ga9a22013743912c47ee51ff4fd0efac42" title="ntru_private_key_create" alt="" coords="451,259,613,285"/>
+<area shape="rect" id="node16" href="$d1/d99/test__ntru_8c.html#a1ac4acb26b68a66dad3ba9a2137bc947" title="START_TEST" alt="" coords="479,309,585,336"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="load_conn" name="load_conn">
+<area shape="rect" id="node2" href="$dc/d19/confread_8h.html#a4ca8fdff466f4e6c6b9ef4140c3d5a93" title="confread_load" alt="" coords="154,5,257,32"/>
+<area shape="rect" id="node4" href="$da/de3/vici__config_8c.html#a466ad41f3b7e4c86bf8b5909131f3f99" title="manage_commands" alt="" coords="136,56,275,83"/>
+<area shape="rect" id="node3" href="$db/dd6/starter_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="361,5,412,32"/>
+<area shape="rect" id="node5" href="$da/de3/vici__config_8c.html#a749e3bc93bd23c80bb0baf33bca444c1" title="METHOD" alt="" coords="347,56,427,83"/>
+<area shape="rect" id="node6" href="$d1/d9c/group__vici__config.html#gaccd56c0526fffe0f0edc99483b8033c8" title="vici_config_create" alt="" coords="323,107,450,133"/>
+<area shape="rect" id="node7" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="499,107,591,133"/>
+<area shape="rect" id="node8" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="640,107,720,133"/>
+</map>

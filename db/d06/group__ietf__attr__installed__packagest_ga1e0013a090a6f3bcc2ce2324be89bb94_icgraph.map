@@ -1,0 +1,6 @@
+<map id="ietf_attr_installed_packages_create" name="ietf_attr_installed_packages_create">
+<area shape="rect" id="node2" href="$da/d3e/imc__os_8c.html#ac48cfd90c397be41ffad9f6fff3b3568" title="add_installed_packages" alt="" coords="182,31,343,57"/>
+<area shape="rect" id="node3" href="$da/d3e/imc__os_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="393,31,517,57"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="579,5,770,32"/>
+<area shape="rect" id="node5" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="565,56,784,83"/>
+</map>

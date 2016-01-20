@@ -1,0 +1,35 @@
+<map id="pb_tnc_msg.h" name="pb_tnc_msg.h">
+<area shape="rect" id="node2" href="$d6/d3e/pb__tnc__batch_8h.html" title="pb_tnc_batch.h" alt="" coords="411,80,521,107"/>
+<area shape="rect" id="node6" href="$dd/d7d/tnccs__20__client_8c.html" title="tnccs_20_client.c" alt="" coords="1066,328,1189,355"/>
+<area shape="rect" id="node7" href="$d0/d65/tnccs__20__server_8c.html" title="tnccs_20_server.c" alt="" coords="1214,328,1343,355"/>
+<area shape="rect" id="node8" href="$d3/dd5/tnccs__20__handler_8h.html" title="tnccs_20_handler.h" alt="" coords="267,155,401,181"/>
+<area shape="rect" id="node9" href="$d4/d80/tnccs__20_8c.html" title="tnccs_20.c" alt="" coords="5,328,91,355"/>
+<area shape="rect" id="node12" href="$d9/d67/pb__access__recommendation__msg_8h.html" title="pb_access_recommendation\l_msg.h" alt="" coords="1329,230,1516,271"/>
+<area shape="rect" id="node14" href="$d1/da6/pb__tnc__msg_8c.html" title="pb_tnc_msg.c" alt="" coords="1956,328,2060,355"/>
+<area shape="rect" id="node15" href="$db/df2/pb__assessment__result__msg_8h.html" title="pb_assessment_result\l_msg.h" alt="" coords="1099,230,1252,271"/>
+<area shape="rect" id="node17" href="$d6/de9/pb__error__msg_8h.html" title="pb_error_msg.h" alt="" coords="787,237,897,264"/>
+<area shape="rect" id="node19" href="$d2/d64/pb__experimental__msg_8h.html" title="pb_experimental_msg.h" alt="" coords="2521,237,2680,264"/>
+<area shape="rect" id="node21" href="$d6/d58/pb__language__preference__msg_8h.html" title="pb_language_preference\l_msg.h" alt="" coords="1541,230,1704,271"/>
+<area shape="rect" id="node23" href="$d5/d1e/pb__pa__msg_8h.html" title="pb_pa_msg.h" alt="" coords="611,237,711,264"/>
+<area shape="rect" id="node25" href="$db/d00/pb__reason__string__msg_8h.html" title="pb_reason_string_msg.h" alt="" coords="1729,237,1892,264"/>
+<area shape="rect" id="node27" href="$d5/d6f/pb__remediation__parameters__msg_8h.html" title="pb_remediation_parameters\l_msg.h" alt="" coords="1917,230,2099,271"/>
+<area shape="rect" id="node29" href="$de/d57/pb__mutual__capability__msg_8h.html" title="pb_mutual_capability\l_msg.h" alt="" coords="2124,230,2268,271"/>
+<area shape="rect" id="node31" href="$d4/d30/pb__noskip__test__msg_8h.html" title="pb_noskip_test_msg.h" alt="" coords="922,237,1075,264"/>
+<area shape="rect" id="node33" href="$dc/d35/pb__pdp__referral__msg_8h.html" title="pb_pdp_referral_msg.h" alt="" coords="2292,237,2445,264"/>
+<area shape="rect" id="node3" href="$d9/d29/pb__tnc__batch_8c.html" title="pb_tnc_batch.c" alt="" coords="318,328,428,355"/>
+<area shape="rect" id="node4" href="$dc/db0/pb__tnc__state__machine_8h.html" title="pb_tnc_state_machine.h" alt="" coords="423,237,587,264"/>
+<area shape="rect" id="node5" href="$de/dd6/pb__tnc__state__machine_8c.html" title="pb_tnc_state_machine.c" alt="" coords="130,328,293,355"/>
+<area shape="rect" id="node10" href="$d7/dba/tnccs__20__server_8h.html" title="tnccs_20_server.h" alt="" coords="270,237,399,264"/>
+<area shape="rect" id="node11" href="$d5/ddc/tnccs__20__client_8h.html" title="tnccs_20_client.h" alt="" coords="122,237,245,264"/>
+<area shape="rect" id="node13" href="$d5/d42/pb__access__recommendation__msg_8c.html" title="pb_access_recommendation\l_msg.c" alt="" coords="1367,321,1555,362"/>
+<area shape="rect" id="node16" href="$db/d42/pb__assessment__result__msg_8c.html" title="pb_assessment_result\l_msg.c" alt="" coords="889,321,1041,362"/>
+<area shape="rect" id="node18" href="$da/d0c/pb__error__msg_8c.html" title="pb_error_msg.c" alt="" coords="576,328,687,355"/>
+<area shape="rect" id="node20" href="$d3/d5a/pb__experimental__msg_8c.html" title="pb_experimental_msg.c" alt="" coords="2639,328,2797,355"/>
+<area shape="rect" id="node22" href="$d5/d4d/pb__language__preference__msg_8c.html" title="pb_language_preference\l_msg.c" alt="" coords="1580,321,1743,362"/>
+<area shape="rect" id="node24" href="$dc/d83/pb__pa__msg_8c.html" title="pb_pa_msg.c" alt="" coords="453,328,552,355"/>
+<area shape="rect" id="node26" href="$d8/dfb/pb__reason__string__msg_8c.html" title="pb_reason_string_msg.c" alt="" coords="1767,328,1931,355"/>
+<area shape="rect" id="node28" href="$de/d14/pb__remediation__parameters__msg_8c.html" title="pb_remediation_parameters\l_msg.c" alt="" coords="2085,321,2267,362"/>
+<area shape="rect" id="node30" href="$da/d60/pb__mutual__capability__msg_8c.html" title="pb_mutual_capability\l_msg.c" alt="" coords="2292,321,2436,362"/>
+<area shape="rect" id="node32" href="$d9/d76/pb__noskip__test__msg_8c.html" title="pb_noskip_test_msg.c" alt="" coords="711,328,864,355"/>
+<area shape="rect" id="node34" href="$d8/d6b/pb__pdp__referral__msg_8c.html" title="pb_pdp_referral_msg.c" alt="" coords="2460,328,2613,355"/>
+</map>

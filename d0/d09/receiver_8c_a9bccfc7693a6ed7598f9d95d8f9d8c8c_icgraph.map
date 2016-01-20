@@ -1,0 +1,5 @@
+<map id="receive_packets" name="receive_packets">
+<area shape="rect" id="node2" href="$dc/d58/group__receiver.html#ga88db4d8a5ab4b6eff4136669e6a0a4c3" title="receiver_create" alt="" coords="171,5,282,32"/>
+<area shape="rect" id="node3" href="$dc/d21/daemon_8c.html#a9855945718e95854c7188893dba56359" title="sender_receiver_cb" alt="" coords="331,5,466,32"/>
+<area shape="rect" id="node4" href="$dc/d21/daemon_8c.html#aa753a05efc444c05cc5028b3a9a29a86" title="METHOD" alt="" coords="515,5,595,32"/>
+</map>

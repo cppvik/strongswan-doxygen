@@ -1,0 +1,17 @@
+<map id="conf_parser_realloc" name="conf_parser_realloc">
+<area shape="rect" id="node2" href="$d8/d33/lexer_8c.html#a4ca0185431ab494c7fdd119459f18af4" title="conf_parser_ensure\l_buffer_stack" alt="" coords="189,123,325,165"/>
+<area shape="rect" id="node14" href="$d8/d33/lexer_8c.html#a29d30a2c7f7ce166f1198f5a1c1d7757" title="yy_get_next_buffer" alt="" coords="611,237,744,264"/>
+<area shape="rect" id="node16" href="$d8/d33/lexer_8c.html#a08a0ad3cc279c5b2684044df8da9fe9c" title="yy_push_state" alt="" coords="204,291,311,317"/>
+<area shape="rect" id="node3" href="$d8/d33/lexer_8c.html#ae1dc21d0d64e10feba8c57f8ded2ad2c" title="conf_parser__switch\l_to_buffer" alt="" coords="385,6,527,47"/>
+<area shape="rect" id="node7" href="$d8/d33/lexer_8c.html#a4e2b81f61e8132edaabdf593e5b3e786" title="conf_parser_push_buffer\l_state" alt="" coords="373,123,539,165"/>
+<area shape="rect" id="node13" href="$d8/d33/lexer_8c.html#af4e3b27b0745c16f1e3eb9b0a2cbd63a" title="conf_parser_restart" alt="" coords="389,189,523,216"/>
+<area shape="rect" id="node15" href="$d8/d33/lexer_8c.html#a33e91cd0cef6786e9e3a27ac67707207" title="if" alt="" coords="437,72,475,99"/>
+<area shape="rect" id="node4" href="$d8/d33/lexer_8c.html#a7ba9960cc581611e6fea3d4f3bf41b5f" title="conf_parser__scan_buffer" alt="" coords="591,13,763,40"/>
+<area shape="rect" id="node5" href="$d8/d33/lexer_8c.html#a17689b71e42f4a5e155a125ee0fa90de" title="conf_parser__scan_bytes" alt="" coords="816,13,987,40"/>
+<area shape="rect" id="node6" href="$d8/d33/lexer_8c.html#a673e8f89fd21a7edb219ddf1d0e7a6dc" title="conf_parser__scan_string" alt="" coords="1035,13,1205,40"/>
+<area shape="rect" id="node8" href="$d4/d93/starter_2parser_2parser_8c.html#a6334bdd3f275ac754b7304f93b75d1eb" title="conf_parser_open_next_file" alt="" coords="587,135,768,161"/>
+<area shape="rect" id="node9" href="$d8/d33/lexer_8c.html#a8fdafe3be7e00ce3d4f0cb50a9a5eb39" title="while" alt="" coords="1094,212,1146,239"/>
+<area shape="rect" id="node10" href="$d8/d33/lexer_8c.html#ad7836f9633b0d29af4652910119cda91" title="include_files" alt="" coords="854,187,949,213"/>
+<area shape="rect" id="node11" href="$d4/d93/starter_2parser_2parser_8c.html#abf9497431d6d137c7640f2eb5ac53464" title="conf_parser_parse_file" alt="" coords="825,85,978,112"/>
+<area shape="rect" id="node12" href="$d6/dea/conf__parser_8c.html#a512e3569a0766613b708f947f05eb4aa" title="METHOD" alt="" coords="1080,85,1160,112"/>
+</map>

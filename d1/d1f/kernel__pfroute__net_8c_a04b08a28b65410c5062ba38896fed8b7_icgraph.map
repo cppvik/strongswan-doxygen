@@ -1,0 +1,11 @@
+<map id="manage_route" name="manage_route">
+<area shape="rect" id="node2" href="$d1/d1f/kernel__pfroute__net_8c.html#aad7446980f74800b324ad7882cb0ec05" title="METHOD" alt="" coords="173,5,253,32"/>
+<area shape="rect" id="node3" href="$d1/d1f/kernel__pfroute__net_8c.html#ade475b1afa2ee033efd480f128409c9a" title="reinstall_routes" alt="" coords="158,56,269,83"/>
+<area shape="rect" id="node4" href="$d1/d1f/kernel__pfroute__net_8c.html#a9c501a6ab3f41b95fb28a647e5c8041b" title="queue_route_reinstall" alt="" coords="318,56,463,83"/>
+<area shape="rect" id="node5" href="$d1/d1f/kernel__pfroute__net_8c.html#a51815d80e21beb14539e8b424b21db43" title="process_addr" alt="" coords="513,5,613,32"/>
+<area shape="rect" id="node9" href="$d1/d1f/kernel__pfroute__net_8c.html#a3e90a456584caf6bd4a45fcbf80f23bd" title="process_link" alt="" coords="515,56,610,83"/>
+<area shape="rect" id="node10" href="$d1/d1f/kernel__pfroute__net_8c.html#ae49c763c6d73b7f8db09b510569bd88e" title="METHOD" alt="" coords="523,107,603,133"/>
+<area shape="rect" id="node6" href="$d1/d1f/kernel__pfroute__net_8c.html#a3410e9fe61e3e2d01ed41c9d4fb56d7a" title="receive_events" alt="" coords="662,31,773,57"/>
+<area shape="rect" id="node7" href="$db/dcb/group__kernel__pfroute__net__i.html#ga632f3f98f781bd0981f8415f4158ac1e" title="kernel_pfroute_net\l_create" alt="" coords="822,23,951,65"/>
+<area shape="rect" id="node8" href="$d7/d87/kernel__pfroute__plugin_8c.html#a63ad182fc793b178c7f7f949bf125658" title="METHOD" alt="" coords="1000,31,1080,57"/>
+</map>

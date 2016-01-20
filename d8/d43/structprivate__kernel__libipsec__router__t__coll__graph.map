@@ -1,0 +1,9 @@
+<map id="private_kernel_libipsec_router_t" name="private_kernel_libipsec_router_t">
+<area shape="rect" id="node2" href="$da/d75/structtun__entry__t.html" title="tun_entry_t" alt="" coords="5,277,91,304"/>
+<area shape="rect" id="node3" href="$d1/d32/structtun__device__t.html" title="tun_device_t" alt="" coords="65,187,161,213"/>
+<area shape="rect" id="node4" href="$d5/dcf/structhost__t.html" title="host_t" alt="" coords="19,96,76,123"/>
+<area shape="rect" id="node5" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="14,5,81,32"/>
+<area shape="rect" id="node6" href="$db/d86/structrwlock__t.html" title="rwlock_t" alt="" coords="115,277,185,304"/>
+<area shape="rect" id="node8" href="$dd/d49/structhashtable__t.html" title="hashtable_t" alt="" coords="289,277,377,304"/>
+<area shape="rect" id="node9" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="284,187,383,213"/>
+</map>

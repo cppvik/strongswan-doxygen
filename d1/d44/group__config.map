@@ -1,0 +1,9 @@
+<map id="config" name="config">
+<area shape="rect" id="node1" href="$dd/d64/group__proposal.html" title="proposal" alt="" coords="263,5,334,32"/>
+<area shape="rect" id="node2" href="$de/dc5/group__child__cfg.html" title="child_cfg" alt="" coords="261,56,336,83"/>
+<area shape="rect" id="node3" href="$dd/d6e/group__ike__cfg.html" title="ike_cfg" alt="" coords="267,107,331,133"/>
+<area shape="rect" id="node4" href="$db/d07/group__peer__cfg.html" title="peer_cfg" alt="" coords="263,157,335,184"/>
+<area shape="rect" id="node5" href="$da/d74/group__backend__manager.html" title="backend_manager" alt="" coords="235,208,363,235"/>
+<area shape="rect" id="node6" href="$d0/db7/group__libcharon.html" title="libcharon" alt="" coords="5,132,80,159"/>
+<area shape="rect" id="node7" href="$d3/d46/group__backend.html" title="backend" alt="" coords="263,259,334,285"/>
+</map>

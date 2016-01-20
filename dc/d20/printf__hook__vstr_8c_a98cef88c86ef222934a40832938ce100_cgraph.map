@@ -1,0 +1,5 @@
+<map id="get_vstr_conf" name="get_vstr_conf">
+<area shape="rect" id="node2" href="$dc/d20/printf__hook__vstr_8c.html#a1e4ee85d05b5fa1d6a6f2b9d9014a196" title="create_vstr_conf" alt="" coords="155,5,274,32"/>
+<area shape="rect" id="node3" href="$dc/d20/printf__hook__vstr_8c.html#a710ee200d6aaf7347b2a60156a4a401e" title="vstr_fmt_add_handler" alt="" coords="323,5,469,32"/>
+<area shape="rect" id="node4" href="$dc/d20/printf__hook__vstr_8c.html#a784dae126cc48c36e8739e8e35d9d588" title="custom_fmt_cb" alt="" coords="517,5,629,32"/>
+</map>

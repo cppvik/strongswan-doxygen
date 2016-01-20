@@ -1,0 +1,10 @@
+<map id="file_logger_create" name="file_logger_create">
+<area shape="rect" id="node2" href="$dc/d21/daemon_8c.html#a32b8f5aa146bd7eebdf41d4fbdb16f43" title="get_logger_entry" alt="" coords="179,81,298,108"/>
+<area shape="rect" id="node8" href="$db/d3c/conftest_8c.html#a24ec4e1e1bf77f05b0a6072e22f5f071" title="load_loggers" alt="" coords="191,132,286,159"/>
+<area shape="rect" id="node9" href="$db/d3c/conftest_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="379,169,429,196"/>
+<area shape="rect" id="node3" href="$dc/d21/daemon_8c.html#a745850f18ece18e6c4e724f821bc90ea" title="add_file_logger" alt="" coords="349,56,459,83"/>
+<area shape="rect" id="node6" href="$dc/d21/daemon_8c.html#ac0322b043a8fbc2cd46c4581433b6070" title="add_sys_logger" alt="" coords="347,107,461,133"/>
+<area shape="rect" id="node4" href="$dc/d21/daemon_8c.html#a960a0765bd7c0eb98b409caa07268b78" title="load_file_logger" alt="" coords="512,5,624,32"/>
+<area shape="rect" id="node5" href="$dc/d21/daemon_8c.html#ad460718dd3c3be48f9771503b8a3e471" title="METHOD" alt="" coords="675,81,755,108"/>
+<area shape="rect" id="node7" href="$dc/d21/daemon_8c.html#a8a91f65847ea9199cc238faa2021a533" title="load_sys_logger" alt="" coords="510,157,626,184"/>
+</map>

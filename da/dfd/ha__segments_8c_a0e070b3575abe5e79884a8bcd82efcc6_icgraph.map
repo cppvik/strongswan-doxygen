@@ -1,0 +1,11 @@
+<map id="enable_disable" name="enable_disable">
+<area shape="rect" id="node2" href="$da/dfd/ha__segments_8c.html#a6fca9552a2e808354d4efc9c667b54f9" title="autobalance" alt="" coords="181,31,273,57"/>
+<area shape="rect" id="node8" href="$da/dfd/ha__segments_8c.html#a302c2cef6ea3e132b414fe4cb2925801" title="enable_disable_all" alt="" coords="163,81,291,108"/>
+<area shape="rect" id="node10" href="$da/dfd/ha__segments_8c.html#accb7beba9d8f7b541640bb5ce84d8dcc" title="METHOD" alt="" coords="187,132,267,159"/>
+<area shape="rect" id="node3" href="$d0/ddb/group__ha__segments.html#gae186dec5644a7dbad0660436474ab7ef" title="ha_segments_create" alt="" coords="513,5,655,32"/>
+<area shape="rect" id="node7" href="$da/dfd/ha__segments_8c.html#acb5600f731618a4d05b7a308e2163d61" title="start_autobalance" alt="" coords="339,31,464,57"/>
+<area shape="rect" id="node4" href="$d2/dbc/ha__plugin_8c.html#ac3b62ac20197d1c242926fae531a3bfa" title="initialize_plugin" alt="" coords="705,5,815,32"/>
+<area shape="rect" id="node5" href="$d2/dbc/ha__plugin_8c.html#ac04b0147cc74be4316f3db3a9aa6b4a6" title="plugin_cb" alt="" coords="864,5,941,32"/>
+<area shape="rect" id="node6" href="$d2/dbc/ha__plugin_8c.html#ab76e28aa86319749526a5d4a267616e2" title="METHOD" alt="" coords="989,5,1069,32"/>
+<area shape="rect" id="node9" href="$da/dfd/ha__segments_8c.html#a014d5fe7a53a1f076244ef1c7c6c9f49" title="METHOD" alt="" coords="361,81,441,108"/>
+</map>

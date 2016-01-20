@@ -1,0 +1,8 @@
+<map id="policy_entry_destroy" name="policy_entry_destroy">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="567,107,611,133"/>
+<area shape="rect" id="node3" href="$d5/d47/kernel__netlink__ipsec_8c.html#a4c58a3fb7eb5f96b6a6fc9b90220eac2" title="policy_sa_destroy" alt="" coords="203,56,330,83"/>
+<area shape="rect" id="node6" href="$d5/d47/kernel__netlink__ipsec_8c.html#a16c52872ecaf51327953d6549e19fcd9" title="route_entry_destroy" alt="" coords="198,157,335,184"/>
+<area shape="rect" id="node4" href="$d5/d47/kernel__netlink__ipsec_8c.html#a635c5f6f4166f2cbf619866839dc20c8" title="ipsec_sa_destroy" alt="" coords="385,5,509,32"/>
+<area shape="rect" id="node5" href="$d0/de0/group__atomics__i.html#gaddce2b430444b26bf77138b37bba5eab" title="ref_put" alt="" coords="558,5,621,32"/>
+<area shape="rect" id="node7" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="403,208,490,235"/>
+</map>

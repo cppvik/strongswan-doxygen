@@ -1,0 +1,6 @@
+<map id="overlay_remove" name="overlay_remove">
+<area shape="rect" id="node2" href="$d8/d11/cowfs_8c.html#a8d4c7d5bcccd84b52b3523245e3da6a1" title="overlay_destroy" alt="" coords="168,5,283,32"/>
+<area shape="rect" id="node4" href="$d8/d11/cowfs_8c.html#a99573e1afc7b91db6f47f86848d52879" title="overlay_equals" alt="" coords="171,56,280,83"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="334,5,378,32"/>
+<area shape="rect" id="node5" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="331,56,381,83"/>
+</map>

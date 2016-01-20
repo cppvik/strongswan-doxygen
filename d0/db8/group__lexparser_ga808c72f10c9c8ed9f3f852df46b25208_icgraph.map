@@ -1,0 +1,28 @@
+<map id="extract_value" name="extract_value">
+<area shape="rect" id="node2" href="$d0/db8/group__lexparser.html#ga963894214f6c3c05c131c3435c4f6bf4" title="extract_parameter_value" alt="" coords="155,107,320,133"/>
+<area shape="rect" id="node12" href="$d8/db1/stroke__cred_8c.html#a1c686fad0afe47de7728fd35b0faa3a7" title="load_from_file" alt="" coords="186,183,289,209"/>
+<area shape="rect" id="node21" href="$d8/db1/stroke__cred_8c.html#a25593b326e244c6344a53cc2c19d5360" title="load_pin" alt="" coords="202,233,273,260"/>
+<area shape="rect" id="node22" href="$d8/db1/stroke__cred_8c.html#a20ed985360afd3fce8d07ba645068e63" title="load_shared" alt="" coords="191,284,283,311"/>
+<area shape="rect" id="node3" href="$dd/dcf/pem__builder_8c.html#a73eaab3fa882a902b9e6fd1deae43843" title="pem_to_bin" alt="" coords="393,81,482,108"/>
+<area shape="rect" id="node4" href="$dd/dcf/pem__builder_8c.html#a22ab882d6e722958a3e8b2e5e6b388c3" title="load_from_blob" alt="" coords="558,81,669,108"/>
+<area shape="rect" id="node5" href="$dd/dcf/pem__builder_8c.html#a0d75b1da318fe490ab027296782000b9" title="load_from_file" alt="" coords="735,56,838,83"/>
+<area shape="rect" id="node6" href="$dd/dcf/pem__builder_8c.html#ac15edc468535421f8b1883b585c83b66" title="pem_load" alt="" coords="935,81,1014,108"/>
+<area shape="rect" id="node7" href="$dd/d0a/group__pem__builder.html#ga4ac4124727ff4fc50e3e65ec6cf12825" title="pem_certificate_load" alt="" coords="1101,5,1243,32"/>
+<area shape="rect" id="node9" href="$dd/d0a/group__pem__builder.html#ga13d6e84d319ca7e45abdb33aafa8d66e" title="pem_container_load" alt="" coords="1103,56,1241,83"/>
+<area shape="rect" id="node10" href="$dd/d0a/group__pem__builder.html#ga5bde22852070bb21f47c01d3998e2cf6" title="pem_private_key_load" alt="" coords="1096,107,1248,133"/>
+<area shape="rect" id="node11" href="$dd/d0a/group__pem__builder.html#gaa4e23cccfd41b749eee2455db3e5dfec" title="pem_public_key_load" alt="" coords="1099,157,1245,184"/>
+<area shape="rect" id="node8" href="$d8/dd8/pem__plugin_8c.html#a1f9f71dc3dd37f0b1ca2c1bcdbba0cc7" title="METHOD" alt="" coords="1296,81,1376,108"/>
+<area shape="rect" id="node13" href="$d8/db1/stroke__cred_8c.html#a0c61ebb97bc59bf59860da7715c0addb" title="load_pkcs12" alt="" coords="390,132,485,159"/>
+<area shape="rect" id="node20" href="$d8/db1/stroke__cred_8c.html#a66a8f2f4656c976e80665a710ea80063" title="load_private" alt="" coords="391,183,483,209"/>
+<area shape="rect" id="node14" href="$d8/db1/stroke__cred_8c.html#a5d1f52721e54438ad930da40c5c991d7" title="load_secrets" alt="" coords="565,233,661,260"/>
+<area shape="rect" id="node15" href="$d8/db1/stroke__cred_8c.html#ac707a0aa93f26613e2ae29b1970c4798" title="METHOD" alt="" coords="747,233,827,260"/>
+<area shape="rect" id="node16" href="$d4/ddf/group__stroke__cred.html#ga54afc73bedd2dda57cfbeb130062849a" title="stroke_cred_create" alt="" coords="720,284,853,311"/>
+<area shape="rect" id="node17" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="901,284,1048,311"/>
+<area shape="rect" id="node18" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="1118,284,1226,311"/>
+<area shape="rect" id="node19" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="1296,284,1376,311"/>
+<area shape="rect" id="node23" href="$d6/d52/vici__cred_8c.html#a241d18088d023af2b473bef42bd3e84c" title="manage_commands" alt="" coords="368,335,507,361"/>
+<area shape="rect" id="node24" href="$d6/d52/vici__cred_8c.html#a670020acd664a8d4ba26cde707836d42" title="METHOD" alt="" coords="573,284,653,311"/>
+<area shape="rect" id="node25" href="$d3/d36/group__vici__cred.html#ga8807ffbe245c0baad9d247fbca5e5537" title="vici_cred_create" alt="" coords="555,335,672,361"/>
+<area shape="rect" id="node26" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="741,335,833,361"/>
+<area shape="rect" id="node27" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="935,335,1015,361"/>
+</map>

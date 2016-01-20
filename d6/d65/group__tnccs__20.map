@@ -1,0 +1,22 @@
+<map id="tnccs_20" name="tnccs_20">
+<area shape="rect" id="node1" href="$dd/d18/group__pb__noskip__test__msg.html" title="pb_noskip_test_msg" alt="" coords="279,5,422,32"/>
+<area shape="rect" id="node2" href="$dc/d9b/group__pb__access__recommendation__msg.html" title="pb_access_recommendation_msg" alt="" coords="241,56,461,83"/>
+<area shape="rect" id="node3" href="$da/d6b/group__pb__pa__msg.html" title="pb_pa_msg" alt="" coords="306,107,395,133"/>
+<area shape="rect" id="node4" href="$d1/d27/group__tnccs__20__client__h.html" title="tnccs_20_client" alt="" coords="294,157,407,184"/>
+<area shape="rect" id="node5" href="$db/de9/group__pb__assessment__result__msg.html" title="pb_assessment_result_msg" alt="" coords="258,208,443,235"/>
+<area shape="rect" id="node6" href="$d4/d94/group__pb__error__msg.html" title="pb_error_msg" alt="" coords="300,259,401,285"/>
+<area shape="rect" id="node7" href="$d5/d8a/group__pb__experimental__msg.html" title="pb_experimental_msg" alt="" coords="276,309,425,336"/>
+<area shape="rect" id="node8" href="$d3/d48/group__tplugins.html" title="plugins" alt="" coords="6,461,69,488"/>
+<area shape="rect" id="node9" href="$d2/da1/group__pb__pdp__referral__msg.html" title="pb_pdp_referral_msg" alt="" coords="279,360,422,387"/>
+<area shape="rect" id="node10" href="$d4/d3c/group__pb__reason__string__msg.html" title="pb_reason_string_msg" alt="" coords="274,411,427,437"/>
+<area shape="rect" id="node11" href="$d3/dec/group__pb__mutual__capability__msg.html" title="pb_mutual_capability_msg" alt="" coords="263,461,439,488"/>
+<area shape="rect" id="node12" href="$dd/d4c/group__tnccs__20__server__h.html" title="tnccs_20_server" alt="" coords="291,512,410,539"/>
+<area shape="rect" id="node13" href="$d0/d94/group__tnccs__20__plugin.html" title="tnccs_20_plugin" alt="" coords="293,563,409,589"/>
+<area shape="rect" id="node14" href="$d9/def/group__pb__remediation__parameters__msg.html" title="pb_remediation_parameters_msg" alt="" coords="243,613,458,640"/>
+<area shape="rect" id="node16" href="$dc/ded/group__pb__language__preference__msg.html" title="pb_language_preference_msg" alt="" coords="253,664,448,691"/>
+<area shape="rect" id="node17" href="$d1/d16/group__tnccs__20__handler__h.html" title="tnccs_20_handler" alt="" coords="289,715,413,741"/>
+<area shape="rect" id="node18" href="$d7/d61/group__pb__tnc__msg.html" title="pb_tnc_msg" alt="" coords="304,765,397,792"/>
+<area shape="rect" id="node19" href="$da/d0a/group__pb__tnc__state__machine.html" title="pb_tnc_state_machine" alt="" coords="274,816,427,843"/>
+<area shape="rect" id="node20" href="$de/d3c/group__pb__tnc__batch.html" title="pb_tnc_batch" alt="" coords="301,867,401,893"/>
+<area shape="rect" id="node21" href="$dc/df7/group__tnccs__20__h.html" title="tnccs_20" alt="" coords="313,917,388,944"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="controller" name="controller">
+<area shape="rect" id="node1" href="$d6/db5/group__manager.html" title="manager" alt="" coords="5,107,77,133"/>
+<area shape="rect" id="node2" href="$df/de9/group__auth__controller.html" title="auth_controller" alt="" coords="260,5,367,32"/>
+<area shape="rect" id="node3" href="$d5/d11/group__config__controller.html" title="config_controller" alt="" coords="255,56,372,83"/>
+<area shape="rect" id="node4" href="$d2/de8/group__control__controller.html" title="control_controller" alt="" coords="253,107,374,133"/>
+<area shape="rect" id="node5" href="$d4/d35/group__ikesa__controller.html" title="ikesa_controller" alt="" coords="257,157,370,184"/>
+<area shape="rect" id="node7" href="$d9/d89/group__gateway__controller.html" title="gateway_controller" alt="" coords="248,208,379,235"/>
+</map>

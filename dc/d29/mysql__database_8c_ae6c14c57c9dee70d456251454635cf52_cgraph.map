@@ -1,0 +1,6 @@
+<map id="finalize_transaction" name="finalize_transaction">
+<area shape="rect" id="node2" href="$d0/de0/group__atomics__i.html#gaddce2b430444b26bf77138b37bba5eab" title="ref_put" alt="" coords="226,5,289,32"/>
+<area shape="rect" id="node3" href="$dc/d29/mysql__database_8c.html#a63e58c80d5d0382f00720f6a8e2138ef" title="transaction_destroy" alt="" coords="189,56,325,83"/>
+<area shape="rect" id="node4" href="$dc/d29/mysql__database_8c.html#af5d393a941d7763953f9e664024723c6" title="conn_release" alt="" coords="373,31,472,57"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="401,81,445,108"/>
+</map>

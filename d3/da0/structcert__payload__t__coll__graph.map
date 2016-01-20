@@ -1,0 +1,8 @@
+<map id="cert_payload_t" name="cert_payload_t">
+<area shape="rect" id="node2" href="$d6/d41/structcertificate__t.html" title="certificate_t" alt="" coords="107,200,197,227"/>
+<area shape="rect" id="node3" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="215,96,321,123"/>
+<area shape="rect" id="node4" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="293,5,392,32"/>
+<area shape="rect" id="node8" href="$d7/dcc/structcontainer__t.html" title="container_t" alt="" coords="353,148,439,175"/>
+<area shape="rect" id="node6" href="$d0/d6f/structpublic__key__t.html" title="public_key_t" alt="" coords="26,96,120,123"/>
+</map>

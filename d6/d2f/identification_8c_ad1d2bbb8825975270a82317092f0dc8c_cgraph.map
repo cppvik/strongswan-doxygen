@@ -1,0 +1,9 @@
+<map id="create_from_string_with_num_type" name="create_from_string_with_num_type">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaadc119e547e9a456a8c2c6271290b584" title="chunk_from_hex" alt="" coords="194,81,313,108"/>
+<area shape="rect" id="node6" href="$d6/d2f/identification_8c.html#a2c4638c8ff8771dbda52e0c3b7aac28b" title="identification_create" alt="" coords="184,157,323,184"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="391,5,451,32"/>
+<area shape="rect" id="node4" href="$d8/d39/chunk_8c.html#a0674de9b4dc86d182ca6a08b9595279f" title="hex2bin" alt="" coords="388,56,455,83"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="371,107,471,133"/>
+<area shape="rect" id="node7" href="$d6/d87/group__utils__i.html#ga2cd701fdf8284f1c4c85d3334d5072cf" title="return_true" alt="" coords="379,157,463,184"/>
+<area shape="rect" id="node8" href="$d6/d87/group__utils__i.html#ga9336a4d5728eb7ed977aacaeb8fd2c41" title="return_false" alt="" coords="376,208,467,235"/>
+</map>

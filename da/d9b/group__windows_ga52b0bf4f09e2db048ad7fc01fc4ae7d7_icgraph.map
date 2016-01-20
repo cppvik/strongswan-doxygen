@@ -1,0 +1,7 @@
+<map id="socketpair" name="socketpair">
+<area shape="rect" id="node2" href="$d4/ded/test__threading_8c.html#ad5dcc0cc54fd31a376f70b6550791ff0" title="cancellation_poll" alt="" coords="143,5,262,32"/>
+<area shape="rect" id="node3" href="$d4/ded/test__threading_8c.html#a430d617fc1df0087295eba17b9ddd568" title="cancellation_read" alt="" coords="141,56,264,83"/>
+<area shape="rect" id="node4" href="$d4/ded/test__threading_8c.html#ae7daa3bb7c3504feacc34f269f517a13" title="cancellation_recv" alt="" coords="141,107,264,133"/>
+<area shape="rect" id="node5" href="$d4/ded/test__threading_8c.html#af31138c983b96d050505377d1226a149" title="cancellation_select" alt="" coords="136,157,269,184"/>
+<area shape="rect" id="node6" href="$d8/dd2/test__chunk_8c.html#aebf97a0f8b67b1a607a2f838ecbba84b" title="START_TEST" alt="" coords="149,208,256,235"/>
+</map>

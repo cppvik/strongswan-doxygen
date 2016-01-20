@@ -1,0 +1,8 @@
+<map id="clone_message" name="clone_message">
+<area shape="rect" id="node2" href="$d0/d6d/message_8c.html#a0a563e9cfc9b0287af285158f9e2f2be" title="create_fragment" alt="" coords="191,5,307,32"/>
+<area shape="rect" id="node4" href="$de/d9a/group__message.html#gad469345a21ee03ddd0d65b76931f06d7" title="message_create_defrag" alt="" coords="169,56,330,83"/>
+<area shape="rect" id="node3" href="$d0/d6d/message_8c.html#ac43eddb961afe2dff86eac30d38cdac9" title="METHOD" alt="" coords="399,5,479,32"/>
+<area shape="rect" id="node5" href="$dd/d65/task__manager__v1_8c.html#ae30bdf672fcbc7a11b77f9468c842417" title="handle_fragment" alt="" coords="379,56,498,83"/>
+<area shape="rect" id="node6" href="$dd/d65/task__manager__v1_8c.html#aee412dfc19defc0f6cd76bf6dc347f9e" title="parse_message" alt="" coords="547,56,661,83"/>
+<area shape="rect" id="node7" href="$dd/d65/task__manager__v1_8c.html#a07ec61bf95a7a5b12b888a1945587189" title="METHOD" alt="" coords="709,56,789,83"/>
+</map>

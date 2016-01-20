@@ -1,0 +1,15 @@
+<map id="initialize" name="initialize">
+<area shape="rect" id="node2" href="$d7/dde/pkcs11__library_8c.html#a72bfda939bcf075c6900a49a9d456af0" title="check_features" alt="" coords="135,5,246,32"/>
+<area shape="rect" id="node4" href="$d7/dde/pkcs11__library_8c.html#a1cde15baadd4e182fa2ada430db72f0c" title="CreateMutex" alt="" coords="142,56,239,83"/>
+<area shape="rect" id="node6" href="$d7/dde/pkcs11__library_8c.html#a32aa1584433d58e1abbf80fe26b99b55" title="DestroyMutex" alt="" coords="139,107,243,133"/>
+<area shape="rect" id="node7" href="$da/d9b/group__windows.html#ga541c343ae5cdf90926014c65972c86cc" title="dlerror" alt="" coords="161,157,220,184"/>
+<area shape="rect" id="node8" href="$da/d9b/group__windows.html#ga84cb8784df910bfcc3002dc5e9e2f406" title="dlsym" alt="" coords="162,208,219,235"/>
+<area shape="rect" id="node12" href="$d7/dde/pkcs11__library_8c.html#a2a95e784ad07cb920456235308a73713" title="LockMutex" alt="" coords="147,259,234,285"/>
+<area shape="rect" id="node13" href="$db/d7a/group__pkcs11__library.html#ga2eaa1f09e167691f494805eec8cd2fa7" title="pkcs11_library_trim" alt="" coords="123,309,258,336"/>
+<area shape="rect" id="node14" href="$d7/dde/pkcs11__library_8c.html#a82eb5f285e93fbb59e9e71de85ed264c" title="UnlockMutex" alt="" coords="141,360,240,387"/>
+<area shape="rect" id="node3" href="$d7/dde/pkcs11__library_8c.html#a8de38a02624ea85a83627af290ed4601" title="has_version" alt="" coords="313,5,405,32"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gacbf89470b1f7a4a0d621faeeb8b485c5" title="mutex_create" alt="" coords="308,56,409,83"/>
+<area shape="rect" id="node9" href="$d1/d3f/windows_8c.html#a4ff3d00dcb8a7bb53cf65f484debcb4b" title="dlsym_default" alt="" coords="307,183,410,209"/>
+<area shape="rect" id="node10" href="$d1/d3f/windows_8c.html#aa71d37bf39d6bbc3bd94a496e3ba6f30" title="dlsym_next" alt="" coords="314,233,403,260"/>
+<area shape="rect" id="node11" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="459,233,509,260"/>
+</map>

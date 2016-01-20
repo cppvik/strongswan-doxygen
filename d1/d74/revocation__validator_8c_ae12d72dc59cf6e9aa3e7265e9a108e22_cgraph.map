@@ -1,0 +1,7 @@
+<map id="get_better_ocsp" name="get_better_ocsp">
+<area shape="rect" id="node2" href="$d8/d88/group__certificate.html#gab6b334d923dcd396c3efcdff3270f285" title="certificate_is_newer" alt="" coords="168,5,307,32"/>
+<area shape="rect" id="node3" href="$d1/d74/revocation__validator_8c.html#ae63b18deb52dbd9cbcaae07a6ce2bc8a" title="verify_ocsp" alt="" coords="193,56,282,83"/>
+<area shape="rect" id="node4" href="$d7/dbd/group__ocsp__response__wrapper.html#ga8d92cd6ad8d7962171f8ac620b855919" title="ocsp_response_wrapper\l_create" alt="" coords="355,49,517,90"/>
+<area shape="rect" id="node5" href="$d6/d87/group__utils__i.html#ga7c51b3b4a8c5d7999d5477cf2ffad5ea" title="return_null" alt="" coords="565,31,648,57"/>
+<area shape="rect" id="node6" href="$d6/d87/group__utils__i.html#ga9feb7476507383309c8e3ff2648016f3" title="nop" alt="" coords="585,81,628,108"/>
+</map>

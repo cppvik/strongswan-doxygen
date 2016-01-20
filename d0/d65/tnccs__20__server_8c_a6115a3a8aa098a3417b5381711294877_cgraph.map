@@ -1,0 +1,8 @@
+<map id="handle_ietf_message" name="handle_ietf_message">
+<area shape="rect" id="node2" href="$da/da5/group__tncif__pa__subtypes.html#ga084a5946fae3dc0bfeb4a1aa5e5afe92" title="get_pa_subtype_names" alt="" coords="200,5,360,32"/>
+<area shape="rect" id="node3" href="$d0/d61/whitelist_8c.html#a32590eeb75db94323a7fd354dc31eeed" title="send_msg" alt="" coords="239,56,321,83"/>
+<area shape="rect" id="node7" href="$d0/d65/tnccs__20__server_8c.html#a6b9268f5ac24856debc243d0d3dfaca8" title="tnccs_20_handle_ietf\l_error_msg" alt="" coords="207,107,353,149"/>
+<area shape="rect" id="node4" href="$d0/d61/whitelist_8c.html#a46cbc3530d1b6d5af4c7728a67bcd3c6" title="make_connection" alt="" coords="409,5,533,32"/>
+<area shape="rect" id="node5" href="$d0/d61/whitelist_8c.html#adebf457eff03c857a09d83b310af96b1" title="write_all" alt="" coords="435,56,506,83"/>
+<area shape="rect" id="node6" href="$d0/d61/whitelist_8c.html#a66989870dd0d5ec8406294c9dda24350" title="read_all" alt="" coords="437,107,504,133"/>
+</map>

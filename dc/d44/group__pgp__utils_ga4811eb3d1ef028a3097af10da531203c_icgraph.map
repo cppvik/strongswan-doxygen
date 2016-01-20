@@ -1,0 +1,6 @@
+<map id="pgp_read_packet" name="pgp_read_packet">
+<area shape="rect" id="node2" href="$de/d59/pgp__builder_8c.html#ae9770e7351a6c1e105b5b5fe322e033c" title="parse_private_key" alt="" coords="176,5,304,32"/>
+<area shape="rect" id="node5" href="$db/da9/group__pgp__cert.html#ga15dbcbee456c634368afed0030c186f6" title="pgp_cert_load" alt="" coords="375,56,478,83"/>
+<area shape="rect" id="node3" href="$d8/d12/group__pgp__public__key.html#ga77f644d58dc889fd906efbc19ada17c6" title="pgp_private_key_load" alt="" coords="353,5,501,32"/>
+<area shape="rect" id="node4" href="$da/d2d/pgp__plugin_8c.html#a834eacd139636e0d881ab5cec14ce203" title="METHOD" alt="" coords="549,31,629,57"/>
+</map>

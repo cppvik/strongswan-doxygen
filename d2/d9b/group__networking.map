@@ -1,0 +1,8 @@
+<map id="networking" name="networking">
+<area shape="rect" id="node1" href="$db/dd9/group__packet.html" title="packet" alt="" coords="311,5,372,32"/>
+<area shape="rect" id="node2" href="$d4/d77/group__libstrongswan.html" title="libstrongswan" alt="" coords="6,107,109,133"/>
+<area shape="rect" id="node4" href="$d7/df1/group__host.html" title="host" alt="" coords="318,56,365,83"/>
+<area shape="rect" id="node5" href="$df/dfa/group__streams.html" title="streams" alt="" coords="307,107,376,133"/>
+<area shape="rect" id="node6" href="$db/de3/group__host__resolver.html" title="host_resolver" alt="" coords="291,157,391,184"/>
+<area shape="rect" id="node7" href="$d4/dc5/group__tun__device.html" title="tun_device" alt="" coords="299,208,384,235"/>
+</map>

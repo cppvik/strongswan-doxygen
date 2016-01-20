@@ -1,0 +1,5 @@
+<map id="stop_guest" name="stop_guest">
+<area shape="rect" id="node2" href="$d0/d83/dumm_2main_8c.html#a0686e0ce89d6928ea637f528bb34270b" title="get_page" alt="" coords="141,5,216,32"/>
+<area shape="rect" id="node3" href="$d0/d83/dumm_2main_8c.html#a01131b63acf241e9db91704d89ce15d2" title="idle" alt="" coords="157,56,200,83"/>
+<area shape="rect" id="node4" href="$da/d9b/group__windows.html#gaa1124f0d208ff28b7d9cf563ff183e8d" title="sched_yield" alt="" coords="264,56,355,83"/>
+</map>

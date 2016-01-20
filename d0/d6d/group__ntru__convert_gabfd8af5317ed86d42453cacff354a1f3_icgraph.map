@@ -1,0 +1,6 @@
+<map id="ntru_octet_2_trits" name="ntru_octet_2_trits">
+<area shape="rect" id="node2" href="$d0/d6d/group__ntru__convert.html#ga402cc531ead91b9de8b648b8cd605449" title="ntru_packed_trits_2\l_indices" alt="" coords="176,5,312,46"/>
+<area shape="rect" id="node5" href="$d8/d13/group__ntru__trits.html#ga8aea89affcdead2c681f452ca249c14a" title="ntru_trits_create" alt="" coords="186,71,302,97"/>
+<area shape="rect" id="node3" href="$df/d9d/group__ntru__private__key.html#ga708818af5b92353ebadc8261ea60cd83" title="ntru_private_key_create\l_from_data" alt="" coords="361,5,522,46"/>
+<area shape="rect" id="node4" href="$d1/d99/test__ntru_8c.html#a2a7c06d11713baa36ac2e4e543660623" title="START_TEST" alt="" coords="571,12,677,39"/>
+</map>

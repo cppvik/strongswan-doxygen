@@ -1,0 +1,7 @@
+<map id="radius_socket_create" name="radius_socket_create">
+<area shape="rect" id="node2" href="$d2/d5e/group__radius__config.html#ga17b607e7ad2a6ff632002bfa7cc069b2" title="radius_config_create" alt="" coords="201,31,343,57"/>
+<area shape="rect" id="node3" href="$d3/de7/eap__radius__plugin_8c.html#a45ec14eb30dba26a1389645e335a9283" title="load_configs" alt="" coords="393,31,487,57"/>
+<area shape="rect" id="node4" href="$d3/de7/eap__radius__plugin_8c.html#ae2a71143bdfa58dca417b08a36922caf" title="METHOD" alt="" coords="536,5,616,32"/>
+<area shape="rect" id="node5" href="$d3/de7/eap__radius__plugin_8c.html#abd3973b01f8d04957f7a3fc8e88fd716" title="plugin_cb" alt="" coords="537,56,615,83"/>
+<area shape="rect" id="node6" href="$d3/de7/eap__radius__plugin_8c.html#a45ad894365a8157f1d82bb26f26f5f8e" title="METHOD" alt="" coords="664,56,744,83"/>
+</map>

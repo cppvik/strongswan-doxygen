@@ -1,0 +1,26 @@
+var classvici_1_1test_1_1test__protocol_1_1TestMessage =
+[
+    [ "test_key_deserialization", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#ab8cefbf7725a84b07f6eaf920703ab03", null ],
+    [ "test_key_serialization", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a267099bd3fb0e5c19dff98296c10bb89", null ],
+    [ "test_list_deserialization", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a83044b17aef13aaa890ac510da927288", null ],
+    [ "test_list_serialization", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a0f8b8fd7978073c8bd2054f7eb3c201b", null ],
+    [ "test_roundtrip", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#abf3ba66e410e6c51a3edbd1fc56291c8", null ],
+    [ "test_section_deserialization", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a31bb63b712657c9d57b34058a69433c7", null ],
+    [ "test_section_serialization", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a7725e298076dd5370ed7475a120c1039", null ],
+    [ "des_kv_pair", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a5dbb8f5eacdb3a262c899c1ebdde4326", null ],
+    [ "des_kv_zero", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#ab834010522b281675c144188c25f944d", null ],
+    [ "des_list_0_item", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a3a4fa1844362ec1fa58ee1733e186e3a", null ],
+    [ "des_list_1_item", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#ac1efdf45530dbf83377d5b127955ca23", null ],
+    [ "des_list_2_item", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a1a810cdcd1840a138d21a47f8d2febf0", null ],
+    [ "des_sec_nested", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#aad68f7a34f63b2921ad00305d1db9716", null ],
+    [ "des_sec_single", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#add0d26dee5c8593488aaf5b57da7dbe4", null ],
+    [ "ser_kv_pair", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a99cedb5457282205b2d0e81453d646aa", null ],
+    [ "ser_kv_zero", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#ac461b823777d0ea63334aa28aa9a2f42", null ],
+    [ "ser_list_0_item", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a4033e2beb81593b0d9f5fc2ff8cbf663", null ],
+    [ "ser_list_1_item", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#aa47ea24d3eccd5a292ba9a8ccb1f3a95", null ],
+    [ "ser_list_2_item", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#ae1e66c82a95f55125aebd160da0b7366", null ],
+    [ "ser_list_invalid", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a0357171b482b17d40ed178a28f109f76", null ],
+    [ "ser_sec_nested", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a86f41a534a7e4cee6ee4cb70808b02b2", null ],
+    [ "ser_sec_single", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#a8f8d86478bd35546ff945243722a581f", null ],
+    [ "ser_sec_unclosed", "d0/dd6/classvici_1_1test_1_1test__protocol_1_1TestMessage.html#ab2726758a5c8c5f30d53f48d4d8f0bb7", null ]
+];

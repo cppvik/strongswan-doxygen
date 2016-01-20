@@ -1,0 +1,19 @@
+<map id="wserr" name="wserr">
+<area shape="rect" id="node2" href="$da/d9b/group__windows.html#ga6ea715c0d870b4606356e0578ff8f2b0" title="poll" alt="" coords="168,5,211,32"/>
+<area shape="rect" id="node3" href="$da/d9b/group__windows.html#ga7d0410df3809700abddd871f53101eaf" title="windows_accept" alt="" coords="130,56,249,83"/>
+<area shape="rect" id="node4" href="$da/d9b/group__windows.html#ga985c54341f525541202159440424421d" title="windows_bind" alt="" coords="137,107,241,133"/>
+<area shape="rect" id="node5" href="$da/d9b/group__windows.html#ga2e47426503500ae28bf304904166418c" title="windows_close" alt="" coords="134,157,245,184"/>
+<area shape="rect" id="node6" href="$da/d9b/group__windows.html#ga0ad6f94d13c4e7a0e1bc4985dd5c6f30" title="windows_connect" alt="" coords="126,208,253,235"/>
+<area shape="rect" id="node7" href="$da/d9b/group__windows.html#ga714544a57654a3513ff52c4c8ef62033" title="windows_getsockname" alt="" coords="110,259,269,285"/>
+<area shape="rect" id="node8" href="$da/d9b/group__windows.html#ga1fe2fc19e79ff9e75e2650421e196017" title="windows_getsockopt" alt="" coords="117,309,261,336"/>
+<area shape="rect" id="node9" href="$da/d9b/group__windows.html#ga903358bafa727e4f3e8ef481032f27ba" title="windows_read" alt="" coords="137,360,242,387"/>
+<area shape="rect" id="node10" href="$da/d9b/group__windows.html#ga3903d4e0982137bd458c47dd287e8306" title="windows_recv" alt="" coords="137,411,242,437"/>
+<area shape="rect" id="node11" href="$da/d9b/group__windows.html#ga7e223dd87490debc16677f8074fefbe6" title="windows_recvfrom" alt="" coords="124,461,255,488"/>
+<area shape="rect" id="node12" href="$da/d9b/group__windows.html#gad43b95ce69f3c5e9b2754a3cbf539ab4" title="windows_select" alt="" coords="132,512,247,539"/>
+<area shape="rect" id="node13" href="$da/d9b/group__windows.html#ga7208dfdf9f0b02fb6e2bb3110a473343" title="windows_send" alt="" coords="135,563,243,589"/>
+<area shape="rect" id="node14" href="$da/d9b/group__windows.html#gaf94237f02a446166db2ae93644b91d31" title="windows_sendto" alt="" coords="130,613,249,640"/>
+<area shape="rect" id="node15" href="$da/d9b/group__windows.html#ga05fa167b2477e957da60a8930b9a9751" title="windows_setsockopt" alt="" coords="117,664,261,691"/>
+<area shape="rect" id="node16" href="$da/d9b/group__windows.html#ga1dc5754a486c386c3f1b9b9e023628ad" title="windows_shutdown" alt="" coords="121,715,257,741"/>
+<area shape="rect" id="node17" href="$da/d9b/group__windows.html#gacb56e36b15172bd3e57c74d89835cee9" title="windows_socket" alt="" coords="130,765,249,792"/>
+<area shape="rect" id="node18" href="$da/d9b/group__windows.html#gaea046adbd2eacd2b02a65e494176392d" title="windows_write" alt="" coords="135,816,243,843"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="create_ecp" name="create_ecp">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="523,158,610,185"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="702,6,746,33"/>
+<area shape="rect" id="node4" href="$d6/d82/pkcs11__dh_8c.html#a664caa1d5ad3c78f64be1d4d1e157186" title="create_generic" alt="" coords="167,57,273,83"/>
+<area shape="rect" id="node6" href="$d6/d82/pkcs11__dh_8c.html#ab3f6ef5b8b24a05f429493e4b65aad63" title="generate_key_pair_ecp" alt="" coords="142,183,298,210"/>
+<area shape="rect" id="node5" href="$d6/d82/pkcs11__dh_8c.html#a05ae35ce185ef55aea209669679c05c1" title="find_token" alt="" coords="369,57,452,83"/>
+<area shape="rect" id="node7" href="$d6/d82/pkcs11__dh_8c.html#a2a959def147c415027154df82f921afc" title="generate_key_pair" alt="" coords="347,209,475,235"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gaaa5a9811df1bd2ae5e331748f7fbaf75" title="chunk_clear" alt="" coords="365,259,457,286"/>
+<area shape="rect" id="node12" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="367,158,455,185"/>
+<area shape="rect" id="node9" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="527,259,606,286"/>
+<area shape="rect" id="node10" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="837,259,952,286"/>
+<area shape="rect" id="node11" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="659,285,789,311"/>
+</map>

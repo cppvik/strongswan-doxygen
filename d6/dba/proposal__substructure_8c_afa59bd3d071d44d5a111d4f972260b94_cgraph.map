@@ -1,0 +1,5 @@
+<map id="add_to_proposal_v1" name="add_to_proposal_v1">
+<area shape="rect" id="node2" href="$d6/dba/proposal__substructure_8c.html#a524ea1cebd22997d78dbfdaa57cffa3f" title="get_alg_from_ikev1_auth" alt="" coords="193,5,359,32"/>
+<area shape="rect" id="node4" href="$d6/dba/proposal__substructure_8c.html#a89c0f5318c3778183656eb0cd100c073" title="get_alg_from_ikev1\l_transid" alt="" coords="209,57,343,98"/>
+<area shape="rect" id="node3" href="$d6/dba/proposal__substructure_8c.html#adc1bea0745b453336aea3817c5dc7159" title="ikev2_from_ikev1" alt="" coords="409,35,533,61"/>
+</map>

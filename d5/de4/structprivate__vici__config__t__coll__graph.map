@@ -1,0 +1,7 @@
+<map id="private_vici_config_t" name="private_vici_config_t">
+<area shape="rect" id="node2" href="$d6/dfa/structvici__authority__t.html" title="vici_authority_t" alt="" coords="66,96,176,123"/>
+<area shape="rect" id="node4" href="$db/d86/structrwlock__t.html" title="rwlock_t" alt="" coords="200,96,270,123"/>
+<area shape="rect" id="node5" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="296,96,386,123"/>
+<area shape="rect" id="node6" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="292,5,390,32"/>
+<area shape="rect" id="node7" href="$d2/d7f/structvici__dispatcher__t.html" title="vici_dispatcher_t" alt="" coords="510,96,630,123"/>
+</map>

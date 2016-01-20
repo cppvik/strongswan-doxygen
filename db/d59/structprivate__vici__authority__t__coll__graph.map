@@ -1,0 +1,11 @@
+<map id="private_vici_authority_t" name="private_vici_authority_t">
+<area shape="rect" id="node2" href="$db/d86/structrwlock__t.html" title="rwlock_t" alt="" coords="5,291,75,317"/>
+<area shape="rect" id="node4" href="$da/d99/structvici__cred__t.html" title="vici_cred_t" alt="" coords="229,291,315,317"/>
+<area shape="rect" id="node5" href="$d6/d41/structcertificate__t.html" title="certificate_t" alt="" coords="303,200,393,227"/>
+<area shape="rect" id="node6" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="429,96,536,123"/>
+<area shape="rect" id="node7" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="454,5,521,32"/>
+<area shape="rect" id="node8" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="195,5,293,32"/>
+<area shape="rect" id="node10" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="127,148,217,175"/>
+<area shape="rect" id="node9" href="$d0/d6f/structpublic__key__t.html" title="public_key_t" alt="" coords="241,96,335,123"/>
+<area shape="rect" id="node11" href="$d2/d7f/structvici__dispatcher__t.html" title="vici_dispatcher_t" alt="" coords="339,291,459,317"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ntru_private_key_create_from_data" name="ntru_private_key_create_from_data">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="275,5,319,32"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="267,56,327,83"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="258,107,337,133"/>
+<area shape="rect" id="node7" href="$d0/d6d/group__ntru__convert.html#ga17d3e32c66bbe33c8ac048b88dbdcabf" title="ntru_octets_2_elements" alt="" coords="217,157,378,184"/>
+<area shape="rect" id="node8" href="$d0/d6d/group__ntru__convert.html#ga402cc531ead91b9de8b648b8cd605449" title="ntru_packed_trits_2\l_indices" alt="" coords="229,209,365,250"/>
+<area shape="rect" id="node10" href="$d0/df2/group__ntru__param__set.html#ga27ba0f216e9239f440a630be22a7862b" title="ntru_param_set_get\l_by_oid" alt="" coords="229,274,366,315"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="605,107,720,133"/>
+<area shape="rect" id="node6" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="427,132,557,159"/>
+<area shape="rect" id="node9" href="$d0/d6d/group__ntru__convert.html#gabfd8af5317ed86d42453cacff354a1f3" title="ntru_octet_2_trits" alt="" coords="431,216,553,243"/>
+<area shape="rect" id="node11" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="459,281,525,308"/>
+</map>

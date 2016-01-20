@@ -1,0 +1,11 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$df/d81/ita__comp__ima_8c.html#ad313a789546889c94113a322e3345b91" title="check_boot_aggregate" alt="" coords="145,57,298,84"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="578,57,678,84"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gaef4ef97b1a4298f2b3aacb9fe48a2c85" title="chunk_equals_const" alt="" coords="357,158,499,185"/>
+<area shape="rect" id="node6" href="$df/d81/ita__comp__ima_8c.html#aca436dc25d6e2688cac5cb16e1e77ef9" title="ima_hash" alt="" coords="389,108,467,134"/>
+<area shape="rect" id="node8" href="$df/d81/ita__comp__ima_8c.html#a0517f4be24250bc7bce4bffcf25f35f9" title="parse_validation_uri" alt="" coords="153,209,290,236"/>
+<area shape="rect" id="node9" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="403,234,453,261"/>
+<area shape="rect" id="node10" href="$d7/dbc/group__pts__meas__algo.html#ga04d190cdc6cdc52c4515b2c146dfab41" title="pts_meas_algo_hash_size" alt="" coords="133,310,309,337"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#gaf513a161cbe0ba0964578ee21ca4263b" title="memeq_const" alt="" coords="576,158,680,185"/>
+<area shape="rect" id="node7" href="$d7/dbc/group__pts__meas__algo.html#gaa9ebc0d514acd980f36bb96e236d9a12" title="pts_meas_algo_to_hash" alt="" coords="547,108,709,134"/>
+</map>

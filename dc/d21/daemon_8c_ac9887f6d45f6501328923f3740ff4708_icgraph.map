@@ -1,0 +1,8 @@
+<map id="get_syslog_facility" name="get_syslog_facility">
+<area shape="rect" id="node2" href="$dc/d21/daemon_8c.html#a32b8f5aa146bd7eebdf41d4fbdb16f43" title="get_logger_entry" alt="" coords="185,107,303,133"/>
+<area shape="rect" id="node7" href="$dc/d21/daemon_8c.html#a8a91f65847ea9199cc238faa2021a533" title="load_sys_logger" alt="" coords="515,157,631,184"/>
+<area shape="rect" id="node3" href="$dc/d21/daemon_8c.html#a745850f18ece18e6c4e724f821bc90ea" title="add_file_logger" alt="" coords="355,56,464,83"/>
+<area shape="rect" id="node6" href="$dc/d21/daemon_8c.html#ac0322b043a8fbc2cd46c4581433b6070" title="add_sys_logger" alt="" coords="353,107,466,133"/>
+<area shape="rect" id="node4" href="$dc/d21/daemon_8c.html#a960a0765bd7c0eb98b409caa07268b78" title="load_file_logger" alt="" coords="517,5,629,32"/>
+<area shape="rect" id="node5" href="$dc/d21/daemon_8c.html#ad460718dd3c3be48f9771503b8a3e471" title="METHOD" alt="" coords="680,81,760,108"/>
+</map>

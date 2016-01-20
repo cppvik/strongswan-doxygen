@@ -1,0 +1,9 @@
+<map id="send_supported_hash_algorithms" name="send_supported_hash_algorithms">
+<area shape="rect" id="node2" href="$dd/d3c/group__bio__writer.html#gac7993ee5c686c5e28413eef0a03e1e89" title="bio_writer_create" alt="" coords="219,5,341,32"/>
+<area shape="rect" id="node3" href="$da/de1/group__hash__algorithm__set.html#ga560628a91c6aa17bbd07f2882f092de3" title="hash_algorithm_set\l_create" alt="" coords="213,57,347,98"/>
+<area shape="rect" id="node7" href="$dd/d1c/group__hasher.html#gafa835de88cd316f84ba3534263123471" title="hasher_algorithm_for\l_ikev2" alt="" coords="209,122,351,163"/>
+<area shape="rect" id="node8" href="$dd/d1c/group__hasher.html#gaa948c741b06357641afe83ac7bb35ae6" title="hasher_from_signature\l_scheme" alt="" coords="203,187,357,229"/>
+<area shape="rect" id="node4" href="$d1/d0e/group__array.html#ga9acc78bc2e06102ff37133b5aa0e0a4f" title="array_create" alt="" coords="406,64,501,91"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="555,39,615,65"/>
+<area shape="rect" id="node6" href="$dc/dcc/array_8c.html#a1814774789ffaf948b25734a7dd0f3ed" title="get_size" alt="" coords="550,89,621,116"/>
+</map>

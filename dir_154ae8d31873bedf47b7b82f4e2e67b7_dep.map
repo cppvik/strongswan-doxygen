@@ -1,0 +1,9 @@
+<map id="kernel_libipsec" name="kernel_libipsec">
+<area shape="rect" id="node1" href="dir_154ae8d31873bedf47b7b82f4e2e67b7.html" title="kernel_libipsec" alt="" coords="27,52,135,100"/>
+<area shape="rect" id="node2" href="dir_0c96bf3061e49db820f4fd61efe724b9.html" title="libstrongswan" alt="" coords="30,244,132,292"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000182_000001.html" title="13" alt="" coords="75,217,90,232"/>
+<area shape="rect" id="node3" href="dir_6f63d64429d786849a1d5a9c3466ac82.html" title="libhydra" alt="" coords="83,148,155,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000182_000143.html" title="4" alt="" coords="107,121,115,135"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000143_000001.html" title="64" alt="" coords="98,223,112,238"/>
+<area shape="rect" id="clust1" href="dir_e95fbb61b3ca66c999b17ff93fb55178.html" title="plugins" alt="" coords="16,16,147,111"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="query_slots" name="query_slots">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="313,5,357,32"/>
+<area shape="rect" id="node3" href="$dc/d89/pkcs11__manager_8c.html#a821898b4647f51c7160e9cb8e2b0bbf2" title="get_slot_list" alt="" coords="145,56,237,83"/>
+<area shape="rect" id="node5" href="$dc/d89/pkcs11__manager_8c.html#aeeeaa5fa94025e61b19e5594845c5a1e" title="handle_slot" alt="" coords="147,107,235,133"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="305,56,365,83"/>
+<area shape="rect" id="node6" href="$dc/d89/pkcs11__manager_8c.html#a05ecbfe30785eb61e45f8b72712944cc" title="handle_token" alt="" coords="285,157,384,184"/>
+<area shape="rect" id="node7" href="$db/d7a/group__pkcs11__library.html#ga2eaa1f09e167691f494805eec8cd2fa7" title="pkcs11_library_trim" alt="" coords="433,107,567,133"/>
+<area shape="rect" id="node8" href="$dc/d89/pkcs11__manager_8c.html#a06ff434dce037fb5bfe85930168eb51f" title="print_mechs" alt="" coords="453,157,547,184"/>
+</map>

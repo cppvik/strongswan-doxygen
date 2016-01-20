@@ -1,0 +1,14 @@
+<map id="read_tls" name="read_tls">
+<area shape="rect" id="node2" href="$d9/d35/group__pt__tls.html#ga9a0606577e5bd2069412d6b782296475" title="pt_tls_read" alt="" coords="123,125,210,152"/>
+<area shape="rect" id="node3" href="$d2/d9f/pt__tls__client_8c.html#a37a27c0a88e66b131a7474fd8265e73e" title="negotiate_version" alt="" coords="490,5,614,32"/>
+<area shape="rect" id="node5" href="$d2/d9f/pt__tls__client_8c.html#afdc61372264639b7aeeabfc39163885f" title="do_sasl" alt="" coords="313,49,380,76"/>
+<area shape="rect" id="node6" href="$d2/d9f/pt__tls__client_8c.html#a6754ca153a16e414fae63b4ca6c5e2b1" title="select_and_do_sasl" alt="" coords="483,93,621,120"/>
+<area shape="rect" id="node8" href="$d2/d9f/pt__tls__client_8c.html#a89d0fe5250dd7687c2647a5049a3fba5" title="assess" alt="" coords="684,151,748,177"/>
+<area shape="rect" id="node9" href="$d7/d6a/pt__tls__server_8c.html#acbbf5dff3000a4c419ae30ac62ccda9e" title="read_sasl" alt="" coords="307,201,386,228"/>
+<area shape="rect" id="node13" href="$d7/d6a/pt__tls__server_8c.html#acf26fb32d65a8d6894226aead50152fd" title="read_sasl_mech_selection" alt="" coords="259,252,435,279"/>
+<area shape="rect" id="node4" href="$d2/d9f/pt__tls__client_8c.html#aeb65c394c911cfe99ccf34a5f4bcdfab" title="METHOD" alt="" coords="811,93,891,120"/>
+<area shape="rect" id="node7" href="$d2/d9f/pt__tls__client_8c.html#a428de355d7d97ac7377ef8d11f4a73b2" title="authenticate" alt="" coords="669,93,763,120"/>
+<area shape="rect" id="node10" href="$d7/d6a/pt__tls__server_8c.html#a684d6f661f6c86ca310bb47a93b3c2e7" title="do_sasl" alt="" coords="519,227,585,253"/>
+<area shape="rect" id="node11" href="$d7/d6a/pt__tls__server_8c.html#a7ea8b635513dc7a24eeb92db968b53b2" title="authenticate" alt="" coords="669,227,763,253"/>
+<area shape="rect" id="node12" href="$d7/d6a/pt__tls__server_8c.html#a4ff8e75a9fac70ff900ad8502255d726" title="METHOD" alt="" coords="811,227,891,253"/>
+</map>

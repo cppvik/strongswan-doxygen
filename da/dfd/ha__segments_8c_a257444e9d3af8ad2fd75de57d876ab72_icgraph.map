@@ -1,0 +1,8 @@
+<map id="watchdog" name="watchdog">
+<area shape="rect" id="node2" href="$da/dfd/ha__segments_8c.html#aef914a86f4c59476df8463714ce79bba" title="start_watchdog" alt="" coords="134,31,245,57"/>
+<area shape="rect" id="node3" href="$d0/ddb/group__ha__segments.html#gae186dec5644a7dbad0660436474ab7ef" title="ha_segments_create" alt="" coords="294,5,437,32"/>
+<area shape="rect" id="node7" href="$da/dfd/ha__segments_8c.html#accb7beba9d8f7b541640bb5ce84d8dcc" title="METHOD" alt="" coords="325,56,405,83"/>
+<area shape="rect" id="node4" href="$d2/dbc/ha__plugin_8c.html#ac3b62ac20197d1c242926fae531a3bfa" title="initialize_plugin" alt="" coords="486,5,597,32"/>
+<area shape="rect" id="node5" href="$d2/dbc/ha__plugin_8c.html#ac04b0147cc74be4316f3db3a9aa6b4a6" title="plugin_cb" alt="" coords="645,5,723,32"/>
+<area shape="rect" id="node6" href="$d2/dbc/ha__plugin_8c.html#ab76e28aa86319749526a5d4a267616e2" title="METHOD" alt="" coords="771,5,851,32"/>
+</map>

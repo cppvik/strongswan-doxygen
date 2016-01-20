@@ -1,0 +1,13 @@
+<map id="hosts2traffic" name="hosts2traffic">
+<area shape="rect" id="node2" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a5da7649ce5b04c34b1856c9088e4f873" title="install_sas" alt="" coords="150,31,234,57"/>
+<area shape="rect" id="node12" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a0d1555048566b634c06ba61ce0c50b1a" title="METHOD" alt="" coords="152,81,232,108"/>
+<area shape="rect" id="node3" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a9b76b87fd30d49f2e13c4ceb062a2526" title="install_transport" alt="" coords="283,5,397,32"/>
+<area shape="rect" id="node11" href="$d0/d8e/kernel__wfp__ipsec_8c.html#aef743a375ddbe6cdfa8f20da87917d82" title="install_tunnel" alt="" coords="291,56,389,83"/>
+<area shape="rect" id="node4" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a7820e93904313d83f7bcae8178e4822a" title="install" alt="" coords="445,31,501,57"/>
+<area shape="rect" id="node5" href="$d4/d3d/inactivity__job_8c.html#ae1a8f07a46de52a44dbe2b0f629b268f" title="METHOD" alt="" coords="579,5,659,32"/>
+<area shape="rect" id="node6" href="$d8/dcf/vici__control_8c.html#a109fbee55e088f62e93835de06173387" title="manage_commands" alt="" coords="549,56,688,83"/>
+<area shape="rect" id="node7" href="$d8/dcf/vici__control_8c.html#a63996fa19abd48e2faf63e4fb378ef18" title="METHOD" alt="" coords="761,31,841,57"/>
+<area shape="rect" id="node8" href="$d0/dcb/group__vici__control.html#ga9bb24cf92651f6573ebc2d32f96c2439" title="vici_control_create" alt="" coords="736,81,867,108"/>
+<area shape="rect" id="node9" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="915,81,1007,108"/>
+<area shape="rect" id="node10" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="1056,81,1136,108"/>
+</map>

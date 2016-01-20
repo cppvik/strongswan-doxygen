@@ -1,0 +1,10 @@
+<map id="private_load_tester_creds_t" name="private_load_tester_creds_t">
+<area shape="rect" id="node2" href="$d6/d41/structcertificate__t.html" title="certificate_t" alt="" coords="397,201,488,228"/>
+<area shape="rect" id="node3" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="380,96,487,123"/>
+<area shape="rect" id="node4" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="145,5,212,32"/>
+<area shape="rect" id="node9" href="$d7/d7c/structshared__key__t.html" title="shared_key_t" alt="" coords="5,148,104,175"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="469,5,568,32"/>
+<area shape="rect" id="node10" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="560,148,651,175"/>
+<area shape="rect" id="node6" href="$d0/d6f/structpublic__key__t.html" title="public_key_t" alt="" coords="174,96,268,123"/>
+<area shape="rect" id="node7" href="$d5/d9e/structprivate__key__t.html" title="private_key_t" alt="" coords="125,201,224,228"/>
+</map>

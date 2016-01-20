@@ -1,0 +1,12 @@
+<map id="certificates" name="certificates">
+<area shape="rect" id="node1" href="$d8/d88/group__certificate.html" title="certificate" alt="" coords="291,5,370,32"/>
+<area shape="rect" id="node2" href="$d4/dde/group__crl.html" title="crl" alt="" coords="311,56,350,83"/>
+<area shape="rect" id="node3" href="$d8/d56/group__ocsp__request.html" title="ocsp_request" alt="" coords="281,107,381,133"/>
+<area shape="rect" id="node4" href="$d9/d75/group__credentials.html" title="credentials" alt="" coords="5,208,91,235"/>
+<area shape="rect" id="node5" href="$d7/d56/group__x509.html" title="x509" alt="" coords="305,157,356,184"/>
+<area shape="rect" id="node6" href="$d3/d89/group__pubkey__cert.html" title="pubkey_cert" alt="" coords="284,208,377,235"/>
+<area shape="rect" id="node7" href="$d3/dc1/group__ocsp__response.html" title="ocsp_response" alt="" coords="275,259,386,285"/>
+<area shape="rect" id="node8" href="$db/d14/group__ac.html" title="ac" alt="" coords="311,309,350,336"/>
+<area shape="rect" id="node9" href="$d4/d90/group__req.html" title="req" alt="" coords="311,360,351,387"/>
+<area shape="rect" id="node11" href="$d1/dbb/group__pgp__certificate.html" title="pgp_certificate" alt="" coords="277,411,384,437"/>
+</map>

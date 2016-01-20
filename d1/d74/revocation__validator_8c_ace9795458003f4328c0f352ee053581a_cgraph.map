@@ -1,0 +1,27 @@
+<map id="check_delta_crl" name="check_delta_crl">
+<area shape="rect" id="node2" href="$d1/d74/revocation__validator_8c.html#aa178566d69fb0ebc680b3fe894874140" title="fetch_crl" alt="" coords="388,16,460,43"/>
+<area shape="rect" id="node5" href="$d1/d74/revocation__validator_8c.html#a3a2dca1edd57fc29a9395643c03232b0" title="find_crl" alt="" coords="205,67,269,93"/>
+<area shape="rect" id="node6" href="$d1/d74/revocation__validator_8c.html#a5411220d2b37bd5348d97f10afac9cff" title="get_better_crl" alt="" coords="373,107,475,133"/>
+<area shape="rect" id="node23" href="$d5/d8d/group__identification.html#gaaf048646417f796b2b49277141f1cd40" title="identification_create\l_from_encoding" alt="" coords="168,179,307,221"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="550,5,637,32"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="741,5,785,32"/>
+<area shape="rect" id="node7" href="$d4/d87/group__chunk.html#gae6aabf03218cda073ab2173e02bff4ba" title="chunk_equals" alt="" coords="542,56,645,83"/>
+<area shape="rect" id="node9" href="$d1/d74/revocation__validator_8c.html#aa81526056c68fe831b2c12088416281e" title="verify_crl" alt="" coords="556,107,631,133"/>
+<area shape="rect" id="node10" href="$d4/dde/group__crl.html#gae3012cb1c195a41035515daf001ff24c" title="crl_is_newer" alt="" coords="546,157,641,184"/>
+<area shape="rect" id="node8" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="730,56,795,83"/>
+<area shape="rect" id="node11" href="$d4/d87/group__chunk.html#ga6e1d4f9e668eb4d0e98fd1861e6f774b" title="chunk_compare" alt="" coords="705,132,820,159"/>
+<area shape="rect" id="node22" href="$d8/d88/group__certificate.html#gab6b334d923dcd396c3efcdff3270f285" title="certificate_is_newer" alt="" coords="693,183,832,209"/>
+<area shape="rect" id="node12" href="$d9/d7b/settings__lexer_8c.html#a33e91cd0cef6786e9e3a27ac67707207" title="if" alt="" coords="881,132,919,159"/>
+<area shape="rect" id="node13" href="$d9/d7b/settings__lexer_8c.html#a929da0caf3950387991ecbd5e8eef08e" title="settings_parser_ensure\l_buffer_stack" alt="" coords="971,59,1128,101"/>
+<area shape="rect" id="node17" href="$d9/d7b/settings__lexer_8c.html#a7ae01c54e2bcf9fd7a55137fbb2a80ed" title="settings_parser__create\l_buffer" alt="" coords="969,125,1130,166"/>
+<area shape="rect" id="node20" href="$d9/d7b/settings__lexer_8c.html#a33d4f53352a864e4f156061745955b95" title="settings_parser__load\l_buffer_state" alt="" coords="1587,153,1736,194"/>
+<area shape="rect" id="node14" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="1185,71,1330,97"/>
+<area shape="rect" id="node16" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="1179,20,1335,47"/>
+<area shape="rect" id="node15" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1431,47,1491,73"/>
+<area shape="rect" id="node18" href="$d9/d7b/settings__lexer_8c.html#a4386e14dca16b9ec4faef188ba2d8d87" title="settings_parser__init\l_buffer" alt="" coords="1186,125,1329,166"/>
+<area shape="rect" id="node19" href="$d9/d7b/settings__lexer_8c.html#abb6474cb0d8cf8c06c5f0570a0bfe36d" title="settings_parser__flush\l_buffer" alt="" coords="1385,98,1538,139"/>
+<area shape="rect" id="node21" href="$d9/d7b/settings__lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="1434,164,1489,191"/>
+<area shape="rect" id="node24" href="$d6/d2f/identification_8c.html#a2c4638c8ff8771dbda52e0c3b7aac28b" title="identification_create" alt="" coords="355,208,493,235"/>
+<area shape="rect" id="node25" href="$d6/d87/group__utils__i.html#ga9336a4d5728eb7ed977aacaeb8fd2c41" title="return_false" alt="" coords="548,208,639,235"/>
+<area shape="rect" id="node26" href="$d6/d87/group__utils__i.html#ga2cd701fdf8284f1c4c85d3334d5072cf" title="return_true" alt="" coords="551,259,635,285"/>
+</map>

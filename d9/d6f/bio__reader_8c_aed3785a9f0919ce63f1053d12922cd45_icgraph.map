@@ -1,0 +1,14 @@
+<map id="get_ptr_end" name="get_ptr_end">
+<area shape="rect" id="node2" href="$d9/d6f/bio__reader_8c.html#aaee4b3d7fc46d322265bac1334c09ac8" title="read_data_internal" alt="" coords="149,5,277,32"/>
+<area shape="rect" id="node4" href="$d9/d6f/bio__reader_8c.html#a715a580244b6dec613c981bf32d6fd78" title="read_uint16_internal" alt="" coords="144,56,283,83"/>
+<area shape="rect" id="node6" href="$d9/d6f/bio__reader_8c.html#abae7530ad4a307622ec0756ccdc40203" title="read_uint24_internal" alt="" coords="144,107,283,133"/>
+<area shape="rect" id="node8" href="$d9/d6f/bio__reader_8c.html#a1fbb622b37fe77cde41f8e9293d06ad3" title="read_uint32_internal" alt="" coords="144,157,283,184"/>
+<area shape="rect" id="node10" href="$d9/d6f/bio__reader_8c.html#a556ea0a363737abf9eac4a40ca5649fc" title="read_uint64_internal" alt="" coords="144,208,283,235"/>
+<area shape="rect" id="node12" href="$d9/d6f/bio__reader_8c.html#a02f481c42910a4da3cda093eb480acec" title="read_uint8_internal" alt="" coords="148,259,279,285"/>
+<area shape="rect" id="node3" href="$d9/d6f/bio__reader_8c.html#aa594739f4ad075e3d55be419aad104c6" title="METHOD" alt="" coords="331,5,411,32"/>
+<area shape="rect" id="node5" href="$d9/d6f/bio__reader_8c.html#a05645625bdc5d988a54b8e4bfa2f2270" title="METHOD" alt="" coords="331,56,411,83"/>
+<area shape="rect" id="node7" href="$d9/d6f/bio__reader_8c.html#a1b91278e1b9177b8ed2a63452005ca14" title="METHOD" alt="" coords="331,107,411,133"/>
+<area shape="rect" id="node9" href="$d9/d6f/bio__reader_8c.html#a144c5b6844e797ba68091fc5054a313c" title="METHOD" alt="" coords="331,157,411,184"/>
+<area shape="rect" id="node11" href="$d9/d6f/bio__reader_8c.html#a892354244b5d8d7d9bcac90c3c5aa770" title="METHOD" alt="" coords="331,208,411,235"/>
+<area shape="rect" id="node13" href="$d9/d6f/bio__reader_8c.html#a446834037db5ffc7d3c37d320940b16f" title="METHOD" alt="" coords="331,259,411,285"/>
+</map>

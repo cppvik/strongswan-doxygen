@@ -1,0 +1,22 @@
+<map id="mconsole_create" name="mconsole_create">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="683,297,727,324"/>
+<area shape="rect" id="node3" href="$d0/d83/dumm_2main_8c.html#a01131b63acf241e9db91704d89ce15d2" title="idle" alt="" coords="493,28,536,55"/>
+<area shape="rect" id="node5" href="$df/d12/mconsole_8c.html#ad1c16b05dbf272a4d7f58b3fb80157d1" title="setup_console" alt="" coords="176,145,283,172"/>
+<area shape="rect" id="node6" href="$df/d12/mconsole_8c.html#ab883d14e2639906795bede9b52a3fa21" title="wait_bootup" alt="" coords="183,95,275,121"/>
+<area shape="rect" id="node11" href="$df/d12/mconsole_8c.html#aaace3dc3f4c4474339050a3900d089f0" title="wait_for_notify" alt="" coords="176,196,283,223"/>
+<area shape="rect" id="node4" href="$da/d9b/group__windows.html#gaa1124f0d208ff28b7d9cf563ff183e8d" title="sched_yield" alt="" coords="660,28,751,55"/>
+<area shape="rect" id="node7" href="$df/d12/mconsole_8c.html#a251c32cfa402f283bd6349486d9caac0" title="request" alt="" coords="331,145,397,172"/>
+<area shape="rect" id="node9" href="$df/d12/mconsole_8c.html#a99c1d3283d008ef6bfee9c14313c2fc9" title="ignore" alt="" coords="335,44,393,71"/>
+<area shape="rect" id="node10" href="$da/d9b/group__windows.html#gac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="334,95,394,121"/>
+<area shape="rect" id="node8" href="$d1/d14/fetch_8c.html#a17dd1592e9f4ebc44d5126c03a3a9697" title="cb" alt="" coords="686,83,725,109"/>
+<area shape="rect" id="node12" href="$d4/da5/watcher_8c.html#a8f0e10b20c0f4d75132f5af69278c063" title="notify" alt="" coords="337,247,391,273"/>
+<area shape="rect" id="node13" href="$d0/d8f/group__callback__job.html#gadfa6801d50c2e34bb3f9e1c98efe02d0" title="callback_job_create\l_with_prio" alt="" coords="446,130,583,171"/>
+<area shape="rect" id="node15" href="$d4/da5/watcher_8c.html#aa9f8d5f98b20ea9cea8adaa68b6e4ab5" title="notify_async" alt="" coords="467,399,563,425"/>
+<area shape="rect" id="node19" href="$d4/da5/watcher_8c.html#aa35392aaf7997cfd0f06e6bbe86feb73" title="notify_end" alt="" coords="473,297,556,324"/>
+<area shape="rect" id="node21" href="$d6/d87/group__utils__i.html#ga9336a4d5728eb7ed977aacaeb8fd2c41" title="return_false" alt="" coords="469,196,560,223"/>
+<area shape="rect" id="node14" href="$d2/dca/nm__backend_8c.html#a22ea158445c16ed72f5ab270e1dc691b" title="cancel" alt="" coords="675,137,735,164"/>
+<area shape="rect" id="node16" href="$da/dd8/group__thread.html#ga5c78b3b4d797a5e3fd535b81d1120857" title="thread_cleanup_push" alt="" coords="633,399,778,425"/>
+<area shape="rect" id="node17" href="$d4/da5/watcher_8c.html#af07a8ce292029fcffea96da307cbaec9" title="unregister" alt="" coords="666,449,745,476"/>
+<area shape="rect" id="node18" href="$da/dd8/group__thread.html#ga669a6d403cfb4dc30e7a389b3b6cf48b" title="thread_cleanup_pop" alt="" coords="636,348,775,375"/>
+<area shape="rect" id="node20" href="$d4/da5/watcher_8c.html#a555c5ce92a336acef1ff02fb00381924" title="update" alt="" coords="675,247,736,273"/>
+</map>

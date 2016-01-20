@@ -1,0 +1,7 @@
+<map id="poly_update_padded" name="poly_update_padded">
+<area shape="rect" id="node2" href="$db/d0c/chapoly__aead_8c.html#a0080e0e71cdc70e3cf6309259e461224" title="do_decrypt" alt="" coords="326,5,413,32"/>
+<area shape="rect" id="node4" href="$db/d0c/chapoly__aead_8c.html#a5bed3c553093d4fe64e9898332697aea" title="do_encrypt" alt="" coords="326,68,413,95"/>
+<area shape="rect" id="node6" href="$db/d0c/chapoly__aead_8c.html#a903fe1854fa7ddf8bff8dcfa52995aa9" title="poly_head" alt="" coords="195,31,277,57"/>
+<area shape="rect" id="node3" href="$db/d0c/chapoly__aead_8c.html#a73ebf81cfee812341cf430b68047f1d6" title="METHOD" alt="" coords="461,5,541,32"/>
+<area shape="rect" id="node5" href="$db/d0c/chapoly__aead_8c.html#acbed4a66c8dcadaaf8eddf36ee181153" title="METHOD" alt="" coords="461,68,541,95"/>
+</map>

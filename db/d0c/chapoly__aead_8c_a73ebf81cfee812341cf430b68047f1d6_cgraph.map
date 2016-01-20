@@ -1,0 +1,8 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$db/d0c/chapoly__aead_8c.html#a0080e0e71cdc70e3cf6309259e461224" title="do_decrypt" alt="" coords="142,81,229,108"/>
+<area shape="rect" id="node7" href="$dd/d74/group__memory__i.html#gaf513a161cbe0ba0964578ee21ca4263b" title="memeq_const" alt="" coords="133,132,237,159"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#ga626ccab6ae07e9f256c331aece0633e6" title="memxor" alt="" coords="292,5,361,32"/>
+<area shape="rect" id="node4" href="$db/d0c/chapoly__aead_8c.html#a903fe1854fa7ddf8bff8dcfa52995aa9" title="poly_head" alt="" coords="286,56,367,83"/>
+<area shape="rect" id="node5" href="$db/d0c/chapoly__aead_8c.html#ade3eabbfa6a0b4dbd8b9630ddedc6932" title="poly_update_padded" alt="" coords="416,81,557,108"/>
+<area shape="rect" id="node6" href="$db/d0c/chapoly__aead_8c.html#a1888965b87d8ab1bfa0159a6b1481f2f" title="poly_tail" alt="" coords="291,157,362,184"/>
+</map>

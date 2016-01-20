@@ -1,0 +1,21 @@
+<map id="swid_inventory_create" name="swid_inventory_create">
+<area shape="rect" id="node2" href="$d3/de6/imc__swid_8c.html#a9f43dc74dc35a76a413fcf4fd412f390" title="add_swid_inventory" alt="" coords="441,98,578,124"/>
+<area shape="rect" id="node6" href="$df/d33/tcg__swid__attr__tag__id__inv_8c.html#a6e41805e00205216150b24b09691ba6c" title="METHOD" alt="" coords="249,39,329,66"/>
+<area shape="rect" id="node7" href="$d6/d25/group__tcg__swid__attr__req.html#gae87e25db0010b2eaee741f6eeec37338" title="tcg_swid_attr_req_create" alt="" coords="205,222,373,248"/>
+<area shape="rect" id="node9" href="$d6/d25/group__tcg__swid__attr__req.html#ga879e4203fa36f37c64a31c0b1221ef86" title="tcg_swid_attr_req_create\l_from_data" alt="" coords="205,273,373,314"/>
+<area shape="rect" id="node17" href="$db/d32/group__tcg__swid__attr__tag__id__inv.html#gadb2665beb519c66ebdf4eb8cb4af386d" title="tcg_swid_attr_tag_id\l_inv_create" alt="" coords="218,90,361,132"/>
+<area shape="rect" id="node18" href="$db/d32/group__tcg__swid__attr__tag__id__inv.html#ga144a4b8bdf552a8d27a020c9a336a04e" title="tcg_swid_attr_tag_id\l_inv_create_from_data" alt="" coords="212,338,367,380"/>
+<area shape="rect" id="node19" href="$d6/d47/group__tcg__swid__attr__tag__inv.html#ga6ea96ee60f35a79937e16782f92420da" title="tcg_swid_attr_tag_inv\l_create" alt="" coords="215,156,364,197"/>
+<area shape="rect" id="node20" href="$d6/d47/group__tcg__swid__attr__tag__inv.html#ga17b4bc970037ca3e6bcc6fbb13a84ba6" title="tcg_swid_attr_tag_inv\l_create_from_data" alt="" coords="215,404,364,445"/>
+<area shape="rect" id="node3" href="$d3/de6/imc__swid_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="646,98,770,124"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="833,72,1023,99"/>
+<area shape="rect" id="node5" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="819,123,1037,150"/>
+<area shape="rect" id="node8" href="$db/d4a/imv__swid__agent_8c.html#a9c4f54eae7531f4e3435d5d9b5c5e62e" title="METHOD" alt="" coords="469,222,549,248"/>
+<area shape="rect" id="node10" href="$dc/db5/group__tcg__attr.html#gab9831529026993369a7ef4538d09cd13" title="tcg_attr_create_from_data" alt="" coords="422,346,597,372"/>
+<area shape="rect" id="node11" href="$d0/d9e/group__libimcv.html#ga1a2bc69328f409c080b8814e28972ecf" title="libimcv_init" alt="" coords="665,346,751,372"/>
+<area shape="rect" id="node12" href="$da/df6/group__imc__agent__t.html#ga4e3d8335be0a5db3f9057bbe23ce97e1" title="imc_agent_create" alt="" coords="865,270,991,296"/>
+<area shape="rect" id="node14" href="$dd/dd4/group__imv__agent__t.html#ga207ef25d8bf8c613ac61d089d0874d9b" title="imv_agent_create" alt="" coords="865,320,991,347"/>
+<area shape="rect" id="node15" href="$da/d03/attest_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="903,371,953,398"/>
+<area shape="rect" id="node16" href="$df/da3/test__imcv__seg_8c.html#ac72d7ad0385a61efdaf1d769d5b7da2b" title="START_TEST" alt="" coords="875,422,981,448"/>
+<area shape="rect" id="node13" href="$de/d10/group__tncifimc.html#ga6a4653276d3fc1d46b7703d41a2dc5b5" title="TNC_IMC_Initialize" alt="" coords="1086,270,1223,296"/>
+</map>

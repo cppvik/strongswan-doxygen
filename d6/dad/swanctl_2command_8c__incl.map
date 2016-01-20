@@ -1,0 +1,37 @@
+<map id="command.c" name="command.c">
+<area shape="rect" id="node2" href="$d5/d54/swanctl_2command_8h.html" title="command.h" alt="" coords="1800,80,1891,107"/>
+<area shape="rect" id="node5" href="$dd/d08/library_8h.html" title="library.h" alt="" coords="1811,155,1879,181"/>
+<area shape="rect" id="node12" href="$da/d66/string_8h.html" title="string.h" alt="" coords="2650,469,2715,496"/>
+<area shape="rect" id="node46" href="$db/d16/debug_8h.html" title="utils/debug.h" alt="" coords="755,320,851,347"/>
+<area shape="rect" id="node50" href="$d9/d28/optionsfrom_8h.html" title="utils/optionsfrom.h" alt="" coords="3510,80,3639,107"/>
+<area shape="rect" id="node3" href="$db/d8b/libvici_8h.html" title="libvici.h" alt="" coords="907,155,973,181"/>
+<area shape="rect" id="node6" href="$dc/d6a/printf__hook_8h.html" title="utils/printf_hook/printf\l_hook.h" alt="" coords="2791,545,2937,586"/>
+<area shape="rect" id="node8" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="1691,395,1776,421"/>
+<area shape="rect" id="node28" href="$d2/d0c/host__resolver_8h.html" title="networking/host_resolver.h" alt="" coords="1895,237,2073,264"/>
+<area shape="rect" id="node29" href="$d7/d82/stream__manager_8h.html" title="networking/streams\l/stream_manager.h" alt="" coords="2097,230,2232,271"/>
+<area shape="rect" id="node30" href="$d9/d99/processor_8h.html" title="processing/processor.h" alt="" coords="1993,320,2151,347"/>
+<area shape="rect" id="node31" href="$d2/dd8/scheduler_8h.html" title="processing/scheduler.h" alt="" coords="2258,237,2413,264"/>
+<area shape="rect" id="node32" href="$dd/d33/watcher_8h.html" title="processing/watcher.h" alt="" coords="2439,237,2585,264"/>
+<area shape="rect" id="node33" href="$d4/d1b/crypto__factory_8h.html" title="crypto/crypto_factory.h" alt="" coords="2610,237,2765,264"/>
+<area shape="rect" id="node34" href="$d3/dc3/proposal__keywords_8h.html" title="crypto/proposal/proposal\l_keywords.h" alt="" coords="2790,230,2953,271"/>
+<area shape="rect" id="node35" href="$d3/db8/fetcher__manager_8h.html" title="fetcher/fetcher_manager.h" alt="" coords="2978,237,3152,264"/>
+<area shape="rect" id="node36" href="$d0/d65/resolver__manager_8h.html" title="resolver/resolver_manager.h" alt="" coords="144,237,331,264"/>
+<area shape="rect" id="node37" href="$d7/db6/database__factory_8h.html" title="database/database_factory.h" alt="" coords="355,237,545,264"/>
+<area shape="rect" id="node38" href="$d3/dc9/credential__factory_8h.html" title="credentials/credential\l_factory.h" alt="" coords="570,230,715,271"/>
+<area shape="rect" id="node39" href="$d1/db3/credential__manager_8h.html" title="credentials/credential\l_manager.h" alt="" coords="739,230,884,271"/>
+<area shape="rect" id="node40" href="$d6/d2f/cred__encoding_8h.html" title="credentials/cred_encoding.h" alt="" coords="909,237,1093,264"/>
+<area shape="rect" id="node41" href="$dd/dd5/chunk_8h.html" title="utils/chunk.h" alt="" coords="1873,320,1969,347"/>
+<area shape="rect" id="node42" href="$d8/d14/capabilities_8h.html" title="utils/capabilities.h" alt="" coords="1118,237,1244,264"/>
+<area shape="rect" id="node43" href="$df/d43/integrity__checker_8h.html" title="utils/integrity_checker.h" alt="" coords="1484,320,1643,347"/>
+<area shape="rect" id="node44" href="$de/d86/leak__detective_8h.html" title="utils/leak_detective.h" alt="" coords="1269,237,1413,264"/>
+<area shape="rect" id="node45" href="$de/db6/plugin__loader_8h.html" title="plugins/plugin_loader.h" alt="" coords="1439,237,1592,264"/>
+<area shape="rect" id="node47" href="$de/d60/settings_8h.html" title="settings/settings.h" alt="" coords="1719,320,1848,347"/>
+<area shape="rect" id="node20" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="884,469,977,496"/>
+<area shape="rect" id="node21" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="1909,469,1973,496"/>
+<area shape="rect" id="node22" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="1001,469,1108,496"/>
+<area shape="rect" id="node23" href="$d1/ddf/align_8h.html" title="utils/align.h" alt="" coords="1132,469,1220,496"/>
+<area shape="rect" id="node24" href="$d5/d17/byteorder_8h.html" title="utils/byteorder.h" alt="" coords="1244,469,1359,496"/>
+<area shape="rect" id="node25" href="$dc/d18/memory_8h.html" title="utils/memory.h" alt="" coords="1383,469,1491,496"/>
+<area shape="rect" id="node26" href="$d9/dd1/strerror_8h.html" title="utils/strerror.h" alt="" coords="1515,469,1617,496"/>
+<area shape="rect" id="node27" href="$d1/d13/status_8h.html" title="utils/status.h" alt="" coords="1642,469,1739,496"/>
+</map>

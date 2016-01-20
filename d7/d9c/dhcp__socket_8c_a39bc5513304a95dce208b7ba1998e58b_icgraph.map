@@ -1,0 +1,12 @@
+<map id="send_dhcp" name="send_dhcp">
+<area shape="rect" id="node2" href="$d7/d9c/dhcp__socket_8c.html#abf4151ba824edec81b317bbc4ca3eec5" title="discover" alt="" coords="143,107,214,133"/>
+<area shape="rect" id="node9" href="$d7/d9c/dhcp__socket_8c.html#a5d7b039ac706205ae357f797482662c6" title="METHOD" alt="" coords="139,157,219,184"/>
+<area shape="rect" id="node10" href="$d7/d9c/dhcp__socket_8c.html#af48ca5478752e05491994395168af201" title="request" alt="" coords="146,56,211,83"/>
+<area shape="rect" id="node3" href="$d7/d9c/dhcp__socket_8c.html#a9121cb2edebb11210fc2bab1bcd05339" title="handle_offer" alt="" coords="267,107,360,133"/>
+<area shape="rect" id="node8" href="$d7/d9c/dhcp__socket_8c.html#afa44dd6e92d10083cecf3ff5718efe88" title="METHOD" alt="" coords="273,56,353,83"/>
+<area shape="rect" id="node4" href="$d7/d9c/dhcp__socket_8c.html#a1787e3b02a30bd48b0d1a953c7c3643d" title="receive_dhcp" alt="" coords="408,56,507,83"/>
+<area shape="rect" id="node5" href="$d5/dcb/group__dhcp__socket.html#ga9a7544edfbcbc54c6890592fcd674504" title="dhcp_socket_create" alt="" coords="555,56,693,83"/>
+<area shape="rect" id="node6" href="$df/da0/dhcp__plugin_8c.html#a4d463038ce5b1946f5e7f959ec9420cd" title="plugin_cb" alt="" coords="741,56,819,83"/>
+<area shape="rect" id="node7" href="$df/da0/dhcp__plugin_8c.html#aba3f8ed40ce4bb383ee09193bc544dac" title="METHOD" alt="" coords="867,56,947,83"/>
+<area shape="rect" id="node11" href="$d7/d9c/dhcp__socket_8c.html#aaca9c982b6e2f9557a3a4d86b6b2306e" title="handle_ack" alt="" coords="269,5,357,32"/>
+</map>

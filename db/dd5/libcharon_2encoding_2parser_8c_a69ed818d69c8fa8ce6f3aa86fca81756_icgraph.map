@@ -1,0 +1,13 @@
+<map id="bad_bitpos" name="bad_bitpos">
+<area shape="rect" id="node2" href="$db/dd5/libcharon_2encoding_2parser_8c.html#a1c7a1a4003f57c7e7a3a19ddf649e5f5" title="parse_bytes" alt="" coords="140,5,233,32"/>
+<area shape="rect" id="node5" href="$db/dd5/libcharon_2encoding_2parser_8c.html#a07559cef87293dd289a35e26c6104dfe" title="parse_chunk" alt="" coords="139,56,235,83"/>
+<area shape="rect" id="node6" href="$db/dd5/libcharon_2encoding_2parser_8c.html#ad787af0aa265c0b10cdd45a55fea5299" title="parse_list" alt="" coords="147,107,226,133"/>
+<area shape="rect" id="node7" href="$db/dd5/libcharon_2encoding_2parser_8c.html#acad37d70fb140475760a05ebb99efad2" title="parse_uint15" alt="" coords="139,157,235,184"/>
+<area shape="rect" id="node8" href="$db/dd5/libcharon_2encoding_2parser_8c.html#af592a0afdf447f150c96c8fcf3c8a2fe" title="parse_uint16" alt="" coords="139,208,235,235"/>
+<area shape="rect" id="node9" href="$db/dd5/libcharon_2encoding_2parser_8c.html#ac03a0ad92a23187221bc0ab2a5402127" title="parse_uint32" alt="" coords="139,360,235,387"/>
+<area shape="rect" id="node11" href="$db/dd5/libcharon_2encoding_2parser_8c.html#aa00509577fa90b101f469757f8ded73e" title="parse_uint4" alt="" coords="142,259,231,285"/>
+<area shape="rect" id="node12" href="$db/dd5/libcharon_2encoding_2parser_8c.html#a2675fcfa6ef75f1531a0ecc8ab43420d" title="parse_uint8" alt="" coords="142,309,231,336"/>
+<area shape="rect" id="node3" href="$db/dd5/libcharon_2encoding_2parser_8c.html#a90930bed63cf51b0e4d8b09b5bd558e3" title="METHOD" alt="" coords="289,183,369,209"/>
+<area shape="rect" id="node4" href="$da/de3/vici__config_8c.html#aea7056164d8535670844fe9384d1f9d9" title="CALLBACK" alt="" coords="283,5,375,32"/>
+<area shape="rect" id="node10" href="$da/de3/vici__config_8c.html#a9b92cb5cdafb60f9ca1d9b30066c036e" title="CALLBACK" alt="" coords="283,360,375,387"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="handle_token" name="handle_token">
+<area shape="rect" id="node2" href="$dc/d89/pkcs11__manager_8c.html#aeeeaa5fa94025e61b19e5594845c5a1e" title="handle_slot" alt="" coords="152,31,240,57"/>
+<area shape="rect" id="node3" href="$dc/d89/pkcs11__manager_8c.html#abe509bbaf40eb81fee2daa75475f94b9" title="dispatch_slot_events" alt="" coords="289,5,434,32"/>
+<area shape="rect" id="node6" href="$dc/d89/pkcs11__manager_8c.html#af2e1fd9d735dd24ac36e25ca9a5d6569" title="query_slots" alt="" coords="317,56,406,83"/>
+<area shape="rect" id="node4" href="$de/dc4/group__pkcs11__manager.html#ga5f57b5de769280411ba58f204d4ac145" title="pkcs11_manager_create" alt="" coords="483,31,647,57"/>
+<area shape="rect" id="node5" href="$d5/da4/pkcs11__plugin_8c.html#a72409a3834b3c33ca44e2e35755183c0" title="pkcs11_plugin_create" alt="" coords="697,31,845,57"/>
+</map>

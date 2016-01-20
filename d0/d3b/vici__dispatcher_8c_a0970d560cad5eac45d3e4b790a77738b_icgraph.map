@@ -1,0 +1,7 @@
+<map id="send_op" name="send_op">
+<area shape="rect" id="node2" href="$d0/d3b/vici__dispatcher_8c.html#a2ae5a2ab2ff99bd17028e3902c1c3e9d" title="METHOD" alt="" coords="145,5,225,32"/>
+<area shape="rect" id="node3" href="$d0/d3b/vici__dispatcher_8c.html#ad48511ec7ae11f4e95332249d8968317" title="process_request" alt="" coords="126,56,245,83"/>
+<area shape="rect" id="node5" href="$d0/d3b/vici__dispatcher_8c.html#a9dd529c3a9624ddf571ef547041666b3" title="register_event" alt="" coords="133,107,237,133"/>
+<area shape="rect" id="node6" href="$d0/d3b/vici__dispatcher_8c.html#aa6234756e81ffec1fa57bfff666be31c" title="unregister_event" alt="" coords="126,157,245,184"/>
+<area shape="rect" id="node4" href="$d0/d3b/vici__dispatcher_8c.html#a6978e66eb13f1e6e4033c91bbe58beb5" title="CALLBACK" alt="" coords="294,107,386,133"/>
+</map>

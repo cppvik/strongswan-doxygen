@@ -1,0 +1,6 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="134,5,234,32"/>
+<area shape="rect" id="node3" href="$dd/d8e/rdrand__rng_8c.html#acfc503de8a4503fa726ae9d2cbb8ff6f" title="reseed" alt="" coords="153,56,215,83"/>
+<area shape="rect" id="node5" href="$da/dde/ntru__drbg_8c.html#a898b7321e5066506097b3c439401ae00" title="update" alt="" coords="153,107,215,133"/>
+<area shape="rect" id="node4" href="$dd/d8e/rdrand__rng_8c.html#ac74e692a30958675c10eea4460b85a8c" title="rdrand32" alt="" coords="283,56,355,83"/>
+</map>

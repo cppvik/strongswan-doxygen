@@ -1,0 +1,8 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$dc/d29/mysql__database_8c.html#af72c89f68bd3140d670c1ad41ea1a06a" title="conn_get" alt="" coords="145,31,220,57"/>
+<area shape="rect" id="node6" href="$dc/d29/mysql__database_8c.html#af5d393a941d7763953f9e664024723c6" title="conn_release" alt="" coords="133,81,232,108"/>
+<area shape="rect" id="node7" href="$d0/de0/group__atomics__i.html#ga34879d8b38ea6a9f3413a100b181bf53" title="ref_get" alt="" coords="151,132,214,159"/>
+<area shape="rect" id="node3" href="$dc/d29/mysql__database_8c.html#af8abf634cb7d2a861f9f0185cdc31486" title="conn_destroy" alt="" coords="286,5,386,32"/>
+<area shape="rect" id="node5" href="$dc/d29/mysql__database_8c.html#ad536e0427d92a74db979af2320010b54" title="thread_initialize" alt="" coords="280,56,392,83"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="441,5,485,32"/>
+</map>

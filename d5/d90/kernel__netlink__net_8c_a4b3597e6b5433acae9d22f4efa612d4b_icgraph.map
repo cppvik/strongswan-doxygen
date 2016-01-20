@@ -1,0 +1,14 @@
+<map id="iface_entry_up" name="iface_entry_up">
+<area shape="rect" id="node2" href="$d5/d90/kernel__netlink__net_8c.html#aa52f2cdfb0ddf0864d2808f1e96af8f6" title="addr_map_entry_match_up" alt="" coords="160,7,339,33"/>
+<area shape="rect" id="node4" href="$d5/d90/kernel__netlink__net_8c.html#a1db8c558ca19629f217439383b872e11" title="iface_entry_up_and\l_usable" alt="" coords="182,90,317,131"/>
+<area shape="rect" id="node3" href="$d5/d90/kernel__netlink__net_8c.html#a18c40e636c29feb4db892474af62edb0" title="METHOD" alt="" coords="607,5,687,32"/>
+<area shape="rect" id="node5" href="$d5/d90/kernel__netlink__net_8c.html#af29ddd9c2b58f1a5d0bf38ed6ac2b718" title="addr_map_entry_match\l_up_and_usable" alt="" coords="387,41,546,82"/>
+<area shape="rect" id="node6" href="$d5/d90/kernel__netlink__net_8c.html#a5380f306f77b51da4bb8012386d5920e" title="is_interface_up_and\l_usable" alt="" coords="397,106,536,147"/>
+<area shape="rect" id="node13" href="$d5/d90/kernel__netlink__net_8c.html#a6171ad9e6cb4f8e8abc248a8e14182ca" title="init_address_list" alt="" coords="747,172,863,199"/>
+<area shape="rect" id="node7" href="$d5/d90/kernel__netlink__net_8c.html#aa4ee1f950fc5de3ab43335aebf95aeed" title="process_route" alt="" coords="595,71,699,97"/>
+<area shape="rect" id="node11" href="$d5/d90/kernel__netlink__net_8c.html#add8ea34240fa67be8682f623e7b61891" title="get_route" alt="" coords="609,121,685,148"/>
+<area shape="rect" id="node8" href="$d5/d90/kernel__netlink__net_8c.html#aadc72ac0ee4c3eee050dcde86c5230d6" title="receive_events" alt="" coords="750,71,861,97"/>
+<area shape="rect" id="node9" href="$d5/dbb/group__kernel__netlink__net__i.html#ga085e463746e0ef5b2537f94dee888bb3" title="kernel_netlink_net\l_create" alt="" coords="913,114,1039,155"/>
+<area shape="rect" id="node10" href="$da/d4c/kernel__netlink__plugin_8c.html#afff6cb796b37dd206b1f16ec44e924d0" title="METHOD" alt="" coords="1088,121,1168,148"/>
+<area shape="rect" id="node12" href="$d5/d90/kernel__netlink__net_8c.html#a427a6e01d6e9699d3396211dabe5fdbb" title="METHOD" alt="" coords="765,121,845,148"/>
+</map>

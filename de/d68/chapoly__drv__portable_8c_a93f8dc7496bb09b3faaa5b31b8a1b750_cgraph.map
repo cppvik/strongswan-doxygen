@@ -1,0 +1,9 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$de/d68/chapoly__drv__portable_8c.html#a04184376ed937542f6b39e22298a9d8a" title="chacha_block_xor" alt="" coords="134,56,261,83"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="158,107,237,133"/>
+<area shape="rect" id="node8" href="$de/d68/chapoly__drv__portable_8c.html#a3325885e1dde736ba6eda798871544b9" title="uletoh32" alt="" coords="162,157,233,184"/>
+<area shape="rect" id="node3" href="$de/d68/chapoly__drv__portable_8c.html#a1dda4e6d59a04b7378d48b8b8404322a" title="rotl32" alt="" coords="347,5,402,32"/>
+<area shape="rect" id="node4" href="$de/d68/chapoly__drv__portable_8c.html#acb79a0919e9d44b2a9bc63d9cfe1436a" title="xor32u" alt="" coords="344,56,405,83"/>
+<area shape="rect" id="node6" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="488,132,603,159"/>
+<area shape="rect" id="node7" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="310,157,439,184"/>
+</map>

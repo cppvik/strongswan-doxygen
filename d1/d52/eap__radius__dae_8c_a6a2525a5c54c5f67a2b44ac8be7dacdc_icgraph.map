@@ -1,0 +1,17 @@
+<map id="send_response" name="send_response">
+<area shape="rect" id="node2" href="$d1/d52/eap__radius__dae_8c.html#a55f6ff41898fd7c9dc3dcc70bf15f1af" title="process_coa" alt="" coords="187,56,283,83"/>
+<area shape="rect" id="node14" href="$d1/d52/eap__radius__dae_8c.html#a4eb197bec814c7db73ce76339104ccdb" title="process_disconnect" alt="" coords="165,107,304,133"/>
+<area shape="rect" id="node15" href="$dd/d65/task__manager__v1_8c.html#a59c7285b6e10f3a3ac399f08a50bc59d" title="process_request" alt="" coords="175,157,294,184"/>
+<area shape="rect" id="node3" href="$d1/d52/eap__radius__dae_8c.html#a197338cad946b2dd3c3e6d751ee66bf8" title="receive" alt="" coords="360,81,424,108"/>
+<area shape="rect" id="node4" href="$d5/dcb/group__dhcp__socket.html#ga9a7544edfbcbc54c6890592fcd674504" title="dhcp_socket_create" alt="" coords="489,5,628,32"/>
+<area shape="rect" id="node7" href="$d1/db7/group__eap__radius__dae.html#ga194870382a0fc028739b146d5e59627a" title="eap_radius_dae_create" alt="" coords="481,56,637,83"/>
+<area shape="rect" id="node10" href="$d1/d74/revocation__validator_8c.html#a2fb04f8dee889356b88a31c221a092ea" title="fetch_ocsp" alt="" coords="515,107,602,133"/>
+<area shape="rect" id="node13" href="$d7/d9c/dhcp__socket_8c.html#aabce5046a77a10beebdeb94f019d7171" title="METHOD" alt="" coords="519,157,599,184"/>
+<area shape="rect" id="node5" href="$df/da0/dhcp__plugin_8c.html#a4d463038ce5b1946f5e7f959ec9420cd" title="plugin_cb" alt="" coords="693,5,771,32"/>
+<area shape="rect" id="node6" href="$df/da0/dhcp__plugin_8c.html#aba3f8ed40ce4bb383ee09193bc544dac" title="METHOD" alt="" coords="827,5,907,32"/>
+<area shape="rect" id="node8" href="$d3/de7/eap__radius__plugin_8c.html#abd3973b01f8d04957f7a3fc8e88fd716" title="plugin_cb" alt="" coords="693,56,771,83"/>
+<area shape="rect" id="node9" href="$d3/de7/eap__radius__plugin_8c.html#a45ad894365a8157f1d82bb26f26f5f8e" title="METHOD" alt="" coords="827,56,907,83"/>
+<area shape="rect" id="node11" href="$d1/d74/revocation__validator_8c.html#ae83d089d797a1ee3cc4040c6af2a008b" title="check_ocsp" alt="" coords="686,107,778,133"/>
+<area shape="rect" id="node12" href="$d1/d74/revocation__validator_8c.html#a1072f3fa297c4b025acb50c7aea35d3f" title="METHOD" alt="" coords="827,107,907,133"/>
+<area shape="rect" id="node16" href="$dd/d65/task__manager__v1_8c.html#a07ec61bf95a7a5b12b888a1945587189" title="METHOD" alt="" coords="352,157,432,184"/>
+</map>

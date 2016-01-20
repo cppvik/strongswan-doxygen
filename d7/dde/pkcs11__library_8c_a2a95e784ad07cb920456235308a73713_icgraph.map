@@ -1,0 +1,14 @@
+<map id="LockMutex" name="LockMutex">
+<area shape="rect" id="node2" href="$d7/dde/pkcs11__library_8c.html#a67272368d8aeabb35052c07f39b89bc3" title="initialize" alt="" coords="141,115,211,141"/>
+<area shape="rect" id="node3" href="$db/d7a/group__pkcs11__library.html#ga713597e8717962912713e6e0c603b21e" title="pkcs11_library_create" alt="" coords="259,5,408,32"/>
+<area shape="rect" id="node6" href="$db/d29/group__tnc__imc__t.html#gaa118d2c187654fd19e5205e364216732" title="tnc_imc_create" alt="" coords="278,56,389,83"/>
+<area shape="rect" id="node8" href="$db/d29/group__tnc__imc__t.html#ga1aadfae10874fbf9639d364adb86f501" title="tnc_imc_create_from\l_functions" alt="" coords="261,107,405,149"/>
+<area shape="rect" id="node10" href="$df/df4/group__tnc__imv__t.html#ga172b64fb82d78a3e59e686ee11798786" title="tnc_imv_create" alt="" coords="278,173,389,200"/>
+<area shape="rect" id="node12" href="$df/df4/group__tnc__imv__t.html#ga83085ac061561ba131b79f151fdc0a2f" title="tnc_imv_create_from\l_functions" alt="" coords="261,225,405,266"/>
+<area shape="rect" id="node4" href="$de/dc4/group__pkcs11__manager.html#ga5f57b5de769280411ba58f204d4ac145" title="pkcs11_manager_create" alt="" coords="457,5,621,32"/>
+<area shape="rect" id="node5" href="$d5/da4/pkcs11__plugin_8c.html#a72409a3834b3c33ca44e2e35755183c0" title="pkcs11_plugin_create" alt="" coords="670,5,818,32"/>
+<area shape="rect" id="node7" href="$dd/d14/tnc__imc__manager_8c.html#a651f12379ad8d0fa9486450e77141537" title="METHOD" alt="" coords="499,56,579,83"/>
+<area shape="rect" id="node9" href="$dd/d14/tnc__imc__manager_8c.html#ae93e556cd1f432e126a533002156aca9" title="METHOD" alt="" coords="499,115,579,141"/>
+<area shape="rect" id="node11" href="$d6/d24/tnc__imv__manager_8c.html#a7e167780c0a6346fb985af83e1f0e24e" title="METHOD" alt="" coords="499,173,579,200"/>
+<area shape="rect" id="node13" href="$d6/d24/tnc__imv__manager_8c.html#ae48e4e9ae50c2f8a57d0c4dc3b5bee5a" title="METHOD" alt="" coords="499,232,579,259"/>
+</map>

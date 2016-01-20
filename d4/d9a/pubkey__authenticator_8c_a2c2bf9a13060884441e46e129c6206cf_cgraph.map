@@ -1,0 +1,8 @@
+<map id="parse_signature_auth_data" name="parse_signature_auth_data">
+<area shape="rect" id="node2" href="$d0/da0/group__asn1i.html#gaf1c57c55e55ab24f59c66c8458d53cbb" title="asn1_parse_algorithmIdentifier" alt="" coords="233,31,431,57"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="288,81,376,108"/>
+<area shape="rect" id="node6" href="$de/d2a/group__public__key.html#gab3e63075b6e3f50347f1980b49640b08" title="key_type_from_signature\l_scheme" alt="" coords="248,133,416,174"/>
+<area shape="rect" id="node7" href="$de/d2a/group__public__key.html#gacede6f4c9bd2f7dc2b7d7f6d39a7d137" title="signature_scheme_from_oid" alt="" coords="239,199,425,225"/>
+<area shape="rect" id="node3" href="$d7/d02/group__asn1__parser.html#ga47a3b18337597a4a9623d7b5af35ddcf" title="asn1_parser_create" alt="" coords="480,5,616,32"/>
+<area shape="rect" id="node4" href="$d0/da0/group__asn1i.html#ga43e5d526ea5a7032db7f3aa7c011ec10" title="asn1_known_oid" alt="" coords="489,56,607,83"/>
+</map>

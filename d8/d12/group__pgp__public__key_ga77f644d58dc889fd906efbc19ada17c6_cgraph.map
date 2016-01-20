@@ -1,0 +1,12 @@
+<map id="pgp_private_key_load" name="pgp_private_key_load">
+<area shape="rect" id="node2" href="$de/d59/pgp__builder_8c.html#ae9770e7351a6c1e105b5b5fe322e033c" title="parse_private_key" alt="" coords="203,195,331,221"/>
+<area shape="rect" id="node10" href="$de/d59/pgp__builder_8c.html#ae7f980d5ef68cd5b3ebc706f2d072714" title="parse_rsa_private_key" alt="" coords="379,56,533,83"/>
+<area shape="rect" id="node3" href="$de/d59/pgp__builder_8c.html#aeb64f2f54ee4f3629922c53b3c24cba7" title="decrypt_not_allowed" alt="" coords="385,245,527,272"/>
+<area shape="rect" id="node4" href="$dc/d44/group__pgp__utils.html#ga4811eb3d1ef028a3097af10da531203c" title="pgp_read_packet" alt="" coords="395,296,517,323"/>
+<area shape="rect" id="node7" href="$dc/d44/group__pgp__utils.html#gab2b874df688f422610286580837891dd" title="pgp_read_scalar" alt="" coords="784,157,901,184"/>
+<area shape="rect" id="node9" href="$de/d59/pgp__builder_8c.html#a6144f88e712c2e8f65684c4c87f9e871" title="sign_not_allowed" alt="" coords="395,195,517,221"/>
+<area shape="rect" id="node5" href="$d0/d57/pgp__utils_8c.html#a27d356ba8758f8341784076f3f5e4f72" title="pgp_old_packet_length" alt="" coords="581,208,736,235"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="949,183,1037,209"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="793,81,893,108"/>
+<area shape="rect" id="node11" href="$dc/d44/group__pgp__utils.html#gabd2f0df746cbec1ec498ee5f9291d5da" title="pgp_read_mpi" alt="" coords="607,5,710,32"/>
+</map>

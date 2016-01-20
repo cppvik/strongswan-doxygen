@@ -1,0 +1,7 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="151,5,195,32"/>
+<area shape="rect" id="node3" href="$d3/d52/generator_8c.html#a4e2d4fc441a8462c54cff356aa967f82" title="get_size" alt="" coords="138,56,209,83"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="134,107,213,133"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="440,107,555,133"/>
+<area shape="rect" id="node6" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="262,132,391,159"/>
+</map>

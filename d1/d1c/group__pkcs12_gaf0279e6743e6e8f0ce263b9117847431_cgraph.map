@@ -1,0 +1,10 @@
+<map id="pkcs12_derive_key" name="pkcs12_derive_key">
+<area shape="rect" id="node2" href="$d9/dc5/libstrongswan_2credentials_2containers_2pkcs12_8c.html#a9d0a6d46598f5f04bb556319496ca429" title="derive_key" alt="" coords="189,107,275,133"/>
+<area shape="rect" id="node7" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="193,208,271,235"/>
+<area shape="rect" id="node3" href="$d9/dc5/libstrongswan_2credentials_2containers_2pkcs12_8c.html#a97a933de66a19551557f91aa5c7a2d82" title="add_chunks" alt="" coords="342,5,434,32"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="338,56,438,83"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="344,107,432,133"/>
+<area shape="rect" id="node6" href="$d9/dc5/libstrongswan_2credentials_2containers_2pkcs12_8c.html#aa0800b8e84772e92562d8e1528603403" title="copy_chunk" alt="" coords="342,157,434,184"/>
+<area shape="rect" id="node8" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="501,233,616,260"/>
+<area shape="rect" id="node9" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="323,259,453,285"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="printf_hook_glibc.c" name="printf_hook_glibc.c">
+<area shape="rect" id="node2" href="$dc/d6a/printf__hook_8h.html" title="printf_hook.h" alt="" coords="1116,304,1212,331"/>
+<area shape="rect" id="node4" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="1070,155,1155,181"/>
+<area shape="rect" id="node8" href="$da/d66/string_8h.html" title="string.h" alt="" coords="34,229,99,256"/>
+<area shape="rect" id="node28" href="$db/d16/debug_8h.html" title="utils/debug.h" alt="" coords="1070,80,1166,107"/>
+<area shape="rect" id="node16" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="1014,229,1107,256"/>
+<area shape="rect" id="node17" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="1132,229,1196,256"/>
+<area shape="rect" id="node18" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="1222,229,1328,256"/>
+<area shape="rect" id="node19" href="$d1/ddf/align_8h.html" title="utils/align.h" alt="" coords="1352,229,1440,256"/>
+<area shape="rect" id="node20" href="$d5/d17/byteorder_8h.html" title="utils/byteorder.h" alt="" coords="1464,229,1579,256"/>
+<area shape="rect" id="node21" href="$dc/d18/memory_8h.html" title="utils/memory.h" alt="" coords="1604,229,1711,256"/>
+<area shape="rect" id="node22" href="$d9/dd1/strerror_8h.html" title="utils/strerror.h" alt="" coords="1736,229,1838,256"/>
+<area shape="rect" id="node23" href="$d1/d13/status_8h.html" title="utils/status.h" alt="" coords="1862,229,1959,256"/>
+<area shape="rect" id="node24" href="$de/d10/object_8h.html" title="utils/object.h" alt="" coords="1984,229,2080,256"/>
+<area shape="rect" id="node25" href="$d7/dd4/path_8h.html" title="utils/path.h" alt="" coords="2105,229,2191,256"/>
+<area shape="rect" id="node26" href="$de/df7/time_8h.html" title="utils/time.h" alt="" coords="2216,229,2302,256"/>
+<area shape="rect" id="node27" href="$dd/d71/tty_8h.html" title="utils/tty.h" alt="" coords="2326,229,2402,256"/>
+</map>

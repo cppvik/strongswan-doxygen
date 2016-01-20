@@ -1,0 +1,28 @@
+<map id="vici_register" name="vici_register">
+<area shape="rect" id="node2" href="$d5/d9c/initiate_8c.html#aeecd779ddb38b77ee9d476c436a1c9e3" title="initiate" alt="" coords="170,31,230,57"/>
+<area shape="rect" id="node4" href="$d4/d90/list__authorities_8c.html#a5f2330de605d1ddd146ec2982de4deca" title="list_authorities" alt="" coords="147,107,253,133"/>
+<area shape="rect" id="node11" href="$d9/d0d/list__certs_8c.html#a4d2e47e2d35a3c7459509a4d79d564e8" title="list_certs" alt="" coords="163,183,237,209"/>
+<area shape="rect" id="node16" href="$d1/dac/list__conns_8c.html#af689627ccca8b0b2a732511c2f7eacbf" title="list_conns" alt="" coords="159,233,241,260"/>
+<area shape="rect" id="node18" href="$d0/d72/list__pols_8c.html#a0cd57409929a6a41a9831850cd4abd55" title="list_pols" alt="" coords="165,335,235,361"/>
+<area shape="rect" id="node20" href="$d8/d2d/list__sas_8c.html#a68d48875c0a8cdf7a6f15c754c361c6f" title="list_sas" alt="" coords="167,284,233,311"/>
+<area shape="rect" id="node22" href="$d7/df8/log_8c.html#aca4ab85afbe938fd357996efadb0120e" title="logcmd" alt="" coords="168,385,232,412"/>
+<area shape="rect" id="node24" href="$d8/d2d/list__sas_8c.html#a1df70b53a76be675f4440b6984552999" title="monitor_sas" alt="" coords="153,436,247,463"/>
+<area shape="rect" id="node25" href="$d6/dca/test__event_8c.html#afe8c30a13467d05abe5f4f9f0961b716" title="START_TEST" alt="" coords="147,487,253,513"/>
+<area shape="rect" id="node26" href="$dc/d5b/terminate_8c.html#a000764679d9dd3ac965e3439fa0d1938" title="terminate" alt="" coords="162,537,238,564"/>
+<area shape="rect" id="node3" href="$d5/d9c/initiate_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,5,419,32"/>
+<area shape="rect" id="node5" href="$d4/d90/list__authorities_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,56,419,83"/>
+<area shape="rect" id="node6" href="$d4/def/vici__authority_8c.html#a6c46969ca476cf42d9a489c13daf995b" title="manage_commands" alt="" coords="301,107,440,133"/>
+<area shape="rect" id="node7" href="$d4/def/vici__authority_8c.html#ac9756fe28c485f630d34491d8ccee7fd" title="METHOD" alt="" coords="520,81,600,108"/>
+<area shape="rect" id="node8" href="$de/d3b/group__vici__authority.html#ga492900251ad3011c0312a3878ec304a4" title="vici_authority_create" alt="" coords="489,132,631,159"/>
+<area shape="rect" id="node9" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="681,157,773,184"/>
+<area shape="rect" id="node10" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="821,157,901,184"/>
+<area shape="rect" id="node12" href="$d9/d0d/list__certs_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,157,419,184"/>
+<area shape="rect" id="node13" href="$d1/d64/vici__query_8c.html#adc8d656d179e09e414052151b6beb059" title="manage_commands" alt="" coords="301,208,440,235"/>
+<area shape="rect" id="node14" href="$d1/d64/vici__query_8c.html#a70b1ab21ab8a7bacd5cd1e6f9b5bcf23" title="METHOD" alt="" coords="520,233,600,260"/>
+<area shape="rect" id="node15" href="$d1/d0b/group__vici__query.html#ga195348ad305c23aed1cf6e9330250c15" title="vici_query_create" alt="" coords="498,183,622,209"/>
+<area shape="rect" id="node17" href="$d1/dac/list__conns_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,259,419,285"/>
+<area shape="rect" id="node19" href="$d0/d72/list__pols_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,360,419,387"/>
+<area shape="rect" id="node21" href="$d8/d2d/list__sas_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,309,419,336"/>
+<area shape="rect" id="node23" href="$d7/df8/log_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,411,419,437"/>
+<area shape="rect" id="node27" href="$dc/d5b/terminate_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="322,537,419,564"/>
+</map>

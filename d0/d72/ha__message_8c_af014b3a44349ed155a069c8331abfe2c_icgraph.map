@@ -1,0 +1,22 @@
+<map id="ha_message_create_generic" name="ha_message_create_generic">
+<area shape="rect" id="node2" href="$d4/d28/group__ha__message.html#ga2a3cd412dcd46e4e1af81557bec52833" title="ha_message_create" alt="" coords="243,132,381,159"/>
+<area shape="rect" id="node20" href="$d4/d28/group__ha__message.html#gae6b1faa05e700bad4a30547bfef20974" title="ha_message_parse" alt="" coords="245,208,379,235"/>
+<area shape="rect" id="node3" href="$d0/d76/ha__cache_8c.html#aa3e1131158e6289b19751c87c7f7791e" title="request_resync" alt="" coords="430,5,541,32"/>
+<area shape="rect" id="node8" href="$d9/dee/ha__child_8c.html#ae40906990ba9c0311c33949662fed90d" title="METHOD" alt="" coords="445,56,525,83"/>
+<area shape="rect" id="node9" href="$dc/dd5/ha__ike_8c.html#a9f3f482a8df50e2922bf59ffb490a99d" title="sync_vips" alt="" coords="445,107,526,133"/>
+<area shape="rect" id="node11" href="$da/dfd/ha__segments_8c.html#a0e070b3575abe5e79884a8bcd82efcc6" title="enable_disable" alt="" coords="431,157,539,184"/>
+<area shape="rect" id="node18" href="$da/dfd/ha__segments_8c.html#aa621a1e7d3e2f08c794b9c338e1afec3" title="send_status" alt="" coords="607,259,700,285"/>
+<area shape="rect" id="node4" href="$d8/d73/group__ha__cache.html#ga0537ddc664ef2ec38997a4bec857ecaf" title="ha_cache_create" alt="" coords="950,56,1071,83"/>
+<area shape="rect" id="node5" href="$d2/dbc/ha__plugin_8c.html#ac3b62ac20197d1c242926fae531a3bfa" title="initialize_plugin" alt="" coords="1131,120,1242,147"/>
+<area shape="rect" id="node6" href="$d2/dbc/ha__plugin_8c.html#ac04b0147cc74be4316f3db3a9aa6b4a6" title="plugin_cb" alt="" coords="1291,120,1368,147"/>
+<area shape="rect" id="node7" href="$d2/dbc/ha__plugin_8c.html#ab76e28aa86319749526a5d4a267616e2" title="METHOD" alt="" coords="1416,120,1496,147"/>
+<area shape="rect" id="node10" href="$dc/dd5/ha__ike_8c.html#a01793b3ae848fb98f1a57cc7f1ff9662" title="METHOD" alt="" coords="613,56,693,83"/>
+<area shape="rect" id="node12" href="$da/dfd/ha__segments_8c.html#a302c2cef6ea3e132b414fe4cb2925801" title="enable_disable_all" alt="" coords="589,107,717,133"/>
+<area shape="rect" id="node14" href="$da/dfd/ha__segments_8c.html#accb7beba9d8f7b541640bb5ce84d8dcc" title="METHOD" alt="" coords="613,157,693,184"/>
+<area shape="rect" id="node15" href="$da/dfd/ha__segments_8c.html#a6fca9552a2e808354d4efc9c667b54f9" title="autobalance" alt="" coords="607,208,699,235"/>
+<area shape="rect" id="node13" href="$da/dfd/ha__segments_8c.html#a014d5fe7a53a1f076244ef1c7c6c9f49" title="METHOD" alt="" coords="788,107,868,133"/>
+<area shape="rect" id="node16" href="$da/dfd/ha__segments_8c.html#acb5600f731618a4d05b7a308e2163d61" title="start_autobalance" alt="" coords="765,157,891,184"/>
+<area shape="rect" id="node17" href="$d0/ddb/group__ha__segments.html#gae186dec5644a7dbad0660436474ab7ef" title="ha_segments_create" alt="" coords="939,183,1082,209"/>
+<area shape="rect" id="node19" href="$da/dfd/ha__segments_8c.html#a5bda245fd2ab82d648aabeca657b83af" title="start_heartbeat" alt="" coords="773,259,883,285"/>
+<area shape="rect" id="node21" href="$d1/d90/ha__socket_8c.html#ad2eea8eadebeccbc7a5de4902d1dcba7" title="METHOD" alt="" coords="445,259,525,285"/>
+</map>

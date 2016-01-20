@@ -1,0 +1,27 @@
+<map id="vici_end_list" name="vici_end_list">
+<area shape="rect" id="node2" href="$d0/d35/load__conns_8c.html#aab48ce2f97b35bd8ca5dc2fb6dfd51f0" title="add_file_list_key" alt="" coords="150,69,269,96"/>
+<area shape="rect" id="node11" href="$d6/d79/load__authorities_8c.html#a1d90d13548d1902e417891350b262b95" title="add_list_key" alt="" coords="162,183,257,209"/>
+<area shape="rect" id="node22" href="$d6/de4/test__request_8c.html#a76ae46bc4c117291957faae8208fc1bc" title="encode_list" alt="" coords="165,233,253,260"/>
+<area shape="rect" id="node23" href="$db/d5d/load__creds_8c.html#aa5c257a0cfe4fc87931caaf8939df70f" title="load_secret" alt="" coords="165,132,254,159"/>
+<area shape="rect" id="node3" href="$d0/d35/load__conns_8c.html#ad598c59ef1ae559d2abd870808a146a0" title="add_key_values" alt="" coords="318,56,434,83"/>
+<area shape="rect" id="node4" href="$d0/d35/load__conns_8c.html#a3e889456b7e8b731c1ef6bf638237045" title="add_sections" alt="" coords="485,5,584,32"/>
+<area shape="rect" id="node5" href="$d0/d35/load__conns_8c.html#aeba6347d0eba9de97be0260ea7c1ab79" title="load_conn" alt="" coords="663,56,745,83"/>
+<area shape="rect" id="node6" href="$dc/dc2/load__conns_8h.html#ab271c0dd792806567d63514c74521034" title="load_conns_cfg" alt="" coords="837,81,950,108"/>
+<area shape="rect" id="node7" href="$d2/d26/load__all_8c.html#a1604e07dc05a333c8e6940f98edc67e4" title="load_all" alt="" coords="1029,157,1096,184"/>
+<area shape="rect" id="node9" href="$d0/d35/load__conns_8c.html#a550fda227f49419eff1196e23bb87c34" title="load_conns" alt="" coords="1019,81,1107,108"/>
+<area shape="rect" id="node8" href="$d2/d26/load__all_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="1161,157,1258,184"/>
+<area shape="rect" id="node10" href="$d0/d35/load__conns_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="1161,81,1258,108"/>
+<area shape="rect" id="node12" href="$d6/d79/load__authorities_8c.html#ad598c59ef1ae559d2abd870808a146a0" title="add_key_values" alt="" coords="318,203,434,229"/>
+<area shape="rect" id="node13" href="$d6/d79/load__authorities_8c.html#acdef5292456bb1ea3c3796e765994e6f" title="load_authority" alt="" coords="483,240,586,267"/>
+<area shape="rect" id="node14" href="$dd/d5a/load__authorities_8h.html#a26c16b66a3dc71685c4011633984c484" title="load_authorities_cfg" alt="" coords="635,240,773,267"/>
+<area shape="rect" id="node17" href="$d4/def/vici__authority_8c.html#a6c46969ca476cf42d9a489c13daf995b" title="manage_commands" alt="" coords="635,309,773,336"/>
+<area shape="rect" id="node15" href="$d6/d79/load__authorities_8c.html#a16dd6706ea94680cad6a8c58e4931f7a" title="load_authorities" alt="" coords="837,259,950,285"/>
+<area shape="rect" id="node16" href="$d6/d79/load__authorities_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="1014,259,1111,285"/>
+<area shape="rect" id="node18" href="$d4/def/vici__authority_8c.html#ac9756fe28c485f630d34491d8ccee7fd" title="METHOD" alt="" coords="853,309,933,336"/>
+<area shape="rect" id="node19" href="$de/d3b/group__vici__authority.html#ga492900251ad3011c0312a3878ec304a4" title="vici_authority_create" alt="" coords="822,360,965,387"/>
+<area shape="rect" id="node20" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="1017,360,1109,387"/>
+<area shape="rect" id="node21" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="1169,360,1249,387"/>
+<area shape="rect" id="node24" href="$dd/d85/load__creds_8h.html#aa94d3df77f3176923f8ec8361f499c22" title="load_creds_cfg" alt="" coords="321,132,431,159"/>
+<area shape="rect" id="node25" href="$db/d5d/load__creds_8c.html#a8a9c6ce353ed7f32f4ebf42ee47b6db7" title="load_creds" alt="" coords="492,107,577,133"/>
+<area shape="rect" id="node26" href="$db/d5d/load__creds_8c.html#a1a70bc9ff30788fe7ceeb823942615c8" title="__attribute__" alt="" coords="655,107,753,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="message_t" name="message_t">
+<area shape="rect" id="node2" href="$d7/d88/structpacket__t.html" title="packet_t" alt="" coords="81,215,153,241"/>
+<area shape="rect" id="node3" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="95,5,162,32"/>
+<area shape="rect" id="node4" href="$d5/dcf/structhost__t.html" title="host_t" alt="" coords="186,109,243,136"/>
+<area shape="rect" id="node6" href="$dc/d56/structnotify__payload__t.html" title="notify_payload_t" alt="" coords="339,109,455,136"/>
+<area shape="rect" id="node5" href="$dc/da6/structike__sa__id__t.html" title="ike_sa_id_t" alt="" coords="483,215,571,241"/>
+<area shape="rect" id="node8" href="$d7/d2f/structpayload__t.html" title="payload_t" alt="" coords="656,215,734,241"/>
+<area shape="rect" id="node9" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="759,215,858,241"/>
+</map>

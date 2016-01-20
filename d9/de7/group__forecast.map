@@ -1,0 +1,6 @@
+<map id="forecast" name="forecast">
+<area shape="rect" id="node1" href="$df/d57/group__forecast__listener.html" title="forecast_listener" alt="" coords="241,5,359,32"/>
+<area shape="rect" id="node2" href="$db/d7b/group__forecast__plugin.html" title="forecast_plugin" alt="" coords="245,56,355,83"/>
+<area shape="rect" id="node3" href="$dd/d20/group__forecast__forwarder.html" title="forecast_forwarder" alt="" coords="235,107,365,133"/>
+<area shape="rect" id="node4" href="$d8/dd9/group__cplugins.html" title="plugins" alt="" coords="6,56,69,83"/>
+</map>

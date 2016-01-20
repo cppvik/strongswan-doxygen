@@ -1,0 +1,7 @@
+<map id="private_ha_attribute_t" name="private_ha_attribute_t">
+<area shape="rect" id="node6" href="$dd/d4f/structha__segments__t.html" title="ha_segments_t" alt="" coords="65,96,175,123"/>
+<area shape="rect" id="node3" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="200,96,269,123"/>
+<area shape="rect" id="node4" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="293,96,384,123"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="289,5,388,32"/>
+<area shape="rect" id="node7" href="$d4/d04/structha__kernel__t.html" title="ha_kernel_t" alt="" coords="509,96,597,123"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="iface_entry_by_name" name="iface_entry_by_name">
+<area shape="rect" id="node2" href="$d5/d90/kernel__netlink__net_8c.html#af19d8672f22f597f18a131d57efd33ec" title="get_interface_index" alt="" coords="201,56,335,83"/>
+<area shape="rect" id="node12" href="$d5/d90/kernel__netlink__net_8c.html#aeca4a8be4eca27916eee69fadda9b886" title="METHOD" alt="" coords="920,107,1000,133"/>
+<area shape="rect" id="node3" href="$d5/d90/kernel__netlink__net_8c.html#a0fb4225c5228122371f3ef9fe600c523" title="manage_srcroute" alt="" coords="384,56,507,83"/>
+<area shape="rect" id="node4" href="$d5/d90/kernel__netlink__net_8c.html#af3cebb1319733db373466a7b44f0aebf" title="reinstall_routes" alt="" coords="555,56,666,83"/>
+<area shape="rect" id="node13" href="$d5/d90/kernel__netlink__net_8c.html#a6518ff90e8fda63a800cc1f01d138520" title="METHOD" alt="" coords="571,5,651,32"/>
+<area shape="rect" id="node5" href="$d5/d90/kernel__netlink__net_8c.html#a0f4d312f2e3ae7e2ef669ff35e21bee8" title="queue_route_reinstall" alt="" coords="715,56,861,83"/>
+<area shape="rect" id="node6" href="$d5/d90/kernel__netlink__net_8c.html#a0f87b0e61837c8bde853f9eda9756613" title="process_link" alt="" coords="913,5,1007,32"/>
+<area shape="rect" id="node11" href="$d5/d90/kernel__netlink__net_8c.html#a524a440e79bfb8f59290902a14bb30e8" title="process_addr" alt="" coords="910,56,1010,83"/>
+<area shape="rect" id="node7" href="$d5/d90/kernel__netlink__net_8c.html#aadc72ac0ee4c3eee050dcde86c5230d6" title="receive_events" alt="" coords="1062,5,1173,32"/>
+<area shape="rect" id="node10" href="$d5/d90/kernel__netlink__net_8c.html#a6171ad9e6cb4f8e8abc248a8e14182ca" title="init_address_list" alt="" coords="1059,56,1175,83"/>
+<area shape="rect" id="node8" href="$d5/dbb/group__kernel__netlink__net__i.html#ga085e463746e0ef5b2537f94dee888bb3" title="kernel_netlink_net\l_create" alt="" coords="1225,23,1351,65"/>
+<area shape="rect" id="node9" href="$da/d4c/kernel__netlink__plugin_8c.html#afff6cb796b37dd206b1f16ec44e924d0" title="METHOD" alt="" coords="1400,31,1480,57"/>
+</map>

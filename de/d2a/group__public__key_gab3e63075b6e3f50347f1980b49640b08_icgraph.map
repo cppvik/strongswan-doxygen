@@ -1,0 +1,7 @@
+<map id="key_type_from_signature_scheme" name="key_type_from_signature_scheme">
+<area shape="rect" id="node2" href="$d4/d9a/pubkey__authenticator_8c.html#a2c2bf9a13060884441e46e129c6206cf" title="parse_signature_auth_data" alt="" coords="221,5,400,32"/>
+<area shape="rect" id="node4" href="$d4/d9a/pubkey__authenticator_8c.html#ab53da5c0535d2cf1e1c66085e6ef7ffa" title="select_signature_schemes" alt="" coords="222,56,399,83"/>
+<area shape="rect" id="node3" href="$d4/d9a/pubkey__authenticator_8c.html#a30f97ec99b01ef9a12f127a61efa3f88" title="METHOD" alt="" coords="477,5,557,32"/>
+<area shape="rect" id="node5" href="$d4/d9a/pubkey__authenticator_8c.html#a44eb470fd1ca4a1efe6006300ba941c4" title="sign_signature_auth" alt="" coords="448,56,587,83"/>
+<area shape="rect" id="node6" href="$d4/d9a/pubkey__authenticator_8c.html#a79593792af177faa44b5efec7e63b7c7" title="METHOD" alt="" coords="635,56,715,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="gateway.h" name="gateway.h">
+<area shape="rect" id="node2" href="$db/d45/manager_8h.html" title="manager.h" alt="" coords="437,80,519,107"/>
+<area shape="rect" id="node4" href="$db/deb/config__controller_8c.html" title="config_controller.c" alt="" coords="5,155,133,181"/>
+<area shape="rect" id="node5" href="$dc/d98/control__controller_8c.html" title="control_controller.c" alt="" coords="158,155,289,181"/>
+<area shape="rect" id="node6" href="$d5/df6/gateway__controller_8c.html" title="gateway_controller.c" alt="" coords="543,155,685,181"/>
+<area shape="rect" id="node7" href="$de/da8/ikesa__controller_8c.html" title="ikesa_controller.c" alt="" coords="710,155,833,181"/>
+<area shape="rect" id="node9" href="$d4/d10/manager_8c.html" title="manager.c" alt="" coords="857,155,939,181"/>
+<area shape="rect" id="node10" href="$db/db7/gateway_8c.html" title="gateway.c" alt="" coords="733,80,815,107"/>
+<area shape="rect" id="node3" href="$de/d8d/auth__controller_8c.html" title="auth_controller.c" alt="" coords="401,155,519,181"/>
+<area shape="rect" id="node8" href="$db/d06/manager_2main_8c.html" title="main.c" alt="" coords="315,155,376,181"/>
+</map>

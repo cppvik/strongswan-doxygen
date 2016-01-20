@@ -1,0 +1,25 @@
+var structpts__ita__comp__ima__t =
+[
+    [ "aik_id", "df/d9c/structpts__ita__comp__ima__t.html#a3aac996b1c0b1be8648dfd9f41baddd7", null ],
+    [ "bios_cid", "df/d9c/structpts__ita__comp__ima__t.html#a4e5a7a7bad58f2a304760ba4beb5a8d6", null ],
+    [ "bios_count", "df/d9c/structpts__ita__comp__ima__t.html#ac09a4c0b471a9a8b713a946af3b6565e", null ],
+    [ "bios_list", "df/d9c/structpts__ita__comp__ima__t.html#ab85a1ff8a4da018cb3cf361b98230ddc", null ],
+    [ "count", "df/d9c/structpts__ita__comp__ima__t.html#a90e89bbd53030628888f82cc8f73b9a7", null ],
+    [ "count_differ", "df/d9c/structpts__ita__comp__ima__t.html#ac62ec7e1fd0af2bb9b549c47e01a96ed", null ],
+    [ "count_failed", "df/d9c/structpts__ita__comp__ima__t.html#a573f46a967a958c9130f5cf9e2c23f26", null ],
+    [ "count_ok", "df/d9c/structpts__ita__comp__ima__t.html#ac68e06557f357d8cb29d8f13aebea310", null ],
+    [ "count_unknown", "df/d9c/structpts__ita__comp__ima__t.html#a0cf0c6db4a30e9bda9aa95b71148f15a", null ],
+    [ "creation_time", "df/d9c/structpts__ita__comp__ima__t.html#a125fb79ab4dc59c4406eb7e038fa6bc4", null ],
+    [ "depth", "df/d9c/structpts__ita__comp__ima__t.html#a256a6d6b613c259f3f9e804e37821cf3", null ],
+    [ "ima_cid", "df/d9c/structpts__ita__comp__ima__t.html#a54c2cdf3e848e8b10d23a264b22a8619", null ],
+    [ "ima_list", "df/d9c/structpts__ita__comp__ima__t.html#a4e81e52f26e598d7b2105ecf44b556dd", null ],
+    [ "is_bios_registering", "df/d9c/structpts__ita__comp__ima__t.html#a9a72c12fbd25f15d079cef079bbea8a5", null ],
+    [ "is_ima_registering", "df/d9c/structpts__ita__comp__ima__t.html#a56823dd4e61fecd6fe50fdd2591c3bba", null ],
+    [ "name", "df/d9c/structpts__ita__comp__ima__t.html#a0f941496251dbc43611e24fc8933a4c7", null ],
+    [ "pcr_info", "df/d9c/structpts__ita__comp__ima__t.html#abb18c5255b2b4029043485087a2c99db", null ],
+    [ "pts_db", "df/d9c/structpts__ita__comp__ima__t.html#a03aba7c452f0023004fc2551c603d6f8", null ],
+    [ "public", "df/d9c/structpts__ita__comp__ima__t.html#a05b8f1fcd3e2cdcf062991304db98d58", null ],
+    [ "ref", "df/d9c/structpts__ita__comp__ima__t.html#a4a1e80036190d63ff2c376ff67cab3c2", null ],
+    [ "seq_no", "df/d9c/structpts__ita__comp__ima__t.html#a4ca831c2172ba75739ef42dd79dbf72a", null ],
+    [ "state", "df/d9c/structpts__ita__comp__ima__t.html#a2eb2000c00579386cf27993ad863dca5", null ]
+];

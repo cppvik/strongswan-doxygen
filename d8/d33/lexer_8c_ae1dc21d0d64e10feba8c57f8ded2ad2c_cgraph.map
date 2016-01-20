@@ -1,0 +1,7 @@
+<map id="conf_parser__switch_to_buffer" name="conf_parser__switch_to_buffer">
+<area shape="rect" id="node2" href="$d8/d33/lexer_8c.html#a5383c22049979cbcc28d08f9554ab318" title="conf_parser__load_buffer\l_state" alt="" coords="197,5,365,46"/>
+<area shape="rect" id="node3" href="$d8/d33/lexer_8c.html#a4ca0185431ab494c7fdd119459f18af4" title="conf_parser_ensure\l_buffer_stack" alt="" coords="213,70,349,111"/>
+<area shape="rect" id="node4" href="$d8/d33/lexer_8c.html#a5c92df5e9b76e083443a5592a8ffa809" title="conf_parser_alloc" alt="" coords="419,52,543,79"/>
+<area shape="rect" id="node6" href="$d8/d33/lexer_8c.html#a695b1608f3d3a5a67b1b7bfe0f93bb1c" title="conf_parser_realloc" alt="" coords="414,103,549,129"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="598,52,658,79"/>
+</map>

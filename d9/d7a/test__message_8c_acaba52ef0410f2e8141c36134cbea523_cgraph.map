@@ -1,0 +1,5 @@
+<map id="compare_vici" name="compare_vici">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gae6aabf03218cda073ab2173e02bff4ba" title="chunk_equals" alt="" coords="153,5,255,32"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="179,56,229,83"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="305,5,370,32"/>
+</map>

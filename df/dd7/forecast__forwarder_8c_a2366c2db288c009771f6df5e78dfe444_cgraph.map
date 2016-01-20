@@ -1,0 +1,11 @@
+<map id="receive_casts" name="receive_casts">
+<area shape="rect" id="node2" href="$d7/df1/group__host.html#gaf40fcca3c58e789ff4f82bbf875727e4" title="host_create_from_chunk" alt="" coords="157,31,323,57"/>
+<area shape="rect" id="node8" href="$df/dd7/forecast__forwarder_8c.html#a28d734b8336ade4de9b5069942e31ef3" title="is_bootp" alt="" coords="205,81,275,108"/>
+<area shape="rect" id="node9" href="$df/dd7/forecast__forwarder_8c.html#a241e4e108e194c3d0d25a0cec8c62150" title="send_net" alt="" coords="203,132,277,159"/>
+<area shape="rect" id="node10" href="$df/dd7/forecast__forwarder_8c.html#a4490b71fd17ad6904b971120f667883f" title="send_peer" alt="" coords="199,183,281,209"/>
+<area shape="rect" id="node3" href="$df/da9/host_8c.html#ac3854e66d5a7563cae9608acbcad6eb5" title="host_create_empty" alt="" coords="371,5,504,32"/>
+<area shape="rect" id="node7" href="$df/da9/host_8c.html#a1fb6a6590d2576c32709b890623cad8c" title="update_sa_len" alt="" coords="384,56,491,83"/>
+<area shape="rect" id="node4" href="$df/da9/host_8c.html#a0ea5fbf16ec81f3c5eaf6dc5da8d452a" title="ip_equals" alt="" coords="661,5,739,32"/>
+<area shape="rect" id="node6" href="$df/da9/host_8c.html#a809d5cf7574c1f5e27758950d53653f4" title="equals" alt="" coords="553,31,613,57"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="787,5,853,32"/>
+</map>

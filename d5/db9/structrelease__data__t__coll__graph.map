@@ -1,0 +1,11 @@
+<map id="release_data_t" name="release_data_t">
+<area shape="rect" id="node2" href="$d3/dc6/structprivate__vici__dispatcher__t.html" title="private_vici_dispatcher_t" alt="" coords="205,229,371,256"/>
+<area shape="rect" id="node3" href="$d3/dc4/structvici__socket__t.html" title="vici_socket_t" alt="" coords="316,125,415,152"/>
+<area shape="rect" id="node11" href="$d9/d85/structcommand__t.html" title="command_t" alt="" coords="437,229,528,256"/>
+<area shape="rect" id="node5" href="$dd/d49/structhashtable__t.html" title="hashtable_t" alt="" coords="5,125,93,152"/>
+<area shape="rect" id="node6" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="192,5,291,32"/>
+<area shape="rect" id="node9" href="$db/da6/structvici__message__t.html" title="vici_message_t" alt="" coords="518,125,631,152"/>
+<area shape="rect" id="node7" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="119,125,188,152"/>
+<area shape="rect" id="node8" href="$d7/dab/structcondvar__t.html" title="condvar_t" alt="" coords="213,125,291,152"/>
+<area shape="rect" id="node10" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="541,5,608,32"/>
+</map>

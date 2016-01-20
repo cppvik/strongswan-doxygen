@@ -1,0 +1,11 @@
+<map id="manage_dns" name="manage_dns">
+<area shape="rect" id="node2" href="$d4/d99/osx__attr__handler_8c.html#a32e53a6504e467597d494337af109085" title="create_dns_path" alt="" coords="173,5,291,32"/>
+<area shape="rect" id="node3" href="$d4/d99/osx__attr__handler_8c.html#a279bc5640f7f0ac1fc5ffe2cce2f2a13" title="get_array_from_dict" alt="" coords="163,56,301,83"/>
+<area shape="rect" id="node4" href="$d4/d99/osx__attr__handler_8c.html#a0266614fb1325cb17e61da0b5a233277" title="get_dictionary" alt="" coords="181,107,283,133"/>
+<area shape="rect" id="node5" href="$d7/df1/group__host.html#gaf40fcca3c58e789ff4f82bbf875727e4" title="host_create_from_chunk" alt="" coords="149,157,315,184"/>
+<area shape="rect" id="node6" href="$df/da9/host_8c.html#ac3854e66d5a7563cae9608acbcad6eb5" title="host_create_empty" alt="" coords="363,132,496,159"/>
+<area shape="rect" id="node10" href="$df/da9/host_8c.html#a1fb6a6590d2576c32709b890623cad8c" title="update_sa_len" alt="" coords="376,183,483,209"/>
+<area shape="rect" id="node7" href="$df/da9/host_8c.html#a809d5cf7574c1f5e27758950d53653f4" title="equals" alt="" coords="545,107,605,133"/>
+<area shape="rect" id="node8" href="$df/da9/host_8c.html#a0ea5fbf16ec81f3c5eaf6dc5da8d452a" title="ip_equals" alt="" coords="653,132,731,159"/>
+<area shape="rect" id="node9" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="779,132,845,159"/>
+</map>

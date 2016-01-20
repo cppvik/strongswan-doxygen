@@ -1,0 +1,6 @@
+<map id="dnskey" name="dnskey">
+<area shape="rect" id="node2" href="$dc/d20/group__dnskey__encoder.html" title="dnskey_encoder" alt="" coords="237,5,355,32"/>
+<area shape="rect" id="node3" href="$db/df8/group__dnskey__public__key.html" title="dnskey_public_key" alt="" coords="229,56,363,83"/>
+<area shape="rect" id="node4" href="$dc/d64/group__dnskey__plugin.html" title="dnskey_plugin" alt="" coords="243,107,349,133"/>
+<area shape="rect" id="node5" href="$d1/d29/group__plugins.html" title="plugins" alt="" coords="6,56,69,83"/>
+</map>

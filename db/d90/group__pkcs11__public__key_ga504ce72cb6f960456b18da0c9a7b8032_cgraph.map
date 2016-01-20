@@ -1,0 +1,34 @@
+<map id="pkcs11_public_key_load" name="pkcs11_public_key_load">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="907,296,994,323"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="1280,43,1368,69"/>
+<area shape="rect" id="node5" href="$d4/d08/pkcs11__public__key_8c.html#a61464b4873e07429ea778e86ce3065fc" title="create_ecdsa_key" alt="" coords="237,499,365,525"/>
+<area shape="rect" id="node12" href="$d4/d08/pkcs11__public__key_8c.html#a7924eb858bf4ef0f0d2511f53c4fe697" title="create_rsa_key" alt="" coords="246,448,357,475"/>
+<area shape="rect" id="node13" href="$d4/d08/pkcs11__public__key_8c.html#a70c3fa9374d5a59c65229e5b0b475141" title="find_ecdsa_key" alt="" coords="245,397,358,424"/>
+<area shape="rect" id="node15" href="$d4/d08/pkcs11__public__key_8c.html#a2b7a63c57653e8d57aac9b59aba2cd97" title="find_rsa_key" alt="" coords="253,347,349,373"/>
+<area shape="rect" id="node16" href="$d4/d08/pkcs11__public__key_8c.html#ac01d6f02bdcf409ce01ebfde75ac9ba4" title="parse_ecdsa_public_key" alt="" coords="219,220,384,247"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1131,296,1175,323"/>
+<area shape="rect" id="node6" href="$d4/d08/pkcs11__public__key_8c.html#a812ab8c015b72d76f75c5bd5ef3a1007" title="create_key" alt="" coords="467,499,554,525"/>
+<area shape="rect" id="node7" href="$d4/d08/pkcs11__public__key_8c.html#aba411f8641b7fafc2e5321094473bdb9" title="create" alt="" coords="696,524,755,551"/>
+<area shape="rect" id="node8" href="$de/d2a/group__public__key.html#gad64f1eb69b30be75565efd30bcefb434" title="public_key_equals" alt="" coords="886,549,1015,576"/>
+<area shape="rect" id="node11" href="$de/d2a/group__public__key.html#ga5ecda5dfd6697bc2a39c6797b9d04d13" title="public_key_has_fingerprint" alt="" coords="863,600,1039,627"/>
+<area shape="rect" id="node9" href="$d4/d87/group__chunk.html#gae6aabf03218cda073ab2173e02bff4ba" title="chunk_equals" alt="" coords="1102,575,1205,601"/>
+<area shape="rect" id="node10" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="1291,575,1357,601"/>
+<area shape="rect" id="node14" href="$d4/d08/pkcs11__public__key_8c.html#a720c133db0bdf4b28e44dbb8c65bac24" title="find_key" alt="" coords="475,397,546,424"/>
+<area shape="rect" id="node17" href="$d0/da0/group__asn1i.html#ga43e5d526ea5a7032db7f3aa7c011ec10" title="asn1_known_oid" alt="" coords="1094,144,1213,171"/>
+<area shape="rect" id="node18" href="$d7/d02/group__asn1__parser.html#ga47a3b18337597a4a9623d7b5af35ddcf" title="asn1_parser_create" alt="" coords="443,245,579,272"/>
+<area shape="rect" id="node19" href="$d0/da0/group__asn1i.html#gaa5b766a452be068282b808b6b6f85f7e" title="asn1_wrap" alt="" coords="468,347,553,373"/>
+<area shape="rect" id="node27" href="$d4/d08/pkcs11__public__key_8c.html#afe1c1027b551fb06846814d6134cbf66" title="keylen_from_ecparams" alt="" coords="432,195,589,221"/>
+<area shape="rect" id="node20" href="$d0/da0/group__asn1i.html#gaa4b22cdadd3251eef380d585a8d3adc1" title="asn1_build_object" alt="" coords="662,448,789,475"/>
+<area shape="rect" id="node23" href="$d4/d87/group__chunk.html#gaaa5a9811df1bd2ae5e331748f7fbaf75" title="chunk_clear" alt="" coords="679,347,771,373"/>
+<area shape="rect" id="node21" href="$d6/d36/asn1_8c.html#a72c37051a4d4cda52b0ab80893884abd" title="asn1_code_length" alt="" coords="887,499,1014,525"/>
+<area shape="rect" id="node22" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="921,448,981,475"/>
+<area shape="rect" id="node24" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="911,397,990,424"/>
+<area shape="rect" id="node25" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="1267,397,1381,424"/>
+<area shape="rect" id="node26" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="1089,372,1218,399"/>
+<area shape="rect" id="node28" href="$d0/da0/group__asn1i.html#gad15dbaf57c1cfee6c8e44630b04d464d" title="asn1_parse_simple_object" alt="" coords="637,245,813,272"/>
+<area shape="rect" id="node33" href="$d4/d08/pkcs11__public__key_8c.html#afe764e0ca1ddacb31586f630e6e49edb" title="basepoint_order_len" alt="" coords="656,195,795,221"/>
+<area shape="rect" id="node29" href="$d0/da0/group__asn1i.html#ga2c7e03292ddec17485539f5f0e504098" title="asn1_length" alt="" coords="905,195,997,221"/>
+<area shape="rect" id="node30" href="$d0/da0/group__asn1i.html#ga706af9ec2a010752437a484ce5b678ff" title="asn1_debug_simple_object" alt="" coords="861,245,1040,272"/>
+<area shape="rect" id="node31" href="$d0/da0/group__asn1i.html#ga2af351dbd317da1b5e3f68c9a7ec2c3b" title="asn1_oid_to_string" alt="" coords="1088,195,1219,221"/>
+<area shape="rect" id="node32" href="$d0/da0/group__asn1i.html#ga0fd9a745033efcc31157dcf70b9b394e" title="asn1_to_time" alt="" coords="1103,245,1203,272"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="extract_platform_info" name="extract_platform_info">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="218,5,318,32"/>
+<area shape="rect" id="node3" href="$d9/d11/group__enum.html#ga1acffaec9549eafeee287b7a985a9f9c" title="enum_to_name" alt="" coords="387,56,498,83"/>
+<area shape="rect" id="node4" href="$de/d71/group__os__info.html#gad060754e9d3520390a73d6bb640f0426" title="os_type_from_name" alt="" coords="198,107,338,133"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="410,107,475,133"/>
+</map>

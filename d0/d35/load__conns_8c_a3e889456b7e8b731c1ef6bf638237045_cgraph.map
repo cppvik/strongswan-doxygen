@@ -1,0 +1,28 @@
+<map id="add_sections" name="add_sections">
+<area shape="rect" id="node2" href="$d0/d35/load__conns_8c.html#ad598c59ef1ae559d2abd870808a146a0" title="add_key_values" alt="" coords="159,461,275,488"/>
+<area shape="rect" id="node26" href="$dc/d7a/group__libvici.html#gad2aed574a07dd488220445e2451b1cf7" title="vici_begin_section" alt="" coords="153,512,282,539"/>
+<area shape="rect" id="node27" href="$dc/d7a/group__libvici.html#ga40f492c2158c40aa4f91772764c5452f" title="vici_end_section" alt="" coords="158,563,277,589"/>
+<area shape="rect" id="node3" href="$d0/d35/load__conns_8c.html#aab48ce2f97b35bd8ca5dc2fb6dfd51f0" title="add_file_list_key" alt="" coords="342,259,461,285"/>
+<area shape="rect" id="node20" href="$d0/d35/load__conns_8c.html#a1d90d13548d1902e417891350b262b95" title="add_list_key" alt="" coords="354,411,449,437"/>
+<area shape="rect" id="node22" href="$d0/d35/load__conns_8c.html#afbbf0e8c0ab07de5b10d5a729f1710dd" title="is_file_list_key" alt="" coords="347,512,455,539"/>
+<area shape="rect" id="node24" href="$d0/d35/load__conns_8c.html#ae62c6d7ce226f8c8129e43b3d998c10b" title="is_list_key" alt="" coords="359,461,443,488"/>
+<area shape="rect" id="node25" href="$dc/d7a/group__libvici.html#ga35f8320efd0f149a823068919697a76d" title="vici_add_key_valuef" alt="" coords="331,563,471,589"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gacf27867de490f5002ea59616f97e4bfb" title="chunk_map" alt="" coords="561,107,650,133"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#ga23adb71a767a9ab767166ee2a8362860" title="chunk_unmap" alt="" coords="769,208,871,235"/>
+<area shape="rect" id="node10" href="$d3/de6/group__enumerator.html#gacd5e29348cf29bd815aa2bc04101c174" title="enumerator_create_token" alt="" coords="521,411,690,437"/>
+<area shape="rect" id="node13" href="$d9/d7a/group__path__i.html#gad6c03cef10cc0eae27b8003b715bb789" title="path_absolute" alt="" coords="554,259,657,285"/>
+<area shape="rect" id="node16" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="580,208,631,235"/>
+<area shape="rect" id="node17" href="$dc/d7a/group__libvici.html#gacc957ebfa065305ac04212b0ff217386" title="vici_add_list_item" alt="" coords="757,5,883,32"/>
+<area shape="rect" id="node18" href="$dc/d7a/group__libvici.html#ga268d324c5d35844cf52715a32f5f0ffb" title="vici_begin_list" alt="" coords="553,309,657,336"/>
+<area shape="rect" id="node19" href="$dc/d7a/group__libvici.html#ga79d4016a95eb7a19b9d3d209c12a3685" title="vici_end_list" alt="" coords="558,360,653,387"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="978,183,1022,209"/>
+<area shape="rect" id="node7" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="950,56,1050,83"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="766,107,874,133"/>
+<area shape="rect" id="node9" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="970,107,1030,133"/>
+<area shape="rect" id="node11" href="$de/d46/enumerator_8c.html#abd5b850e1cf14a510a91e614cf8aaaf9" title="enumerate_token_enum" alt="" coords="739,411,901,437"/>
+<area shape="rect" id="node12" href="$de/d46/enumerator_8c.html#a2bdb7cb5feb4186044641fc893b245dc" title="destroy_token_enum" alt="" coords="749,335,891,361"/>
+<area shape="rect" id="node14" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="793,259,847,285"/>
+<area shape="rect" id="node15" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="971,259,1029,285"/>
+<area shape="rect" id="node21" href="$dc/d7a/group__libvici.html#ga32c85c4d18615d83204f2e1f9a3b55ed" title="vici_add_list_itemf" alt="" coords="540,461,671,488"/>
+<area shape="rect" id="node23" href="$d4/d40/group__string__i.html#ga74aa090049b1a330542e013117a60f1e" title="strcaseeq" alt="" coords="566,512,645,539"/>
+</map>

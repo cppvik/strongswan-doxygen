@@ -1,0 +1,27 @@
+<map id="load_conn" name="load_conn">
+<area shape="rect" id="node2" href="$dc/d86/args_8c.html#ae5aece11fdf659abe9154272a35585b2" title="assign_arg" alt="" coords="320,245,405,272"/>
+<area shape="rect" id="node18" href="$d4/d40/group__string__i.html#gabb48e297dad766a68425ae3f3f4aa65f" title="strdupnull" alt="" coords="474,93,553,120"/>
+<area shape="rect" id="node19" href="$dc/d42/confread_8c.html#a0ac7b864d9954591c9f23c4cede66070" title="handle_firewall" alt="" coords="309,144,417,171"/>
+<area shape="rect" id="node20" href="$dc/d42/confread_8c.html#a004ee0e672d791d295c58a1fb92d42d9" title="handle_keyword" alt="" coords="137,448,253,475"/>
+<area shape="rect" id="node24" href="$dc/d42/confread_8c.html#a3dc607da8008163f8ac00ec8571d9681" title="in_word_set" alt="" coords="149,347,241,373"/>
+<area shape="rect" id="node25" href="$dc/d42/confread_8c.html#a39a32edcdb94fd2366aaa836441ea00a" title="is_deprecated" alt="" coords="311,397,414,424"/>
+<area shape="rect" id="node26" href="$dc/d42/confread_8c.html#a697b8efa19a34c285b27a37e628c4754" title="kw_end" alt="" coords="161,296,228,323"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1485,183,1529,209"/>
+<area shape="rect" id="node4" href="$d4/d7b/ike__cfg_8c.html#afd2ad039e594563627520b9a6908b6c5" title="match" alt="" coords="484,144,543,171"/>
+<area shape="rect" id="node7" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="1061,271,1112,297"/>
+<area shape="rect" id="node5" href="$d7/df1/group__host.html#gaa0dc359dc1c8e327bb484e3e12df59d7" title="host_create_from_dns" alt="" coords="603,115,754,141"/>
+<area shape="rect" id="node6" href="$d7/df1/group__host.html#ga75f9b1e7905a80d69bc3cc7a7c3775a5" title="host_create_from_string\l_and_family" alt="" coords="803,107,965,149"/>
+<area shape="rect" id="node15" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a5da61ec055ea1dffbb84ffe3caddb7dc" title="set_port" alt="" coords="1265,5,1335,32"/>
+<area shape="rect" id="node8" href="$df/da9/host_8c.html#a2670c8aac87ed6960c4e45f42f843b73" title="host_create_any_port" alt="" coords="1013,43,1160,69"/>
+<area shape="rect" id="node16" href="$da/d9b/group__windows.html#ga7fb1f8a8f40e09fa09e625d2a09dc04e" title="inet_pton" alt="" coords="1049,144,1124,171"/>
+<area shape="rect" id="node17" href="$d7/df1/group__host.html#ga3183b60055297ceaa19b4a5996496830" title="host_create_from_sockaddr" alt="" coords="1209,119,1391,145"/>
+<area shape="rect" id="node9" href="$d7/df1/group__host.html#ga5f2c94740339664ce118776e13829cd0" title="host_create_any" alt="" coords="1241,68,1359,95"/>
+<area shape="rect" id="node10" href="$df/da9/host_8c.html#ac3854e66d5a7563cae9608acbcad6eb5" title="host_create_empty" alt="" coords="1440,68,1573,95"/>
+<area shape="rect" id="node14" href="$df/da9/host_8c.html#a1fb6a6590d2576c32709b890623cad8c" title="update_sa_len" alt="" coords="1453,119,1560,145"/>
+<area shape="rect" id="node11" href="$df/da9/host_8c.html#a0ea5fbf16ec81f3c5eaf6dc5da8d452a" title="ip_equals" alt="" coords="1731,68,1808,95"/>
+<area shape="rect" id="node13" href="$df/da9/host_8c.html#a809d5cf7574c1f5e27758950d53653f4" title="equals" alt="" coords="1622,93,1682,120"/>
+<area shape="rect" id="node12" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="1857,68,1922,95"/>
+<area shape="rect" id="node21" href="$d3/d2d/group__ipsec__types.html#gaafee0a8be9ddc148ab4af41b7cab0273" title="mark_from_string" alt="" coords="301,499,424,525"/>
+<area shape="rect" id="node22" href="$d4/d40/group__string__i.html#gad04895c77cc61acb068222c88d72dff0" title="strcasepfx" alt="" coords="472,499,555,525"/>
+<area shape="rect" id="node23" href="$d4/d40/group__string__i.html#ga9642181c8684012e619edccbc9f52d1c" title="strncaseeq" alt="" coords="635,499,722,525"/>
+</map>

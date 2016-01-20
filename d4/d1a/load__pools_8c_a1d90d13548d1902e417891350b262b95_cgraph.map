@@ -1,0 +1,9 @@
+<map id="add_list_key" name="add_list_key">
+<area shape="rect" id="node2" href="$d3/de6/group__enumerator.html#gacd5e29348cf29bd815aa2bc04101c174" title="enumerator_create_token" alt="" coords="150,31,319,57"/>
+<area shape="rect" id="node6" href="$dc/d7a/group__libvici.html#ga32c85c4d18615d83204f2e1f9a3b55ed" title="vici_add_list_itemf" alt="" coords="169,81,300,108"/>
+<area shape="rect" id="node7" href="$dc/d7a/group__libvici.html#ga268d324c5d35844cf52715a32f5f0ffb" title="vici_begin_list" alt="" coords="183,132,287,159"/>
+<area shape="rect" id="node8" href="$dc/d7a/group__libvici.html#ga79d4016a95eb7a19b9d3d209c12a3685" title="vici_end_list" alt="" coords="187,183,282,209"/>
+<area shape="rect" id="node3" href="$de/d46/enumerator_8c.html#abd5b850e1cf14a510a91e614cf8aaaf9" title="enumerate_token_enum" alt="" coords="369,5,530,32"/>
+<area shape="rect" id="node4" href="$de/d46/enumerator_8c.html#a2bdb7cb5feb4186044641fc893b245dc" title="destroy_token_enum" alt="" coords="378,56,521,83"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="579,56,623,83"/>
+</map>

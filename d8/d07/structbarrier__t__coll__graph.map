@@ -1,0 +1,4 @@
+<map id="barrier_t" name="barrier_t">
+<area shape="rect" id="node2" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="5,5,75,32"/>
+<area shape="rect" id="node3" href="$d7/dab/structcondvar__t.html" title="condvar_t" alt="" coords="99,5,177,32"/>
+</map>

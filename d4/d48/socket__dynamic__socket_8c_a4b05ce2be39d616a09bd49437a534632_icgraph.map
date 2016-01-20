@@ -1,0 +1,5 @@
+<map id="send_msg_generic" name="send_msg_generic">
+<area shape="rect" id="node2" href="$d4/d48/socket__dynamic__socket_8c.html#a79e3dedd7cbcc09e411d67601051489c" title="METHOD" alt="" coords="336,22,416,49"/>
+<area shape="rect" id="node3" href="$d4/d48/socket__dynamic__socket_8c.html#a47473e375a8b571bae02f30e201242a1" title="send_msg_v4" alt="" coords="185,22,287,49"/>
+<area shape="rect" id="node4" href="$d4/d48/socket__dynamic__socket_8c.html#a48fd23b4cb38a85b6637755919b6d49d" title="send_msg_v6" alt="" coords="185,73,287,99"/>
+</map>

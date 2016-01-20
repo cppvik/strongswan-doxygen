@@ -1,0 +1,12 @@
+<map id="add_key_values" name="add_key_values">
+<area shape="rect" id="node2" href="$d4/d1a/load__pools_8c.html#a1d90d13548d1902e417891350b262b95" title="add_list_key" alt="" coords="194,81,289,108"/>
+<area shape="rect" id="node10" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="216,132,267,159"/>
+<area shape="rect" id="node11" href="$dc/d7a/group__libvici.html#ga35f8320efd0f149a823068919697a76d" title="vici_add_key_valuef" alt="" coords="171,183,311,209"/>
+<area shape="rect" id="node3" href="$dc/d7a/group__libvici.html#ga268d324c5d35844cf52715a32f5f0ffb" title="vici_begin_list" alt="" coords="393,5,497,32"/>
+<area shape="rect" id="node4" href="$d3/de6/group__enumerator.html#gacd5e29348cf29bd815aa2bc04101c174" title="enumerator_create_token" alt="" coords="361,56,530,83"/>
+<area shape="rect" id="node8" href="$dc/d7a/group__libvici.html#ga32c85c4d18615d83204f2e1f9a3b55ed" title="vici_add_list_itemf" alt="" coords="380,107,511,133"/>
+<area shape="rect" id="node9" href="$dc/d7a/group__libvici.html#ga79d4016a95eb7a19b9d3d209c12a3685" title="vici_end_list" alt="" coords="398,157,493,184"/>
+<area shape="rect" id="node5" href="$de/d46/enumerator_8c.html#abd5b850e1cf14a510a91e614cf8aaaf9" title="enumerate_token_enum" alt="" coords="579,31,741,57"/>
+<area shape="rect" id="node6" href="$de/d46/enumerator_8c.html#a2bdb7cb5feb4186044641fc893b245dc" title="destroy_token_enum" alt="" coords="589,81,731,108"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="790,81,834,108"/>
+</map>

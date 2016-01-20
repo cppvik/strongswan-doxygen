@@ -1,0 +1,7 @@
+<map id="make_space_available" name="make_space_available">
+<area shape="rect" id="node2" href="$d3/d52/generator_8c.html#a78bdf7f343bdbf734dbb2b88b9f088fe" title="generate_flag" alt="" coords="231,5,331,32"/>
+<area shape="rect" id="node4" href="$d3/d52/generator_8c.html#ab71b9675961c31b9f7e69c12729b5470" title="generate_u_int_type" alt="" coords="407,56,545,83"/>
+<area shape="rect" id="node5" href="$d3/d52/generator_8c.html#a9a4f2dbce17d8752da5d292f2616a894" title="write_bytes_to_buffer" alt="" coords="208,107,355,133"/>
+<area shape="rect" id="node3" href="$d3/d52/generator_8c.html#a24da99fce64d5b703ef804c7322ff63e" title="METHOD" alt="" coords="597,56,677,83"/>
+<area shape="rect" id="node6" href="$d3/d52/generator_8c.html#a5cb0102bf5444b2039eda3f388f020b3" title="generate_from_chunk" alt="" coords="403,107,549,133"/>
+</map>

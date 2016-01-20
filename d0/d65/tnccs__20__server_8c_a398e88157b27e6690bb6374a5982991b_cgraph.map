@@ -1,0 +1,5 @@
+<map id="check_and_build_recommendation" name="check_and_build_recommendation">
+<area shape="rect" id="node2" href="$dc/d9b/group__pb__access__recommendation__msg.html#ga455f4ba40c4956b054597ab78c12f50b" title="pb_access_recommendation\l_msg_create" alt="" coords="278,5,466,46"/>
+<area shape="rect" id="node3" href="$db/de9/group__pb__assessment__result__msg.html#ga3c290127d7786ca6ed8d12792451bea7" title="pb_assessment_result\l_msg_create" alt="" coords="295,70,449,111"/>
+<area shape="rect" id="node4" href="$d4/d3c/group__pb__reason__string__msg.html#ga576b7be592cfce1846be6aabfd95cdfc" title="pb_reason_string_msg\l_create" alt="" coords="295,135,449,177"/>
+</map>

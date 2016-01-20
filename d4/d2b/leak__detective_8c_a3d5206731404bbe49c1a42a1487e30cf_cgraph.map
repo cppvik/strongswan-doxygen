@@ -1,0 +1,8 @@
+<map id="real_realloc" name="real_realloc">
+<area shape="rect" id="node2" href="$d4/d2b/leak__detective_8c.html#ab73fce970de9b4b4d6cda6dcc80d5535" title="get_malloc_fn" alt="" coords="142,56,245,83"/>
+<area shape="rect" id="node3" href="$da/d9b/group__windows.html#ga84cb8784df910bfcc3002dc5e9e2f406" title="dlsym" alt="" coords="317,31,374,57"/>
+<area shape="rect" id="node7" href="$d4/d2b/leak__detective_8c.html#a49d30f0a6a67f5c2c3c108ee44202fae" title="enable_thread" alt="" coords="294,81,397,108"/>
+<area shape="rect" id="node4" href="$d1/d3f/windows_8c.html#a4ff3d00dcb8a7bb53cf65f484debcb4b" title="dlsym_default" alt="" coords="446,5,549,32"/>
+<area shape="rect" id="node5" href="$d1/d3f/windows_8c.html#aa71d37bf39d6bbc3bd94a496e3ba6f30" title="dlsym_next" alt="" coords="453,56,542,83"/>
+<area shape="rect" id="node6" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="597,56,648,83"/>
+</map>

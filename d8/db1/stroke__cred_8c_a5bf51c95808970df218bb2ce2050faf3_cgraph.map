@@ -1,0 +1,26 @@
+<map id="load_certdir" name="load_certdir">
+<area shape="rect" id="node2" href="$d3/de6/group__enumerator.html#ga92a12e35d2e39ebd1f316bd818297cc0" title="enumerator_create_directory" alt="" coords="296,505,483,532"/>
+<area shape="rect" id="node7" href="$d8/db1/stroke__cred_8c.html#a62b511705679d0254e7cdd614fa47684" title="load_x509" alt="" coords="155,328,237,355"/>
+<area shape="rect" id="node8" href="$d8/db1/stroke__cred_8c.html#a49fcca1422fafc874f1a800aa7a4ecc1" title="load_x509_aa" alt="" coords="145,379,247,405"/>
+<area shape="rect" id="node9" href="$d8/db1/stroke__cred_8c.html#a33dcc8c3e7db5f2adf214366f7f567bc" title="load_x509_ac" alt="" coords="145,429,247,456"/>
+<area shape="rect" id="node10" href="$d8/db1/stroke__cred_8c.html#aa9c723543d25f175d08a3df8a2c90cc5" title="load_x509_ca" alt="" coords="145,265,247,292"/>
+<area shape="rect" id="node25" href="$d8/db1/stroke__cred_8c.html#aeb39ff74829b983c2fa64fabbef3ef94" title="load_x509_crl" alt="" coords="145,531,247,557"/>
+<area shape="rect" id="node3" href="$de/d46/enumerator_8c.html#ac7dea07bcb773c647b0ea6d615d14e55" title="enumerate_dir_enum" alt="" coords="531,461,674,488"/>
+<area shape="rect" id="node5" href="$de/d46/enumerator_8c.html#a9ab314b6f9e59b8cfd5e16f50ae7a347" title="destroy_dir_enum" alt="" coords="540,563,665,589"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="922,360,966,387"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="759,461,809,488"/>
+<area shape="rect" id="node11" href="$d8/db1/stroke__cred_8c.html#a9de70cdcbd0f10bc10f6b1c9754a2014" title="load_ca_cert" alt="" coords="341,259,437,285"/>
+<area shape="rect" id="node12" href="$db/dab/keyid_8c.html#a049bbdebc2be4da80632f9b3af6fc046" title="keyid" alt="" coords="576,309,629,336"/>
+<area shape="rect" id="node19" href="$d8/db1/stroke__cred_8c.html#a7428ff2ef8c55c5b3171954122565316" title="load_from_smartcard" alt="" coords="531,107,675,133"/>
+<area shape="rect" id="node22" href="$d8/db1/stroke__cred_8c.html#a6761db1e92793833ee96cb45aa03b90d" title="parse_smartcard" alt="" coords="543,259,662,285"/>
+<area shape="rect" id="node23" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="575,208,630,235"/>
+<area shape="rect" id="node13" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="730,107,838,133"/>
+<area shape="rect" id="node16" href="$dc/d53/group__command.html#ga5cf2c6b41420f51c7d7db9dfbd699f6b" title="command_getopt" alt="" coords="723,411,845,437"/>
+<area shape="rect" id="node17" href="$dc/d53/group__command.html#gac550624edb43a63d97310c54962c8f66" title="command_usage" alt="" coords="723,259,845,285"/>
+<area shape="rect" id="node18" href="$df/d1e/group__pki.html#ga63674711f2657b283b42d2c0bd0b78f3" title="set_file_mode" alt="" coords="733,309,835,336"/>
+<area shape="rect" id="node14" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="914,107,974,133"/>
+<area shape="rect" id="node15" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="894,5,994,32"/>
+<area shape="rect" id="node20" href="$d4/d87/group__chunk.html#gaadc119e547e9a456a8c2c6271290b584" title="chunk_from_hex" alt="" coords="725,56,843,83"/>
+<area shape="rect" id="node21" href="$d8/d39/chunk_8c.html#a0674de9b4dc86d182ca6a08b9595279f" title="hex2bin" alt="" coords="911,56,977,83"/>
+<area shape="rect" id="node24" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="755,208,813,235"/>
+</map>

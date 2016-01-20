@@ -1,0 +1,6 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d9/d6f/bio__reader_8c.html#aaee4b3d7fc46d322265bac1334c09ac8" title="read_data_internal" alt="" coords="133,56,261,83"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="318,5,418,32"/>
+<area shape="rect" id="node4" href="$d9/d6f/bio__reader_8c.html#aed3785a9f0919ce63f1053d12922cd45" title="get_ptr_end" alt="" coords="323,56,413,83"/>
+<area shape="rect" id="node5" href="$d9/d6f/bio__reader_8c.html#a0a8103c7bcd4b2f45f8e0121f5e84f17" title="chunk_skip_end" alt="" coords="310,107,426,133"/>
+</map>

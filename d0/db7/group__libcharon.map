@@ -1,0 +1,12 @@
+<map id="libcharon" name="libcharon">
+<area shape="rect" id="node1" href="$db/d3a/group__network.html" title="network" alt="" coords="137,5,205,32"/>
+<area shape="rect" id="node2" href="$dc/d62/group__ckernel.html" title="kernel" alt="" coords="142,56,199,83"/>
+<area shape="rect" id="node3" href="$da/d2e/group__encoding.html" title="encoding" alt="" coords="133,107,208,133"/>
+<area shape="rect" id="node4" href="$d8/dd9/group__cplugins.html" title="plugins" alt="" coords="139,157,202,184"/>
+<area shape="rect" id="node6" href="$d4/d86/group__attributes.html" title="attributes" alt="" coords="133,208,209,235"/>
+<area shape="rect" id="node7" href="$df/da7/group__control.html" title="control" alt="" coords="140,259,201,285"/>
+<area shape="rect" id="node8" href="$de/d50/group__bus.html" title="bus" alt="" coords="149,309,192,336"/>
+<area shape="rect" id="node9" href="$d1/d44/group__config.html" title="config" alt="" coords="142,360,199,387"/>
+<area shape="rect" id="node10" href="$dd/ddc/group__sa.html" title="sa" alt="" coords="151,411,190,437"/>
+<area shape="rect" id="node11" href="$d1/d68/group__cprocessing.html" title="processing" alt="" coords="128,461,213,488"/>
+</map>

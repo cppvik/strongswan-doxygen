@@ -1,0 +1,6 @@
+<map id="medsrv" name="medsrv">
+<area shape="rect" id="node1" href="$d2/d5e/group__auth__filter__server.html" title="auth_filter" alt="" coords="134,5,213,32"/>
+<area shape="rect" id="node2" href="$dc/d21/group__peer__controller__server.html" title="peer_controller" alt="" coords="120,56,227,83"/>
+<area shape="rect" id="node4" href="$d9/d85/group__user.html" title="user" alt="" coords="150,107,197,133"/>
+<area shape="rect" id="node5" href="$d6/d27/group__user__controller__server.html" title="user_controller" alt="" coords="120,157,227,184"/>
+</map>

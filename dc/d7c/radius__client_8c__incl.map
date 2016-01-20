@@ -1,0 +1,36 @@
+<map id="radius_client.c" name="radius_client.c">
+<area shape="rect" id="node2" href="$dc/df8/radius__client_8h.html" title="radius_client.h" alt="" coords="2265,80,2371,107"/>
+<area shape="rect" id="node32" href="$df/ded/host_8h.html" title="host.h" alt="" coords="2394,635,2451,661"/>
+<area shape="rect" id="node43" href="$df/de5/radius__config_8h.html" title="radius_config.h" alt="" coords="2379,155,2489,181"/>
+<area shape="rect" id="node47" href="$db/d16/debug_8h.html" title="utils/debug.h" alt="" coords="1405,635,1501,661"/>
+<area shape="rect" id="node48" href="$d1/d4a/linked__list_8h.html" title="collections/linked\l_list.h" alt="" coords="1694,230,1817,271"/>
+<area shape="rect" id="node49" href="$d0/d40/condvar_8h.html" title="threading/condvar.h" alt="" coords="2682,80,2817,107"/>
+<area shape="rect" id="node50" href="$d0/df8/mutex_8h.html" title="mutex.h" alt="" coords="2767,155,2837,181"/>
+<area shape="rect" id="node3" href="$df/d1a/radius__message_8h.html" title="radius_message.h" alt="" coords="2066,320,2194,347"/>
+<area shape="rect" id="node4" href="$dd/d08/library_8h.html" title="library.h" alt="" coords="1860,469,1927,496"/>
+<area shape="rect" id="node42" href="$da/d10/pen_8h.html" title="pen/pen.h" alt="" coords="2000,395,2078,421"/>
+<area shape="rect" id="node5" href="$dc/d6a/printf__hook_8h.html" title="utils/printf_hook/printf\l_hook.h" alt="" coords="2246,934,2393,975"/>
+<area shape="rect" id="node7" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="1494,784,1579,811"/>
+<area shape="rect" id="node31" href="$d2/d0c/host__resolver_8h.html" title="networking/host_resolver.h" alt="" coords="1975,552,2154,579"/>
+<area shape="rect" id="node33" href="$dd/dd5/chunk_8h.html" title="utils/chunk.h" alt="" coords="2325,709,2421,736"/>
+<area shape="rect" id="node36" href="$d7/d82/stream__manager_8h.html" title="networking/streams\l/stream_manager.h" alt="" coords="1815,545,1950,586"/>
+<area shape="rect" id="node37" href="$d9/d99/processor_8h.html" title="processing/processor.h" alt="" coords="1277,709,1434,736"/>
+<area shape="rect" id="node38" href="$d2/dd8/scheduler_8h.html" title="processing/scheduler.h" alt="" coords="2179,552,2334,579"/>
+<area shape="rect" id="node39" href="$dd/d33/watcher_8h.html" title="processing/watcher.h" alt="" coords="2359,552,2506,579"/>
+<area shape="rect" id="node40" href="$d4/d1b/crypto__factory_8h.html" title="crypto/crypto_factory.h" alt="" coords="1533,552,1689,579"/>
+<area shape="rect" id="node11" href="$da/d66/string_8h.html" title="string.h" alt="" coords="2376,859,2441,885"/>
+<area shape="rect" id="node19" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="395,859,489,885"/>
+<area shape="rect" id="node20" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="2287,859,2351,885"/>
+<area shape="rect" id="node21" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="513,859,619,885"/>
+<area shape="rect" id="node22" href="$d1/ddf/align_8h.html" title="utils/align.h" alt="" coords="643,859,731,885"/>
+<area shape="rect" id="node23" href="$d5/d17/byteorder_8h.html" title="utils/byteorder.h" alt="" coords="755,859,870,885"/>
+<area shape="rect" id="node24" href="$dc/d18/memory_8h.html" title="utils/memory.h" alt="" coords="895,859,1002,885"/>
+<area shape="rect" id="node25" href="$d9/dd1/strerror_8h.html" title="utils/strerror.h" alt="" coords="1027,859,1129,885"/>
+<area shape="rect" id="node26" href="$d1/d13/status_8h.html" title="utils/status.h" alt="" coords="1153,859,1250,885"/>
+<area shape="rect" id="node27" href="$de/d10/object_8h.html" title="utils/object.h" alt="" coords="1275,859,1371,885"/>
+<area shape="rect" id="node28" href="$d7/dd4/path_8h.html" title="utils/path.h" alt="" coords="1396,859,1482,885"/>
+<area shape="rect" id="node29" href="$de/df7/time_8h.html" title="utils/time.h" alt="" coords="1507,859,1593,885"/>
+<area shape="rect" id="node30" href="$dd/d71/tty_8h.html" title="utils/tty.h" alt="" coords="1617,859,1693,885"/>
+<area shape="rect" id="node41" href="$d1/d47/enumerator_8h.html" title="collections/enumerator.h" alt="" coords="1525,635,1689,661"/>
+<area shape="rect" id="node44" href="$d5/d4e/radius__socket_8h.html" title="radius_socket.h" alt="" coords="2377,237,2491,264"/>
+</map>

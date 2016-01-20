@@ -1,0 +1,7 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$dd/d3c/group__bio__writer.html#gac7993ee5c686c5e28413eef0a03e1e89" title="bio_writer_create" alt="" coords="154,5,275,32"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="165,56,265,83"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="171,107,258,133"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="345,132,389,159"/>
+<area shape="rect" id="node6" href="$d7/dbc/group__pts__meas__algo.html#gaa9ebc0d514acd980f36bb96e236d9a12" title="pts_meas_algo_to_hash" alt="" coords="133,208,296,235"/>
+</map>

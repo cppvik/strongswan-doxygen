@@ -1,0 +1,9 @@
+<map id="add_proposal_v2" name="add_proposal_v2">
+<area shape="rect" id="node2" href="$d4/dbd/group__sa__payload.html#ga91f50537186f1da3536c93ba068e7191" title="sa_payload_create_from\l_proposal_v2" alt="" coords="174,17,338,58"/>
+<area shape="rect" id="node7" href="$d4/dbd/group__sa__payload.html#gaf5d9c95f4d29f78b945d7566f3123641" title="sa_payload_create_from\l_proposals_v2" alt="" coords="174,82,338,123"/>
+<area shape="rect" id="node3" href="$dc/d9a/child__create_8c.html#aa23c9fc9c750a07512ca2400fbcfc8d7" title="build_payloads" alt="" coords="413,56,521,83"/>
+<area shape="rect" id="node5" href="$d3/db3/pretend__auth_8c.html#a4495356dc82b4163d98ed5adcfd5cac8" title="process_auth_response" alt="" coords="387,5,547,32"/>
+<area shape="rect" id="node4" href="$dc/d9a/child__create_8c.html#aed56efb904bf815eb7b0c4fb3aa7e2c1" title="METHOD" alt="" coords="595,56,675,83"/>
+<area shape="rect" id="node6" href="$d3/db3/pretend__auth_8c.html#aadf45f2afe23f71e2c042730808ae155" title="METHOD" alt="" coords="595,5,675,32"/>
+<area shape="rect" id="node8" href="$d4/dd1/custom__proposal_8c.html#abd7713d1fc23312b57b966afcdce30e2" title="METHOD" alt="" coords="427,107,507,133"/>
+</map>

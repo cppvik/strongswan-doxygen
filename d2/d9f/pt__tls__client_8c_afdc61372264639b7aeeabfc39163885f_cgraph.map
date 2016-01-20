@@ -1,0 +1,11 @@
+<map id="do_sasl" name="do_sasl">
+<area shape="rect" id="node2" href="$dd/d3c/group__bio__writer.html#gac7993ee5c686c5e28413eef0a03e1e89" title="bio_writer_create" alt="" coords="259,5,381,32"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="486,81,530,108"/>
+<area shape="rect" id="node4" href="$d9/d35/group__pt__tls.html#ga9a0606577e5bd2069412d6b782296475" title="pt_tls_read" alt="" coords="122,132,209,159"/>
+<area shape="rect" id="node10" href="$d9/d35/group__pt__tls.html#ga4d6a346cc574a86a606ea112e7f8e63d" title="pt_tls_write" alt="" coords="121,31,210,57"/>
+<area shape="rect" id="node5" href="$dd/d1c/pt__tls_8c.html#ac1d8e65e1a3d3a4a8a2c75ff1e6d150c" title="read_tls" alt="" coords="286,132,354,159"/>
+<area shape="rect" id="node6" href="$d9/d83/group__bio__reader.html#ga69b0bb3132dc1cf3b5d2996d6ce98e8f" title="bio_reader_create_own" alt="" coords="430,132,586,159"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="458,183,558,209"/>
+<area shape="rect" id="node9" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="478,233,538,260"/>
+<area shape="rect" id="node7" href="$d9/d83/group__bio__reader.html#gadd21cf8fb14c3ed5a27b4cb026abe8ff" title="bio_reader_create" alt="" coords="635,132,760,159"/>
+</map>

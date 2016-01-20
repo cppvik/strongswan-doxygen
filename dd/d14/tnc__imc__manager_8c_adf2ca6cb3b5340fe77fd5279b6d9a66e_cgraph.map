@@ -1,0 +1,12 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$de/d10/group__tncifimc.html#gab6b922f0cce604f2645e88d7b54bdc28" title="TNC_TNCC_BindFunction" alt="" coords="133,224,312,251"/>
+<area shape="rect" id="node3" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="464,5,515,32"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#gae6504b201cfdb2e369b0c7ba8b0c25d8" title="TNC_TNCC_ReportMessageTypes" alt="" coords="374,56,605,83"/>
+<area shape="rect" id="node5" href="$de/d10/group__tncifimc.html#ga87311ea1a643182347c2423c4bf06796" title="TNC_TNCC_ReportMessageTypesLong" alt="" coords="360,107,619,133"/>
+<area shape="rect" id="node6" href="$de/d10/group__tncifimc.html#gae1e7abcff73bc8a0833c0d5db69b4852" title="TNC_TNCC_RequestHandshake\lRetry" alt="" coords="381,158,598,199"/>
+<area shape="rect" id="node7" href="$de/d10/group__tncifimc.html#ga05609574a0658969daf20e54a654fa7d" title="TNC_TNCC_SendMessage" alt="" coords="397,224,582,251"/>
+<area shape="rect" id="node8" href="$de/d10/group__tncifimc.html#ga42fcaedc6a6eca5097f4a49f393060fe" title="TNC_TNCC_SendMessageLong" alt="" coords="383,275,596,301"/>
+<area shape="rect" id="node9" href="$de/d10/group__tncifimc.html#ga78d7340d310715d8ad6dbfedcc3483c8" title="TNC_TNCC_GetAttribute" alt="" coords="403,325,575,352"/>
+<area shape="rect" id="node10" href="$de/d10/group__tncifimc.html#ga1bc052cf47cc9aaddd68271ea3f07564" title="TNC_TNCC_SetAttribute" alt="" coords="404,376,575,403"/>
+<area shape="rect" id="node11" href="$d8/dda/tnc__imc__bind__function_8c.html#aabe33dc4bc31c44bccebe62022053f08" title="TNC_TNCC_ReserveAdditional\lIMCID" alt="" coords="385,427,593,469"/>
+</map>

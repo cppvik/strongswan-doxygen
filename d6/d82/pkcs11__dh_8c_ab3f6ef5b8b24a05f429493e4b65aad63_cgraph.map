@@ -1,0 +1,10 @@
+<map id="generate_key_pair_ecp" name="generate_key_pair_ecp">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaaa5a9811df1bd2ae5e331748f7fbaf75" title="chunk_clear" alt="" coords="229,5,321,32"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="231,56,319,83"/>
+<area shape="rect" id="node9" href="$d6/d82/pkcs11__dh_8c.html#a2a959def147c415027154df82f921afc" title="generate_key_pair" alt="" coords="211,107,339,133"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="391,5,470,32"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="387,93,474,120"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="701,5,816,32"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="523,31,653,57"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="566,93,610,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="read_uint24_internal" name="read_uint24_internal">
+<area shape="rect" id="node2" href="$d9/d6f/bio__reader_8c.html#a0a8103c7bcd4b2f45f8e0121f5e84f17" title="chunk_skip_end" alt="" coords="193,5,309,32"/>
+<area shape="rect" id="node3" href="$d9/d6f/bio__reader_8c.html#aed3785a9f0919ce63f1053d12922cd45" title="get_ptr_end" alt="" coords="205,56,296,83"/>
+<area shape="rect" id="node4" href="$da/da5/group__byteorder__i.html#ga439355baab5e35d632f86318c8330043" title="untoh32" alt="" coords="217,107,285,133"/>
+</map>

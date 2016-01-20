@@ -1,0 +1,7 @@
+<map id="recreate_fifo" name="recreate_fifo">
+<area shape="rect" id="node2" href="$d0/d6d/ha__ctl_8c.html#a870b20cb3c30925ddc036ca63956fadf" title="dispatch_fifo" alt="" coords="149,5,245,32"/>
+<area shape="rect" id="node3" href="$db/d22/group__ha__ctl.html#gae9a2c72cd878207e3b2ab88974da1640" title="ha_ctl_create" alt="" coords="294,31,394,57"/>
+<area shape="rect" id="node4" href="$d2/dbc/ha__plugin_8c.html#ac3b62ac20197d1c242926fae531a3bfa" title="initialize_plugin" alt="" coords="443,31,554,57"/>
+<area shape="rect" id="node5" href="$d2/dbc/ha__plugin_8c.html#ac04b0147cc74be4316f3db3a9aa6b4a6" title="plugin_cb" alt="" coords="603,31,680,57"/>
+<area shape="rect" id="node6" href="$d2/dbc/ha__plugin_8c.html#ab76e28aa86319749526a5d4a267616e2" title="METHOD" alt="" coords="728,31,808,57"/>
+</map>

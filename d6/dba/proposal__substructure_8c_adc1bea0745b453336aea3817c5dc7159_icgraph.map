@@ -1,0 +1,8 @@
+<map id="ikev2_from_ikev1" name="ikev2_from_ikev1">
+<area shape="rect" id="node2" href="$d6/dba/proposal__substructure_8c.html#ae9a9f524a258fc02e54a76484c3c2f38" title="get_alg_from_ikev1" alt="" coords="195,5,330,32"/>
+<area shape="rect" id="node5" href="$d6/dba/proposal__substructure_8c.html#a524ea1cebd22997d78dbfdaa57cffa3f" title="get_alg_from_ikev1_auth" alt="" coords="179,56,346,83"/>
+<area shape="rect" id="node7" href="$d6/dba/proposal__substructure_8c.html#a89c0f5318c3778183656eb0cd100c073" title="get_alg_from_ikev1\l_transid" alt="" coords="195,107,330,149"/>
+<area shape="rect" id="node3" href="$d6/dba/proposal__substructure_8c.html#a339093288af39b9c54a2cc02c7ffc4de" title="add_to_proposal_v1_ike" alt="" coords="395,5,557,32"/>
+<area shape="rect" id="node4" href="$d6/dba/proposal__substructure_8c.html#a179d32d1c68a387d627690b607c80b67" title="METHOD" alt="" coords="605,31,685,57"/>
+<area shape="rect" id="node6" href="$d6/dba/proposal__substructure_8c.html#afa59bd3d071d44d5a111d4f972260b94" title="add_to_proposal_v1" alt="" coords="407,56,545,83"/>
+</map>

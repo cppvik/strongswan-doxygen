@@ -1,0 +1,16 @@
+<map id="parse_smartcard" name="parse_smartcard">
+<area shape="rect" id="node2" href="$d8/db1/stroke__cred_8c.html#a9de70cdcbd0f10bc10f6b1c9754a2014" title="load_ca_cert" alt="" coords="173,56,269,83"/>
+<area shape="rect" id="node13" href="$d8/db1/stroke__cred_8c.html#a25593b326e244c6344a53cc2c19d5360" title="load_pin" alt="" coords="186,107,257,133"/>
+<area shape="rect" id="node15" href="$d8/db1/stroke__cred_8c.html#a83d08de90981f75f189733d4b940e15e" title="METHOD" alt="" coords="181,157,261,184"/>
+<area shape="rect" id="node3" href="$d8/db1/stroke__cred_8c.html#aa9c723543d25f175d08a3df8a2c90cc5" title="load_x509_ca" alt="" coords="335,5,438,32"/>
+<area shape="rect" id="node11" href="$d8/db1/stroke__cred_8c.html#a364d3f45dcbef62e0c8a0f0ccd660f83" title="stroke_load_ca_cert" alt="" coords="317,56,456,83"/>
+<area shape="rect" id="node4" href="$d8/db1/stroke__cred_8c.html#a5bf51c95808970df218bb2ce2050faf3" title="load_certdir" alt="" coords="507,5,597,32"/>
+<area shape="rect" id="node5" href="$d8/db1/stroke__cred_8c.html#acf19df8cc4728b374a21b22f4ca64892" title="load_certs" alt="" coords="648,5,731,32"/>
+<area shape="rect" id="node10" href="$d8/db1/stroke__cred_8c.html#ac707a0aa93f26613e2ae29b1970c4798" title="METHOD" alt="" coords="649,56,729,83"/>
+<area shape="rect" id="node6" href="$d4/ddf/group__stroke__cred.html#ga54afc73bedd2dda57cfbeb130062849a" title="stroke_cred_create" alt="" coords="779,56,912,83"/>
+<area shape="rect" id="node7" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="960,56,1107,83"/>
+<area shape="rect" id="node8" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="1155,56,1263,83"/>
+<area shape="rect" id="node9" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="1312,56,1392,83"/>
+<area shape="rect" id="node12" href="$df/d16/stroke__ca_8c.html#a7340bb6e5246c65a8a4fd6615a1de253" title="METHOD" alt="" coords="512,56,592,83"/>
+<area shape="rect" id="node14" href="$d8/db1/stroke__cred_8c.html#a5d1f52721e54438ad930da40c5c991d7" title="load_secrets" alt="" coords="504,107,600,133"/>
+</map>

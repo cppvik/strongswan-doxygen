@@ -1,0 +1,6 @@
+<map id="check_dontwait" name="check_dontwait">
+<area shape="rect" id="node2" href="$da/d9b/group__windows.html#ga3903d4e0982137bd458c47dd287e8306" title="windows_recv" alt="" coords="181,5,286,32"/>
+<area shape="rect" id="node3" href="$da/d9b/group__windows.html#ga7e223dd87490debc16677f8074fefbe6" title="windows_recvfrom" alt="" coords="168,56,299,83"/>
+<area shape="rect" id="node4" href="$da/d9b/group__windows.html#ga7208dfdf9f0b02fb6e2bb3110a473343" title="windows_send" alt="" coords="179,107,287,133"/>
+<area shape="rect" id="node5" href="$da/d9b/group__windows.html#gaf94237f02a446166db2ae93644b91d31" title="windows_sendto" alt="" coords="174,157,293,184"/>
+</map>

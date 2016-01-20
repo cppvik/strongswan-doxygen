@@ -1,0 +1,25 @@
+var dumm_2main_8c =
+[
+    [ "page_t", "d0/dea/structpage__t.html", "d0/dea/structpage__t" ],
+    [ "child_exited", "d0/d83/dumm_2main_8c.html#a3e0516c8acc7354187ed785badebb3d2", null ],
+    [ "connect_guest", "d0/d83/dumm_2main_8c.html#a6a4aac20ae6dc8d06b453751a9bfa1b4", null ],
+    [ "create_guest", "d0/d83/dumm_2main_8c.html#a693a25830fb6d16fe0e3d2f0a7ab773d", null ],
+    [ "create_page", "d0/d83/dumm_2main_8c.html#a9d95e950f4905cb26a40dc74ad377886", null ],
+    [ "create_switch", "d0/d83/dumm_2main_8c.html#a28ce75806e75a2b2e8984b3108b349cd", null ],
+    [ "delete_guest", "d0/d83/dumm_2main_8c.html#ab8218b4034b75274928f21a175f002b0", null ],
+    [ "delete_switch", "d0/d83/dumm_2main_8c.html#a89d526bc794254504cdd48c7d3486438", null ],
+    [ "disconnect_guest", "d0/d83/dumm_2main_8c.html#a0dd39e06a80e2c6524c090d5aec240db", null ],
+    [ "error_dialog", "d0/d83/dumm_2main_8c.html#a1f4b7664449b1ffa0aa5114196733c00", null ],
+    [ "get_page", "d0/d83/dumm_2main_8c.html#a0686e0ce89d6928ea637f528bb34270b", null ],
+    [ "idle", "d0/d83/dumm_2main_8c.html#a01131b63acf241e9db91704d89ce15d2", null ],
+    [ "invoke", "d0/d83/dumm_2main_8c.html#a12a06484b1dbfbd2f906ba3ce21598ed", null ],
+    [ "main", "d0/d83/dumm_2main_8c.html#a0ddf1224851353fc92bfbff6f499fa97", null ],
+    [ "quit", "d0/d83/dumm_2main_8c.html#acd1527386a48875050e637e4bb872f11", null ],
+    [ "start_all_guests", "d0/d83/dumm_2main_8c.html#a96c4ad9a8a49495bef127a8478ffae4e", null ],
+    [ "start_guest", "d0/d83/dumm_2main_8c.html#a4f6e84b7037826d15c57a2f18224cf02", null ],
+    [ "stop_guest", "d0/d83/dumm_2main_8c.html#a2c68d1a50e30b17ef85bcc570773c889", null ],
+    [ "dumm", "d0/d83/dumm_2main_8c.html#a555a14d52a8ea92249d3ebb3e6d7e802", null ],
+    [ "notebook", "d0/d83/dumm_2main_8c.html#a87d39878337d0b71ac7531220075a491", null ],
+    [ "pages", "d0/d83/dumm_2main_8c.html#aada382b5da1e5b549161afdb1e68324d", null ],
+    [ "window", "d0/d83/dumm_2main_8c.html#a3d346c08cf2d67c388caabffb412b293", null ]
+];

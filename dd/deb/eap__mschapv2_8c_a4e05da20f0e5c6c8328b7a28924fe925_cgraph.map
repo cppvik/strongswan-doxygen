@@ -1,0 +1,23 @@
+<map id="process_peer_failure" name="process_peer_failure">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="447,54,547,81"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="239,457,326,484"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="683,457,727,484"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gaadc119e547e9a456a8c2c6271290b584" title="chunk_from_hex" alt="" coords="223,144,342,170"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="879,137,939,164"/>
+<area shape="rect" id="node8" href="$d3/de6/group__enumerator.html#gacd5e29348cf29bd815aa2bc04101c174" title="enumerator_create_token" alt="" coords="198,508,367,534"/>
+<area shape="rect" id="node11" href="$d9/d7b/settings__lexer_8c.html#a33e91cd0cef6786e9e3a27ac67707207" title="if" alt="" coords="263,326,302,353"/>
+<area shape="rect" id="node20" href="$dd/deb/eap__mschapv2_8c.html#a7bc5a6e7519c32571c258c08cb41d81f" title="sanitize" alt="" coords="249,558,316,585"/>
+<area shape="rect" id="node21" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="255,609,310,636"/>
+<area shape="rect" id="node7" href="$d8/d39/chunk_8c.html#a0674de9b4dc86d182ca6a08b9595279f" title="hex2bin" alt="" coords="464,105,531,132"/>
+<area shape="rect" id="node9" href="$de/d46/enumerator_8c.html#abd5b850e1cf14a510a91e614cf8aaaf9" title="enumerate_token_enum" alt="" coords="417,558,578,585"/>
+<area shape="rect" id="node10" href="$de/d46/enumerator_8c.html#a2bdb7cb5feb4186044641fc893b245dc" title="destroy_token_enum" alt="" coords="426,508,569,534"/>
+<area shape="rect" id="node12" href="$d9/d7b/settings__lexer_8c.html#a929da0caf3950387991ecbd5e8eef08e" title="settings_parser_ensure\l_buffer_stack" alt="" coords="419,224,576,266"/>
+<area shape="rect" id="node15" href="$d9/d7b/settings__lexer_8c.html#a7ae01c54e2bcf9fd7a55137fbb2a80ed" title="settings_parser__create\l_buffer" alt="" coords="417,290,578,331"/>
+<area shape="rect" id="node18" href="$d9/d7b/settings__lexer_8c.html#a33d4f53352a864e4f156061745955b95" title="settings_parser__load\l_buffer_state" alt="" coords="1035,294,1184,335"/>
+<area shape="rect" id="node13" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="633,238,778,265"/>
+<area shape="rect" id="node14" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="627,188,783,214"/>
+<area shape="rect" id="node16" href="$d9/d7b/settings__lexer_8c.html#a4386e14dca16b9ec4faef188ba2d8d87" title="settings_parser__init\l_buffer" alt="" coords="634,290,777,331"/>
+<area shape="rect" id="node17" href="$d9/d7b/settings__lexer_8c.html#abb6474cb0d8cf8c06c5f0570a0bfe36d" title="settings_parser__flush\l_buffer" alt="" coords="833,239,986,280"/>
+<area shape="rect" id="node19" href="$d9/d7b/settings__lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="882,305,937,332"/>
+<area shape="rect" id="node22" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="468,609,527,636"/>
+</map>

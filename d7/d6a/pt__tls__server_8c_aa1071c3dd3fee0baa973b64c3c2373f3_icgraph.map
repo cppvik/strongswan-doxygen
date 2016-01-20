@@ -1,0 +1,7 @@
+<map id="process_sasl" name="process_sasl">
+<area shape="rect" id="node2" href="$d7/d6a/pt__tls__server_8c.html#acbbf5dff3000a4c419ae30ac62ccda9e" title="read_sasl" alt="" coords="201,5,279,32"/>
+<area shape="rect" id="node6" href="$d7/d6a/pt__tls__server_8c.html#acf26fb32d65a8d6894226aead50152fd" title="read_sasl_mech_selection" alt="" coords="152,56,328,83"/>
+<area shape="rect" id="node3" href="$d7/d6a/pt__tls__server_8c.html#a684d6f661f6c86ca310bb47a93b3c2e7" title="do_sasl" alt="" coords="376,31,443,57"/>
+<area shape="rect" id="node4" href="$d7/d6a/pt__tls__server_8c.html#a7ea8b635513dc7a24eeb92db968b53b2" title="authenticate" alt="" coords="491,31,584,57"/>
+<area shape="rect" id="node5" href="$d7/d6a/pt__tls__server_8c.html#a4ff8e75a9fac70ff900ad8502255d726" title="METHOD" alt="" coords="632,31,712,57"/>
+</map>

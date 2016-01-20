@@ -1,0 +1,46 @@
+var group__bliss__param__set =
+[
+    [ "bliss_param_set_t", "d0/d29/structbliss__param__set__t.html", [
+      [ "B_inf", "d0/d29/structbliss__param__set__t.html#ae6050abfae72700a6ddea04b07be24d5", null ],
+      [ "B_l2", "d0/d29/structbliss__param__set__t.html#ab0601ca20f64a982fbd86e11078f3c08", null ],
+      [ "c", "d0/d29/structbliss__param__set__t.html#a04078c010e9d1e565547e82562401229", null ],
+      [ "c_cols", "d0/d29/structbliss__param__set__t.html#a0b288a8ee4d210ae11903a4b6928629e", null ],
+      [ "c_rows", "d0/d29/structbliss__param__set__t.html#af85d72a8b23103dbcb165b8d45ac87b3", null ],
+      [ "d", "d0/d29/structbliss__param__set__t.html#a945dec6b498b6582affc5a30bfb4b978", null ],
+      [ "fft_params", "d0/d29/structbliss__param__set__t.html#a52957975572bcf9a664c11f2c264e788", null ],
+      [ "id", "d0/d29/structbliss__param__set__t.html#ab5905c2b4582e3e549d7bf1c68d13721", null ],
+      [ "k_sigma", "d0/d29/structbliss__param__set__t.html#a2ca45345bf774c8efbe793324de00e68", null ],
+      [ "k_sigma_bits", "d0/d29/structbliss__param__set__t.html#a6aa03543e6c1ecf7f13c431cc00b17ec", null ],
+      [ "kappa", "d0/d29/structbliss__param__set__t.html#a2497d6e6291230cf9324a2b1822b2445", null ],
+      [ "M", "d0/d29/structbliss__param__set__t.html#a995e05dffd8ce0585562f605d407a9c1", null ],
+      [ "n", "d0/d29/structbliss__param__set__t.html#a23858695fdfd454e1a0d92e9477e5576", null ],
+      [ "n_bits", "d0/d29/structbliss__param__set__t.html#a7778768696058fd2faa55e563d65034d", null ],
+      [ "nks_max", "d0/d29/structbliss__param__set__t.html#ad572eb520e545271d59880fcebdc100c", null ],
+      [ "non_zero1", "d0/d29/structbliss__param__set__t.html#a05b5077a4da7569fd950be4bd5e6d255", null ],
+      [ "non_zero2", "d0/d29/structbliss__param__set__t.html#a3e4c2ca13ac411d41ca506ca783155f0", null ],
+      [ "oid", "d0/d29/structbliss__param__set__t.html#adfc2ab1d993d61722ccb56ba156db197", null ],
+      [ "p", "d0/d29/structbliss__param__set__t.html#aa816ded99a009e95cdf4dcf56c3ceb35", null ],
+      [ "p_max", "d0/d29/structbliss__param__set__t.html#a4deecc4748d5107aa397c1102edc77b0", null ],
+      [ "q", "d0/d29/structbliss__param__set__t.html#a2b96e99bf2103ad51724e48823049e3b", null ],
+      [ "q2_inv", "d0/d29/structbliss__param__set__t.html#a212452f29db3ed394cfa4b2adac6e373", null ],
+      [ "q_bits", "d0/d29/structbliss__param__set__t.html#acea05dbca8666f47b727be88ce2f8ebc", null ],
+      [ "sigma", "d0/d29/structbliss__param__set__t.html#aadd5a7ac5f1c7b7b00218d30f2a72db7", null ],
+      [ "strength", "d0/d29/structbliss__param__set__t.html#aa2bbb065e8204f7db6408e6e76031690", null ],
+      [ "z1_bits", "d0/d29/structbliss__param__set__t.html#acb4869180446322453435cf5e1b00a2a", null ]
+    ] ],
+    [ "bliss_param_set_id_t", "d1/d07/group__bliss__param__set.html#ga2a51c99e9754575e18619ea77db892f9", null ],
+    [ "bliss_param_set_t", "d1/d07/group__bliss__param__set.html#gabb79ceafb2e9d080323fa0a8e45aa83f", null ],
+    [ "bliss_param_set_id_t", "d1/d07/group__bliss__param__set.html#ga1735ba19a2035df4a9648f914a5ca513", [
+      [ "BLISS_I", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513a38f1d79c567a21925fc6557e6b4df389", null ],
+      [ "BLISS_II", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513aaf9c73a21a03e788e8cad489303f4959", null ],
+      [ "BLISS_III", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513a5a29ec87810c100fbcbfecbb4e36b44f", null ],
+      [ "BLISS_IV", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513a49d7da2f13d569fdfb1d68bd4aa082b6", null ],
+      [ "BLISS_B_I", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513abb63a728c730af380129cfb69e46e83f", null ],
+      [ "BLISS_B_II", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513ae7cd63a30cd8d4fd99517e2b9d6f84fb", null ],
+      [ "BLISS_B_III", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513ac30ac553e5869b8fc12efebe9d422a24", null ],
+      [ "BLISS_B_IV", "d1/d07/group__bliss__param__set.html#gga1735ba19a2035df4a9648f914a5ca513a6e6a5646e76f2d0c08b8e334b3ed7dcf", null ]
+    ] ],
+    [ "bliss_param_set_get_by_id", "d1/d07/group__bliss__param__set.html#ga25ef331c5608ca1acc9f1fbe0db3033e", null ],
+    [ "bliss_param_set_get_by_oid", "d1/d07/group__bliss__param__set.html#ga929712a0bc5495fa9d6c1a27be7e2fd3", null ],
+    [ "bliss_param_set_id_names", "d1/d07/group__bliss__param__set.html#ga07e07c7f348ab8f163bdab148ba097dc", null ]
+];

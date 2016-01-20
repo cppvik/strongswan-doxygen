@@ -1,0 +1,12 @@
+<map id="destroy" name="destroy">
+<area shape="rect" id="node2" href="$d4/ddc/windows_2thread_8c.html#a7b3cdeac4dc86ec753a883c6a46c91e6" title="cleanup_tls" alt="" coords="128,56,216,83"/>
+<area shape="rect" id="node4" href="$d4/ddc/windows_2thread_8c.html#a8ad439d506bba830e2479d164b77478b" title="end_thread" alt="" coords="129,132,215,159"/>
+<area shape="rect" id="node8" href="$da/dd8/group__thread.html#ga96e0afa2f09818a84dfa1a3857be2a45" title="thread_create" alt="" coords="408,157,509,184"/>
+<area shape="rect" id="node10" href="$d4/ddc/windows_2thread_8c.html#a465c3e6f1a7ef389603a10605f1216df" title="METHOD" alt="" coords="132,259,212,285"/>
+<area shape="rect" id="node11" href="$da/dd8/group__thread.html#gaa290ba7daffccd55780e0a3b7fea41da" title="threads_deinit" alt="" coords="121,309,223,336"/>
+<area shape="rect" id="node3" href="$d4/ddc/windows_2thread_8c.html#a4b10b033c4c34d2de4d7cd2b6e863a02" title="DllMain" alt="" coords="283,5,349,32"/>
+<area shape="rect" id="node5" href="$d4/ddc/windows_2thread_8c.html#a7da7cf0efedc9353cc8afd5fa5492702" title="docancel" alt="" coords="279,56,353,83"/>
+<area shape="rect" id="node7" href="$d4/ddc/windows_2thread_8c.html#aaa9597841539f07fc3ab9f9726324927" title="thread_cb" alt="" coords="277,107,355,133"/>
+<area shape="rect" id="node9" href="$da/dd8/group__thread.html#ga8b28b9fa8436aee6775b36456d796e23" title="thread_exit" alt="" coords="273,157,359,184"/>
+<area shape="rect" id="node6" href="$d4/ddc/windows_2thread_8c.html#aec0f1747feb4342f5e851b85924a60c2" title="METHOD" alt="" coords="419,56,499,83"/>
+</map>

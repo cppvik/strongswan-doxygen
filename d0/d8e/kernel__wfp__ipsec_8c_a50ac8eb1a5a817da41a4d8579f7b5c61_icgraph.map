@@ -1,0 +1,24 @@
+<map id="install_route" name="install_route">
+<area shape="rect" id="node2" href="$d0/d8e/kernel__wfp__ipsec_8c.html#ad2a4ab300da8171b798d0ec303821b97" title="manage_route" alt="" coords="147,233,251,260"/>
+<area shape="rect" id="node3" href="$d0/d8e/kernel__wfp__ipsec_8c.html#ad65fd97bbf415013b48a8ce718916914" title="manage_routes" alt="" coords="299,157,410,184"/>
+<area shape="rect" id="node20" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a36c54e74acbe3bf2da2d62a799ed63d3" title="add_trap" alt="" coords="319,233,391,260"/>
+<area shape="rect" id="node22" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a457886e7bed1b52cee04b4e4fdbbb61f" title="remove_trap" alt="" coords="307,284,402,311"/>
+<area shape="rect" id="node4" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a70f4564be1ce9f4dc4a0468ca9220d53" title="cleanup_policies" alt="" coords="459,81,578,108"/>
+<area shape="rect" id="node18" href="$d0/d8e/kernel__wfp__ipsec_8c.html#aef743a375ddbe6cdfa8f20da87917d82" title="install_tunnel" alt="" coords="635,132,733,159"/>
+<area shape="rect" id="node19" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a0d1555048566b634c06ba61ce0c50b1a" title="METHOD" alt="" coords="479,183,559,209"/>
+<area shape="rect" id="node5" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a4a06503b51b54e63d646f723e951850b" title="entry_destroy" alt="" coords="633,31,735,57"/>
+<area shape="rect" id="node10" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a9b76b87fd30d49f2e13c4ceb062a2526" title="install_transport" alt="" coords="627,81,741,108"/>
+<area shape="rect" id="node6" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a75627e65f4ea2ebc86082a4d0cb09b24" title="expire_job" alt="" coords="790,5,871,32"/>
+<area shape="rect" id="node9" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a5eccc88cc20112d4dcdd97ba8663f9fe" title="METHOD" alt="" coords="791,56,871,83"/>
+<area shape="rect" id="node7" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a317ff7c474108672c6bd290575860bdb" title="schedule_expire" alt="" coords="931,5,1047,32"/>
+<area shape="rect" id="node8" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a7a0b621ad5bec9c9f0e64b015e85579b" title="METHOD" alt="" coords="1132,5,1212,32"/>
+<area shape="rect" id="node11" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a7820e93904313d83f7bcae8178e4822a" title="install" alt="" coords="803,107,859,133"/>
+<area shape="rect" id="node12" href="$d8/dcf/vici__control_8c.html#a109fbee55e088f62e93835de06173387" title="manage_commands" alt="" coords="920,81,1059,108"/>
+<area shape="rect" id="node17" href="$d4/d3d/inactivity__job_8c.html#ae1a8f07a46de52a44dbe2b0f629b268f" title="METHOD" alt="" coords="949,132,1029,159"/>
+<area shape="rect" id="node13" href="$d8/dcf/vici__control_8c.html#a63996fa19abd48e2faf63e4fb378ef18" title="METHOD" alt="" coords="1132,68,1212,95"/>
+<area shape="rect" id="node14" href="$d0/dcb/group__vici__control.html#ga9bb24cf92651f6573ebc2d32f96c2439" title="vici_control_create" alt="" coords="1107,119,1237,145"/>
+<area shape="rect" id="node15" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="1286,119,1378,145"/>
+<area shape="rect" id="node16" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="1427,119,1507,145"/>
+<area shape="rect" id="node21" href="$d0/d8e/kernel__wfp__ipsec_8c.html#ace53fc75bc5eb37166ba62b6c7810091" title="METHOD" alt="" coords="479,233,559,260"/>
+<area shape="rect" id="node23" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a6376ac55932fdb0dc52cd247288a81f1" title="METHOD" alt="" coords="479,284,559,311"/>
+</map>

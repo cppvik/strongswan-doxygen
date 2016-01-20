@@ -1,0 +1,13 @@
+<map id="simaka_attribute_skippable" name="simaka_attribute_skippable">
+<area shape="rect" id="node2" href="$d1/dab/eap__aka__peer_8c.html#a9d55eeedc14c5ed264db11a67b220b70" title="process_challenge" alt="" coords="253,5,384,32"/>
+<area shape="rect" id="node4" href="$da/d47/eap__aka__server_8c.html#aeb1d46519d125462d2db89b34df110a7" title="process_client_error" alt="" coords="249,208,388,235"/>
+<area shape="rect" id="node6" href="$d1/dab/eap__aka__peer_8c.html#a9774435029b463703abee3c6a83df8e4" title="process_identity" alt="" coords="260,56,377,83"/>
+<area shape="rect" id="node7" href="$d1/dab/eap__aka__peer_8c.html#a42bb307215a2d65ee06ca04363a4dc77" title="process_notification" alt="" coords="249,107,388,133"/>
+<area shape="rect" id="node8" href="$d1/dab/eap__aka__peer_8c.html#ae4ae9a5544205ef4ab6ddf1736374e50" title="process_reauthentication" alt="" coords="235,157,402,184"/>
+<area shape="rect" id="node9" href="$de/d09/eap__sim__peer_8c.html#aba0009354291ca6097ea72733ffe59d3" title="process_start" alt="" coords="268,309,369,336"/>
+<area shape="rect" id="node12" href="$da/d47/eap__aka__server_8c.html#a4e2eae9de4e7239f0efff516bd8bb415" title="process_synchronize" alt="" coords="246,259,391,285"/>
+<area shape="rect" id="node3" href="$d1/dab/eap__aka__peer_8c.html#aacc760de18138cb3958e7d6395ddf540" title="METHOD" alt="" coords="464,81,544,108"/>
+<area shape="rect" id="node5" href="$da/d47/eap__aka__server_8c.html#afd9fc1a0bfa7bc577b13a4dd168d5d63" title="METHOD" alt="" coords="464,221,544,248"/>
+<area shape="rect" id="node10" href="$de/d09/eap__sim__peer_8c.html#ae6ef7482662f77174cee7dbfc9d99c0b" title="METHOD" alt="" coords="464,284,544,311"/>
+<area shape="rect" id="node11" href="$de/dc5/test__process_8c.html#a675a6c77ad86f0e9978ec46574225abb" title="START_TEST" alt="" coords="451,335,557,361"/>
+</map>

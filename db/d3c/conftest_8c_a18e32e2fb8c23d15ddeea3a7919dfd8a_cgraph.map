@@ -1,0 +1,11 @@
+<map id="load_configs" name="load_configs">
+<area shape="rect" id="node2" href="$d9/d7a/group__path__i.html#gae0707fb753e0c7a1738fdba42962510f" title="path_dirname" alt="" coords="155,12,255,39"/>
+<area shape="rect" id="node5" href="$da/d8f/group__settings__t.html#gab131a25e42d1880e9dba38eb7270e75d" title="settings_create" alt="" coords="150,75,261,101"/>
+<area shape="rect" id="node3" href="$da/d9b/group__windows.html#ga8b860ba32fef12da8acd4507c059e509" title="strndup" alt="" coords="350,5,415,32"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="718,27,778,53"/>
+<area shape="rect" id="node6" href="$d3/d6a/settings_8c.html#a7ae73b64455cdb321b232691fb353723" title="settings_create_base" alt="" coords="309,100,456,127"/>
+<area shape="rect" id="node7" href="$d4/d9d/group__settings__types.html#ga7379b99aaa2f0321f86d0053e285303d" title="settings_section_create" alt="" coords="504,52,664,79"/>
+<area shape="rect" id="node8" href="$d1/d0e/group__array.html#ga9acc78bc2e06102ff37133b5aa0e0a4f" title="array_create" alt="" coords="537,103,631,129"/>
+<area shape="rect" id="node10" href="$db/ded/group__rwlock.html#ga3646a4244d6c3368a3fbb03354974838" title="rwlock_create" alt="" coords="533,153,635,180"/>
+<area shape="rect" id="node9" href="$dc/dcc/array_8c.html#a1814774789ffaf948b25734a7dd0f3ed" title="get_size" alt="" coords="713,103,783,129"/>
+</map>

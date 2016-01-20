@@ -1,0 +1,25 @@
+var structprivate__child__cfg__t =
+[
+    [ "close_action", "dd/dcd/structprivate__child__cfg__t.html#aa349b28e527a4e6755d0960a77ff16e3", null ],
+    [ "dpd_action", "dd/dcd/structprivate__child__cfg__t.html#a139926b2078ad813ed04b8c578849631", null ],
+    [ "hostaccess", "dd/dcd/structprivate__child__cfg__t.html#abdc50a18dc90b8b6320cf07b5c67961c", null ],
+    [ "inactivity", "dd/dcd/structprivate__child__cfg__t.html#a8d44095b40bac5b8050856ea05532a66", null ],
+    [ "install_policy", "dd/dcd/structprivate__child__cfg__t.html#a4c3c96e6e9bb3d2c2219ba16601e265e", null ],
+    [ "lifetime", "dd/dcd/structprivate__child__cfg__t.html#ac26dcfabebf8abe0e7cef3c223db9933", null ],
+    [ "mark_in", "dd/dcd/structprivate__child__cfg__t.html#a47b9fae0ef1623972851b6bb6873db85", null ],
+    [ "mark_out", "dd/dcd/structprivate__child__cfg__t.html#a1dbd527ae4861af604141c1b391d1b02", null ],
+    [ "mode", "dd/dcd/structprivate__child__cfg__t.html#aaa153ec46141b44fe113edd372889a7f", null ],
+    [ "my_ts", "dd/dcd/structprivate__child__cfg__t.html#abe5c09ba66df527542c072144381d8f0", null ],
+    [ "name", "dd/dcd/structprivate__child__cfg__t.html#a1c148d8880a3d33576afa0294f6272cb", null ],
+    [ "other_ts", "dd/dcd/structprivate__child__cfg__t.html#aef4426b2bceb67d10734526a5703fd23", null ],
+    [ "proposals", "dd/dcd/structprivate__child__cfg__t.html#aca8c1af5fe3fea11c3bc45db10b8b898", null ],
+    [ "proxy_mode", "dd/dcd/structprivate__child__cfg__t.html#a5d6e9bf4c6e591c6805a5e6d8ce072c2", null ],
+    [ "public", "dd/dcd/structprivate__child__cfg__t.html#a75bbb6344ad845faf4cc383634b9936d", null ],
+    [ "refcount", "dd/dcd/structprivate__child__cfg__t.html#a0fe7bf5aedf0ed48ea795a26f19f1294", null ],
+    [ "replay_window", "dd/dcd/structprivate__child__cfg__t.html#a8173494a4f5886a6b2eba3c512f2002f", null ],
+    [ "reqid", "dd/dcd/structprivate__child__cfg__t.html#a17285cc2bf4acb72622853c62049eeda", null ],
+    [ "start_action", "dd/dcd/structprivate__child__cfg__t.html#a539fea521eb598ca9271d4370947f466", null ],
+    [ "tfc", "dd/dcd/structprivate__child__cfg__t.html#a5d6065263e451aab79e541b3ef9d4b29", null ],
+    [ "updown", "dd/dcd/structprivate__child__cfg__t.html#a3dca545fae3185231845bc45a4c6c5ce", null ],
+    [ "use_ipcomp", "dd/dcd/structprivate__child__cfg__t.html#ae7ec80e4d11e3e1295c7b17a255c0842", null ]
+];

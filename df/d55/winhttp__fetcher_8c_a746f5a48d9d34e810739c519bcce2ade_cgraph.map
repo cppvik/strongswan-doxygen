@@ -1,0 +1,13 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$df/d55/winhttp__fetcher_8c.html#a1b25f2847df62bdc660581b9f7bb0a30" title="parse_uri" alt="" coords="152,31,227,57"/>
+<area shape="rect" id="node3" href="$df/d55/winhttp__fetcher_8c.html#aa2343e37a14a15c44999fbd8cea3e35c" title="read_result" alt="" coords="146,81,233,108"/>
+<area shape="rect" id="node7" href="$df/d12/mconsole_8c.html#a251c32cfa402f283bd6349486d9caac0" title="request" alt="" coords="157,132,222,159"/>
+<area shape="rect" id="node10" href="$df/d55/winhttp__fetcher_8c.html#a477503b5f6de19bf57c127e7f70b491f" title="send_request" alt="" coords="139,183,239,209"/>
+<area shape="rect" id="node12" href="$df/d55/winhttp__fetcher_8c.html#a76a95342edcab5f25c3dc2c51268252b" title="set_credentials" alt="" coords="134,233,245,260"/>
+<area shape="rect" id="node4" href="$d1/d14/fetch_8c.html#a17dd1592e9f4ebc44d5126c03a3a9697" title="cb" alt="" coords="355,107,394,133"/>
+<area shape="rect" id="node5" href="$d3/d4c/group__fetcheri.html#ga7122743318671dec5c7edc4134b39e51" title="fetcher_default_callback" alt="" coords="293,5,456,32"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="325,56,425,83"/>
+<area shape="rect" id="node8" href="$d0/d83/dumm_2main_8c.html#a01131b63acf241e9db91704d89ce15d2" title="idle" alt="" coords="353,157,396,184"/>
+<area shape="rect" id="node9" href="$da/d9b/group__windows.html#gaa1124f0d208ff28b7d9cf563ff183e8d" title="sched_yield" alt="" coords="504,157,595,184"/>
+<area shape="rect" id="node11" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="353,208,397,235"/>
+</map>

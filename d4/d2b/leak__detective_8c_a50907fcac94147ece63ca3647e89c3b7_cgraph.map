@@ -1,0 +1,9 @@
+<map id="real_malloc" name="real_malloc">
+<area shape="rect" id="node2" href="$d4/d2b/leak__detective_8c.html#ab73fce970de9b4b4d6cda6dcc80d5535" title="get_malloc_fn" alt="" coords="153,56,255,83"/>
+<area shape="rect" id="node8" href="$d4/d2b/leak__detective_8c.html#abca7ff9975a7ce7c765f92144b044c84" title="malloc_for_dlsym" alt="" coords="142,107,266,133"/>
+<area shape="rect" id="node3" href="$da/d9b/group__windows.html#ga84cb8784df910bfcc3002dc5e9e2f406" title="dlsym" alt="" coords="338,31,395,57"/>
+<area shape="rect" id="node7" href="$d4/d2b/leak__detective_8c.html#a49d30f0a6a67f5c2c3c108ee44202fae" title="enable_thread" alt="" coords="315,81,418,108"/>
+<area shape="rect" id="node4" href="$d1/d3f/windows_8c.html#a4ff3d00dcb8a7bb53cf65f484debcb4b" title="dlsym_default" alt="" coords="467,5,570,32"/>
+<area shape="rect" id="node5" href="$d1/d3f/windows_8c.html#aa71d37bf39d6bbc3bd94a496e3ba6f30" title="dlsym_next" alt="" coords="474,56,563,83"/>
+<area shape="rect" id="node6" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="619,56,669,83"/>
+</map>

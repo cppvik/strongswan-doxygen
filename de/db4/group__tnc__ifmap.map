@@ -1,0 +1,9 @@
+<map id="tnc_ifmap" name="tnc_ifmap">
+<area shape="rect" id="node1" href="$db/d90/group__tnc__ifmap__soap__msg.html" title="tnc_ifmap_soap_msg" alt="" coords="271,5,417,32"/>
+<area shape="rect" id="node2" href="$df/df9/group__tnc__ifmap__soap.html" title="tnc_ifmap_soap" alt="" coords="287,56,401,83"/>
+<area shape="rect" id="node4" href="$d5/d7d/group__tnc__ifmap__http.html" title="tnc_ifmap_http" alt="" coords="290,107,398,133"/>
+<area shape="rect" id="node5" href="$dd/d98/group__tnc__ifmap__renew__session__job.html" title="tnc_ifmap_renew_session_job" alt="" coords="245,157,443,184"/>
+<area shape="rect" id="node7" href="$d9/dd0/group__tnc__ifmap__plugin.html" title="tnc_ifmap_plugin" alt="" coords="284,208,404,235"/>
+<area shape="rect" id="node8" href="$d9/dc6/group__tnc__ifmap__listener.html" title="tnc_ifmap_listener" alt="" coords="280,259,408,285"/>
+<area shape="rect" id="node6" href="$d8/dd9/group__cplugins.html" title="plugins" alt="" coords="6,132,69,159"/>
+</map>

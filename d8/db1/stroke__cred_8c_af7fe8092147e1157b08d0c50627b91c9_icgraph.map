@@ -1,0 +1,11 @@
+<map id="passphrase_cb" name="passphrase_cb">
+<area shape="rect" id="node2" href="$d8/db1/stroke__cred_8c.html#a1c686fad0afe47de7728fd35b0faa3a7" title="load_from_file" alt="" coords="166,31,269,57"/>
+<area shape="rect" id="node3" href="$d8/db1/stroke__cred_8c.html#a0c61ebb97bc59bf59860da7715c0addb" title="load_pkcs12" alt="" coords="318,5,413,32"/>
+<area shape="rect" id="node10" href="$d8/db1/stroke__cred_8c.html#a66a8f2f4656c976e80665a710ea80063" title="load_private" alt="" coords="319,56,411,83"/>
+<area shape="rect" id="node4" href="$d8/db1/stroke__cred_8c.html#a5d1f52721e54438ad930da40c5c991d7" title="load_secrets" alt="" coords="461,31,557,57"/>
+<area shape="rect" id="node5" href="$d8/db1/stroke__cred_8c.html#ac707a0aa93f26613e2ae29b1970c4798" title="METHOD" alt="" coords="632,5,712,32"/>
+<area shape="rect" id="node6" href="$d4/ddf/group__stroke__cred.html#ga54afc73bedd2dda57cfbeb130062849a" title="stroke_cred_create" alt="" coords="605,56,739,83"/>
+<area shape="rect" id="node7" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="787,56,933,83"/>
+<area shape="rect" id="node8" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="982,56,1090,83"/>
+<area shape="rect" id="node9" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="1139,56,1219,83"/>
+</map>

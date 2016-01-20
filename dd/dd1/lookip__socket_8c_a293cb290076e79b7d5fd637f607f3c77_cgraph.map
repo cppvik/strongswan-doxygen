@@ -1,0 +1,11 @@
+<map id="subscribe" name="subscribe">
+<area shape="rect" id="node2" href="$dd/dd1/lookip__socket_8c.html#a9400a196038d1045b620a1b6ddcaf108" title="event_cb" alt="" coords="133,87,208,113"/>
+<area shape="rect" id="node3" href="$dd/dd1/lookip__socket_8c.html#a1d878aa2d09ef45c5bc93f63341dad84" title="disconnect" alt="" coords="256,87,341,113"/>
+<area shape="rect" id="node4" href="$d0/d8f/group__callback__job.html#ga6934f856d27d82413610263e27a5cfa1" title="callback_job_create" alt="" coords="390,32,527,59"/>
+<area shape="rect" id="node8" href="$dd/dd1/lookip__socket_8c.html#a2ce21d2e38f77ae3214fc7c78eb7d20a" title="disconnect_async" alt="" coords="395,87,522,113"/>
+<area shape="rect" id="node10" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="771,111,815,137"/>
+<area shape="rect" id="node5" href="$d0/d8f/group__callback__job.html#gadfa6801d50c2e34bb3f9e1c98efe02d0" title="callback_job_create\l_with_prio" alt="" coords="577,21,714,62"/>
+<area shape="rect" id="node6" href="$d1/d14/fetch_8c.html#a17dd1592e9f4ebc44d5126c03a3a9697" title="cb" alt="" coords="774,5,813,32"/>
+<area shape="rect" id="node7" href="$d2/dca/nm__backend_8c.html#a22ea158445c16ed72f5ab270e1dc691b" title="cancel" alt="" coords="763,56,823,83"/>
+<area shape="rect" id="node9" href="$dd/dd1/lookip__socket_8c.html#acd3e5f73aaf0c41e962aeb2dfd7d6745" title="entry_destroy" alt="" coords="595,87,696,113"/>
+</map>

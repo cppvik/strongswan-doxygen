@@ -1,0 +1,10 @@
+<map id="private_kernel_interface_t" name="private_kernel_interface_t">
+<area shape="rect" id="node2" href="$df/ddf/structkernel__ipsec__t.html" title="kernel_ipsec_t" alt="" coords="5,200,112,227"/>
+<area shape="rect" id="node4" href="$dd/d49/structhashtable__t.html" title="hashtable_t" alt="" coords="235,200,324,227"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="360,96,459,123"/>
+<area shape="rect" id="node7" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="349,200,440,227"/>
+<area shape="rect" id="node8" href="$db/d4b/structkernel__net__t.html" title="kernel_net_t" alt="" coords="564,200,657,227"/>
+<area shape="rect" id="node6" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="681,200,751,227"/>
+<area shape="rect" id="node9" href="$d5/dcf/structhost__t.html" title="host_t" alt="" coords="720,96,777,123"/>
+<area shape="rect" id="node10" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="715,5,783,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d0/d65/tnccs__20__server_8c.html#a56dbbc14df760ea17cda44045a61fcac" title="build_retry_batch" alt="" coords="134,59,255,85"/>
+<area shape="rect" id="node4" href="$d0/d65/tnccs__20__server_8c.html#ab19b4ab7eaa6fe81d9e726bf45d1c12d" title="handle_message" alt="" coords="135,152,255,179"/>
+<area shape="rect" id="node7" href="$d0/d61/whitelist_8c.html#a32590eeb75db94323a7fd354dc31eeed" title="send_msg" alt="" coords="539,252,621,279"/>
+<area shape="rect" id="node3" href="$d0/d65/tnccs__20__server_8c.html#a01233c8b168b2a48d9d7cd11ccc4dd7e" title="change_batch_type" alt="" coords="310,36,445,63"/>
+<area shape="rect" id="node5" href="$d0/d65/tnccs__20__server_8c.html#a6115a3a8aa098a3417b5381711294877" title="handle_ietf_message" alt="" coords="305,173,450,200"/>
+<area shape="rect" id="node12" href="$d0/d65/tnccs__20__server_8c.html#aa23a1ce862d737df1e0065b5b451548a" title="handle_ita_message" alt="" coords="307,87,448,113"/>
+<area shape="rect" id="node6" href="$da/da5/group__tncif__pa__subtypes.html#ga084a5946fae3dc0bfeb4a1aa5e5afe92" title="get_pa_subtype_names" alt="" coords="500,201,660,228"/>
+<area shape="rect" id="node11" href="$d0/d65/tnccs__20__server_8c.html#a6b9268f5ac24856debc243d0d3dfaca8" title="tnccs_20_handle_ietf\l_error_msg" alt="" coords="507,135,653,177"/>
+<area shape="rect" id="node8" href="$d0/d61/whitelist_8c.html#a46cbc3530d1b6d5af4c7728a67bcd3c6" title="make_connection" alt="" coords="710,201,834,228"/>
+<area shape="rect" id="node9" href="$d0/d61/whitelist_8c.html#adebf457eff03c857a09d83b310af96b1" title="write_all" alt="" coords="737,252,807,279"/>
+<area shape="rect" id="node10" href="$d0/d61/whitelist_8c.html#a66989870dd0d5ec8406294c9dda24350" title="read_all" alt="" coords="739,303,805,329"/>
+<area shape="rect" id="node13" href="$d3/dec/group__pb__mutual__capability__msg.html#ga1984c6e78c8ecfa05a24dc66af1c98eb" title="pb_mutual_capability\l_msg_create" alt="" coords="508,5,652,46"/>
+<area shape="rect" id="node14" href="$d0/d65/tnccs__20__server_8c.html#a70ade0c3e1c85d9008ee455e6ec0776a" title="tnccs_20_handle_ita\l_mutual_capability_msg" alt="" coords="499,70,661,111"/>
+</map>

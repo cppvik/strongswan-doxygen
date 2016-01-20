@@ -1,0 +1,8 @@
+<map id="generate_tags" name="generate_tags">
+<area shape="rect" id="node2" href="$df/de7/swid__inventory_8c.html#a52f8d7e7a937466cc1b4af2c083b0c50" title="read_swid_tag_ids" alt="" coords="157,56,288,83"/>
+<area shape="rect" id="node5" href="$df/de7/swid__inventory_8c.html#a4f8fa00ee1f929e85a401fbcc7f9dd8e" title="read_swid_tags" alt="" coords="166,107,279,133"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="354,56,454,83"/>
+<area shape="rect" id="node4" href="$d6/d8f/group__swid__tag__id.html#ga262217cb766c31dc79488c6bf97d4613" title="swid_tag_id_create" alt="" coords="337,5,471,32"/>
+<area shape="rect" id="node6" href="$dd/d3c/group__bio__writer.html#gac7993ee5c686c5e28413eef0a03e1e89" title="bio_writer_create" alt="" coords="343,107,465,133"/>
+<area shape="rect" id="node7" href="$d8/d2e/group__swid__tag.html#ga3e014621337aaa399eddaaf2df5e5984" title="swid_tag_create" alt="" coords="345,157,463,184"/>
+</map>

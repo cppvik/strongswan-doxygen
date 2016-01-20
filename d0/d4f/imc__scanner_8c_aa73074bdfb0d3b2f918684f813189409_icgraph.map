@@ -1,0 +1,6 @@
+<map id="add_port_filter" name="add_port_filter">
+<area shape="rect" id="node2" href="$d0/d4f/imc__scanner_8c.html#a4d78dfd258363450375cdfcdc3fb6812" title="receive_message" alt="" coords="190,31,314,57"/>
+<area shape="rect" id="node5" href="$de/d10/group__tncifimc.html#ga72bb832f2d5fc794ab3c2b9675d9b59e" title="TNC_IMC_BeginHandshake" alt="" coords="158,81,346,108"/>
+<area shape="rect" id="node3" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="409,5,599,32"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="395,56,613,83"/>
+</map>

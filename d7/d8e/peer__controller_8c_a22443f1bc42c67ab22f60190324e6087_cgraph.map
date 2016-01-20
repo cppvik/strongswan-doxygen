@@ -1,0 +1,30 @@
+<map id="edit" name="edit">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1125,347,1169,373"/>
+<area shape="rect" id="node3" href="$db/dab/keyid_8c.html#a049bbdebc2be4da80632f9b3af6fc046" title="keyid" alt="" coords="497,195,551,221"/>
+<area shape="rect" id="node11" href="$d7/d8e/peer__controller_8c.html#aee87ff7af9aa9cb57b287ddaaf1b4589" title="parse_public_key" alt="" coords="665,245,788,272"/>
+<area shape="rect" id="node13" href="$d7/d8e/peer__controller_8c.html#a49ff32c14d7cbaf87ddbe8a132243732" title="pem_encode" alt="" coords="476,372,572,399"/>
+<area shape="rect" id="node15" href="$dd/dd1/lookip__socket_8c.html#acc8bcf8953501371f3cefcf746439c3a" title="query" alt="" coords="113,347,167,373"/>
+<area shape="rect" id="node29" href="$d7/d8e/peer__controller_8c.html#a3698f8e5c6ccded04b005f445742367a" title="verify_alias" alt="" coords="96,397,184,424"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="673,296,781,323"/>
+<area shape="rect" id="node7" href="$dc/d53/group__command.html#ga5cf2c6b41420f51c7d7db9dfbd699f6b" title="command_getopt" alt="" coords="665,93,788,120"/>
+<area shape="rect" id="node8" href="$dc/d53/group__command.html#gac550624edb43a63d97310c54962c8f66" title="command_usage" alt="" coords="666,144,787,171"/>
+<area shape="rect" id="node9" href="$df/d1e/group__pki.html#ga63674711f2657b283b42d2c0bd0b78f3" title="set_file_mode" alt="" coords="675,195,778,221"/>
+<area shape="rect" id="node10" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="701,499,752,525"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="910,397,970,424"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="890,296,990,323"/>
+<area shape="rect" id="node12" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="897,245,983,272"/>
+<area shape="rect" id="node14" href="$d4/d87/group__chunk.html#ga7aad3a3d9985c020b0a97a25b8d32daa" title="chunk_to_base64" alt="" coords="665,347,789,373"/>
+<area shape="rect" id="node16" href="$d7/df1/group__host.html#gad1ee7d1c0d17eee7f6e204e22ea2c206" title="host_create_from_string" alt="" coords="232,347,395,373"/>
+<area shape="rect" id="node28" href="$dd/dd1/lookip__socket_8c.html#a8d60faf190c751a8676c652462d00ebe" title="query_cb" alt="" coords="276,397,351,424"/>
+<area shape="rect" id="node17" href="$d7/df1/group__host.html#ga75f9b1e7905a80d69bc3cc7a7c3775a5" title="host_create_from_string\l_and_family" alt="" coords="443,542,605,583"/>
+<area shape="rect" id="node18" href="$df/da9/host_8c.html#a2670c8aac87ed6960c4e45f42f843b73" title="host_create_any_port" alt="" coords="653,600,800,627"/>
+<area shape="rect" id="node26" href="$da/d9b/group__windows.html#ga7fb1f8a8f40e09fa09e625d2a09dc04e" title="inet_pton" alt="" coords="689,549,764,576"/>
+<area shape="rect" id="node27" href="$d7/df1/group__host.html#ga3183b60055297ceaa19b4a5996496830" title="host_create_from_sockaddr" alt="" coords="849,651,1031,677"/>
+<area shape="rect" id="node19" href="$d7/df1/group__host.html#ga5f2c94740339664ce118776e13829cd0" title="host_create_any" alt="" coords="881,549,999,576"/>
+<area shape="rect" id="node25" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a5da61ec055ea1dffbb84ffe3caddb7dc" title="set_port" alt="" coords="905,600,975,627"/>
+<area shape="rect" id="node20" href="$df/da9/host_8c.html#ac3854e66d5a7563cae9608acbcad6eb5" title="host_create_empty" alt="" coords="1080,561,1213,588"/>
+<area shape="rect" id="node24" href="$df/da9/host_8c.html#a1fb6a6590d2576c32709b890623cad8c" title="update_sa_len" alt="" coords="1093,637,1200,664"/>
+<area shape="rect" id="node21" href="$df/da9/host_8c.html#a809d5cf7574c1f5e27758950d53653f4" title="equals" alt="" coords="1262,587,1322,613"/>
+<area shape="rect" id="node22" href="$df/da9/host_8c.html#a0ea5fbf16ec81f3c5eaf6dc5da8d452a" title="ip_equals" alt="" coords="1371,561,1448,588"/>
+<area shape="rect" id="node23" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="1497,561,1562,588"/>
+</map>

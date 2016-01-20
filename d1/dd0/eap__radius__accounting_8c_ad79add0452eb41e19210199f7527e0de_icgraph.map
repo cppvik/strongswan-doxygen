@@ -1,0 +1,8 @@
+<map id="collect_stats" name="collect_stats">
+<area shape="rect" id="node2" href="$d1/dd0/eap__radius__accounting_8c.html#aabc5fa5538ebb0bfc7346dae9bde9d8c" title="METHOD" alt="" coords="157,5,237,32"/>
+<area shape="rect" id="node3" href="$d1/dd0/eap__radius__accounting_8c.html#a78610f1a32d59d8ab888b0f84ec3799e" title="send_interim" alt="" coords="149,56,245,83"/>
+<area shape="rect" id="node4" href="$d1/dd0/eap__radius__accounting_8c.html#a94aa6f1d1b4a4cde8cb9758a26495d4a" title="schedule_interim" alt="" coords="293,56,413,83"/>
+<area shape="rect" id="node5" href="$d1/dd0/eap__radius__accounting_8c.html#a1824636242462a6b05f546a58b31ceba" title="send_start" alt="" coords="461,31,544,57"/>
+<area shape="rect" id="node7" href="$d1/dd0/eap__radius__accounting_8c.html#a43b8d7b2e08ddb1752dd02d1d303aab5" title="METHOD" alt="" coords="463,81,543,108"/>
+<area shape="rect" id="node6" href="$d1/dd0/eap__radius__accounting_8c.html#ac299d1d8cbcaf2afa591571c78ff1833" title="METHOD" alt="" coords="592,31,672,57"/>
+</map>

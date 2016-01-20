@@ -1,0 +1,7 @@
+<map id="create_sid" name="create_sid">
+<area shape="rect" id="node2" href="$dd/df4/group__fast__session.html#gad9c31b8ad95288710aec12b630420bd9" title="fast_session_create" alt="" coords="136,5,275,32"/>
+<area shape="rect" id="node3" href="$db/d01/fast__dispatcher_8c.html#a9f53dbf5de5824f24e52a2eaf03395ef" title="load_session" alt="" coords="323,5,421,32"/>
+<area shape="rect" id="node4" href="$db/d01/fast__dispatcher_8c.html#a1cf58e675696438ba1707b0a96ac5bcf" title="session_entry_create" alt="" coords="469,5,616,32"/>
+<area shape="rect" id="node5" href="$db/d01/fast__dispatcher_8c.html#a12498b1ee77efc88b14046db7545d5a2" title="dispatch" alt="" coords="665,5,735,32"/>
+<area shape="rect" id="node6" href="$db/d01/fast__dispatcher_8c.html#ac99d02b75ac9fccff338429081bff1d3" title="METHOD" alt="" coords="784,5,864,32"/>
+</map>

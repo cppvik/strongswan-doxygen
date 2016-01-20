@@ -1,0 +1,9 @@
+<map id="private_dhcp_plugin_t" name="private_dhcp_plugin_t">
+<area shape="rect" id="node2" href="$d9/dd8/structdhcp__socket__t.html" title="dhcp_socket_t" alt="" coords="161,291,268,317"/>
+<area shape="rect" id="node3" href="$d3/d68/structdhcp__transaction__t.html" title="dhcp_transaction_t" alt="" coords="149,200,280,227"/>
+<area shape="rect" id="node4" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="161,96,268,123"/>
+<area shape="rect" id="node5" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="41,5,108,32"/>
+<area shape="rect" id="node7" href="$d5/dcf/structhost__t.html" title="host_t" alt="" coords="5,96,63,123"/>
+<area shape="rect" id="node6" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="271,5,369,32"/>
+<area shape="rect" id="node9" href="$dc/df4/structdhcp__provider__t.html" title="dhcp_provider_t" alt="" coords="292,291,407,317"/>
+</map>

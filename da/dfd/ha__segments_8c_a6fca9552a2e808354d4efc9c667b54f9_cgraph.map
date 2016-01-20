@@ -1,0 +1,7 @@
+<map id="autobalance" name="autobalance">
+<area shape="rect" id="node2" href="$da/dfd/ha__segments_8c.html#a0e070b3575abe5e79884a8bcd82efcc6" title="enable_disable" alt="" coords="147,31,255,57"/>
+<area shape="rect" id="node3" href="$da/dfd/ha__segments_8c.html#a062cc8af45036a7babaafef6b9e04929" title="log_segments" alt="" coords="322,5,425,32"/>
+<area shape="rect" id="node4" href="$d4/d28/group__ha__message.html#ga2a3cd412dcd46e4e1af81557bec52833" title="ha_message_create" alt="" coords="304,56,443,83"/>
+<area shape="rect" id="node5" href="$d0/d72/ha__message_8c.html#af014b3a44349ed155a069c8331abfe2c" title="ha_message_create_generic" alt="" coords="491,31,679,57"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="555,81,615,108"/>
+</map>

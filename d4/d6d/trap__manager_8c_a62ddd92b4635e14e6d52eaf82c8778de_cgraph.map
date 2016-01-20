@@ -1,0 +1,8 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d0/d8e/kernel__wfp__ipsec_8c.html#ab855f29001f16f7422904b704693182c" title="acquire" alt="" coords="161,5,225,32"/>
+<area shape="rect" id="node3" href="$d4/d6d/trap__manager_8c.html#af893be33d35f9ce764a65e0eddbef2b0" title="acquire_by_dst" alt="" coords="138,56,249,83"/>
+<area shape="rect" id="node4" href="$d4/d6d/trap__manager_8c.html#ae412010721e4030400ee513294902b2b" title="acquire_by_reqid" alt="" coords="133,107,253,133"/>
+<area shape="rect" id="node5" href="$d4/d6d/trap__manager_8c.html#a074c02f782b0fb98d6b8b1ebff6debf4" title="destroy_acquire" alt="" coords="136,157,251,184"/>
+<area shape="rect" id="node7" href="$df/d12/mconsole_8c.html#a99c1d3283d008ef6bfee9c14313c2fc9" title="ignore" alt="" coords="165,208,222,235"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="302,157,346,184"/>
+</map>

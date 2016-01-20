@@ -1,0 +1,12 @@
+<map id="decode_section" name="decode_section">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="189,5,289,32"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gae6aabf03218cda073ab2173e02bff4ba" title="chunk_equals" alt="" coords="187,56,290,83"/>
+<area shape="rect" id="node5" href="$dc/d7a/group__libvici.html#ga8ce91f7bbd32712758370e6dc5a49d64" title="vici_parse" alt="" coords="198,107,279,133"/>
+<area shape="rect" id="node6" href="$dc/d7a/group__libvici.html#ga096e5f3ed65379ecb6b96a4a67e50976" title="vici_parse_name" alt="" coords="179,157,299,184"/>
+<area shape="rect" id="node7" href="$dc/d7a/group__libvici.html#ga67fccc7d4a35ee88fdee2f860102656b" title="vici_parse_value" alt="" coords="179,208,298,235"/>
+<area shape="rect" id="node8" href="$dc/d7a/group__libvici.html#ga9f9353ea41485c6356fb07edafb4413f" title="vici_parse_value_str" alt="" coords="168,259,309,285"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="382,56,447,83"/>
+<area shape="rect" id="node9" href="$d4/d87/group__chunk.html#gab2fee6d4908a46297e2a0f818d8df2a7" title="chunk_printable" alt="" coords="358,233,471,260"/>
+<area shape="rect" id="node10" href="$da/d9b/group__windows.html#ga8b860ba32fef12da8acd4507c059e509" title="strndup" alt="" coords="382,284,447,311"/>
+<area shape="rect" id="node11" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="521,284,581,311"/>
+</map>

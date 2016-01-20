@@ -1,0 +1,11 @@
+<map id="attack_transform" name="attack_transform">
+<area shape="rect" id="node2" href="$d6/d80/timeattack_8c.html#a02f6df2b896ce901f064bd6782225561" title="attack_aeads" alt="" coords="195,56,295,83"/>
+<area shape="rect" id="node9" href="$d6/d80/timeattack_8c.html#ac916b3b6bf7078ba28a8a6411a306ae0" title="attack_signers" alt="" coords="192,5,299,32"/>
+<area shape="rect" id="node10" href="$d9/dc7/group__crypter.html#ga7bbfee072e42c96f81def3df29211755" title="encryption_algorithm\l_is_aead" alt="" coords="174,107,317,149"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="366,5,466,32"/>
+<area shape="rect" id="node4" href="$d6/d80/timeattack_8c.html#a55ea7fd9e539287c5be620d5899a6acd" title="timeattack" alt="" coords="375,56,457,83"/>
+<area shape="rect" id="node5" href="$d6/d80/timeattack_8c.html#aa11df062eb5aede2f436b38024362d21" title="start_timing" alt="" coords="515,5,605,32"/>
+<area shape="rect" id="node6" href="$d6/d80/timeattack_8c.html#a4e6fdd647b80414e250ca409497807b2" title="end_timing" alt="" coords="517,56,603,83"/>
+<area shape="rect" id="node7" href="$d6/d80/timeattack_8c.html#a4a197268b4a9b0ac4dc99f2db5238846" title="median" alt="" coords="528,107,592,133"/>
+<area shape="rect" id="node8" href="$d6/d80/timeattack_8c.html#a4da51c423237a55054e8b506034a79b1" title="intcmp" alt="" coords="653,107,715,133"/>
+</map>

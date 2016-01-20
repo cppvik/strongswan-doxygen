@@ -1,0 +1,11 @@
+<map id="task_manager_v2_create" name="task_manager_v2_create">
+<area shape="rect" id="node2" href="$d0/df1/group__task__manager.html#gadb1e5f93c376c911179a92f4fe37f28f" title="task_manager_create" alt="" coords="221,31,368,57"/>
+<area shape="rect" id="node3" href="$d0/dce/group__ike__sa.html#gae60a0b9f30836a1de42076ba7fef3995" title="ike_sa_create" alt="" coords="417,31,519,57"/>
+<area shape="rect" id="node4" href="$d0/df4/ike__sa__manager_8c.html#ae7b6b733f256a45cc4b4d9aa25447f60" title="METHOD" alt="" coords="588,5,668,32"/>
+<area shape="rect" id="node5" href="$de/dfc/ha__dispatcher_8c.html#a0bfbdd320c96c4c169e64a6acb923a3d" title="process_ike_add" alt="" coords="568,56,688,83"/>
+<area shape="rect" id="node6" href="$de/dfc/ha__dispatcher_8c.html#a6e7484c8904d89575d90aed033fcf771" title="dispatch" alt="" coords="737,56,807,83"/>
+<area shape="rect" id="node7" href="$dd/dad/group__ha__dispatcher.html#gadfcd8537c6ac8e69d5dabf463119b7f5" title="ha_dispatcher_create" alt="" coords="856,56,1003,83"/>
+<area shape="rect" id="node8" href="$d2/dbc/ha__plugin_8c.html#ac3b62ac20197d1c242926fae531a3bfa" title="initialize_plugin" alt="" coords="1051,56,1162,83"/>
+<area shape="rect" id="node9" href="$d2/dbc/ha__plugin_8c.html#ac04b0147cc74be4316f3db3a9aa6b4a6" title="plugin_cb" alt="" coords="1211,56,1288,83"/>
+<area shape="rect" id="node10" href="$d2/dbc/ha__plugin_8c.html#ab76e28aa86319749526a5d4a267616e2" title="METHOD" alt="" coords="1336,56,1416,83"/>
+</map>

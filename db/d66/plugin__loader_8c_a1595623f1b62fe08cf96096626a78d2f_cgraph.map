@@ -1,0 +1,5 @@
+<map id="registered_feature_equals" name="registered_feature_equals">
+<area shape="rect" id="node2" href="$d7/dfa/group__plugin__feature.html#ga12b7042a5f7bd1d1e83dae6eaf3f35db" title="plugin_feature_equals" alt="" coords="182,31,330,57"/>
+<area shape="rect" id="node3" href="$d7/dfa/group__plugin__feature.html#ga89a32b0f1d9e9c21dd77a090d9d709f4" title="plugin_feature_matches" alt="" coords="379,5,539,32"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="587,31,637,57"/>
+</map>

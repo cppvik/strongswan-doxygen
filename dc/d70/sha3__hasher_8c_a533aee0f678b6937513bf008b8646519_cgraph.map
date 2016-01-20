@@ -1,0 +1,5 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$dc/d70/sha3__hasher_8c.html#aea6d2ad80e845af78dfa0d1504a494cd" title="sha3_absorb" alt="" coords="133,5,229,32"/>
+<area shape="rect" id="node4" href="$dc/d70/sha3__hasher_8c.html#a88bece103c2cb4e001baa71ff37ae479" title="sha3_final" alt="" coords="141,56,222,83"/>
+<area shape="rect" id="node3" href="$dc/d70/sha3__hasher_8c.html#a537c0e42000fc802a2612a1f1fb8bcd4" title="keccak_f1600_state\l_permute" alt="" coords="277,23,416,65"/>
+</map>

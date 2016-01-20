@@ -1,0 +1,7 @@
+<map id="imc_os_info_create" name="imc_os_info_create">
+<area shape="rect" id="node2" href="$d6/d55/imc__os__info_8c.html#a1ad921939eabbad99a3ae97862e1c1c0" title="extract_platform_info" alt="" coords="189,56,333,83"/>
+<area shape="rect" id="node5" href="$de/d71/group__os__info.html#gad060754e9d3520390a73d6bb640f0426" title="os_type_from_name" alt="" coords="382,107,522,133"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="402,5,502,32"/>
+<area shape="rect" id="node4" href="$d9/d11/group__enum.html#ga1acffaec9549eafeee287b7a985a9f9c" title="enum_to_name" alt="" coords="571,56,682,83"/>
+<area shape="rect" id="node6" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="594,107,659,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="query_protocols" name="query_protocols">
+<area shape="rect" id="node2" href="$d6/da8/curl__plugin_8c.html#a95cd92b7159f7480455350cf1cbd2593" title="add_feature" alt="" coords="399,5,489,32"/>
+<area shape="rect" id="node3" href="$d6/da8/curl__plugin_8c.html#a05f30194fe7195ddd7e0de8679e9f7cd" title="add_feature_with_ssl" alt="" coords="169,56,314,83"/>
+<area shape="rect" id="node5" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="573,81,632,108"/>
+<area shape="rect" id="node6" href="$da/dab/group__curl__fetcher.html#gad7eb5ad8126640cf3009a47251c7cef7" title="curl_fetcher_create" alt="" coords="175,157,308,184"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="417,56,471,83"/>
+<area shape="rect" id="node7" href="$d3/d4c/group__fetcheri.html#ga7122743318671dec5c7edc4134b39e51" title="fetcher_default_callback" alt="" coords="363,157,525,184"/>
+<area shape="rect" id="node8" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="422,208,466,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="wait_result" name="wait_result">
+<area shape="rect" id="node2" href="$dc/dfc/libvici_8c.html#a937f87e20973ed133a8436afc3d6b706" title="CALLBACK" alt="" coords="435,55,527,82"/>
+<area shape="rect" id="node3" href="$dc/dfc/libvici_8c.html#a979de01bc3123615f089989d78ba1c1f" title="handle_response" alt="" coords="267,30,387,56"/>
+<area shape="rect" id="node4" href="$dc/dfc/libvici_8c.html#a7c6be9da837cade24db7292b6800659b" title="read_error" alt="" coords="139,80,219,107"/>
+<area shape="rect" id="node5" href="$dc/dfc/libvici_8c.html#aeaef9af81156e43830a900a1ce615225" title="handle_event" alt="" coords="277,131,376,158"/>
+</map>

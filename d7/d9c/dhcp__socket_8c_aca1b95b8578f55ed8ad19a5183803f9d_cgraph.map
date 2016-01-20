@@ -1,0 +1,12 @@
+<map id="prepare_dhcp" name="prepare_dhcp">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gae6aabf03218cda073ab2173e02bff4ba" title="chunk_equals" alt="" coords="169,31,271,57"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gac10e9f96a2d68b69364f92c4dc74d3ec" title="chunk_hash_static" alt="" coords="155,81,285,108"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="346,31,411,57"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gac5619cf208f72c56bf142cbc4378e388" title="chunk_mac" alt="" coords="334,81,423,108"/>
+<area shape="rect" id="node6" href="$d8/d39/chunk_8c.html#a09c1163fbcb7fd5f8dc5652c9083511a" title="chunk_mac_inc" alt="" coords="473,81,586,108"/>
+<area shape="rect" id="node7" href="$d8/d39/chunk_8c.html#ab5aaa633967a7323bfda1d3b7773374e" title="sipcompress" alt="" coords="635,5,731,32"/>
+<area shape="rect" id="node8" href="$d8/d39/chunk_8c.html#a9ef077ebff7df5d4b102da51b511e597" title="sipround" alt="" coords="779,31,850,57"/>
+<area shape="rect" id="node10" href="$d8/d39/chunk_8c.html#a740b095c15858f572fbedfe727233276" title="sipget" alt="" coords="654,107,711,133"/>
+<area shape="rect" id="node11" href="$d8/d39/chunk_8c.html#a16bb91c5f20c585526fb6f76b5ffc6d3" title="siplast" alt="" coords="653,157,713,184"/>
+<area shape="rect" id="node9" href="$d8/d39/chunk_8c.html#a63c97c2d77838dbe2e7876ad6933d602" title="siprotate" alt="" coords="899,31,971,57"/>
+</map>

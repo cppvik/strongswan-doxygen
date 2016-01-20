@@ -1,0 +1,13 @@
+<map id="cleanup" name="cleanup">
+<area shape="rect" id="node2" href="$d3/d99/group__library.html#gab33af64193c983bf43d09c198c4a45ab" title="library_deinit" alt="" coords="126,107,221,133"/>
+<area shape="rect" id="node12" href="$d7/df5/group__libtnccs.html#ga8c163680fe58472f301314f34e802e3d" title="libtnccs_deinit" alt="" coords="121,56,226,83"/>
+<area shape="rect" id="node3" href="$d0/de0/group__atomics__i.html#gaddce2b430444b26bf77138b37bba5eab" title="ref_put" alt="" coords="302,5,365,32"/>
+<area shape="rect" id="node4" href="$d3/d6d/group__backtrace.html#ga4f9db03fdb801bb291adc303d32c9b9d" title="backtrace_deinit" alt="" coords="275,208,392,235"/>
+<area shape="rect" id="node5" href="$d1/d0e/group__array.html#ga6590512c4cab7571ee8d4af17ba13d29" title="arrays_deinit" alt="" coords="285,259,381,285"/>
+<area shape="rect" id="node6" href="$d6/d87/group__utils__i.html#gad98c99a6a31002d181dbd1428ad7b36e" title="utils_deinit" alt="" coords="291,107,375,133"/>
+<area shape="rect" id="node10" href="$da/dd8/group__thread.html#gaa290ba7daffccd55780e0a3b7fea41da" title="threads_deinit" alt="" coords="282,157,385,184"/>
+<area shape="rect" id="node11" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="311,56,355,83"/>
+<area shape="rect" id="node7" href="$da/d9b/group__windows.html#ga45ae391e1cdf4fa6a54fcbf832adc3cd" title="windows_deinit" alt="" coords="441,56,551,83"/>
+<area shape="rect" id="node8" href="$d0/de0/group__atomics__i.html#ga75cce9b5406e697c2d426091795d89a3" title="atomics_deinit" alt="" coords="443,107,549,133"/>
+<area shape="rect" id="node9" href="$d7/d20/group__strerror__i.html#ga01d68430f2df6d7e427d9a0d8d54784b" title="strerror_deinit" alt="" coords="445,157,547,184"/>
+</map>

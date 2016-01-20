@@ -1,0 +1,7 @@
+<map id="private_pkcs11_plugin_t" name="private_pkcs11_plugin_t">
+<area shape="rect" id="node2" href="$d1/d82/structpkcs11__manager__t.html" title="pkcs11_manager_t" alt="" coords="5,96,136,123"/>
+<area shape="rect" id="node3" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="100,5,199,32"/>
+<area shape="rect" id="node7" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="184,96,275,123"/>
+<area shape="rect" id="node4" href="$db/d86/structrwlock__t.html" title="rwlock_t" alt="" coords="399,96,469,123"/>
+<area shape="rect" id="node6" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="605,96,675,123"/>
+</map>

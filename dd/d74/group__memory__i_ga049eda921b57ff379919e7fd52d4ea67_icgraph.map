@@ -1,0 +1,10 @@
+<map id="memstr" name="memstr">
+<area shape="rect" id="node2" href="$d0/db8/group__lexparser.html#ga8856796f54e45db62fe903c7dc2182b2" title="extract_token_str" alt="" coords="120,31,243,57"/>
+<area shape="rect" id="node9" href="$d9/dbe/test__utils_8c.html#aafc5852ac43cdbce965eea8667210474" title="START_TEST" alt="" coords="128,81,235,108"/>
+<area shape="rect" id="node3" href="$d8/db1/stroke__cred_8c.html#a5d1f52721e54438ad930da40c5c991d7" title="load_secrets" alt="" coords="291,31,387,57"/>
+<area shape="rect" id="node4" href="$d8/db1/stroke__cred_8c.html#ac707a0aa93f26613e2ae29b1970c4798" title="METHOD" alt="" coords="461,5,541,32"/>
+<area shape="rect" id="node5" href="$d4/ddf/group__stroke__cred.html#ga54afc73bedd2dda57cfbeb130062849a" title="stroke_cred_create" alt="" coords="435,56,568,83"/>
+<area shape="rect" id="node6" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="616,56,763,83"/>
+<area shape="rect" id="node7" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="811,56,919,83"/>
+<area shape="rect" id="node8" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="968,56,1048,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="private_cmd_creds_t" name="private_cmd_creds_t">
+<area shape="rect" id="node2" href="$d1/ddc/structcallback__cred__t.html" title="callback_cred_t" alt="" coords="62,304,175,331"/>
+<area shape="rect" id="node4" href="$d8/d38/structmem__cred__t.html" title="mem_cred_t" alt="" coords="199,304,293,331"/>
+<area shape="rect" id="node5" href="$d6/d41/structcertificate__t.html" title="certificate_t" alt="" coords="201,200,292,227"/>
+<area shape="rect" id="node6" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="101,96,208,123"/>
+<area shape="rect" id="node7" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="65,5,132,32"/>
+<area shape="rect" id="node8" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="161,5,260,32"/>
+<area shape="rect" id="node9" href="$d0/d6f/structpublic__key__t.html" title="public_key_t" alt="" coords="293,96,387,123"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="add_configuration_state" name="add_configuration_state">
+<area shape="rect" id="node2" href="$db/d67/imc__hcd_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="214,31,338,57"/>
+<area shape="rect" id="node3" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="401,5,591,32"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="387,56,605,83"/>
+</map>

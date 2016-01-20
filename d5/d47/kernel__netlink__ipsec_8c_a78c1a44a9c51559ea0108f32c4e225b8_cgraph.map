@@ -1,0 +1,6 @@
+<map id="ts2selector" name="ts2selector">
+<area shape="rect" id="node2" href="$d7/dff/group__traffic__selector.html#ga35a2141a376b7568b4fa44b46960bd03" title="traffic_selector_icmp_code" alt="" coords="141,5,320,32"/>
+<area shape="rect" id="node3" href="$d7/dff/group__traffic__selector.html#ga1d6504665dab286ee80a7f4f34025a45" title="traffic_selector_icmp_type" alt="" coords="143,56,318,83"/>
+<area shape="rect" id="node4" href="$d5/d47/kernel__netlink__ipsec_8c.html#a7d9b6b0b1f19b2361603a6dd0bece7d4" title="ts2ports" alt="" coords="196,107,265,133"/>
+<area shape="rect" id="node5" href="$d5/d47/kernel__netlink__ipsec_8c.html#aae98029994860ce0eb4eae10b8a07aa7" title="ts2subnet" alt="" coords="191,157,270,184"/>
+</map>

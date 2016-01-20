@@ -1,0 +1,7 @@
+<map id="exclude_route_destroy" name="exclude_route_destroy">
+<area shape="rect" id="node2" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a450e7c3deb560add0423ab0eea315b84" title="remove_exclude_route" alt="" coords="209,31,362,57"/>
+<area shape="rect" id="node3" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a6230f3dd1e3bd0bd9d6fbcbe61004fd6" title="install_route" alt="" coords="411,5,503,32"/>
+<area shape="rect" id="node6" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a03525a90beb985a6723803fdcf3485eb" title="METHOD" alt="" coords="417,56,497,83"/>
+<area shape="rect" id="node4" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#aa58e0f137f329599c7f8fd05d1751c40" title="add_policy_internal" alt="" coords="552,5,685,32"/>
+<area shape="rect" id="node5" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#abc6bbade11303344b59a27750f8edf0b" title="METHOD" alt="" coords="733,5,813,32"/>
+</map>

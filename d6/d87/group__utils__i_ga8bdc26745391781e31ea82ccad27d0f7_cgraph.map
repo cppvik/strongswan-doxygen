@@ -1,0 +1,9 @@
+<map id="utils_init" name="utils_init">
+<area shape="rect" id="node2" href="$d0/de0/group__atomics__i.html#gadfbad89ca19049c8fec3a5c9c55512a8" title="atomics_init" alt="" coords="129,5,221,32"/>
+<area shape="rect" id="node3" href="$d7/d20/group__strerror__i.html#ga79e2f9944ea014e075aae73dfbb8dc56" title="strerror_init" alt="" coords="131,56,218,83"/>
+<area shape="rect" id="node8" href="$da/d9b/group__windows.html#ga5e72c66888bcccda65409d7f0fb0b1c0" title="windows_init" alt="" coords="126,107,223,133"/>
+<area shape="rect" id="node4" href="$d5/da7/group__thread__value.html#ga5b6347b35d90cbbe7185c3969ebd9c34" title="thread_value_create" alt="" coords="272,5,411,32"/>
+<area shape="rect" id="node5" href="$d5/d04/strerror_8c.html#afb8c219cfb790b22c2f7e4c90066fff9" title="free_no_ld" alt="" coords="300,56,383,83"/>
+<area shape="rect" id="node7" href="$d2/dd9/group__spinlock.html#gae760eb79ec69f484195859e4815ff2b7" title="spinlock_create" alt="" coords="285,107,398,133"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="459,56,503,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="build_getter_msg" name="build_getter_msg">
+<area shape="rect" id="node2" href="$d8/db1/group__vici__message.html#ga07069bc5bd0573ace19f322e2dcf266d" title="vici_message_create\l_from_args" alt="" coords="177,5,322,46"/>
+<area shape="rect" id="node3" href="$d0/df9/group__vici__builder.html#ga2d3c1e3e02721feb89aeb01fb7f83184" title="vici_builder_create" alt="" coords="371,12,501,39"/>
+<area shape="rect" id="node4" href="$dd/d3c/group__bio__writer.html#gac7993ee5c686c5e28413eef0a03e1e89" title="bio_writer_create" alt="" coords="550,12,671,39"/>
+</map>

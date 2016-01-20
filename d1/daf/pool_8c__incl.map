@@ -1,0 +1,36 @@
+<map id="pool.c" name="pool.c">
+<area shape="rect" id="node5" href="$de/df7/time_8h.html" title="time.h" alt="" coords="661,469,719,496"/>
+<area shape="rect" id="node6" href="$da/d66/string_8h.html" title="string.h" alt="" coords="3183,469,3248,496"/>
+<area shape="rect" id="node8" href="$db/d16/debug_8h.html" title="utils/debug.h" alt="" coords="619,245,715,272"/>
+<area shape="rect" id="node25" href="$dd/d08/library_8h.html" title="library.h" alt="" coords="1757,80,1824,107"/>
+<area shape="rect" id="node27" href="$df/ded/host_8h.html" title="host.h" alt="" coords="3323,245,3380,272"/>
+<area shape="rect" id="node41" href="$d1/d5e/identification_8h.html" title="utils/identification.h" alt="" coords="911,245,1045,272"/>
+<area shape="rect" id="node48" href="$da/d6e/attributes_8h.html" title="attributes/attributes.h" alt="" coords="243,163,388,189"/>
+<area shape="rect" id="node49" href="$d6/dd7/pool__attributes_8h.html" title="pool_attributes.h" alt="" coords="289,80,407,107"/>
+<area shape="rect" id="node50" href="$df/d95/pool__usage_8h.html" title="pool_usage.h" alt="" coords="3840,80,3939,107"/>
+<area shape="rect" id="node9" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="1985,395,2071,421"/>
+<area shape="rect" id="node21" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="2356,469,2449,496"/>
+<area shape="rect" id="node22" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="2605,469,2669,496"/>
+<area shape="rect" id="node24" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="2473,469,2580,496"/>
+<area shape="rect" id="node23" href="$dc/d6a/printf__hook_8h.html" title="utils/printf_hook/printf\l_hook.h" alt="" coords="3188,545,3335,586"/>
+<area shape="rect" id="node26" href="$d2/d0c/host__resolver_8h.html" title="networking/host_resolver.h" alt="" coords="3323,163,3501,189"/>
+<area shape="rect" id="node28" href="$dd/dd5/chunk_8h.html" title="utils/chunk.h" alt="" coords="3137,320,3233,347"/>
+<area shape="rect" id="node29" href="$d7/d82/stream__manager_8h.html" title="networking/streams\l/stream_manager.h" alt="" coords="1196,155,1331,197"/>
+<area shape="rect" id="node30" href="$d9/d99/processor_8h.html" title="processing/processor.h" alt="" coords="3384,320,3541,347"/>
+<area shape="rect" id="node31" href="$d2/dd8/scheduler_8h.html" title="processing/scheduler.h" alt="" coords="1357,163,1512,189"/>
+<area shape="rect" id="node32" href="$dd/d33/watcher_8h.html" title="processing/watcher.h" alt="" coords="1537,163,1684,189"/>
+<area shape="rect" id="node33" href="$d4/d1b/crypto__factory_8h.html" title="crypto/crypto_factory.h" alt="" coords="795,163,951,189"/>
+<area shape="rect" id="node35" href="$d3/dc3/proposal__keywords_8h.html" title="crypto/proposal/proposal\l_keywords.h" alt="" coords="1709,155,1872,197"/>
+<area shape="rect" id="node36" href="$d3/db8/fetcher__manager_8h.html" title="fetcher/fetcher_manager.h" alt="" coords="1897,163,2071,189"/>
+<area shape="rect" id="node37" href="$d0/d65/resolver__manager_8h.html" title="resolver/resolver_manager.h" alt="" coords="2096,163,2283,189"/>
+<area shape="rect" id="node38" href="$d7/db6/database__factory_8h.html" title="database/database_factory.h" alt="" coords="2307,163,2497,189"/>
+<area shape="rect" id="node39" href="$d3/dc9/credential__factory_8h.html" title="credentials/credential\l_factory.h" alt="" coords="2522,155,2667,197"/>
+<area shape="rect" id="node40" href="$d1/db3/credential__manager_8h.html" title="credentials/credential\l_manager.h" alt="" coords="975,155,1120,197"/>
+<area shape="rect" id="node42" href="$d6/d2f/cred__encoding_8h.html" title="credentials/cred_encoding.h" alt="" coords="2692,163,2876,189"/>
+<area shape="rect" id="node43" href="$d8/d14/capabilities_8h.html" title="utils/capabilities.h" alt="" coords="2901,163,3027,189"/>
+<area shape="rect" id="node44" href="$df/d43/integrity__checker_8h.html" title="utils/integrity_checker.h" alt="" coords="347,245,505,272"/>
+<area shape="rect" id="node45" href="$de/d86/leak__detective_8h.html" title="utils/leak_detective.h" alt="" coords="3051,163,3196,189"/>
+<area shape="rect" id="node46" href="$de/db6/plugin__loader_8h.html" title="plugins/plugin_loader.h" alt="" coords="565,163,719,189"/>
+<area shape="rect" id="node47" href="$de/d60/settings_8h.html" title="settings/settings.h" alt="" coords="1122,245,1251,272"/>
+<area shape="rect" id="node34" href="$d1/d47/enumerator_8h.html" title="collections/enumerator.h" alt="" coords="950,320,1113,347"/>
+</map>

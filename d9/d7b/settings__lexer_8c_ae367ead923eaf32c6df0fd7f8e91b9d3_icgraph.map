@@ -1,0 +1,10 @@
+<map id="settings_parser__delete_buffer" name="settings_parser__delete_buffer">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#a96bca142878b115b2e1d6964f1b1edad" title="settings_parser_lex\l_destroy" alt="" coords="401,57,535,98"/>
+<area shape="rect" id="node7" href="$d9/d7b/settings__lexer_8c.html#a8d78e336c4841534cebfc1a16dbf6315" title="settings_parser_pop\l_buffer_state" alt="" coords="213,115,352,157"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a4be1416cbafe3557b9b60502a1d82dab" title="settings_parser_parse_file" alt="" coords="585,5,759,32"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#a69c467e13f40a9f5e1cd995e7850da4c" title="settings_parser_parse\l_string" alt="" coords="597,57,747,98"/>
+<area shape="rect" id="node4" href="$d3/d6a/settings_8c.html#aa948d357c53715b200263977574d1244" title="load_internal" alt="" coords="809,35,903,61"/>
+<area shape="rect" id="node5" href="$d3/d6a/settings_8c.html#a9e187d059223d386f6258d3870f3cebd" title="METHOD" alt="" coords="952,35,1032,61"/>
+<area shape="rect" id="node8" href="$d9/d7b/settings__lexer_8c.html#a8fdafe3be7e00ce3d4f0cb50a9a5eb39" title="while" alt="" coords="442,123,494,149"/>
+<area shape="rect" id="node9" href="$dc/d1b/bliss__sampler_8c.html#adf5136c72619496a20e2960aad771d0a" title="METHOD" alt="" coords="632,123,712,149"/>
+</map>

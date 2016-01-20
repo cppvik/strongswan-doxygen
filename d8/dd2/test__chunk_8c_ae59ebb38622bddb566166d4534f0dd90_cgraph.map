@@ -1,0 +1,13 @@
+<map id="START_TEST" name="START_TEST">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#ga6e1d4f9e668eb4d0e98fd1861e6f774b" title="chunk_compare" alt="" coords="160,140,275,167"/>
+<area shape="rect" id="node3" href="$d9/d7b/settings__lexer_8c.html#a33e91cd0cef6786e9e3a27ac67707207" title="if" alt="" coords="323,140,362,167"/>
+<area shape="rect" id="node4" href="$d9/d7b/settings__lexer_8c.html#a7ae01c54e2bcf9fd7a55137fbb2a80ed" title="settings_parser__create\l_buffer" alt="" coords="411,67,573,109"/>
+<area shape="rect" id="node8" href="$d9/d7b/settings__lexer_8c.html#a33d4f53352a864e4f156061745955b95" title="settings_parser__load\l_buffer_state" alt="" coords="1029,125,1179,166"/>
+<area shape="rect" id="node11" href="$d9/d7b/settings__lexer_8c.html#a929da0caf3950387991ecbd5e8eef08e" title="settings_parser_ensure\l_buffer_stack" alt="" coords="413,133,571,174"/>
+<area shape="rect" id="node5" href="$d9/d7b/settings__lexer_8c.html#a4386e14dca16b9ec4faef188ba2d8d87" title="settings_parser__init\l_buffer" alt="" coords="629,31,771,73"/>
+<area shape="rect" id="node9" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="627,97,773,124"/>
+<area shape="rect" id="node6" href="$d9/d7b/settings__lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="877,5,931,32"/>
+<area shape="rect" id="node7" href="$d9/d7b/settings__lexer_8c.html#abb6474cb0d8cf8c06c5f0570a0bfe36d" title="settings_parser__flush\l_buffer" alt="" coords="827,57,981,98"/>
+<area shape="rect" id="node10" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="874,123,934,149"/>
+<area shape="rect" id="node12" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="622,148,778,175"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="private_pt_tls_server_t" name="private_pt_tls_server_t">
+<area shape="rect" id="node2" href="$d6/d46/structtls__socket__t.html" title="tls_socket_t" alt="" coords="5,200,99,227"/>
+<area shape="rect" id="node3" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="16,96,123,123"/>
+<area shape="rect" id="node7" href="$d0/de4/structtls__t.html" title="tls_t" alt="" coords="242,200,288,227"/>
+<area shape="rect" id="node4" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="363,5,431,32"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="68,5,167,32"/>
+<area shape="rect" id="node8" href="$db/db6/structauth__cfg__t.html" title="auth_cfg_t" alt="" coords="219,96,300,123"/>
+</map>

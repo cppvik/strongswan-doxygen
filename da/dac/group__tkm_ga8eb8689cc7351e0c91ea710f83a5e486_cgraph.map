@@ -1,0 +1,9 @@
+<map id="tkm_deinit" name="tkm_deinit">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gacf27867de490f5002ea59616f97e4bfb" title="chunk_map" alt="" coords="159,107,249,133"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="506,132,550,159"/>
+<area shape="rect" id="node8" href="$d8/dca/tkm_8c.html#a18a35415d8f5b6834026636444ad2e4b" title="ees_server_finalize" alt="" coords="137,259,271,285"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#ga23adb71a767a9ab767166ee2a8362860" title="chunk_unmap" alt="" coords="323,107,426,133"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="478,5,578,32"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="321,56,429,83"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="498,56,558,83"/>
+</map>

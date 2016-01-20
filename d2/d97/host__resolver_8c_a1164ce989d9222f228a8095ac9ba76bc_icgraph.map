@@ -1,0 +1,5 @@
+<map id="query_destroy" name="query_destroy">
+<area shape="rect" id="node2" href="$d2/d97/host__resolver_8c.html#a074d22e540af7e2543a8ecdecff23a2a" title="METHOD" alt="" coords="531,5,611,32"/>
+<area shape="rect" id="node3" href="$d2/d97/host__resolver_8c.html#ad97ff610850942fdee16d9c6c01dc9e7" title="query_signal_and_destroy" alt="" coords="157,31,331,57"/>
+<area shape="rect" id="node4" href="$d2/d97/host__resolver_8c.html#a12a8c75295d25f96fee365f25ffa4611" title="resolve_hosts" alt="" coords="379,31,482,57"/>
+</map>

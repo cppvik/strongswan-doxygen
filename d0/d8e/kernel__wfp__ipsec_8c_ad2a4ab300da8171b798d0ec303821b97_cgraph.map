@@ -1,0 +1,6 @@
+<map id="manage_route" name="manage_route">
+<area shape="rect" id="node2" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a50ac8eb1a5a817da41a4d8579f7b5c61" title="install_route" alt="" coords="165,5,257,32"/>
+<area shape="rect" id="node5" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a6153c1139cf41f4ef926c024fdd8402f" title="uninstall_route" alt="" coords="157,56,264,83"/>
+<area shape="rect" id="node3" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a5c7434ebda3d6acde7c2a18b20c4a438" title="destroy_route" alt="" coords="312,31,413,57"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="462,31,506,57"/>
+</map>

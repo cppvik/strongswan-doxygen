@@ -1,0 +1,8 @@
+<map id="time_printf_hook" name="time_printf_hook">
+<area shape="rect" id="node2" href="$da/d9b/group__windows.html#ga07da9ce33fa6f956ba53029e169bf79d" title="gmtime_r" alt="" coords="185,5,261,32"/>
+<area shape="rect" id="node3" href="$da/d9b/group__windows.html#ga94f18bb769a798add21d8ca4a5649589" title="localtime_r" alt="" coords="180,56,265,83"/>
+<area shape="rect" id="node4" href="$d2/d15/group__printf__hook.html#gac652d692cae0531203f286059d6e1749" title="print_in_hook" alt="" coords="173,107,272,133"/>
+<area shape="rect" id="node5" href="$d1/dc8/group__printf__hook__builtin.html#gad5fb3c98ab0e9f5aa922c7b3c0f974fb" title="builtin_vsnprintf" alt="" coords="321,107,434,133"/>
+<area shape="rect" id="node6" href="$d0/dfb/printf__hook__builtin_8c.html#a79967ff4c081f98ab339deb2b247e78b" title="format_int" alt="" coords="495,81,575,108"/>
+<area shape="rect" id="node7" href="$d0/dfb/printf__hook__builtin_8c.html#a26a18529936c3e9f811409b68485cc6e" title="format_double" alt="" coords="483,132,587,159"/>
+</map>

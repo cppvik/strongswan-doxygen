@@ -1,0 +1,6 @@
+<map id="ntru_public_key_create_from_data" name="ntru_public_key_create_from_data">
+<area shape="rect" id="node2" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="262,5,322,32"/>
+<area shape="rect" id="node3" href="$d0/d6d/group__ntru__convert.html#ga17d3e32c66bbe33c8ac048b88dbdcabf" title="ntru_octets_2_elements" alt="" coords="211,56,373,83"/>
+<area shape="rect" id="node4" href="$d0/df2/group__ntru__param__set.html#ga27ba0f216e9239f440a630be22a7862b" title="ntru_param_set_get\l_by_oid" alt="" coords="223,107,361,149"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="422,115,487,141"/>
+</map>

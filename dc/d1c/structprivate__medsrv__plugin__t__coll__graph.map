@@ -1,0 +1,6 @@
+<map id="private_medsrv_plugin_t" name="private_medsrv_plugin_t">
+<area shape="rect" id="node5" href="$d4/d60/structmedsrv__creds__t.html" title="medsrv_creds_t" alt="" coords="62,96,177,123"/>
+<area shape="rect" id="node6" href="$d7/d24/structmedsrv__config__t.html" title="medsrv_config_t" alt="" coords="202,96,320,123"/>
+<area shape="rect" id="node3" href="$d6/d18/structdatabase__t.html" title="database_t" alt="" coords="344,96,430,123"/>
+<area shape="rect" id="node4" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="338,5,437,32"/>
+</map>

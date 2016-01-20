@@ -1,0 +1,12 @@
+<map id="kv_destroy" name="kv_destroy">
+<area shape="rect" id="node2" href="$d4/d9d/group__settings__types.html#ga24b9844dc9e9a932ae966427697af340" title="settings_kv_destroy" alt="" coords="141,56,280,83"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="351,31,395,57"/>
+<area shape="rect" id="node4" href="$d1/d0e/group__array.html#ga47238d69e35235b059ea47cdd82120e2" title="array_insert" alt="" coords="328,81,419,108"/>
+<area shape="rect" id="node5" href="$d1/d0e/group__array.html#ga37bb7fb1dde90d6fb84dac0027bb3606" title="array_count" alt="" coords="467,5,557,32"/>
+<area shape="rect" id="node6" href="$dc/dcc/array_8c.html#ac4d67e4df8ac1f0185b4e122fdd39169" title="insert_head" alt="" coords="467,56,557,83"/>
+<area shape="rect" id="node7" href="$dc/dcc/array_8c.html#a1814774789ffaf948b25734a7dd0f3ed" title="get_size" alt="" coords="779,107,850,133"/>
+<area shape="rect" id="node10" href="$dc/dcc/array_8c.html#a7734db8d12ada729da8d593e21e9f161" title="insert_tail" alt="" coords="473,157,551,184"/>
+<area shape="rect" id="node8" href="$dc/dcc/array_8c.html#a49bc76dddc601773d22e55854d80d599" title="make_head_room" alt="" coords="605,5,731,32"/>
+<area shape="rect" id="node9" href="$d3/d18/bio__writer_8c.html#ac0780abbf27cfe6586832be791da0554" title="increase" alt="" coords="779,5,850,32"/>
+<area shape="rect" id="node11" href="$dc/dcc/array_8c.html#a0d1a5fbba30c6ff74cd9cfa9d2789952" title="make_tail_room" alt="" coords="611,208,725,235"/>
+</map>

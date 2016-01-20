@@ -1,0 +1,9 @@
+<map id="cowfs_write" name="cowfs_write">
+<area shape="rect" id="node2" href="$d8/d11/cowfs_8c.html#a5b0505fc0548c5d6cf20d2488e284c14" title="copy" alt="" coords="151,56,201,83"/>
+<area shape="rect" id="node7" href="$d8/d11/cowfs_8c.html#a6583cb37d551c2553bbb5e7df6c145be" title="pwrite" alt="" coords="147,107,205,133"/>
+<area shape="rect" id="node8" href="$d8/d11/cowfs_8c.html#ab23d75daf8d24eb797a720b189f0c319" title="rel" alt="" coords="157,157,195,184"/>
+<area shape="rect" id="node3" href="$d8/d11/cowfs_8c.html#a6bc193d06d35104f58eca4b16dd22a90" title="clone_path" alt="" coords="253,5,339,32"/>
+<area shape="rect" id="node4" href="$d8/d11/cowfs_8c.html#af229e42f46d714577ab5f90bb28b0004" title="get_rd" alt="" coords="267,56,325,83"/>
+<area shape="rect" id="node6" href="$d8/d11/cowfs_8c.html#ac5b3444ea5c41d728ba6cc339e882d35" title="get_wr" alt="" coords="265,107,327,133"/>
+<area shape="rect" id="node5" href="$d8/d11/cowfs_8c.html#a0495882a58d90abec4b4901207bd17b7" title="get_this" alt="" coords="387,81,455,108"/>
+</map>

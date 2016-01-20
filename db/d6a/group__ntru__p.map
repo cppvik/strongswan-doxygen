@@ -1,0 +1,12 @@
+<map id="ntru" name="ntru">
+<area shape="rect" id="node1" href="$d1/dde/group__ntru__ke.html" title="ntru_ke" alt="" coords="238,5,303,32"/>
+<area shape="rect" id="node2" href="$df/d9d/group__ntru__private__key.html" title="ntru_private_key" alt="" coords="211,56,330,83"/>
+<area shape="rect" id="node3" href="$d0/d6d/group__ntru__convert.html" title="ntru_convert" alt="" coords="223,107,318,133"/>
+<area shape="rect" id="node4" href="$db/d4b/group__ntru__drbg.html" title="ntru_drbg" alt="" coords="233,157,309,184"/>
+<area shape="rect" id="node5" href="$d0/df2/group__ntru__param__set.html" title="ntru_param_set" alt="" coords="215,208,327,235"/>
+<area shape="rect" id="node6" href="$d7/d34/group__ntru__plugin.html" title="ntru_plugin" alt="" coords="228,259,313,285"/>
+<area shape="rect" id="node7" href="$d8/d13/group__ntru__trits.html" title="ntru_trits" alt="" coords="234,309,307,336"/>
+<area shape="rect" id="node8" href="$de/dad/group__ntru__public__key.html" title="ntru_public_key" alt="" coords="214,360,327,387"/>
+<area shape="rect" id="node9" href="$da/d95/group__ntru__poly.html" title="ntru_poly" alt="" coords="233,411,308,437"/>
+<area shape="rect" id="node10" href="$d1/d29/group__plugins.html" title="plugins" alt="" coords="6,208,69,235"/>
+</map>

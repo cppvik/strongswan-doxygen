@@ -1,0 +1,25 @@
+var structprivate__kernel__pfroute__net__t =
+[
+    [ "addrs", "df/d99/structprivate__kernel__pfroute__net__t.html#a5ae5a0b960806e91e577fafa10633400", null ],
+    [ "condvar", "df/d99/structprivate__kernel__pfroute__net__t.html#a8dee041100322bab1b517f6296eb0995", null ],
+    [ "ifaces", "df/d99/structprivate__kernel__pfroute__net__t.html#a86b2455f51809b8ceeed51ad3d1a1fc9", null ],
+    [ "install_virtual_ip", "df/d99/structprivate__kernel__pfroute__net__t.html#a1e190d99d1e730663dcc4361e6f2f90d", null ],
+    [ "last_route_reinstall", "df/d99/structprivate__kernel__pfroute__net__t.html#a93675141e4784515fafea420d8ec2990", null ],
+    [ "lock", "df/d99/structprivate__kernel__pfroute__net__t.html#a0d0f89ee1afa8d5673bfc6d5a73afea2", null ],
+    [ "mutex", "df/d99/structprivate__kernel__pfroute__net__t.html#a95e43fed9ea9843c941fd768db58ece2", null ],
+    [ "net_changes", "df/d99/structprivate__kernel__pfroute__net__t.html#a8375d761b6ddaf199313e2bb6582957b", null ],
+    [ "net_changes_lock", "df/d99/structprivate__kernel__pfroute__net__t.html#afbf558ce64fc18184ea458daa0673d1f", null ],
+    [ "next_roam", "df/d99/structprivate__kernel__pfroute__net__t.html#abf6dc0dbab55ce149afd3617ce84a41f", null ],
+    [ "pid", "df/d99/structprivate__kernel__pfroute__net__t.html#a8af9642bf6177e9229ca71bfe53a455d", null ],
+    [ "public", "df/d99/structprivate__kernel__pfroute__net__t.html#ac6978f5918142f90e600e73da2e94313", null ],
+    [ "reply", "df/d99/structprivate__kernel__pfroute__net__t.html#a89516cf6059bb84fa048ae5af217ed95", null ],
+    [ "roam_address", "df/d99/structprivate__kernel__pfroute__net__t.html#a5e650b6ea43913e6f7b59b87f6d5d7c9", null ],
+    [ "roam_lock", "df/d99/structprivate__kernel__pfroute__net__t.html#a2db56000c553a643956a8ec6093d974e", null ],
+    [ "routes", "df/d99/structprivate__kernel__pfroute__net__t.html#a023055026158a31a0d024e3be35b6cd4", null ],
+    [ "routes_lock", "df/d99/structprivate__kernel__pfroute__net__t.html#ac4f56e68ad7d8cd36dfbbcf529f6abb4", null ],
+    [ "seq", "df/d99/structprivate__kernel__pfroute__net__t.html#a5a68b50598a6699c2d1fa9184031615a", null ],
+    [ "socket", "df/d99/structprivate__kernel__pfroute__net__t.html#a40cfaea4b4f6e3cfd944a334ba8a709c", null ],
+    [ "tuns", "df/d99/structprivate__kernel__pfroute__net__t.html#af81f5911b409c464c04a8c5b02b964e6", null ],
+    [ "vip_wait", "df/d99/structprivate__kernel__pfroute__net__t.html#a6c6097c97e2deeb69b370b670c96f1a9", null ],
+    [ "waiting_seq", "df/d99/structprivate__kernel__pfroute__net__t.html#a00dddc8fce72c741ceb1766c78bb6442", null ]
+];

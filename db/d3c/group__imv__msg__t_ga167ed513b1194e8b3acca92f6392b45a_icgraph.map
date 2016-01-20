@@ -1,0 +1,9 @@
+<map id="imv_msg_create" name="imv_msg_create">
+<area shape="rect" id="node2" href="$db/d3c/group__imv__msg__t.html#gaad463d62ee6d7f5a42df540abd6f034e" title="imv_msg_create_as_reply" alt="" coords="174,5,349,32"/>
+<area shape="rect" id="node5" href="$db/d3c/group__imv__msg__t.html#ga46d301788e8d3aca858151008a38d6cd" title="imv_msg_create_from\l_long_data" alt="" coords="186,57,337,98"/>
+<area shape="rect" id="node8" href="$de/d68/imv__attestation__agent_8c.html#a5a3babe277257640bbc82e0902a7451c" title="METHOD" alt="" coords="221,123,301,149"/>
+<area shape="rect" id="node3" href="$de/d68/imv__attestation__agent_8c.html#a455f50f5cc1898f1557709c4e61c19e7" title="receive_msg" alt="" coords="441,5,537,32"/>
+<area shape="rect" id="node4" href="$de/d68/imv__attestation__agent_8c.html#a2d0cd34e852005bcc3956ab37f3c7600" title="METHOD" alt="" coords="629,56,709,83"/>
+<area shape="rect" id="node6" href="$de/d68/imv__attestation__agent_8c.html#a2a27b72c3acfadbb8006512c8edb7863" title="METHOD" alt="" coords="449,56,529,83"/>
+<area shape="rect" id="node7" href="$db/d3c/group__imv__msg__t.html#ga066d367a239e48030780c1273d002e8b" title="imv_msg_create_from_data" alt="" coords="398,107,581,133"/>
+</map>

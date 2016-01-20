@@ -1,0 +1,6 @@
+<map id="cancellation_recv" name="cancellation_recv">
+<area shape="rect" id="node2" href="$d4/ded/test__threading_8c.html#afc4b3858160102340cb60d9e5a439e8a" title="close_fd_ptr" alt="" coords="203,5,296,32"/>
+<area shape="rect" id="node3" href="$da/d9b/group__windows.html#ga52b0bf4f09e2db048ad7fc01fc4ae7d7" title="socketpair" alt="" coords="208,56,291,83"/>
+<area shape="rect" id="node4" href="$da/dd8/group__thread.html#gac2bd836b3ee4e108d0aeff4e3e3ea88c" title="thread_cancelability" alt="" coords="181,107,318,133"/>
+<area shape="rect" id="node5" href="$da/dd8/group__thread.html#ga5c78b3b4d797a5e3fd535b81d1120857" title="thread_cleanup_push" alt="" coords="177,157,322,184"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="private_ike_sa_t" name="private_ike_sa_t">
+<area shape="rect" id="node2" href="$d0/dfe/structtask__manager__t.html" title="task_manager_t" alt="" coords="465,305,580,332"/>
+<area shape="rect" id="node3" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="5,436,104,463"/>
+<area shape="rect" id="node10" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="303,799,409,825"/>
+<area shape="rect" id="node14" href="$d9/d16/structpeer__cfg__t.html" title="peer_cfg_t" alt="" coords="909,553,992,580"/>
+<area shape="rect" id="node17" href="$df/d06/structproposal__t.html" title="proposal_t" alt="" coords="315,409,397,436"/>
+<area shape="rect" id="node18" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="311,651,401,677"/>
+<area shape="rect" id="node22" href="$db/db6/structauth__cfg__t.html" title="auth_cfg_t" alt="" coords="785,244,868,271"/>
+<area shape="rect" id="node4" href="$d1/d16/structarray__t.html" title="array_t" alt="" coords="919,177,982,204"/>
+<area shape="rect" id="node5" href="$d2/d63/structkeymat__t.html" title="keymat_t" alt="" coords="913,56,989,83"/>
+<area shape="rect" id="node6" href="$dc/d1a/structnonce__gen__t.html" title="nonce_gen_t" alt="" coords="641,56,737,83"/>
+<area shape="rect" id="node7" href="$d7/d7d/structaead__t.html" title="aead_t" alt="" coords="659,107,720,133"/>
+<area shape="rect" id="node8" href="$db/d66/structiv__gen__t.html" title="iv_gen_t" alt="" coords="321,107,391,133"/>
+<area shape="rect" id="node9" href="$d1/dd3/structdiffie__hellman__t.html" title="diffie_hellman_t" alt="" coords="633,5,746,32"/>
+<area shape="rect" id="node11" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="21,856,89,883"/>
+<area shape="rect" id="node21" href="$d5/dcf/structhost__t.html" title="host_t" alt="" coords="327,939,385,965"/>
+<area shape="rect" id="node19" href="$db/d18/structlifetime__cfg__t.html" title="lifetime_cfg_t" alt="" coords="306,704,406,731"/>
+<area shape="rect" id="node13" href="$dc/da6/structike__sa__id__t.html" title="ike_sa_id_t" alt="" coords="907,455,995,481"/>
+<area shape="rect" id="node15" href="$d8/dd6/structchild__cfg__t.html" title="child_cfg_t" alt="" coords="647,560,732,587"/>
+<area shape="rect" id="node16" href="$da/dbc/structmark__t.html" title="mark_t" alt="" coords="325,561,387,588"/>
+<area shape="rect" id="node20" href="$d6/d8d/structike__cfg__t.html" title="ike_cfg_t" alt="" coords="652,649,727,676"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="wait_remove_entry" name="wait_remove_entry">
+<area shape="rect" id="node2" href="$de/d14/ipsec__sa__mgr_8c.html#aee2c61e7288c20120e3d461335ab85ea" title="flush_entries" alt="" coords="189,5,285,32"/>
+<area shape="rect" id="node4" href="$de/d14/ipsec__sa__mgr_8c.html#afffa1d2910c3ac04f952796e5a5d368d" title="METHOD" alt="" coords="197,56,277,83"/>
+<area shape="rect" id="node5" href="$de/d14/ipsec__sa__mgr_8c.html#a797c73c518b070b2fa58afb5de02018d" title="remove_entry" alt="" coords="187,107,288,133"/>
+<area shape="rect" id="node3" href="$de/d14/ipsec__sa__mgr_8c.html#ac1ebabcb55f1bce9fe3c5a4d02047b1e" title="METHOD" alt="" coords="339,5,419,32"/>
+<area shape="rect" id="node6" href="$de/d14/ipsec__sa__mgr_8c.html#a4e522538218a5e9b23272d3ef0b7aa71" title="sa_expired" alt="" coords="336,107,421,133"/>
+<area shape="rect" id="node7" href="$de/d14/ipsec__sa__mgr_8c.html#ab09455792a068227ad45955020882dd2" title="schedule_expiration" alt="" coords="470,107,607,133"/>
+<area shape="rect" id="node8" href="$de/d14/ipsec__sa__mgr_8c.html#a516ca500554e8b23b65d6598eab8679a" title="METHOD" alt="" coords="656,107,736,133"/>
+</map>

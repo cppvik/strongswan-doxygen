@@ -1,0 +1,18 @@
+<map id="chunk.c" name="chunk.c">
+<area shape="rect" id="node9" href="$de/df7/time_8h.html" title="time.h" alt="" coords="2453,229,2511,256"/>
+<area shape="rect" id="node10" href="$dd/dd5/chunk_8h.html" title="chunk.h" alt="" coords="1017,80,1084,107"/>
+<area shape="rect" id="node11" href="$da/d66/string_8h.html" title="string.h" alt="" coords="121,229,185,256"/>
+<area shape="rect" id="node13" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="1088,155,1173,181"/>
+<area shape="rect" id="node24" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="900,229,993,256"/>
+<area shape="rect" id="node25" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="2163,229,2228,256"/>
+<area shape="rect" id="node27" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="1017,229,1124,256"/>
+<area shape="rect" id="node28" href="$d1/ddf/align_8h.html" title="utils/align.h" alt="" coords="1148,229,1236,256"/>
+<area shape="rect" id="node29" href="$d5/d17/byteorder_8h.html" title="utils/byteorder.h" alt="" coords="1260,229,1375,256"/>
+<area shape="rect" id="node30" href="$dc/d18/memory_8h.html" title="utils/memory.h" alt="" coords="1399,229,1507,256"/>
+<area shape="rect" id="node31" href="$d9/dd1/strerror_8h.html" title="utils/strerror.h" alt="" coords="1531,229,1633,256"/>
+<area shape="rect" id="node32" href="$d1/d13/status_8h.html" title="utils/status.h" alt="" coords="1658,229,1755,256"/>
+<area shape="rect" id="node33" href="$de/d10/object_8h.html" title="utils/object.h" alt="" coords="1780,229,1876,256"/>
+<area shape="rect" id="node34" href="$d7/dd4/path_8h.html" title="utils/path.h" alt="" coords="1901,229,1987,256"/>
+<area shape="rect" id="node35" href="$dd/d71/tty_8h.html" title="utils/tty.h" alt="" coords="2011,229,2087,256"/>
+<area shape="rect" id="node26" href="$dc/d6a/printf__hook_8h.html" title="utils/printf_hook/printf\l_hook.h" alt="" coords="2163,305,2309,346"/>
+</map>

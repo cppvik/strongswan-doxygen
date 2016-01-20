@@ -1,0 +1,28 @@
+<map id="pretend_auth_hook_create" name="pretend_auth_hook_create">
+<area shape="rect" id="node2" href="$d5/d8d/group__identification.html#ga23065d7dd9165080ce47e4c20089761e" title="identification_create\l_from_string" alt="" coords="229,335,368,377"/>
+<area shape="rect" id="node3" href="$d6/d2f/identification_8c.html#afd254ae787b9b095e0c4cdb0e493b216" title="create_from_string\l_with_prefix_type" alt="" coords="416,335,547,377"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gaadc119e547e9a456a8c2c6271290b584" title="chunk_from_hex" alt="" coords="613,277,731,304"/>
+<area shape="rect" id="node8" href="$d6/d2f/identification_8c.html#a2c4638c8ff8771dbda52e0c3b7aac28b" title="identification_create" alt="" coords="603,343,741,369"/>
+<area shape="rect" id="node13" href="$d6/d2f/identification_8c.html#ad1d2bbb8825975270a82317092f0dc8c" title="create_from_string\l_with_num_type" alt="" coords="416,270,547,311"/>
+<area shape="rect" id="node14" href="$d6/d2f/identification_8c.html#a40ec64238fd9138c59eb02096163c9a1" title="atodn" alt="" coords="454,147,509,173"/>
+<area shape="rect" id="node26" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="456,452,507,479"/>
+<area shape="rect" id="node27" href="$da/d9b/group__windows.html#ga7fb1f8a8f40e09fa09e625d2a09dc04e" title="inet_pton" alt="" coords="444,503,519,529"/>
+<area shape="rect" id="node11" href="$d4/d40/group__string__i.html#gad04895c77cc61acb068222c88d72dff0" title="strcasepfx" alt="" coords="631,411,713,437"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1007,252,1067,279"/>
+<area shape="rect" id="node6" href="$d8/d39/chunk_8c.html#a0674de9b4dc86d182ca6a08b9595279f" title="hex2bin" alt="" coords="828,176,895,203"/>
+<area shape="rect" id="node7" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="811,227,911,253"/>
+<area shape="rect" id="node9" href="$d6/d87/group__utils__i.html#ga9336a4d5728eb7ed977aacaeb8fd2c41" title="return_false" alt="" coords="816,328,907,355"/>
+<area shape="rect" id="node10" href="$d6/d87/group__utils__i.html#ga2cd701fdf8284f1c4c85d3334d5072cf" title="return_true" alt="" coords="819,379,903,405"/>
+<area shape="rect" id="node12" href="$d4/d40/group__string__i.html#ga9642181c8684012e619edccbc9f52d1c" title="strncaseeq" alt="" coords="818,429,905,456"/>
+<area shape="rect" id="node15" href="$d0/da0/group__asn1i.html#gafc47ce497a7d333125fe7b4919ecf156" title="asn1_build_known_oid" alt="" coords="595,176,749,203"/>
+<area shape="rect" id="node16" href="$d0/da0/group__asn1i.html#gaa4b22cdadd3251eef380d585a8d3adc1" title="asn1_build_object" alt="" coords="798,125,925,152"/>
+<area shape="rect" id="node18" href="$d0/da0/group__asn1i.html#gae7dc25238f49a79e26e78b7078871319" title="asn1_is_printablestring" alt="" coords="595,227,749,253"/>
+<area shape="rect" id="node19" href="$d0/da0/group__asn1i.html#gaa5b766a452be068282b808b6b6f85f7e" title="asn1_wrap" alt="" coords="629,75,715,101"/>
+<area shape="rect" id="node25" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1193,24,1237,51"/>
+<area shape="rect" id="node17" href="$d6/d36/asn1_8c.html#a72c37051a4d4cda52b0ab80893884abd" title="asn1_code_length" alt="" coords="974,176,1101,203"/>
+<area shape="rect" id="node20" href="$d4/d87/group__chunk.html#gaaa5a9811df1bd2ae5e331748f7fbaf75" title="chunk_clear" alt="" coords="815,75,907,101"/>
+<area shape="rect" id="node21" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="998,125,1077,152"/>
+<area shape="rect" id="node24" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="994,75,1081,101"/>
+<area shape="rect" id="node22" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="1328,125,1443,152"/>
+<area shape="rect" id="node23" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="1150,100,1279,127"/>
+</map>

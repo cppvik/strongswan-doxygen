@@ -1,0 +1,6 @@
+<map id="create_empty" name="create_empty">
+<area shape="rect" id="node2" href="$de/d2a/group__public__key.html#gad64f1eb69b30be75565efd30bcefb434" title="public_key_equals" alt="" coords="178,5,307,32"/>
+<area shape="rect" id="node5" href="$de/d2a/group__public__key.html#ga5ecda5dfd6697bc2a39c6797b9d04d13" title="public_key_has_fingerprint" alt="" coords="155,56,331,83"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gae6aabf03218cda073ab2173e02bff4ba" title="chunk_equals" alt="" coords="379,31,482,57"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="531,31,597,57"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ita_attr_settings_create" name="ita_attr_settings_create">
+<area shape="rect" id="node2" href="$da/d3e/imc__os_8c.html#a213299ab2ee7878ce69b10c2c97a5fe4" title="add_settings" alt="" coords="213,31,309,57"/>
+<area shape="rect" id="node3" href="$da/d3e/imc__os_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="358,31,482,57"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="545,5,735,32"/>
+<area shape="rect" id="node5" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="531,56,749,83"/>
+</map>

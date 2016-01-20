@@ -1,0 +1,8 @@
+<map id="barrier_wait" name="barrier_wait">
+<area shape="rect" id="node2" href="$d4/ded/test__threading_8c.html#af81d432a43b081f36e020e39c4a11699" title="cleanup_cancel_run" alt="" coords="145,5,282,32"/>
+<area shape="rect" id="node3" href="$d4/ded/test__threading_8c.html#ae0d801c599043b082725ff0597ca8f40" title="START_TEST" alt="" coords="331,31,437,57"/>
+<area shape="rect" id="node4" href="$d4/ded/test__threading_8c.html#a45b8c7f2910f6b807192a130a4103788" title="mutex_run" alt="" coords="172,107,255,133"/>
+<area shape="rect" id="node6" href="$d4/ded/test__threading_8c.html#a7add0b5a70af81d62677a9ca44c8514f" title="spinlock_run" alt="" coords="166,157,261,184"/>
+<area shape="rect" id="node5" href="$d4/ded/test__threading_8c.html#acb1f3efc6385387b2103a0a192c3d3e7" title="START_TEST" alt="" coords="331,107,437,133"/>
+<area shape="rect" id="node7" href="$d4/ded/test__threading_8c.html#abb51f97ed2a94e23c125a7fbadb244e6" title="START_TEST" alt="" coords="331,157,437,184"/>
+</map>

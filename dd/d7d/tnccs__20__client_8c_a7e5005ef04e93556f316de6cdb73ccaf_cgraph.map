@@ -1,0 +1,13 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$dd/d7d/tnccs__20__client_8c.html#a5a70143e4a3b5cc0b598f165c03536e8" title="handle_message" alt="" coords="133,132,253,159"/>
+<area shape="rect" id="node5" href="$d0/d61/whitelist_8c.html#a32590eeb75db94323a7fd354dc31eeed" title="send_msg" alt="" coords="536,56,619,83"/>
+<area shape="rect" id="node3" href="$dd/d7d/tnccs__20__client_8c.html#a56da58215aae095cdcbb68843c0ca1a8" title="handle_ietf_message" alt="" coords="302,107,447,133"/>
+<area shape="rect" id="node10" href="$dd/d7d/tnccs__20__client_8c.html#adadb46301497523abab96600c9c75cfe" title="handle_ita_message" alt="" coords="304,157,445,184"/>
+<area shape="rect" id="node12" href="$dd/d7d/tnccs__20__client_8c.html#a66dc26b735285bb4b16a2bc1ffb5ad02" title="handle_tcg_message" alt="" coords="302,208,447,235"/>
+<area shape="rect" id="node4" href="$da/da5/group__tncif__pa__subtypes.html#ga084a5946fae3dc0bfeb4a1aa5e5afe92" title="get_pa_subtype_names" alt="" coords="497,107,657,133"/>
+<area shape="rect" id="node9" href="$dd/d7d/tnccs__20__client_8c.html#a6b9268f5ac24856debc243d0d3dfaca8" title="tnccs_20_handle_ietf\l_error_msg" alt="" coords="505,158,650,199"/>
+<area shape="rect" id="node6" href="$d0/d61/whitelist_8c.html#a46cbc3530d1b6d5af4c7728a67bcd3c6" title="make_connection" alt="" coords="707,5,831,32"/>
+<area shape="rect" id="node7" href="$d0/d61/whitelist_8c.html#adebf457eff03c857a09d83b310af96b1" title="write_all" alt="" coords="734,56,805,83"/>
+<area shape="rect" id="node8" href="$d0/d61/whitelist_8c.html#a66989870dd0d5ec8406294c9dda24350" title="read_all" alt="" coords="736,107,803,133"/>
+<area shape="rect" id="node11" href="$dd/d7d/tnccs__20__client_8c.html#a70ade0c3e1c85d9008ee455e6ec0776a" title="tnccs_20_handle_ita\l_mutual_capability_msg" alt="" coords="496,223,659,265"/>
+</map>

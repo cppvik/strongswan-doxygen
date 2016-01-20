@@ -1,0 +1,13 @@
+<map id="signal_failure" name="signal_failure">
+<area shape="rect" id="node2" href="$d0/d53/nm__service_8c.html#a050aeab79828811c26401b3054560588" title="child_state_change" alt="" coords="153,28,287,55"/>
+<area shape="rect" id="node9" href="$d0/d53/nm__service_8c.html#a0e5a60568ae1e30d6164c5a9f8782efc" title="child_updown" alt="" coords="169,129,271,156"/>
+<area shape="rect" id="node12" href="$d0/d53/nm__service_8c.html#a72c97b2e675ea5a9ff27d4a0e8570cf7" title="ike_state_change" alt="" coords="158,79,282,105"/>
+<area shape="rect" id="node3" href="$d0/d53/nm__service_8c.html#ac66aab0554b998f65f088b4e8a33cb1e" title="connect_" alt="" coords="388,41,463,68"/>
+<area shape="rect" id="node4" href="$d0/d53/nm__service_8c.html#ac2ec8a8e03309ad7aa5a4f053bad05a3" title="nm_strongswan_plugin\l_class_init" alt="" coords="563,5,717,46"/>
+<area shape="rect" id="node5" href="$da/d80/group__vici__dispatcher.html#ga6a79fafdbb49a69b40e48449ff7252c4" title="vici_dispatcher_create" alt="" coords="564,71,716,97"/>
+<area shape="rect" id="node6" href="$d6/dca/test__event_8c.html#afe8c30a13467d05abe5f4f9f0961b716" title="START_TEST" alt="" coords="765,45,872,72"/>
+<area shape="rect" id="node7" href="$d1/d73/vici__plugin_8c.html#a2f71c61365cc9ae07eca95d2cec1c305" title="register_vici" alt="" coords="773,96,865,123"/>
+<area shape="rect" id="node8" href="$d1/d73/vici__plugin_8c.html#a0fb4568098134ff06cea5d8cbca4cc84" title="METHOD" alt="" coords="920,96,1000,123"/>
+<area shape="rect" id="node10" href="$d3/d94/bus_8c.html#a287e41a017d24bd8ccd49a15f75b6aaf" title="METHOD" alt="" coords="385,104,465,131"/>
+<area shape="rect" id="node11" href="$d0/d53/nm__service_8c.html#ab109d172f75c6d4d71100bf51bff19ff" title="nm_strongswan_plugin_init" alt="" coords="336,155,515,181"/>
+</map>

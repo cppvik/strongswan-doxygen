@@ -1,0 +1,9 @@
+<map id="conn_release" name="conn_release">
+<area shape="rect" id="node2" href="$dc/d29/mysql__database_8c.html#a112e1e5346da7d3678cc9038fe6450a3" title="METHOD" alt="" coords="407,6,487,33"/>
+<area shape="rect" id="node3" href="$d1/d6b/group__mysql__database.html#ga03e3c7b83091c7406a6b90fe109fffac" title="mysql_database_create" alt="" coords="161,82,321,109"/>
+<area shape="rect" id="node5" href="$dc/d29/mysql__database_8c.html#a77734526f29bb890ff3c6cf58c399ce9" title="mysql_enumerator_destroy" alt="" coords="152,31,331,58"/>
+<area shape="rect" id="node6" href="$dc/d29/mysql__database_8c.html#a63e58c80d5d0382f00720f6a8e2138ef" title="transaction_destroy" alt="" coords="173,133,309,159"/>
+<area shape="rect" id="node4" href="$d2/de7/mysql__plugin_8c.html#ad191d9a5e3eea6e37fdd2b0a46aae59e" title="METHOD" alt="" coords="407,82,487,109"/>
+<area shape="rect" id="node7" href="$dc/d29/mysql__database_8c.html#ae6c14c57c9dee70d456251454635cf52" title="finalize_transaction" alt="" coords="379,133,514,159"/>
+<area shape="rect" id="node8" href="$dc/d29/mysql__database_8c.html#a5fc6be52ff4b840f1af5dd9b119df1ca" title="METHOD" alt="" coords="563,133,643,159"/>
+</map>

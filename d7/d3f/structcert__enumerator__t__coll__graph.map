@@ -1,0 +1,11 @@
+<map id="cert_enumerator_t" name="cert_enumerator_t">
+<area shape="rect" id="node2" href="$d6/d41/structcertificate__t.html" title="certificate_t" alt="" coords="96,213,187,240"/>
+<area shape="rect" id="node8" href="$d4/de0/structrelation__t.html" title="relation_t" alt="" coords="211,317,284,344"/>
+<area shape="rect" id="node3" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="5,109,112,136"/>
+<area shape="rect" id="node4" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="25,5,92,32"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="297,5,396,32"/>
+<area shape="rect" id="node11" href="$dd/d2f/structrr__set__t.html" title="rr_set_t" alt="" coords="385,109,452,136"/>
+<area shape="rect" id="node6" href="$d0/d6f/structpublic__key__t.html" title="public_key_t" alt="" coords="197,109,291,136"/>
+<area shape="rect" id="node9" href="$db/d86/structrwlock__t.html" title="rwlock_t" alt="" coords="281,213,351,240"/>
+<area shape="rect" id="node10" href="$db/d8d/structresolver__response__t.html" title="resolver_response_t" alt="" coords="349,265,488,292"/>
+</map>

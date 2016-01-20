@@ -1,0 +1,5 @@
+<map id="imc_msg_create_from_long_data" name="imc_msg_create_from_long_data">
+<area shape="rect" id="node2" href="$db/dc5/group__imc__msg.html#gaf6c9a99b69106614f4c2332167c51207" title="imc_msg_create_from_data" alt="" coords="223,5,406,32"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="205,56,424,83"/>
+<area shape="rect" id="node3" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="473,5,663,32"/>
+</map>

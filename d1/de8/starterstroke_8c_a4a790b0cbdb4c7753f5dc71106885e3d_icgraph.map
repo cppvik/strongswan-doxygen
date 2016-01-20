@@ -1,0 +1,11 @@
+<map id="create_stroke_msg" name="create_stroke_msg">
+<area shape="rect" id="node2" href="$d1/da3/starterstroke_8h.html#a20f2972bf6d27fc75eafe4e61d9b04ff" title="starter_stroke_add_ca" alt="" coords="205,5,355,32"/>
+<area shape="rect" id="node4" href="$d1/da3/starterstroke_8h.html#aeeefb7c9e1641e6076dbf84afc0cc7dd" title="starter_stroke_add_conn" alt="" coords="197,56,363,83"/>
+<area shape="rect" id="node5" href="$d1/da3/starterstroke_8h.html#a2e81780864733fc5cc2f805b757f9c42" title="starter_stroke_configure" alt="" coords="199,107,361,133"/>
+<area shape="rect" id="node6" href="$d1/da3/starterstroke_8h.html#a200071bcbcf268a8f3cdbfc2f8f2b96e" title="starter_stroke_del_ca" alt="" coords="207,157,353,184"/>
+<area shape="rect" id="node7" href="$d1/da3/starterstroke_8h.html#a6b70a0ab919b5058f1bb075cf4997b3b" title="starter_stroke_del_conn" alt="" coords="199,208,361,235"/>
+<area shape="rect" id="node8" href="$d1/da3/starterstroke_8h.html#a16de976bff82898fcba0133cea7cc861" title="starter_stroke_initiate_conn" alt="" coords="189,259,371,285"/>
+<area shape="rect" id="node9" href="$d1/da3/starterstroke_8h.html#a3d2877d62a237babaf9d0c2e90c915ea" title="starter_stroke_route_conn" alt="" coords="193,309,367,336"/>
+<area shape="rect" id="node10" href="$d1/da3/starterstroke_8h.html#a80d94a794cc8c9656670c08988470237" title="starter_stroke_unroute_conn" alt="" coords="187,360,373,387"/>
+<area shape="rect" id="node3" href="$db/dd6/starter_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="421,183,472,209"/>
+</map>

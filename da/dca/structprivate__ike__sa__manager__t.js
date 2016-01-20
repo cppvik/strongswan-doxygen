@@ -1,0 +1,25 @@
+var structprivate__ike__sa__manager__t =
+[
+    [ "cb", "da/dca/structprivate__ike__sa__manager__t.html#aa58b67354afb4941011521f40aa750ef", null ],
+    [ "connected_peers_segments", "da/dca/structprivate__ike__sa__manager__t.html#aefc3dc126afa25813def2041c59ea66c", null ],
+    [ "connected_peers_table", "da/dca/structprivate__ike__sa__manager__t.html#a2ed0344b65c814291abe212b6d0bb9a9", null ],
+    [ "data", "da/dca/structprivate__ike__sa__manager__t.html#a0d9df1cb1c99087c1a8e5a34b6391a82", null ],
+    [ "half_open_count", "da/dca/structprivate__ike__sa__manager__t.html#af921b100805c3f62611856ada42752df", null ],
+    [ "half_open_count_responder", "da/dca/structprivate__ike__sa__manager__t.html#aa7b9a2669417d96369e094c0d651e069", null ],
+    [ "half_open_segments", "da/dca/structprivate__ike__sa__manager__t.html#a24d7b6820f0e1c32a2fbb1b99346ae34", null ],
+    [ "half_open_table", "da/dca/structprivate__ike__sa__manager__t.html#a59fd0d888b89a1fab45ab23111e3f057", null ],
+    [ "ike_sa_table", "da/dca/structprivate__ike__sa__manager__t.html#a894add3e0df0ae192368bccccf4d4689", null ],
+    [ "ikesa_limit", "da/dca/structprivate__ike__sa__manager__t.html#a8174ffa90b477384aab70a3ffb92a0c9", null ],
+    [ "init_hashes_segments", "da/dca/structprivate__ike__sa__manager__t.html#ad5700c3b975f8757c66fe7586e58c1cb", null ],
+    [ "init_hashes_table", "da/dca/structprivate__ike__sa__manager__t.html#a14a96827ac6f23ab1d96a92ffd3d5dfc", null ],
+    [ "public", "da/dca/structprivate__ike__sa__manager__t.html#a592aab6a425aa253170c10983197feb2", null ],
+    [ "reuse_ikesa", "da/dca/structprivate__ike__sa__manager__t.html#a7e5970d17e51ae9b83020e4b80a4ff5e", null ],
+    [ "rng", "da/dca/structprivate__ike__sa__manager__t.html#a64358cf0d7b4bf68cc389a9e40c29a22", null ],
+    [ "segment_count", "da/dca/structprivate__ike__sa__manager__t.html#a498d3390e33af12453d962bac11b11d3", null ],
+    [ "segment_mask", "da/dca/structprivate__ike__sa__manager__t.html#ad11dcedd4ed916efe453b2540ded55fd", null ],
+    [ "segments", "da/dca/structprivate__ike__sa__manager__t.html#a5268e12be53b3f7d1684da63fc27f6b1", null ],
+    [ "spi_cb", "da/dca/structprivate__ike__sa__manager__t.html#a1764ae3584200cbd2e28f1cf316749b0", null ],
+    [ "spi_lock", "da/dca/structprivate__ike__sa__manager__t.html#a729d80670bdf97c97ca539f8110560ac", null ],
+    [ "table_mask", "da/dca/structprivate__ike__sa__manager__t.html#a4b474a788e54ee814ead1df2c403ca4f", null ],
+    [ "table_size", "da/dca/structprivate__ike__sa__manager__t.html#a4e8eb5036664dff372fd027fdc3e314b", null ]
+];

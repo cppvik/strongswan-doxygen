@@ -1,0 +1,8 @@
+<map id="uci" name="uci">
+<area shape="rect" id="node1" href="$d5/df4/group__uci__control__t.html" title="uci_control" alt="" coords="205,5,291,32"/>
+<area shape="rect" id="node2" href="$d1/dc7/group__uci__creds__t.html" title="uci_creds" alt="" coords="209,56,287,83"/>
+<area shape="rect" id="node4" href="$d7/d56/group__uci__config__t.html" title="uci_config" alt="" coords="207,107,289,133"/>
+<area shape="rect" id="node5" href="$d6/da0/group__uci__parser__t.html" title="uci_parser" alt="" coords="207,157,289,184"/>
+<area shape="rect" id="node7" href="$d3/d12/group__uci__plugin.html" title="uci_plugin" alt="" coords="208,208,288,235"/>
+<area shape="rect" id="node6" href="$d8/dd9/group__cplugins.html" title="plugins" alt="" coords="6,107,69,133"/>
+</map>

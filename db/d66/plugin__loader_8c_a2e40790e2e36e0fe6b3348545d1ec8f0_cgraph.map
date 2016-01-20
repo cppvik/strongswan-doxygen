@@ -1,0 +1,6 @@
+<map id="loadable_feature_equals" name="loadable_feature_equals">
+<area shape="rect" id="node2" href="$db/d66/plugin__loader_8c.html#aadc710d657d410663289e61995c321f2" title="is_feature_loadable" alt="" coords="223,5,358,32"/>
+<area shape="rect" id="node3" href="$d7/dfa/group__plugin__feature.html#ga12b7042a5f7bd1d1e83dae6eaf3f35db" title="plugin_feature_equals" alt="" coords="217,56,365,83"/>
+<area shape="rect" id="node4" href="$d7/dfa/group__plugin__feature.html#ga89a32b0f1d9e9c21dd77a090d9d709f4" title="plugin_feature_matches" alt="" coords="413,31,573,57"/>
+<area shape="rect" id="node5" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="621,56,672,83"/>
+</map>

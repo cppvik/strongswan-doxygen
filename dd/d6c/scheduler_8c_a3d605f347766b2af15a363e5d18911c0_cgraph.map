@@ -1,0 +1,6 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$dd/d6c/scheduler_8c.html#af7adeafa24ef793e89602d803d55595a" title="event_destroy" alt="" coords="133,5,237,32"/>
+<area shape="rect" id="node4" href="$dd/d6c/scheduler_8c.html#aaf856d3eb6842150a15d64a0eb9f1a63" title="remove_event" alt="" coords="133,56,237,83"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="311,5,355,32"/>
+<area shape="rect" id="node5" href="$dd/d6c/scheduler_8c.html#a22cdf3ef2a58a258301d5b3cc2aae8c5" title="timeval_cmp" alt="" coords="285,56,381,83"/>
+</map>

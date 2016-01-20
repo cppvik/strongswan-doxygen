@@ -1,0 +1,12 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="321,157,421,184"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="159,208,246,235"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gaa04bd94526d5f8cb5412ee4c1f30e2c5" title="chunk_from_base64" alt="" coords="133,107,272,133"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gaadc119e547e9a456a8c2c6271290b584" title="chunk_from_hex" alt="" coords="143,56,262,83"/>
+<area shape="rect" id="node10" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="177,259,228,285"/>
+<area shape="rect" id="node11" href="$d4/d40/group__string__i.html#ga9642181c8684012e619edccbc9f52d1c" title="strncaseeq" alt="" coords="159,309,246,336"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="349,208,393,235"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="341,56,401,83"/>
+<area shape="rect" id="node7" href="$d8/d39/chunk_8c.html#ad6251f095b93bc7abc59f63e103ab25d" title="b642bin" alt="" coords="337,107,404,133"/>
+<area shape="rect" id="node9" href="$d8/d39/chunk_8c.html#a0674de9b4dc86d182ca6a08b9595279f" title="hex2bin" alt="" coords="337,5,404,32"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="getpass" name="getpass">
+<area shape="rect" id="node2" href="$db/d5d/load__creds_8c.html#a676f67eaad5265da13844527efbaf705" title="CALLBACK" alt="" coords="139,5,231,32"/>
+<area shape="rect" id="node3" href="$db/d73/cmd__creds_8c.html#aa34bbc2531168de0ff0832c1b9fe5482" title="callback_shared" alt="" coords="127,56,243,83"/>
+<area shape="rect" id="node6" href="$d8/d74/pki_8c.html#a9ab0354af432595bd0b03ee53a68784e" title="cb" alt="" coords="166,107,205,133"/>
+<area shape="rect" id="node9" href="$d9/d93/stroke_8c.html#af14eb8b0561f71ca4b75579c4d9a9d68" title="send_stroke_msg" alt="" coords="123,563,248,589"/>
+<area shape="rect" id="node4" href="$d6/df5/group__cmd__creds.html#gaf523d95aeac2251d75499d2cc734ac7c" title="cmd_creds_create" alt="" coords="305,56,434,83"/>
+<area shape="rect" id="node5" href="$d6/d89/charon-cmd_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="532,56,583,83"/>
+<area shape="rect" id="node7" href="$d8/d74/pki_8c.html#adfa51995e2623d7b0bfcd4dde7f4fea7" title="add_callback" alt="" coords="320,107,419,133"/>
+<area shape="rect" id="node8" href="$d8/d74/pki_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="532,107,583,133"/>
+<area shape="rect" id="node10" href="$d9/d93/stroke_8c.html#ae869ef435f1d740a0c7fb3054b153c98" title="add_connection" alt="" coords="313,157,426,184"/>
+<area shape="rect" id="node12" href="$d9/d93/stroke_8c.html#a9200e06e180f30a42c85fe22665ace8f" title="counters" alt="" coords="333,208,405,235"/>
+<area shape="rect" id="node13" href="$d9/d93/stroke_8c.html#a40ff5da1155ecc33ffa39f92748f0c7f" title="del_connection" alt="" coords="315,259,424,285"/>
+<area shape="rect" id="node14" href="$d9/d93/stroke_8c.html#addbfc0650c16899e95010afb41fb1dd7" title="export" alt="" coords="340,309,399,336"/>
+<area shape="rect" id="node15" href="$d9/d93/stroke_8c.html#a6412e347c9d654d7884d838e223cc1fd" title="initiate_connection" alt="" coords="304,360,435,387"/>
+<area shape="rect" id="node16" href="$d9/d93/stroke_8c.html#a61ce0a387e0f45715d7394348e24a47f" title="leases" alt="" coords="339,411,399,437"/>
+<area shape="rect" id="node17" href="$d9/d93/stroke_8c.html#ac09beaa605d6b27a417d4f02ed8a841c" title="list" alt="" coords="350,461,389,488"/>
+<area shape="rect" id="node18" href="$d9/d93/stroke_8c.html#a9d0ef06113b5406f34dcc040d5b9d9a3" title="memusage" alt="" coords="326,512,413,539"/>
+<area shape="rect" id="node19" href="$d9/d93/stroke_8c.html#ae90d0998da2bc113715be68ee9557e07" title="purge" alt="" coords="342,563,397,589"/>
+<area shape="rect" id="node20" href="$d9/d93/stroke_8c.html#a52382b5587862e867a5f14b325e1f243" title="rekey_connection" alt="" coords="307,613,431,640"/>
+<area shape="rect" id="node21" href="$d9/d93/stroke_8c.html#a648365de91851bb4981fcd4d505a9086" title="reread" alt="" coords="340,1035,399,1061"/>
+<area shape="rect" id="node26" href="$d9/d93/stroke_8c.html#a9c7e7a12d1614a9f3eb222a7147d96ba" title="route_connection" alt="" coords="309,664,430,691"/>
+<area shape="rect" id="node27" href="$d9/d93/stroke_8c.html#a742d7024c7a4bd43eede5036d518bcaf" title="set_loglevel" alt="" coords="324,715,415,741"/>
+<area shape="rect" id="node28" href="$d9/d93/stroke_8c.html#a80e32728993cdd914660e8bb69701a58" title="show_status" alt="" coords="321,765,417,792"/>
+<area shape="rect" id="node29" href="$d9/d93/stroke_8c.html#a969015c6087ea300e957ec205c4bc815" title="terminate_connection" alt="" coords="296,816,443,843"/>
+<area shape="rect" id="node30" href="$d9/d93/stroke_8c.html#ac9c0054f98da2c5f57e618bfb00e5ab8" title="terminate_connection\l_srcip" alt="" coords="296,867,443,909"/>
+<area shape="rect" id="node31" href="$d9/d93/stroke_8c.html#a6772e3c6fe6da1ad6ecbbccf38672c81" title="unroute_connection" alt="" coords="302,933,437,960"/>
+<area shape="rect" id="node32" href="$d9/d93/stroke_8c.html#aa10f6b9221677823afcfb31506f7fb64" title="user_credentials" alt="" coords="311,984,428,1011"/>
+<area shape="rect" id="node11" href="$d9/d93/stroke_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="532,588,583,615"/>
+<area shape="rect" id="node22" href="$d4/ddf/group__stroke__cred.html#ga54afc73bedd2dda57cfbeb130062849a" title="stroke_cred_create" alt="" coords="491,1035,624,1061"/>
+<area shape="rect" id="node23" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="672,1035,819,1061"/>
+<area shape="rect" id="node24" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="867,1035,975,1061"/>
+<area shape="rect" id="node25" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="1024,1035,1104,1061"/>
+</map>

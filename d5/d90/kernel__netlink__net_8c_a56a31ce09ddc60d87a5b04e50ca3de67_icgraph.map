@@ -1,0 +1,13 @@
+<map id="net_change_destroy" name="net_change_destroy">
+<area shape="rect" id="node2" href="$d5/d90/kernel__netlink__net_8c.html#ad005c300e70718321d1b8550ccb476af" title="net_changes_clear" alt="" coords="192,56,323,83"/>
+<area shape="rect" id="node4" href="$d5/d90/kernel__netlink__net_8c.html#a0f4d312f2e3ae7e2ef669ff35e21bee8" title="queue_route_reinstall" alt="" coords="531,56,677,83"/>
+<area shape="rect" id="node3" href="$d5/d90/kernel__netlink__net_8c.html#af3cebb1319733db373466a7b44f0aebf" title="reinstall_routes" alt="" coords="371,107,482,133"/>
+<area shape="rect" id="node12" href="$d5/d90/kernel__netlink__net_8c.html#acf60c75dd18e7081cecee6bc166bcebf" title="METHOD" alt="" coords="387,56,467,83"/>
+<area shape="rect" id="node5" href="$d5/d90/kernel__netlink__net_8c.html#a0f87b0e61837c8bde853f9eda9756613" title="process_link" alt="" coords="729,56,823,83"/>
+<area shape="rect" id="node10" href="$d5/d90/kernel__netlink__net_8c.html#a524a440e79bfb8f59290902a14bb30e8" title="process_addr" alt="" coords="726,5,826,32"/>
+<area shape="rect" id="node11" href="$d5/d90/kernel__netlink__net_8c.html#aeca4a8be4eca27916eee69fadda9b886" title="METHOD" alt="" coords="736,107,816,133"/>
+<area shape="rect" id="node6" href="$d5/d90/kernel__netlink__net_8c.html#aadc72ac0ee4c3eee050dcde86c5230d6" title="receive_events" alt="" coords="878,5,989,32"/>
+<area shape="rect" id="node9" href="$d5/d90/kernel__netlink__net_8c.html#a6171ad9e6cb4f8e8abc248a8e14182ca" title="init_address_list" alt="" coords="875,56,991,83"/>
+<area shape="rect" id="node7" href="$d5/dbb/group__kernel__netlink__net__i.html#ga085e463746e0ef5b2537f94dee888bb3" title="kernel_netlink_net\l_create" alt="" coords="1041,23,1167,65"/>
+<area shape="rect" id="node8" href="$da/d4c/kernel__netlink__plugin_8c.html#afff6cb796b37dd206b1f16ec44e924d0" title="METHOD" alt="" coords="1216,31,1296,57"/>
+</map>

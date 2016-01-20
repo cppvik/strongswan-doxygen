@@ -1,0 +1,36 @@
+<map id="process_peer_challenge" name="process_peer_challenge">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaaa5a9811df1bd2ae5e331748f7fbaf75" title="chunk_clear" alt="" coords="679,436,771,463"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="675,157,775,184"/>
+<area shape="rect" id="node9" href="$d6/d02/group__eap__payload.html#gadb59cfd9e9751e29273126d1115df5ea" title="eap_payload_create_data" alt="" coords="216,56,387,83"/>
+<area shape="rect" id="node13" href="$dd/deb/eap__mschapv2_8c.html#a1402e7e0e0db01b3c295683687b02046" title="extract_username" alt="" coords="238,233,365,260"/>
+<area shape="rect" id="node14" href="$dd/deb/eap__mschapv2_8c.html#a37c72214e033643c06b5ab827371e988" title="GenerateStuff" alt="" coords="250,360,353,387"/>
+<area shape="rect" id="node24" href="$dd/deb/eap__mschapv2_8c.html#a41d7704135383c82a0fd98750ec51c48" title="get_nt_hash" alt="" coords="255,537,348,564"/>
+<area shape="rect" id="node26" href="$d9/d7b/settings__lexer_8c.html#a33e91cd0cef6786e9e3a27ac67707207" title="if" alt="" coords="282,672,321,699"/>
+<area shape="rect" id="node35" href="$dd/deb/eap__mschapv2_8c.html#a6be8eec239991cad463e1420182597bd" title="set_ms_length" alt="" coords="248,723,355,749"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="891,436,970,463"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="887,309,974,336"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="1253,436,1368,463"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="1066,411,1195,437"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1109,309,1153,336"/>
+<area shape="rect" id="node10" href="$d6/d02/group__eap__payload.html#ga5220ee974b4236a55b1b0bd0a7e1007b" title="eap_payload_create" alt="" coords="447,56,585,83"/>
+<area shape="rect" id="node11" href="$d6/dba/proposal__substructure_8c.html#aee46d8bf7ed69187788995076df80c18" title="set_data" alt="" coords="480,5,552,32"/>
+<area shape="rect" id="node12" href="$d6/dba/proposal__substructure_8c.html#ae41211f5db0d00daffe91d0391f86909" title="compute_length" alt="" coords="668,5,783,32"/>
+<area shape="rect" id="node15" href="$dd/deb/eap__mschapv2_8c.html#acfef999d5a63f328f1dbd13d6880efd3" title="AuthenticatorResponse" alt="" coords="646,259,805,285"/>
+<area shape="rect" id="node16" href="$dd/deb/eap__mschapv2_8c.html#a490313d481b5994845ff8eddb62fa34d" title="ChallengeHash" alt="" coords="461,411,571,437"/>
+<area shape="rect" id="node17" href="$dd/deb/eap__mschapv2_8c.html#a10d8cbc02d27d5689ff78869971b50c0" title="ChallengeResponse" alt="" coords="447,360,585,387"/>
+<area shape="rect" id="node22" href="$dd/deb/eap__mschapv2_8c.html#a81d4e2b5e9b5e434d322b56eb92f96c7" title="GenerateMSK" alt="" coords="464,208,568,235"/>
+<area shape="rect" id="node23" href="$dd/deb/eap__mschapv2_8c.html#ae08139a83d9485472f482571b4888d43" title="NtPasswordHash" alt="" coords="453,512,579,539"/>
+<area shape="rect" id="node18" href="$d4/d87/group__chunk.html#ga48ac39914d53e6adedee861f5b4dabb5" title="chunk_split" alt="" coords="681,519,769,545"/>
+<area shape="rect" id="node21" href="$dd/deb/eap__mschapv2_8c.html#a6e181d0faffc2ef071558f664e24fa4a" title="ExpandDESKey" alt="" coords="667,360,784,387"/>
+<area shape="rect" id="node19" href="$d4/d87/group__chunk.html#gaaabd31666a00f250bb4a339c82373be8" title="chunk_skip" alt="" coords="887,519,975,545"/>
+<area shape="rect" id="node20" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="901,585,961,612"/>
+<area shape="rect" id="node25" href="$dd/deb/eap__mschapv2_8c.html#a0520e71b78544287c352b4e2e4168935" title="ascii_to_unicode" alt="" coords="457,563,575,589"/>
+<area shape="rect" id="node27" href="$d9/d7b/settings__lexer_8c.html#a929da0caf3950387991ecbd5e8eef08e" title="settings_parser_ensure\l_buffer_stack" alt="" coords="437,665,595,706"/>
+<area shape="rect" id="node30" href="$d9/d7b/settings__lexer_8c.html#a7ae01c54e2bcf9fd7a55137fbb2a80ed" title="settings_parser__create\l_buffer" alt="" coords="435,730,597,771"/>
+<area shape="rect" id="node33" href="$d9/d7b/settings__lexer_8c.html#a33d4f53352a864e4f156061745955b95" title="settings_parser__load\l_buffer_state" alt="" coords="1056,734,1205,775"/>
+<area shape="rect" id="node28" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="653,676,798,703"/>
+<area shape="rect" id="node29" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="647,625,803,652"/>
+<area shape="rect" id="node31" href="$d9/d7b/settings__lexer_8c.html#a4386e14dca16b9ec4faef188ba2d8d87" title="settings_parser__init\l_buffer" alt="" coords="654,730,797,771"/>
+<area shape="rect" id="node32" href="$d9/d7b/settings__lexer_8c.html#abb6474cb0d8cf8c06c5f0570a0bfe36d" title="settings_parser__flush\l_buffer" alt="" coords="854,679,1007,721"/>
+<area shape="rect" id="node34" href="$d9/d7b/settings__lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="903,745,958,772"/>
+</map>

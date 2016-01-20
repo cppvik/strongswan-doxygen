@@ -1,0 +1,6 @@
+<map id="iface_create" name="iface_create">
+<area shape="rect" id="node2" href="$dd/da2/iface_8c.html#a756b9af290f693a714648811dfa490d1" title="create_tap" alt="" coords="151,5,233,32"/>
+<area shape="rect" id="node3" href="$dd/da2/iface_8c.html#aec9c5e87dea3a245d63a6eb2dc6e8168" title="destroy_tap" alt="" coords="147,56,237,83"/>
+<area shape="rect" id="node4" href="$dd/da2/iface_8c.html#a317e3e47ec4861b011dad60b3dcbe8f8" title="iface_control" alt="" coords="285,81,381,108"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="170,157,214,184"/>
+</map>

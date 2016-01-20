@@ -1,0 +1,8 @@
+<map id="nm_strongswan_plugin_init" name="nm_strongswan_plugin_init">
+<area shape="rect" id="node2" href="$d0/d53/nm__service_8c.html#a0e5a60568ae1e30d6164c5a9f8782efc" title="child_updown" alt="" coords="245,31,347,57"/>
+<area shape="rect" id="node6" href="$d0/d53/nm__service_8c.html#ad77244670a88a027d9d854e30a3bad6b" title="ike_rekey" alt="" coords="257,81,335,108"/>
+<area shape="rect" id="node7" href="$d4/dc5/group__tun__device.html#ga0c3e176de763cee4ae9191e342549ddb" title="tun_device_create" alt="" coords="232,132,360,159"/>
+<area shape="rect" id="node3" href="$d0/d53/nm__service_8c.html#adffd1029cdaf9f9d860d340a3d9094e7" title="signal_failure" alt="" coords="424,5,523,32"/>
+<area shape="rect" id="node4" href="$d0/d53/nm__service_8c.html#abf3db34f1cce6df9bd1d7e85022bf552" title="signal_ipv4_config" alt="" coords="409,56,538,83"/>
+<area shape="rect" id="node5" href="$d0/d53/nm__service_8c.html#a3ac143ce84fad0cbe3c43d460aa6e9ee" title="handler_to_val" alt="" coords="587,56,693,83"/>
+</map>

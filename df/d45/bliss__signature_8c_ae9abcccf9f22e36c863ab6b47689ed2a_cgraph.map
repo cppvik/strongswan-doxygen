@@ -1,0 +1,7 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d6/d34/group__bliss__bitpacker.html#ga4a41968991f09cbd88eb44739a3430db" title="bliss_bitpacker_create" alt="" coords="133,5,285,32"/>
+<area shape="rect" id="node5" href="$da/dde/group__bliss__huffman__code.html#gab5cf7147e0335b65320570a77f68b8f4" title="bliss_huffman_code\l_get_by_id" alt="" coords="140,57,279,98"/>
+<area shape="rect" id="node6" href="$d4/dcf/group__bliss__huffman__coder.html#ga8eeef33bf6f74d0c364699b0696baea7" title="bliss_huffman_coder\l_create" alt="" coords="138,122,281,163"/>
+<area shape="rect" id="node3" href="$da/dbd/group__align__i.html#ga601113ac97db27e9d8ed1ac94b38913d" title="round_up" alt="" coords="333,5,408,32"/>
+<area shape="rect" id="node4" href="$da/dbd/group__align__i.html#ga2e30c21b6abf68fad660942e484d459c" title="pad_len" alt="" coords="456,5,523,32"/>
+</map>

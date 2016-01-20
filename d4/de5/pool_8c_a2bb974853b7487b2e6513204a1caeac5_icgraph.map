@@ -1,0 +1,24 @@
+<map id="del" name="del">
+<area shape="rect" id="node2" href="$d8/dcf/vici__control_8c.html#a4a4b403977c61e97c5f7e61dc5589048" title="CALLBACK" alt="" coords="110,31,202,57"/>
+<area shape="rect" id="node3" href="$da/de3/vici__config_8c.html#a792827be36874449ef4184ce4e1e2cf9" title="clear_start_action" alt="" coords="93,81,219,108"/>
+<area shape="rect" id="node8" href="$d4/de5/pool_8c.html#aed3428af5b485655e4868707cd8bb6dc" title="create_pool" alt="" coords="111,157,201,184"/>
+<area shape="rect" id="node10" href="$d4/de5/pool_8c.html#af124cd71b9027deb4a9199eb62c0ac70" title="do_args" alt="" coords="482,157,550,184"/>
+<area shape="rect" id="node17" href="$d0/d31/child__rekey_8c.html#aa4718248652ded918c83874378e3894e" title="handle_collision" alt="" coords="99,259,213,285"/>
+<area shape="rect" id="node19" href="$dc/d9a/child__create_8c.html#a245d645ed1b952b66fc97a9353d13466" title="METHOD" alt="" coords="116,309,196,336"/>
+<area shape="rect" id="node20" href="$d7/d7f/group__stroke__ca.html#ga6c2ad0f2158debdca5c8efebf8fb5ce3" title="stroke_ca_create" alt="" coords="95,360,217,387"/>
+<area shape="rect" id="node4" href="$da/de3/vici__config_8c.html#aa0a78066e9c373f71957ce43c1fc7168" title="clear_start_actions" alt="" coords="274,5,406,32"/>
+<area shape="rect" id="node7" href="$da/de3/vici__config_8c.html#abc9c77e45a2fb7fd3e5702228f0da661" title="replace_children" alt="" coords="282,56,398,83"/>
+<area shape="rect" id="node5" href="$da/de3/vici__config_8c.html#a2436d0bc38d6a642d6b1cf68b5dc19aa" title="merge_config" alt="" coords="466,31,566,57"/>
+<area shape="rect" id="node6" href="$da/de3/vici__config_8c.html#ab99a32e9707be69653583c70c6b3adb8" title="CALLBACK" alt="" coords="619,31,711,57"/>
+<area shape="rect" id="node9" href="$d4/de5/pool_8c.html#a4885d6ef0f7f4aa985c543b9ec26b8fe" title="add" alt="" coords="319,107,361,133"/>
+<area shape="rect" id="node16" href="$d4/de5/pool_8c.html#a8710dea1265ae65dd8baff9047337125" title="add_addresses" alt="" coords="285,157,395,184"/>
+<area shape="rect" id="node11" href="$d4/de5/pool_8c.html#a98be8995305549fb26164b966a501503" title="batch" alt="" coords="638,157,693,184"/>
+<area shape="rect" id="node15" href="$d4/de5/pool_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="640,208,691,235"/>
+<area shape="rect" id="node12" href="$d6/dad/tnccs__11_8c.html#ac5adc733f4793916ccd01c0c2cfc185d" title="check_and_build_recommendation" alt="" coords="761,132,983,159"/>
+<area shape="rect" id="node14" href="$d6/dad/tnccs__11_8c.html#a7c1ab79b55a15bd474230d66c7a5202c" title="METHOD" alt="" coords="832,183,912,209"/>
+<area shape="rect" id="node13" href="$d6/dad/tnccs__11_8c.html#ad9280d69aa4c1159a11ab577031d85db" title="METHOD" alt="" coords="1032,132,1112,159"/>
+<area shape="rect" id="node18" href="$d0/d31/child__rekey_8c.html#ab1e584882ffad0e57c0934b923fb3b6d" title="METHOD" alt="" coords="300,259,380,285"/>
+<area shape="rect" id="node21" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="267,360,413,387"/>
+<area shape="rect" id="node22" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="462,360,570,387"/>
+<area shape="rect" id="node23" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="625,360,705,387"/>
+</map>

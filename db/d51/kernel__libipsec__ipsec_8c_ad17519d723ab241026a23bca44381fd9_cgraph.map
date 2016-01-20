@@ -1,0 +1,8 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$db/d51/kernel__libipsec__ipsec_8c.html#a176975f97f689f697c7707d705550916" title="policy_entry_destroy" alt="" coords="134,86,277,113"/>
+<area shape="rect" id="node6" href="$db/d51/kernel__libipsec__ipsec_8c.html#adc58464e4c61fa97a0764b1cb302dcdc" title="remove_exclude_route" alt="" coords="326,137,479,163"/>
+<area shape="rect" id="node3" href="$db/d51/kernel__libipsec__ipsec_8c.html#a16c52872ecaf51327953d6549e19fcd9" title="route_entry_destroy" alt="" coords="334,35,471,62"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="731,86,775,113"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="562,35,649,62"/>
+<area shape="rect" id="node7" href="$db/d51/kernel__libipsec__ipsec_8c.html#ae228ee777184e8867303e55b7a9f3676" title="exclude_route_destroy" alt="" coords="529,187,682,214"/>
+</map>

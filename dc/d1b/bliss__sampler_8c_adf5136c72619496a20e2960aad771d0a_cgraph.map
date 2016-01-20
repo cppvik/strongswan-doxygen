@@ -1,0 +1,28 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d9/d7b/settings__lexer_8c.html#a8fdafe3be7e00ce3d4f0cb50a9a5eb39" title="while" alt="" coords="134,304,186,331"/>
+<area shape="rect" id="node3" href="$d9/d7b/settings__lexer_8c.html#a08a0ad3cc279c5b2684044df8da9fe9c" title="yy_push_state" alt="" coords="881,532,988,559"/>
+<area shape="rect" id="node7" href="$d9/d7b/settings__lexer_8c.html#ad7836f9633b0d29af4652910119cda91" title="include_files" alt="" coords="265,127,359,153"/>
+<area shape="rect" id="node9" href="$d9/d7b/settings__lexer_8c.html#ab2aed7177e898c47f81c9523d0ab74f3" title="settings_parser_open\l_next_file" alt="" coords="444,170,591,211"/>
+<area shape="rect" id="node18" href="$d9/d7b/settings__lexer_8c.html#a654fd7e721544743318998dbc70bc615" title="yy_pop_state" alt="" coords="262,228,362,255"/>
+<area shape="rect" id="node19" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="287,279,337,305"/>
+<area shape="rect" id="node20" href="$d9/d7b/settings__lexer_8c.html#a3770007827ca61d7149339b1aeaf8488" title="yy_top_state" alt="" coords="263,329,361,356"/>
+<area shape="rect" id="node21" href="$d9/d7b/settings__lexer_8c.html#a8d78e336c4841534cebfc1a16dbf6315" title="settings_parser_pop\l_buffer_state" alt="" coords="243,43,381,85"/>
+<area shape="rect" id="node24" href="$d9/d7b/settings__lexer_8c.html#aed478f529df78ebbe143819488cfca4b" title="yy_get_previous_state" alt="" coords="235,431,389,457"/>
+<area shape="rect" id="node25" href="$d9/d7b/settings__lexer_8c.html#a39d24de4d72464ca8a06b0b604a1680f" title="yy_try_NUL_trans" alt="" coords="248,481,376,508"/>
+<area shape="rect" id="node26" href="$d9/d7b/settings__lexer_8c.html#a29d30a2c7f7ce166f1198f5a1c1d7757" title="yy_get_next_buffer" alt="" coords="245,380,379,407"/>
+<area shape="rect" id="node4" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="1067,473,1213,500"/>
+<area shape="rect" id="node6" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="1062,532,1218,559"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="1311,473,1371,500"/>
+<area shape="rect" id="node8" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="913,76,957,103"/>
+<area shape="rect" id="node10" href="$d9/d7b/settings__lexer_8c.html#aac59051a62df24d864be86f90fbc75e6" title="settings_parser_set_in" alt="" coords="650,156,803,183"/>
+<area shape="rect" id="node11" href="$d9/d7b/settings__lexer_8c.html#a6ae90d72683880953e926e7e3c23666d" title="settings_parser_push\l_buffer_state" alt="" coords="653,207,800,249"/>
+<area shape="rect" id="node14" href="$d9/d7b/settings__lexer_8c.html#a7ae01c54e2bcf9fd7a55137fbb2a80ed" title="settings_parser__create\l_buffer" alt="" coords="646,325,807,366"/>
+<area shape="rect" id="node12" href="$d9/d7b/settings__lexer_8c.html#a929da0caf3950387991ecbd5e8eef08e" title="settings_parser_ensure\l_buffer_stack" alt="" coords="856,466,1013,507"/>
+<area shape="rect" id="node13" href="$d9/d7b/settings__lexer_8c.html#a33d4f53352a864e4f156061745955b95" title="settings_parser__load\l_buffer_state" alt="" coords="1267,218,1416,259"/>
+<area shape="rect" id="node15" href="$d9/d7b/settings__lexer_8c.html#a4386e14dca16b9ec4faef188ba2d8d87" title="settings_parser__init\l_buffer" alt="" coords="863,277,1006,318"/>
+<area shape="rect" id="node16" href="$d9/d7b/settings__lexer_8c.html#abb6474cb0d8cf8c06c5f0570a0bfe36d" title="settings_parser__flush\l_buffer" alt="" coords="1063,247,1217,289"/>
+<area shape="rect" id="node17" href="$d9/d7b/settings__lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="1113,313,1167,340"/>
+<area shape="rect" id="node22" href="$d9/d7b/settings__lexer_8c.html#ae367ead923eaf32c6df0fd7f8e91b9d3" title="settings_parser__delete\l_buffer" alt="" coords="437,43,597,85"/>
+<area shape="rect" id="node23" href="$d9/d7b/settings__lexer_8c.html#adad18520317792efef77f73effb4f25e" title="settings_parser_free" alt="" coords="657,52,797,79"/>
+<area shape="rect" id="node27" href="$d9/d7b/settings__lexer_8c.html#ac48e91c7f8b754220d4be1305a53e30e" title="settings_parser_restart" alt="" coords="440,380,595,407"/>
+</map>

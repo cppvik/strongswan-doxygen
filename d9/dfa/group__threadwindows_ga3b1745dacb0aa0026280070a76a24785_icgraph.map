@@ -1,0 +1,15 @@
+<map id="thread_tls_cleanup" name="thread_tls_cleanup">
+<area shape="rect" id="node2" href="$d4/ddc/windows_2thread_8c.html#af7e133b3d7eb8327d367c824a2442573" title="docleanup" alt="" coords="185,107,266,133"/>
+<area shape="rect" id="node14" href="$dc/d0b/windows_2thread__value_8c.html#af62832b57f551cd299e84a47b883f830" title="METHOD" alt="" coords="185,157,265,184"/>
+<area shape="rect" id="node3" href="$d4/ddc/windows_2thread_8c.html#a343cd07ea8770e572cfe3a7d39ea8401" title="destroy" alt="" coords="315,145,381,172"/>
+<area shape="rect" id="node6" href="$d4/ddc/windows_2thread_8c.html#a8ad439d506bba830e2479d164b77478b" title="end_thread" alt="" coords="438,56,525,83"/>
+<area shape="rect" id="node4" href="$d4/ddc/windows_2thread_8c.html#a7b3cdeac4dc86ec753a883c6a46c91e6" title="cleanup_tls" alt="" coords="437,107,525,133"/>
+<area shape="rect" id="node10" href="$da/dd8/group__thread.html#ga96e0afa2f09818a84dfa1a3857be2a45" title="thread_create" alt="" coords="717,157,819,184"/>
+<area shape="rect" id="node12" href="$d4/ddc/windows_2thread_8c.html#a465c3e6f1a7ef389603a10605f1216df" title="METHOD" alt="" coords="441,259,521,285"/>
+<area shape="rect" id="node13" href="$da/dd8/group__thread.html#gaa290ba7daffccd55780e0a3b7fea41da" title="threads_deinit" alt="" coords="430,157,533,184"/>
+<area shape="rect" id="node5" href="$d4/ddc/windows_2thread_8c.html#a4b10b033c4c34d2de4d7cd2b6e863a02" title="DllMain" alt="" coords="592,157,659,184"/>
+<area shape="rect" id="node7" href="$d4/ddc/windows_2thread_8c.html#a7da7cf0efedc9353cc8afd5fa5492702" title="docancel" alt="" coords="588,5,663,32"/>
+<area shape="rect" id="node9" href="$d4/ddc/windows_2thread_8c.html#aaa9597841539f07fc3ab9f9726324927" title="thread_cb" alt="" coords="586,107,665,133"/>
+<area shape="rect" id="node11" href="$da/dd8/group__thread.html#ga8b28b9fa8436aee6775b36456d796e23" title="thread_exit" alt="" coords="582,56,669,83"/>
+<area shape="rect" id="node8" href="$d4/ddc/windows_2thread_8c.html#aec0f1747feb4342f5e851b85924a60c2" title="METHOD" alt="" coords="728,5,808,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="private_peer_cfg_t" name="private_peer_cfg_t">
+<area shape="rect" id="node3" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="84,227,153,253"/>
+<area shape="rect" id="node4" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="131,97,221,124"/>
+<area shape="rect" id="node6" href="$d6/d8d/structike__cfg__t.html" title="ike_cfg_t" alt="" coords="321,227,395,253"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="248,5,347,32"/>
+<area shape="rect" id="node7" href="$df/d06/structproposal__t.html" title="proposal_t" alt="" coords="345,97,427,124"/>
+<area shape="rect" id="node8" href="$d5/dcf/structhost__t.html" title="host_t" alt="" coords="512,97,569,124"/>
+<area shape="rect" id="node9" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="507,5,575,32"/>
+</map>

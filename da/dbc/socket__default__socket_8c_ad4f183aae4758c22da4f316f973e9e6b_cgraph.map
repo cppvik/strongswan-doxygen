@@ -1,0 +1,5 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$da/dbc/socket__default__socket_8c.html#a4b05ce2be39d616a09bd49437a534632" title="send_msg_generic" alt="" coords="285,22,416,49"/>
+<area shape="rect" id="node3" href="$da/dbc/socket__default__socket_8c.html#a47473e375a8b571bae02f30e201242a1" title="send_msg_v4" alt="" coords="134,22,237,49"/>
+<area shape="rect" id="node4" href="$da/dbc/socket__default__socket_8c.html#a48fd23b4cb38a85b6637755919b6d49d" title="send_msg_v6" alt="" coords="134,73,237,99"/>
+</map>

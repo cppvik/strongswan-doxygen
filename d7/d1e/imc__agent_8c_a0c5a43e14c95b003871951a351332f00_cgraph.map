@@ -1,0 +1,8 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d7/d1e/imc__agent_8c.html#a004247295e75b6b22fac0a0a41bf6a49" title="find_connection" alt="" coords="139,5,253,32"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="174,56,218,83"/>
+<area shape="rect" id="node4" href="$d7/d1e/imc__agent_8c.html#a0fcacf15069d2c1a6452d27fd518f0b4" title="get_bool_attribute" alt="" coords="133,107,259,133"/>
+<area shape="rect" id="node5" href="$d7/d1e/imc__agent_8c.html#af0d636149afdef13382da4c010f1de8a" title="get_str_attribute" alt="" coords="138,157,254,184"/>
+<area shape="rect" id="node6" href="$d7/d1e/imc__agent_8c.html#a28077aa32662ef38443b8d2324a61743" title="get_uint_attribute" alt="" coords="135,208,257,235"/>
+<area shape="rect" id="node7" href="$da/da5/group__byteorder__i.html#ga439355baab5e35d632f86318c8330043" title="untoh32" alt="" coords="307,208,375,235"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="fetcher_default_callback" name="fetcher_default_callback">
+<area shape="rect" id="node2" href="$da/dab/group__curl__fetcher.html#gad7eb5ad8126640cf3009a47251c7cef7" title="curl_fetcher_create" alt="" coords="227,5,360,32"/>
+<area shape="rect" id="node5" href="$d4/d8f/group__files__fetcher.html#ga22670cfc4ca7763c2c9fcce22bba219a" title="files_fetcher_create" alt="" coords="225,56,361,83"/>
+<area shape="rect" id="node7" href="$d1/d26/curl__fetcher_8c.html#a60e54ef9c9cbf3b443f4b00afa5f42c2" title="METHOD" alt="" coords="253,107,333,133"/>
+<area shape="rect" id="node8" href="$df/d55/winhttp__fetcher_8c.html#aa2343e37a14a15c44999fbd8cea3e35c" title="read_result" alt="" coords="250,157,337,184"/>
+<area shape="rect" id="node10" href="$d9/d4b/group__soup__fetcher.html#gacd672bf18bf06069e46dd90b6af8cd95" title="soup_fetcher_create" alt="" coords="223,208,363,235"/>
+<area shape="rect" id="node12" href="$de/d8f/group__winhttp__fetcher.html#ga3efc5ad1b456916364af03269b4395e7" title="winhttp_fetcher_create" alt="" coords="216,259,371,285"/>
+<area shape="rect" id="node3" href="$d6/da8/curl__plugin_8c.html#acb77137ab5d7578dfa6da932fc51759f" title="query_protocols" alt="" coords="419,5,533,32"/>
+<area shape="rect" id="node4" href="$d6/da8/curl__plugin_8c.html#a5885d34f8c1cc2eae3b4be69bae4de0e" title="curl_plugin_create" alt="" coords="582,5,709,32"/>
+<area shape="rect" id="node6" href="$d7/dc9/files__plugin_8c.html#aa99ebaae883369d26b64eabb1ec51199" title="METHOD" alt="" coords="436,56,516,83"/>
+<area shape="rect" id="node9" href="$df/d55/winhttp__fetcher_8c.html#a746f5a48d9d34e810739c519bcce2ade" title="METHOD" alt="" coords="436,157,516,184"/>
+<area shape="rect" id="node11" href="$dc/da1/soup__plugin_8c.html#ab312d508df21d457675cee76e9a5d20a" title="METHOD" alt="" coords="436,208,516,235"/>
+<area shape="rect" id="node13" href="$da/d93/winhttp__plugin_8c.html#a61d3baf06b1f7d29c712e122c78cc1c6" title="METHOD" alt="" coords="436,259,516,285"/>
+</map>

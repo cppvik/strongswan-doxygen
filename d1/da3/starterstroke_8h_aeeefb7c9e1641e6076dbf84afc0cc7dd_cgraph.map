@@ -1,0 +1,8 @@
+<map id="starter_stroke_add_conn" name="starter_stroke_add_conn">
+<area shape="rect" id="node2" href="$d1/de8/starterstroke_8c.html#acc558f57d721ae3475bc0d13e834edc4" title="add_end" alt="" coords="250,5,321,32"/>
+<area shape="rect" id="node3" href="$d1/de8/starterstroke_8c.html#abbe77961388b0031037854d3c3a280c0" title="connection_name" alt="" coords="223,56,347,83"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="400,81,451,108"/>
+<area shape="rect" id="node5" href="$d1/de8/starterstroke_8c.html#a4a790b0cbdb4c7753f5dc71106885e3d" title="create_stroke_msg" alt="" coords="219,157,352,184"/>
+<area shape="rect" id="node6" href="$d1/de8/starterstroke_8c.html#af14eb8b0561f71ca4b75579c4d9a9d68" title="send_stroke_msg" alt="" coords="223,208,348,235"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="403,208,447,235"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d7/df1/group__host.html#gaf40fcca3c58e789ff4f82bbf875727e4" title="host_create_from_chunk" alt="" coords="133,56,299,83"/>
+<area shape="rect" id="node8" href="$da/d6a/resolve__handler_8c.html#aa8824d9832d2efc13f436b6c3adfb11e" title="invoke_resolvconf" alt="" coords="153,107,279,133"/>
+<area shape="rect" id="node9" href="$da/d6a/resolve__handler_8c.html#a91f87122419bcb8878bd0d6d65f4a8cc" title="remove_nameserver" alt="" coords="146,157,286,184"/>
+<area shape="rect" id="node3" href="$df/da9/host_8c.html#ac3854e66d5a7563cae9608acbcad6eb5" title="host_create_empty" alt="" coords="347,31,480,57"/>
+<area shape="rect" id="node7" href="$df/da9/host_8c.html#a1fb6a6590d2576c32709b890623cad8c" title="update_sa_len" alt="" coords="360,81,467,108"/>
+<area shape="rect" id="node4" href="$df/da9/host_8c.html#a809d5cf7574c1f5e27758950d53653f4" title="equals" alt="" coords="529,5,589,32"/>
+<area shape="rect" id="node5" href="$df/da9/host_8c.html#a0ea5fbf16ec81f3c5eaf6dc5da8d452a" title="ip_equals" alt="" coords="637,31,715,57"/>
+<area shape="rect" id="node6" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="763,31,829,57"/>
+<area shape="rect" id="node10" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="386,157,441,184"/>
+<area shape="rect" id="node11" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="529,157,588,184"/>
+</map>

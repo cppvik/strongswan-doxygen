@@ -1,0 +1,5 @@
+<map id="send_sasl_mechs" name="send_sasl_mechs">
+<area shape="rect" id="node2" href="$d7/d6a/pt__tls__server_8c.html#a684d6f661f6c86ca310bb47a93b3c2e7" title="do_sasl" alt="" coords="181,5,248,32"/>
+<area shape="rect" id="node3" href="$d7/d6a/pt__tls__server_8c.html#a7ea8b635513dc7a24eeb92db968b53b2" title="authenticate" alt="" coords="296,5,389,32"/>
+<area shape="rect" id="node4" href="$d7/d6a/pt__tls__server_8c.html#a4ff8e75a9fac70ff900ad8502255d726" title="METHOD" alt="" coords="437,5,517,32"/>
+</map>

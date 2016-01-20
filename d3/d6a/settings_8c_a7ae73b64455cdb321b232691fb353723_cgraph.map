@@ -1,0 +1,7 @@
+<map id="settings_create_base" name="settings_create_base">
+<area shape="rect" id="node2" href="$d1/d0e/group__array.html#ga9acc78bc2e06102ff37133b5aa0e0a4f" title="array_create" alt="" coords="233,31,327,57"/>
+<area shape="rect" id="node5" href="$db/ded/group__rwlock.html#ga3646a4244d6c3368a3fbb03354974838" title="rwlock_create" alt="" coords="229,81,331,108"/>
+<area shape="rect" id="node6" href="$d4/d9d/group__settings__types.html#ga7379b99aaa2f0321f86d0053e285303d" title="settings_section_create" alt="" coords="200,132,360,159"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="414,5,474,32"/>
+<area shape="rect" id="node4" href="$dc/dcc/array_8c.html#a1814774789ffaf948b25734a7dd0f3ed" title="get_size" alt="" coords="409,56,479,83"/>
+</map>

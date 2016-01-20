@@ -1,0 +1,7 @@
+<map id="network" name="network">
+<area shape="rect" id="node1" href="$d9/ded/group__socket.html" title="socket" alt="" coords="275,5,336,32"/>
+<area shape="rect" id="node3" href="$d8/d69/group__sender.html" title="sender" alt="" coords="275,56,336,83"/>
+<area shape="rect" id="node4" href="$d0/ddc/group__socket__manager.html" title="socket_manager" alt="" coords="246,107,365,133"/>
+<area shape="rect" id="node5" href="$dc/d58/group__receiver.html" title="receiver" alt="" coords="271,157,339,184"/>
+<area shape="rect" id="node6" href="$d0/db7/group__libcharon.html" title="libcharon" alt="" coords="5,81,80,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="settings_parser__switch_to_buffer" name="settings_parser__switch_to_buffer">
+<area shape="rect" id="node2" href="$d9/d7b/settings__lexer_8c.html#ae8aefec6559dd5a1b0c206651a254261" title="settings_parser__scan\l_buffer" alt="" coords="217,5,370,46"/>
+<area shape="rect" id="node3" href="$d9/d7b/settings__lexer_8c.html#ad7f9540667da78877ec1cdb52ca31178" title="settings_parser__scan\l_bytes" alt="" coords="419,5,573,46"/>
+<area shape="rect" id="node4" href="$d9/d7b/settings__lexer_8c.html#ad0bfdd6bf60ef07706f045445aeaf45e" title="settings_parser__scan\l_string" alt="" coords="622,5,775,46"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#ae525e2e5bccf68e64e55aff999bf1769" title="settings_parser_load\l_string" alt="" coords="825,5,967,46"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#a69c467e13f40a9f5e1cd995e7850da4c" title="settings_parser_parse\l_string" alt="" coords="1017,5,1167,46"/>
+<area shape="rect" id="node7" href="$d3/d6a/settings_8c.html#aa948d357c53715b200263977574d1244" title="load_internal" alt="" coords="1217,12,1311,39"/>
+<area shape="rect" id="node8" href="$d3/d6a/settings_8c.html#a9e187d059223d386f6258d3870f3cebd" title="METHOD" alt="" coords="1360,12,1440,39"/>
+</map>

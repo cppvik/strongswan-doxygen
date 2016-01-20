@@ -1,0 +1,8 @@
+<map id="identity" name="identity">
+<area shape="rect" id="node2" href="$da/d47/eap__aka__server_8c.html#af9943d6ed37e0e922ee3304c013685c2" title="challenge" alt="" coords="117,69,195,96"/>
+<area shape="rect" id="node3" href="$da/d47/eap__aka__server_8c.html#acf7fd802e917a66276bf223a70b10ec4" title="METHOD" alt="" coords="287,5,367,32"/>
+<area shape="rect" id="node4" href="$da/d47/eap__aka__server_8c.html#ae04e62bbb8c3476ea4bb2afd24acefee" title="process_identity" alt="" coords="268,157,385,184"/>
+<area shape="rect" id="node6" href="$da/d47/eap__aka__server_8c.html#ac164433a345aa8058722d548b5d567f6" title="process_reauthentication" alt="" coords="243,56,410,83"/>
+<area shape="rect" id="node7" href="$da/d47/eap__aka__server_8c.html#a4e2eae9de4e7239f0efff516bd8bb415" title="process_synchronize" alt="" coords="254,107,399,133"/>
+<area shape="rect" id="node5" href="$da/d47/eap__aka__server_8c.html#afd9fc1a0bfa7bc577b13a4dd168d5d63" title="METHOD" alt="" coords="459,107,539,133"/>
+</map>

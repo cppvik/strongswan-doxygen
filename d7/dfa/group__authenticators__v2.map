@@ -1,0 +1,6 @@
+<map id="authenticators" name="authenticators">
+<area shape="rect" id="node1" href="$d1/d1a/group__eap__authenticator.html" title="eap_authenticator" alt="" coords="269,5,395,32"/>
+<area shape="rect" id="node2" href="$d5/d0a/group__pubkey__authenticator.html" title="pubkey_authenticator" alt="" coords="259,56,405,83"/>
+<area shape="rect" id="node3" href="$d0/d68/group__psk__authenticator.html" title="psk_authenticator" alt="" coords="269,107,395,133"/>
+<area shape="rect" id="node5" href="$d8/dcc/group__ikev2.html" title="ikev2" alt="" coords="5,56,59,83"/>
+</map>

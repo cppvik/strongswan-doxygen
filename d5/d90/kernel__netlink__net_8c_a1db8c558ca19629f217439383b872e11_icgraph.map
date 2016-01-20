@@ -1,0 +1,12 @@
+<map id="iface_entry_up_and_usable" name="iface_entry_up_and_usable">
+<area shape="rect" id="node2" href="$d5/d90/kernel__netlink__net_8c.html#af29ddd9c2b58f1a5d0bf38ed6ac2b718" title="addr_map_entry_match\l_up_and_usable" alt="" coords="190,5,349,46"/>
+<area shape="rect" id="node4" href="$d5/d90/kernel__netlink__net_8c.html#a6171ad9e6cb4f8e8abc248a8e14182ca" title="init_address_list" alt="" coords="550,71,666,97"/>
+<area shape="rect" id="node7" href="$d5/d90/kernel__netlink__net_8c.html#a5380f306f77b51da4bb8012386d5920e" title="is_interface_up_and\l_usable" alt="" coords="200,122,339,163"/>
+<area shape="rect" id="node3" href="$d5/d90/kernel__netlink__net_8c.html#a18c40e636c29feb4db892474af62edb0" title="METHOD" alt="" coords="409,12,489,39"/>
+<area shape="rect" id="node5" href="$d5/dbb/group__kernel__netlink__net__i.html#ga085e463746e0ef5b2537f94dee888bb3" title="kernel_netlink_net\l_create" alt="" coords="715,89,842,130"/>
+<area shape="rect" id="node6" href="$da/d4c/kernel__netlink__plugin_8c.html#afff6cb796b37dd206b1f16ec44e924d0" title="METHOD" alt="" coords="891,96,971,123"/>
+<area shape="rect" id="node8" href="$d5/d90/kernel__netlink__net_8c.html#aa4ee1f950fc5de3ab43335aebf95aeed" title="process_route" alt="" coords="397,121,501,148"/>
+<area shape="rect" id="node10" href="$d5/d90/kernel__netlink__net_8c.html#add8ea34240fa67be8682f623e7b61891" title="get_route" alt="" coords="411,172,487,199"/>
+<area shape="rect" id="node9" href="$d5/d90/kernel__netlink__net_8c.html#aadc72ac0ee4c3eee050dcde86c5230d6" title="receive_events" alt="" coords="553,121,663,148"/>
+<area shape="rect" id="node11" href="$d5/d90/kernel__netlink__net_8c.html#a427a6e01d6e9699d3396211dabe5fdbb" title="METHOD" alt="" coords="568,172,648,199"/>
+</map>

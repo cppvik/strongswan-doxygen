@@ -1,0 +1,7 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d1/d0e/group__array.html#ga9acc78bc2e06102ff37133b5aa0e0a4f" title="array_create" alt="" coords="137,31,231,57"/>
+<area shape="rect" id="node5" href="$d1/d0e/group__array.html#ga3e37b3536492eca41bedb3d7957729cb" title="array_destroy" alt="" coords="133,81,235,108"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="297,119,341,145"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="289,5,349,32"/>
+<area shape="rect" id="node4" href="$dc/dcc/array_8c.html#a1814774789ffaf948b25734a7dd0f3ed" title="get_size" alt="" coords="283,56,354,83"/>
+</map>

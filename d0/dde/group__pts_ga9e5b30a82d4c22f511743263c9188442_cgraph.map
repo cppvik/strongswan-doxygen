@@ -1,0 +1,12 @@
+<map id="pts_create" name="pts_create">
+<area shape="rect" id="node2" href="$d9/daf/pts_8c.html#a744b300d2bdf0e2f9b82ade97e3d1501" title="has_tpm" alt="" coords="155,5,227,32"/>
+<area shape="rect" id="node3" href="$d9/daf/pts_8c.html#abaa3aa32266b1e02ca86d81cd5f12316" title="load_aik" alt="" coords="155,56,226,83"/>
+<area shape="rect" id="node4" href="$d9/daf/pts_8c.html#ad26b02b5f4ce123448023ccd06718460" title="load_aik_blob" alt="" coords="140,107,241,133"/>
+<area shape="rect" id="node11" href="$dd/d05/group__pts__pcr.html#ga8db8a0bc266cd31ea0ecb47500d70c76" title="pts_pcr_create" alt="" coords="137,157,245,184"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gacf27867de490f5002ea59616f97e4bfb" title="chunk_map" alt="" coords="294,132,383,159"/>
+<area shape="rect" id="node7" href="$d4/d87/group__chunk.html#ga23adb71a767a9ab767166ee2a8362860" title="chunk_unmap" alt="" coords="435,81,538,108"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="618,132,662,159"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="590,233,690,260"/>
+<area shape="rect" id="node9" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="433,183,541,209"/>
+<area shape="rect" id="node10" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="610,183,670,209"/>
+</map>

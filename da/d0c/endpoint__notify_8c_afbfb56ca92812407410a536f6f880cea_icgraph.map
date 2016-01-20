@@ -1,0 +1,6 @@
+<map id="parse_uint8" name="parse_uint8">
+<area shape="rect" id="node2" href="$da/d0c/endpoint__notify_8c.html#aa479543aa5e79506d12a0fde60b8744d" title="parse_notification_data" alt="" coords="145,12,301,39"/>
+<area shape="rect" id="node3" href="$d7/d87/group__endpoint__notify.html#gacdce425eaead2c32b7ab435e03efd213" title="endpoint_notify_create\l_from_payload" alt="" coords="350,5,503,46"/>
+<area shape="rect" id="node4" href="$d9/d32/connect__manager_8c.html#a546cce689b562e7e47a26ea484b23d82" title="process_payloads" alt="" coords="553,12,679,39"/>
+<area shape="rect" id="node5" href="$d9/d32/connect__manager_8c.html#ace3ca9e4598a81261e1e2722c52b6899" title="METHOD" alt="" coords="728,12,808,39"/>
+</map>

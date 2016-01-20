@@ -1,0 +1,7 @@
+<map id="eap_tnc_create" name="eap_tnc_create">
+<area shape="rect" id="node2" href="$d6/dfa/group__eap__tnc__i.html#gacf2162862d3f510705f62381968e553f" title="eap_tnc_create_peer" alt="" coords="181,5,323,32"/>
+<area shape="rect" id="node4" href="$d6/dfa/group__eap__tnc__i.html#gad8d5d06898b937d0dd2460a2786b709f" title="eap_tnc_create_server" alt="" coords="175,56,329,83"/>
+<area shape="rect" id="node5" href="$d6/dfa/group__eap__tnc__i.html#gafa4669dcee2066c1d343788a946b0840" title="eap_tnc_pt_create_peer" alt="" coords="171,107,333,133"/>
+<area shape="rect" id="node6" href="$d6/dfa/group__eap__tnc__i.html#ga9c06cbf69aeb8d34ca696361ff1b3326" title="eap_tnc_pt_create_server" alt="" coords="166,157,338,184"/>
+<area shape="rect" id="node3" href="$d7/dc1/eap__tnc__plugin_8c.html#a93dd54b3425fe111eb28480de307a6fe" title="METHOD" alt="" coords="387,81,467,108"/>
+</map>

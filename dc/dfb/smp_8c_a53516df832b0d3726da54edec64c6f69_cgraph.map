@@ -1,0 +1,7 @@
+<map id="request_control" name="request_control">
+<area shape="rect" id="node2" href="$dc/dfb/smp_8c.html#a3a7e581b77cf8957f08b45663124a847" title="request_control_initiate" alt="" coords="174,75,330,102"/>
+<area shape="rect" id="node3" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="411,25,461,51"/>
+<area shape="rect" id="node6" href="$dc/dfb/smp_8c.html#a6758d07c4c52a6e21e7b0295acff5f69" title="request_control_terminate" alt="" coords="166,25,338,51"/>
+<area shape="rect" id="node4" href="$dc/dfb/smp_8c.html#a994caefb45488b328e6ed75ddd088ba4" title="xml_callback" alt="" coords="387,75,485,102"/>
+<area shape="rect" id="node5" href="$da/dd8/group__thread.html#ga25c5a8b5c130b45df0d1fc0a4c1d5063" title="thread_current_id" alt="" coords="533,75,656,102"/>
+</map>

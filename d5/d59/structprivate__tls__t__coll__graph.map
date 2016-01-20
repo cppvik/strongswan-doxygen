@@ -1,0 +1,13 @@
+<map id="private_tls_t" name="private_tls_t">
+<area shape="rect" id="node2" href="$de/d64/structtls__alert__t.html" title="tls_alert_t" alt="" coords="558,5,637,32"/>
+<area shape="rect" id="node3" href="$df/d17/structtls__application__t.html" title="tls_application_t" alt="" coords="539,56,655,83"/>
+<area shape="rect" id="node5" href="$d0/dd8/structtls__fragmentation__t.html" title="tls_fragmentation_t" alt="" coords="531,173,664,200"/>
+<area shape="rect" id="node6" href="$d6/d6a/structtls__protection__t.html" title="tls_protection_t" alt="" coords="542,224,653,251"/>
+<area shape="rect" id="node7" href="$d9/d18/structtls__handshake__t.html" title="tls_handshake_t" alt="" coords="539,337,656,364"/>
+<area shape="rect" id="node8" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="293,337,400,364"/>
+<area shape="rect" id="node9" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="21,268,89,295"/>
+<area shape="rect" id="node12" href="$d2/d33/structtls__crypto__t.html" title="tls_crypto_t" alt="" coords="301,248,392,275"/>
+<area shape="rect" id="node10" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="5,381,104,408"/>
+<area shape="rect" id="node11" href="$db/db6/structauth__cfg__t.html" title="auth_cfg_t" alt="" coords="305,427,388,453"/>
+<area shape="rect" id="node13" href="$d3/dce/structtls__compression__t.html" title="tls_compression_t" alt="" coords="533,388,661,415"/>
+</map>

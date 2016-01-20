@@ -1,0 +1,10 @@
+<map id="initiate_data_t" name="initiate_data_t">
+<area shape="rect" id="node2" href="$da/d07/structcheck__list__t.html" title="check_list_t" alt="" coords="118,349,209,376"/>
+<area shape="rect" id="node8" href="$de/d63/structjob__requeue__t.html" title="job_requeue_t" alt="" coords="39,96,141,123"/>
+<area shape="rect" id="node4" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="351,229,457,256"/>
+<area shape="rect" id="node10" href="$d3/d3f/structinitiated__t.html" title="initiated_t" alt="" coords="234,349,312,376"/>
+<area shape="rect" id="node5" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="463,96,531,123"/>
+<area shape="rect" id="node6" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="219,96,317,123"/>
+<area shape="rect" id="node9" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="136,229,227,256"/>
+<area shape="rect" id="node7" href="$d2/d68/structjob__t.html" title="job_t" alt="" coords="61,229,112,256"/>
+</map>

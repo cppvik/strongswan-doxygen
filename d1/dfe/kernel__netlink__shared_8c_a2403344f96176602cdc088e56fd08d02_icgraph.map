@@ -1,0 +1,6 @@
+<map id="read_msg" name="read_msg">
+<area shape="rect" id="node2" href="$d1/dfe/kernel__netlink__shared_8c.html#a1f6cb9c155bb0d3eda40e9b9cb78a154" title="read_and_queue" alt="" coords="133,31,251,57"/>
+<area shape="rect" id="node3" href="$d1/dfe/kernel__netlink__shared_8c.html#af4753d3cfb46ae9a5a8723cfa9364c2d" title="CALLBACK" alt="" coords="299,5,391,32"/>
+<area shape="rect" id="node4" href="$d1/dfe/kernel__netlink__shared_8c.html#aadbe5517db7998abfcaf13e1cdf1d28f" title="send_once" alt="" coords="303,56,388,83"/>
+<area shape="rect" id="node5" href="$d1/dfe/kernel__netlink__shared_8c.html#abd5bc6f39c3c3bec9ddb930e1fc3079c" title="METHOD" alt="" coords="440,56,520,83"/>
+</map>

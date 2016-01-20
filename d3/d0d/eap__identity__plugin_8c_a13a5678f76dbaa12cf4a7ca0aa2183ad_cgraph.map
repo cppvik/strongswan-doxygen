@@ -1,0 +1,5 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$db/da8/group__eap__identity__i.html#ga12ff0903aa5c926fbfccd5a5aad66246" title="eap_identity_create_peer" alt="" coords="134,5,301,32"/>
+<area shape="rect" id="node3" href="$db/da8/group__eap__identity__i.html#ga3ae66f323ce430e254aec98e4136df21" title="eap_identity_create\l_server" alt="" coords="150,57,285,98"/>
+<area shape="rect" id="node4" href="$d9/d94/group__eap__method.html#ga70f48db9279e4c8783328fba4909f8f8" title="eap_method_register" alt="" coords="146,123,289,149"/>
+</map>

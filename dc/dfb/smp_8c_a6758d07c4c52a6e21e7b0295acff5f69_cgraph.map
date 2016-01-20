@@ -1,0 +1,5 @@
+<map id="request_control_terminate" name="request_control_terminate">
+<area shape="rect" id="node2" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="251,5,301,32"/>
+<area shape="rect" id="node3" href="$dc/dfb/smp_8c.html#a994caefb45488b328e6ed75ddd088ba4" title="xml_callback" alt="" coords="227,56,325,83"/>
+<area shape="rect" id="node4" href="$da/dd8/group__thread.html#ga25c5a8b5c130b45df0d1fc0a4c1d5063" title="thread_current_id" alt="" coords="373,56,496,83"/>
+</map>

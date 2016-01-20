@@ -1,0 +1,7 @@
+<map id="verify_curve_signature" name="verify_curve_signature">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="417,5,503,32"/>
+<area shape="rect" id="node4" href="$da/d58/group__openssl__util.html#ga0b43d9b2d814a626bda5b2be77576cf5" title="openssl_hash_chunk" alt="" coords="208,31,352,57"/>
+<area shape="rect" id="node5" href="$d1/d33/openssl__ec__public__key_8c.html#a7ea6b5cadc5b3189f6ab428e0db33712" title="verify_signature" alt="" coords="223,81,337,108"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="569,5,613,32"/>
+<area shape="rect" id="node6" href="$da/d58/group__openssl__util.html#ga85d9dbcbd1799fb145b5cad6ff04a253" title="openssl_bn_split" alt="" coords="401,81,519,108"/>
+</map>

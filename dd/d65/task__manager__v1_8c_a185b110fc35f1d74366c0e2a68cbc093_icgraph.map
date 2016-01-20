@@ -1,0 +1,10 @@
+<map id="send_packets" name="send_packets">
+<area shape="rect" id="node2" href="$dd/d65/task__manager__v1_8c.html#a4e51f0d370b0cb7eb17fdddf8ea4e8ce" title="build_response" alt="" coords="167,5,276,32"/>
+<area shape="rect" id="node5" href="$dd/d65/task__manager__v1_8c.html#a886390e360dffba23ebb9a96c9cb8e77" title="METHOD" alt="" coords="181,56,261,83"/>
+<area shape="rect" id="node6" href="$dd/d65/task__manager__v1_8c.html#a25a5376752b7a94bd358225df83f5ff3" title="retransmit_packet" alt="" coords="158,107,285,133"/>
+<area shape="rect" id="node8" href="$dd/d65/task__manager__v1_8c.html#ac9482b2724b61ef0a8a8cfe94ddf6627" title="send_notify" alt="" coords="177,157,266,184"/>
+<area shape="rect" id="node3" href="$dd/d65/task__manager__v1_8c.html#a59c7285b6e10f3a3ac399f08a50bc59d" title="process_request" alt="" coords="334,31,453,57"/>
+<area shape="rect" id="node4" href="$dd/d65/task__manager__v1_8c.html#a07ec61bf95a7a5b12b888a1945587189" title="METHOD" alt="" coords="501,144,581,171"/>
+<area shape="rect" id="node7" href="$dd/d65/task__manager__v1_8c.html#a3a379a00d1c622c313238aa3b3bf89f9" title="METHOD" alt="" coords="353,93,433,120"/>
+<area shape="rect" id="node9" href="$dd/d65/task__manager__v1_8c.html#aee412dfc19defc0f6cd76bf6dc347f9e" title="parse_message" alt="" coords="336,195,451,221"/>
+</map>

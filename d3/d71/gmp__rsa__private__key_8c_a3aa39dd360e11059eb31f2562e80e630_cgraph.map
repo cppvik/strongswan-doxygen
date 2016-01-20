@@ -1,0 +1,19 @@
+<map id="build_emsa_pkcs1_signature" name="build_emsa_pkcs1_signature">
+<area shape="rect" id="node2" href="$d0/da0/group__asn1i.html#gaf12d4693231be8fac23739b60cc246dc" title="asn1_algorithmIdentifier" alt="" coords="247,68,407,95"/>
+<area shape="rect" id="node3" href="$d0/da0/group__asn1i.html#ga92628eede11fc96d2f0e6aff459012c2" title="asn1_simple_object" alt="" coords="465,17,602,44"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="882,56,942,83"/>
+<area shape="rect" id="node7" href="$d0/da0/group__asn1i.html#gaa5b766a452be068282b808b6b6f85f7e" title="asn1_wrap" alt="" coords="491,169,576,196"/>
+<area shape="rect" id="node12" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="869,157,955,184"/>
+<area shape="rect" id="node13" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1067,208,1111,235"/>
+<area shape="rect" id="node15" href="$dd/d1c/group__hasher.html#ga0a22780d24c6754e9f948719e6cdb9e2" title="hasher_algorithm_to_oid" alt="" coords="245,360,408,387"/>
+<area shape="rect" id="node16" href="$d3/d71/gmp__rsa__private__key_8c.html#a0210d2ab4508503450273cd62f048da0" title="rsasp1" alt="" coords="296,411,357,437"/>
+<area shape="rect" id="node14" href="$d0/da0/group__asn1i.html#gafc47ce497a7d333125fe7b4919ecf156" title="asn1_build_known_oid" alt="" coords="457,68,610,95"/>
+<area shape="rect" id="node4" href="$d0/da0/group__asn1i.html#gaa4b22cdadd3251eef380d585a8d3adc1" title="asn1_build_object" alt="" coords="666,43,793,69"/>
+<area shape="rect" id="node5" href="$d6/d36/asn1_8c.html#a72c37051a4d4cda52b0ab80893884abd" title="asn1_code_length" alt="" coords="849,5,975,32"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#gaaa5a9811df1bd2ae5e331748f7fbaf75" title="chunk_clear" alt="" coords="683,157,775,184"/>
+<area shape="rect" id="node9" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="873,107,951,133"/>
+<area shape="rect" id="node10" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="1203,107,1317,133"/>
+<area shape="rect" id="node11" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="1025,132,1154,159"/>
+<area shape="rect" id="node17" href="$d3/d71/gmp__rsa__private__key_8c.html#ab2e300f9856099c20f67e8c289e81aac" title="rsadp" alt="" coords="506,411,561,437"/>
+<area shape="rect" id="node18" href="$d3/d71/gmp__rsa__private__key_8c.html#ab702c028297dad0a36439a4cb5bddd73" title="mpz_clear_sensitive" alt="" coords="659,411,800,437"/>
+</map>

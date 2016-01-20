@@ -1,0 +1,11 @@
+<map id="equals_reqid" name="equals_reqid">
+<area shape="rect" id="node2" href="$dc/db7/group__kernel__interface.html#gaaf6f7d8f917f99eed9fd98b9871db469" title="kernel_interface_create" alt="" coords="149,56,307,83"/>
+<area shape="rect" id="node3" href="$d6/d9d/group__libhydra.html#gabbb2a2a7ac53c6b841c725f22d7fde60" title="libhydra_init" alt="" coords="355,56,445,83"/>
+<area shape="rect" id="node4" href="$d6/d89/charon-cmd_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="524,5,575,32"/>
+<area shape="rect" id="node5" href="$dd/dcc/charon-svc_8c.html#a2a57519866b925dd058567c145b8ae45" title="init_and_run" alt="" coords="503,56,595,83"/>
+<area shape="rect" id="node9" href="$d8/deb/hydra__tests_8c.html#a4013d304f5b5a4543c1e1f8390c7af54" title="test_runner_init" alt="" coords="494,107,605,133"/>
+<area shape="rect" id="node6" href="$dd/dcc/charon-svc_8c.html#abbee77e5d66102b8a8b52c080af297b0" title="console_main" alt="" coords="654,5,757,32"/>
+<area shape="rect" id="node8" href="$dd/dcc/charon-svc_8c.html#a2187fa70ac95082f38e9cf770aa45af2" title="service_main" alt="" coords="656,56,755,83"/>
+<area shape="rect" id="node7" href="$dd/dcc/charon-svc_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="805,31,856,57"/>
+<area shape="rect" id="node10" href="$d8/deb/hydra__tests_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="680,107,731,133"/>
+</map>

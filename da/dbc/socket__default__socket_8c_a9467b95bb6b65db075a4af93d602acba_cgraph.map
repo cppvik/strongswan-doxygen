@@ -1,0 +1,7 @@
+<map id="open_socketpair" name="open_socketpair">
+<area shape="rect" id="node2" href="$da/dbc/socket__default__socket_8c.html#a5f042eadd30095738f6f1d7e50a1d2d8" title="open_socket" alt="" coords="171,5,267,32"/>
+<area shape="rect" id="node6" href="$da/dbc/socket__default__socket_8c.html#a74c38ace6ef15e4c1573d46573c46030" title="use_family" alt="" coords="176,56,261,83"/>
+<area shape="rect" id="node3" href="$d3/d2d/group__ipsec__types.html#gaafee0a8be9ddc148ab4af41b7cab0273" title="mark_from_string" alt="" coords="315,5,437,32"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#gad04895c77cc61acb068222c88d72dff0" title="strcasepfx" alt="" coords="485,5,568,32"/>
+<area shape="rect" id="node5" href="$d4/d40/group__string__i.html#ga9642181c8684012e619edccbc9f52d1c" title="strncaseeq" alt="" coords="617,5,703,32"/>
+</map>

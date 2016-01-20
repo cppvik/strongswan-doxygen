@@ -1,0 +1,8 @@
+<map id="purge_plugins" name="purge_plugins">
+<area shape="rect" id="node2" href="$db/d66/plugin__loader_8c.html#ad54f76f41fa2531f887f8342ec7acf39" title="is_feature_loaded" alt="" coords="167,5,291,32"/>
+<area shape="rect" id="node3" href="$db/d66/plugin__loader_8c.html#a80fddcf65df42a44f35c65b216890576" title="plugin_entry_destroy" alt="" coords="158,56,301,83"/>
+<area shape="rect" id="node6" href="$db/d66/plugin__loader_8c.html#a9cfc1aa650ba17054c19a0493c0df35a" title="unregister_features" alt="" coords="163,107,296,133"/>
+<area shape="rect" id="node4" href="$da/d9b/group__windows.html#gaf483b6c4400965aa885f9f1a144138a5" title="dlclose" alt="" coords="382,5,445,32"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="526,81,570,108"/>
+<area shape="rect" id="node7" href="$db/d66/plugin__loader_8c.html#ad729257f342c2d994867fbb878f217db" title="unregister_feature" alt="" coords="350,107,477,133"/>
+</map>

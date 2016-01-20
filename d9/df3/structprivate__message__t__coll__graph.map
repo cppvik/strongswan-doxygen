@@ -1,0 +1,14 @@
+<map id="private_message_t" name="private_message_t">
+<area shape="rect" id="node2" href="$da/d6d/structparser__t.html" title="parser_t" alt="" coords="501,5,571,32"/>
+<area shape="rect" id="node3" href="$d1/d16/structarray__t.html" title="array_t" alt="" coords="505,56,567,83"/>
+<area shape="rect" id="node4" href="$d2/da5/structfragment__data__t.html" title="fragment_data_t" alt="" coords="478,107,594,133"/>
+<area shape="rect" id="node6" href="$d7/d88/structpacket__t.html" title="packet_t" alt="" coords="500,247,572,273"/>
+<area shape="rect" id="node7" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="6,231,74,257"/>
+<area shape="rect" id="node8" href="$d5/dcf/structhost__t.html" title="host_t" alt="" coords="228,297,287,324"/>
+<area shape="rect" id="node9" href="$dc/da6/structike__sa__id__t.html" title="ike_sa_id_t" alt="" coords="492,336,580,363"/>
+<area shape="rect" id="node10" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="491,425,581,452"/>
+<area shape="rect" id="node11" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="208,425,307,452"/>
+<area shape="rect" id="node12" href="$df/dcd/structmessage__rule__t.html" title="message_rule_t" alt="" coords="479,476,593,503"/>
+<area shape="rect" id="node13" href="$dc/d56/structpayload__rule__t.html" title="payload_rule_t" alt="" coords="204,476,311,503"/>
+<area shape="rect" id="node14" href="$d2/de1/structpayload__order__t.html" title="payload_order_t" alt="" coords="200,527,315,553"/>
+</map>

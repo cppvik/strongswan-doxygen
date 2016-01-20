@@ -1,0 +1,9 @@
+<map id="pts_t" name="pts_t">
+<area shape="rect" id="node2" href="$d6/d41/structcertificate__t.html" title="certificate_t" alt="" coords="201,229,292,256"/>
+<area shape="rect" id="node3" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="193,125,300,152"/>
+<area shape="rect" id="node4" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="45,5,112,32"/>
+<area shape="rect" id="node7" href="$d0/d39/structpts__pcr__t.html" title="pts_pcr_t" alt="" coords="385,125,460,152"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="373,5,472,32"/>
+<area shape="rect" id="node8" href="$dd/d5a/structpts__file__meta__t.html" title="pts_file_meta_t" alt="" coords="501,177,611,204"/>
+<area shape="rect" id="node6" href="$d0/d6f/structpublic__key__t.html" title="public_key_t" alt="" coords="5,125,99,152"/>
+</map>

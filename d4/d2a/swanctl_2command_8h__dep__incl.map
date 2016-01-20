@@ -1,0 +1,26 @@
+<map id="command.h" name="command.h">
+<area shape="rect" id="node2" href="$d1/d2c/swanctl_2command_8c.html" title="command.c" alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node3" href="$d5/d9c/initiate_8c.html" title="initiate.c" alt="" coords="121,80,191,107"/>
+<area shape="rect" id="node4" href="$d0/dbd/install_8c.html" title="install.c" alt="" coords="216,80,283,107"/>
+<area shape="rect" id="node5" href="$d4/d90/list__authorities_8c.html" title="list_authorities.c" alt="" coords="307,80,423,107"/>
+<area shape="rect" id="node6" href="$d9/d0d/list__certs_8c.html" title="list_certs.c" alt="" coords="449,80,535,107"/>
+<area shape="rect" id="node7" href="$d1/dac/list__conns_8c.html" title="list_conns.c" alt="" coords="559,80,651,107"/>
+<area shape="rect" id="node8" href="$d0/d72/list__pols_8c.html" title="list_pols.c" alt="" coords="675,80,756,107"/>
+<area shape="rect" id="node9" href="$d9/d40/list__pools_8c.html" title="list_pools.c" alt="" coords="781,80,869,107"/>
+<area shape="rect" id="node10" href="$d8/d2d/list__sas_8c.html" title="list_sas.c" alt="" coords="894,80,972,107"/>
+<area shape="rect" id="node11" href="$d2/d26/load__all_8c.html" title="load_all.c" alt="" coords="1219,155,1295,181"/>
+<area shape="rect" id="node12" href="$dd/d85/load__creds_8h.html" title="load_creds.h" alt="" coords="1048,80,1144,107"/>
+<area shape="rect" id="node13" href="$db/d5d/load__creds_8c.html" title="load_creds.c" alt="" coords="1005,155,1101,181"/>
+<area shape="rect" id="node14" href="$dd/d5a/load__authorities_8h.html" title="load_authorities.h" alt="" coords="1219,80,1343,107"/>
+<area shape="rect" id="node15" href="$d6/d79/load__authorities_8c.html" title="load_authorities.c" alt="" coords="1319,155,1443,181"/>
+<area shape="rect" id="node16" href="$d0/d33/load__pools_8h.html" title="load_pools.h" alt="" coords="1419,80,1513,107"/>
+<area shape="rect" id="node17" href="$d4/d1a/load__pools_8c.html" title="load_pools.c" alt="" coords="1469,155,1563,181"/>
+<area shape="rect" id="node18" href="$dc/dc2/load__conns_8h.html" title="load_conns.h" alt="" coords="1589,80,1688,107"/>
+<area shape="rect" id="node19" href="$d0/d35/load__conns_8c.html" title="load_conns.c" alt="" coords="1632,155,1731,181"/>
+<area shape="rect" id="node20" href="$d7/df8/log_8c.html" title="log.c" alt="" coords="1763,80,1813,107"/>
+<area shape="rect" id="node21" href="$d2/d4d/reload__settings_8c.html" title="reload_settings.c" alt="" coords="1838,80,1959,107"/>
+<area shape="rect" id="node22" href="$da/df1/stats_8c.html" title="stats.c" alt="" coords="1983,80,2045,107"/>
+<area shape="rect" id="node23" href="$dc/d5b/terminate_8c.html" title="terminate.c" alt="" coords="2070,80,2156,107"/>
+<area shape="rect" id="node24" href="$d2/d0b/version_8c.html" title="version.c" alt="" coords="2181,80,2255,107"/>
+<area shape="rect" id="node25" href="$d2/dfe/swanctl_8c.html" title="swanctl.c" alt="" coords="2281,80,2359,107"/>
+</map>

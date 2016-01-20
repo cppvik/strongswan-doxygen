@@ -1,0 +1,6 @@
+<map id="stream_create_unix" name="stream_create_unix">
+<area shape="rect" id="node2" href="$dd/d47/group__stream.html#ga9c3029c7fda3fa8183eb8d4e0f322b77" title="stream_create_from_fd" alt="" coords="190,5,346,32"/>
+<area shape="rect" id="node3" href="$d1/d68/group__stream__unix.html#ga890a5eb0f3a0cd93827fd8f98156c361" title="stream_parse_uri_unix" alt="" coords="191,56,345,83"/>
+<area shape="rect" id="node4" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="395,56,450,83"/>
+<area shape="rect" id="node5" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="499,56,557,83"/>
+</map>

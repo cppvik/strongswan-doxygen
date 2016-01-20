@@ -1,0 +1,6 @@
+<map id="private_tnc_imc_manager_t" name="private_tnc_imc_manager_t">
+<area shape="rect" id="node2" href="$db/d86/structrwlock__t.html" title="rwlock_t" alt="" coords="5,96,75,123"/>
+<area shape="rect" id="node4" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="179,96,248,123"/>
+<area shape="rect" id="node5" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="272,96,363,123"/>
+<area shape="rect" id="node6" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="268,5,367,32"/>
+</map>

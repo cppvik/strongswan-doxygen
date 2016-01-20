@@ -1,0 +1,8 @@
+<map id="vstr_wrapper_snprintf" name="vstr_wrapper_snprintf">
+<area shape="rect" id="node2" href="$d2/dc7/group__printf__hook__vstr.html#gaa4363d0630752e84c1fc7615ba04a27d" title="vstr_wrapper_vsnprintf" alt="" coords="200,12,355,39"/>
+<area shape="rect" id="node3" href="$dc/d20/printf__hook__vstr_8c.html#a35f88e1bacbe287ea7624eca1239b7e4" title="vstr_wrapper_vsnprintf\l_internal" alt="" coords="403,5,557,46"/>
+<area shape="rect" id="node4" href="$dc/d20/printf__hook__vstr_8c.html#a98cef88c86ef222934a40832938ce100" title="get_vstr_conf" alt="" coords="605,12,707,39"/>
+<area shape="rect" id="node5" href="$dc/d20/printf__hook__vstr_8c.html#a1e4ee85d05b5fa1d6a6f2b9d9014a196" title="create_vstr_conf" alt="" coords="755,12,874,39"/>
+<area shape="rect" id="node6" href="$dc/d20/printf__hook__vstr_8c.html#a710ee200d6aaf7347b2a60156a4a401e" title="vstr_fmt_add_handler" alt="" coords="923,12,1069,39"/>
+<area shape="rect" id="node7" href="$dc/d20/printf__hook__vstr_8c.html#a784dae126cc48c36e8739e8e35d9d588" title="custom_fmt_cb" alt="" coords="1117,12,1229,39"/>
+</map>

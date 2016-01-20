@@ -1,0 +1,7 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$df/d16/stroke__ca_8c.html#a01b57cd08d3bd9a752f2e7a4e8a1a857" title="add_cert_internal" alt="" coords="139,5,261,32"/>
+<area shape="rect" id="node4" href="$df/d16/stroke__ca_8c.html#a49979ff64bc8645e8a93b2126c1a2b62" title="remove_auto_certs" alt="" coords="133,56,267,83"/>
+<area shape="rect" id="node3" href="$df/d16/stroke__ca_8c.html#a6091653ea1c65883aa77e991cabbab42" title="match_cert" alt="" coords="329,5,415,32"/>
+<area shape="rect" id="node5" href="$df/d16/stroke__ca_8c.html#a168a12b07ee34199d27c8d6b9a0ab85f" title="ca_cert_destroy" alt="" coords="315,56,429,83"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="478,56,522,83"/>
+</map>

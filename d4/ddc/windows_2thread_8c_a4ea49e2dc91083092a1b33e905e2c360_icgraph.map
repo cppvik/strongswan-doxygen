@@ -1,0 +1,9 @@
+<map id="remove_thread" name="remove_thread">
+<area shape="rect" id="node2" href="$d4/ddc/windows_2thread_8c.html#a8ad439d506bba830e2479d164b77478b" title="end_thread" alt="" coords="163,56,250,83"/>
+<area shape="rect" id="node8" href="$d4/ddc/windows_2thread_8c.html#a465c3e6f1a7ef389603a10605f1216df" title="METHOD" alt="" coords="167,107,247,133"/>
+<area shape="rect" id="node3" href="$d4/ddc/windows_2thread_8c.html#a7da7cf0efedc9353cc8afd5fa5492702" title="docancel" alt="" coords="305,5,380,32"/>
+<area shape="rect" id="node5" href="$d4/ddc/windows_2thread_8c.html#aaa9597841539f07fc3ab9f9726324927" title="thread_cb" alt="" coords="303,56,382,83"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga8b28b9fa8436aee6775b36456d796e23" title="thread_exit" alt="" coords="299,107,386,133"/>
+<area shape="rect" id="node4" href="$d4/ddc/windows_2thread_8c.html#aec0f1747feb4342f5e851b85924a60c2" title="METHOD" alt="" coords="445,5,525,32"/>
+<area shape="rect" id="node6" href="$da/dd8/group__thread.html#ga96e0afa2f09818a84dfa1a3857be2a45" title="thread_create" alt="" coords="435,56,536,83"/>
+</map>

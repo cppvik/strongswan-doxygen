@@ -1,0 +1,11 @@
+<map id="find_smartcard_key" name="find_smartcard_key">
+<area shape="rect" id="node2" href="$db/dab/keyid_8c.html#a049bbdebc2be4da80632f9b3af6fc046" title="keyid" alt="" coords="189,183,243,209"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="298,56,406,83"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="490,107,534,133"/>
+<area shape="rect" id="node7" href="$dc/d53/group__command.html#ga5cf2c6b41420f51c7d7db9dfbd699f6b" title="command_getopt" alt="" coords="291,157,413,184"/>
+<area shape="rect" id="node8" href="$dc/d53/group__command.html#gac550624edb43a63d97310c54962c8f66" title="command_usage" alt="" coords="291,208,413,235"/>
+<area shape="rect" id="node9" href="$df/d1e/group__pki.html#ga63674711f2657b283b42d2c0bd0b78f3" title="set_file_mode" alt="" coords="301,259,403,285"/>
+<area shape="rect" id="node10" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="327,309,377,336"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="482,5,542,32"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="462,56,562,83"/>
+</map>

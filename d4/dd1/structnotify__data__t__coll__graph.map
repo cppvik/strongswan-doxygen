@@ -1,0 +1,7 @@
+<map id="notify_data_t" name="notify_data_t">
+<area shape="rect" id="node2" href="$de/df0/structprivate__watcher__t.html" title="private_watcher_t" alt="" coords="105,200,231,227"/>
+<area shape="rect" id="node4" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="84,96,153,123"/>
+<area shape="rect" id="node5" href="$d7/dab/structcondvar__t.html" title="condvar_t" alt="" coords="178,96,256,123"/>
+<area shape="rect" id="node6" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="281,96,372,123"/>
+<area shape="rect" id="node7" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="277,5,376,32"/>
+</map>

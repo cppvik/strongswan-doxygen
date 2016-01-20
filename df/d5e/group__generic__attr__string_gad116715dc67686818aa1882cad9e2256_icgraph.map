@@ -1,0 +1,13 @@
+<map id="generic_attr_string_create" name="generic_attr_string_create">
+<area shape="rect" id="node2" href="$db/d67/imc__hcd_8c.html#a151005f3fea1131703b945553575911a" title="add_attrs_natural_lang" alt="" coords="194,157,347,184"/>
+<area shape="rect" id="node7" href="$da/d3e/imc__os_8c.html#a98d638feb08f11bc4b9a61ec3dbac264" title="add_device_id" alt="" coords="218,5,323,32"/>
+<area shape="rect" id="node9" href="$db/d67/imc__hcd_8c.html#a8b09940a2a782d0dcde148d9bdb97efd" title="add_machine_type_model" alt="" coords="184,208,357,235"/>
+<area shape="rect" id="node10" href="$db/d67/imc__hcd_8c.html#ad70cf5ddbd98ab162e379af46e19b986" title="add_quadruple" alt="" coords="217,259,324,285"/>
+<area shape="rect" id="node11" href="$db/d67/imc__hcd_8c.html#a43fef7faf8a472227ab42478b793d78a" title="add_time_source" alt="" coords="210,56,331,83"/>
+<area shape="rect" id="node12" href="$db/d67/imc__hcd_8c.html#a69143518c546cdc127418981c71f5e37" title="add_vendor_name" alt="" coords="207,107,335,133"/>
+<area shape="rect" id="node3" href="$db/d67/imc__hcd_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="438,157,562,184"/>
+<area shape="rect" id="node6" href="$de/d10/group__tncifimc.html#ga72bb832f2d5fc794ab3c2b9675d9b59e" title="TNC_IMC_BeginHandshake" alt="" coords="406,107,594,133"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="657,69,847,96"/>
+<area shape="rect" id="node5" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="643,132,861,159"/>
+<area shape="rect" id="node8" href="$da/d3e/imc__os_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="438,56,562,83"/>
+</map>

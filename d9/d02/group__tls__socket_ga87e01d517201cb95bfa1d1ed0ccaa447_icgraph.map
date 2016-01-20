@@ -1,0 +1,25 @@
+<map id="tls_socket_create" name="tls_socket_create">
+<area shape="rect" id="node2" href="$d2/d9f/pt__tls__client_8c.html#afb8fff8181632a78d41f39e929729c36" title="make_connection" alt="" coords="187,5,311,32"/>
+<area shape="rect" id="node4" href="$d0/d6c/group__pt__tls__server.html#ga303789b8cbdf713678b873037f69a3b5" title="pt_tls_server_create" alt="" coords="179,56,319,83"/>
+<area shape="rect" id="node10" href="$d0/d39/tls__test_8c.html#affdf769330ce465beef89fece7525fc9" title="run_client" alt="" coords="210,107,289,133"/>
+<area shape="rect" id="node12" href="$de/dcb/libtls_2tests_2suites_2test__socket_8c.html#ab0bb9ef647f2319f96ededd2394977c3" title="run_echo_client" alt="" coords="390,208,503,235"/>
+<area shape="rect" id="node16" href="$d0/d39/tls__test_8c.html#a4b6d110996325111b83e9e5a4d6ac16e" title="serve" alt="" coords="222,157,277,184"/>
+<area shape="rect" id="node17" href="$de/dcb/libtls_2tests_2suites_2test__socket_8c.html#a83ce985fd78c1b926fd57a95efef0c3c" title="serve_echo" alt="" coords="205,259,294,285"/>
+<area shape="rect" id="node19" href="$df/dfc/tnc__ifmap__soap_8c.html#a01805baad8c2dd46c29277f5784f4c56" title="soap_init" alt="" coords="212,309,287,336"/>
+<area shape="rect" id="node3" href="$d2/d9f/pt__tls__client_8c.html#aeb65c394c911cfe99ccf34a5f4bcdfab" title="METHOD" alt="" coords="407,5,487,32"/>
+<area shape="rect" id="node5" href="$d3/d3e/pt__tls__dispatcher_8c.html#affa2ac4e1fecf58739dac638b03241b2" title="METHOD" alt="" coords="407,56,487,83"/>
+<area shape="rect" id="node6" href="$d3/d61/tnc__pdp_8c.html#aeb9ac219f396d09d99aafba5b2802bc5" title="pt_tls_receive" alt="" coords="395,107,498,133"/>
+<area shape="rect" id="node7" href="$d7/d72/group__tnc__pdp__t.html#ga21f951db22d811c7fb73430fdb96a605" title="tnc_pdp_create" alt="" coords="582,107,693,133"/>
+<area shape="rect" id="node8" href="$d6/d91/tnc__pdp__plugin_8c.html#ad0f1703d701d219c3599d72be3217dff" title="plugin_cb" alt="" coords="788,107,865,133"/>
+<area shape="rect" id="node9" href="$d6/d91/tnc__pdp__plugin_8c.html#a15a1f1e6f41713b4fef97e4fc26d2dc6" title="METHOD" alt="" coords="952,107,1032,133"/>
+<area shape="rect" id="node11" href="$d0/d39/tls__test_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="421,157,472,184"/>
+<area shape="rect" id="node13" href="$de/dcb/libtls_2tests_2suites_2test__socket_8c.html#ab74d2178e43d8a7a809ccbdbef66b060" title="test_tls" alt="" coords="605,208,670,235"/>
+<area shape="rect" id="node14" href="$de/dcb/libtls_2tests_2suites_2test__socket_8c.html#a1eea2e528e1d4949dddbb55396230be7" title="START_TEST" alt="" coords="773,157,880,184"/>
+<area shape="rect" id="node15" href="$d4/ded/test__threading_8c.html#a2355c3944b2e107393932088b9b9f16b" title="threading_suite_create" alt="" coords="750,208,903,235"/>
+<area shape="rect" id="node18" href="$de/dcb/libtls_2tests_2suites_2test__socket_8c.html#a52e665104566fbb4bd8fcd9d3b336110" title="start_echo_server" alt="" coords="383,259,510,285"/>
+<area shape="rect" id="node20" href="$df/df9/group__tnc__ifmap__soap.html#ga010bdf08f257b1a09b98af95e1c0fcb0" title="tnc_ifmap_soap_create" alt="" coords="368,309,525,336"/>
+<area shape="rect" id="node21" href="$d9/dc6/group__tnc__ifmap__listener.html#ga2f90d68b8a7372a5508d35d5245e9f30" title="tnc_ifmap_listener\l_create" alt="" coords="573,302,701,343"/>
+<area shape="rect" id="node22" href="$dd/d8e/tnc__ifmap__plugin_8c.html#a5b4de5d486308442ee20efcc385f43ed" title="METHOD" alt="" coords="787,284,867,311"/>
+<area shape="rect" id="node23" href="$dd/d8e/tnc__ifmap__plugin_8c.html#a904d0f52e052a520aae28febd91b20be" title="register_tnc_ifmap" alt="" coords="762,335,891,361"/>
+<area shape="rect" id="node24" href="$dd/d8e/tnc__ifmap__plugin_8c.html#a7f716c0626ff9bd7ae039b7157d9cdb4" title="METHOD" alt="" coords="952,335,1032,361"/>
+</map>

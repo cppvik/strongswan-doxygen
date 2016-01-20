@@ -1,0 +1,8 @@
+<map id="load_ca_dir" name="load_ca_dir">
+<area shape="rect" id="node2" href="$d7/d79/maemo__service_8c.html#af04d210533a8ac5ccf2f1b3f396210a5" title="initiate_connection" alt="" coords="141,31,272,57"/>
+<area shape="rect" id="node7" href="$df/dfb/nm__creds_8c.html#af6e2f2763a96fbfdac39dd15df815cd7" title="METHOD" alt="" coords="167,81,247,108"/>
+<area shape="rect" id="node3" href="$d7/d79/maemo__service_8c.html#a82aca93fce2dd44e6e05704c2ab6b179" title="dbus_req_handler" alt="" coords="321,31,445,57"/>
+<area shape="rect" id="node4" href="$de/db6/group__maemo__service.html#ga5cb3c1b04ae398aede987915e69315f3" title="maemo_service_create" alt="" coords="493,5,651,32"/>
+<area shape="rect" id="node6" href="$d7/d79/maemo__service_8c.html#aa711fcbe2bdffc19d1eb8cef55427c1b" title="METHOD" alt="" coords="532,56,612,83"/>
+<area shape="rect" id="node5" href="$de/de7/maemo__plugin_8c.html#aff85d9216486861411d4ed5871ceca10" title="maemo_plugin_create" alt="" coords="699,5,848,32"/>
+</map>

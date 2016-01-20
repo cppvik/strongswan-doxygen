@@ -1,0 +1,8 @@
+<map id="build_pairs" name="build_pairs">
+<area shape="rect" id="node2" href="$d9/d32/connect__manager_8c.html#a502bd3d0aa269f0128d99c490c433730" title="endpoint_pair_create" alt="" coords="142,5,285,32"/>
+<area shape="rect" id="node3" href="$d9/d32/connect__manager_8c.html#a6a616936761f63df6f64c88f4eb72fd3" title="insert_pair_by_priority" alt="" coords="139,56,288,83"/>
+<area shape="rect" id="node4" href="$d9/d32/connect__manager_8c.html#a778634e188c90fb1acc5ded2dab6d0c3" title="print_checklist" alt="" coords="160,107,267,133"/>
+<area shape="rect" id="node5" href="$d9/d32/connect__manager_8c.html#aa85858b86c4aa0f539479c3a3049c42f" title="prune_pairs" alt="" coords="169,157,258,184"/>
+<area shape="rect" id="node6" href="$d9/d32/connect__manager_8c.html#aae2c383949c602ada6141f9dbd2c8854" title="endpoint_pair_destroy" alt="" coords="336,157,485,184"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="534,157,578,184"/>
+</map>

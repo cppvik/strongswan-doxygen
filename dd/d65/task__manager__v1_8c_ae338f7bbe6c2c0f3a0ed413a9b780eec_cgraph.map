@@ -1,0 +1,8 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$dd/d65/task__manager__v1_8c.html#a4441a63af04232506f5865b943de4140" title="get_first_ts" alt="" coords="159,5,246,32"/>
+<area shape="rect" id="node3" href="$dd/d65/task__manager__v1_8c.html#aaed50deb819533484846a7d0a5652f08" title="is_redundant" alt="" coords="155,56,251,83"/>
+<area shape="rect" id="node6" href="$d8/deb/group__quick__delete.html#ga6aa0391ce72e0ff6402c8a51b9a5368b" title="quick_delete_create" alt="" coords="133,107,272,133"/>
+<area shape="rect" id="node7" href="$d5/d44/group__quick__mode.html#ga9c1fcb0dfd97be89c1bc73e363c81f21" title="quick_mode_create" alt="" coords="135,157,270,184"/>
+<area shape="rect" id="node4" href="$dd/d65/task__manager__v1_8c.html#a986af1357f099dc4414fdb0f4f3cef1a" title="have_equal_ts" alt="" coords="320,31,427,57"/>
+<area shape="rect" id="node5" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="348,81,399,108"/>
+</map>

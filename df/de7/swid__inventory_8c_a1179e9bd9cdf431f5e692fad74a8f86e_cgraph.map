@@ -1,0 +1,28 @@
+<map id="collect_tags" name="collect_tags">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="597,114,697,140"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#gae6aabf03218cda073ab2173e02bff4ba" title="chunk_equals" alt="" coords="1385,570,1487,596"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gacf27867de490f5002ea59616f97e4bfb" title="chunk_map" alt="" coords="170,114,259,140"/>
+<area shape="rect" id="node7" href="$d4/d87/group__chunk.html#ga23adb71a767a9ab767166ee2a8362860" title="chunk_unmap" alt="" coords="373,12,475,39"/>
+<area shape="rect" id="node10" href="$d3/de6/group__enumerator.html#ga92a12e35d2e39ebd1f316bd818297cc0" title="enumerator_create_directory" alt="" coords="331,304,517,331"/>
+<area shape="rect" id="node14" href="$d4/d7b/ike__cfg_8c.html#afd2ad039e594563627520b9a6908b6c5" title="match" alt="" coords="185,386,244,412"/>
+<area shape="rect" id="node26" href="$d8/d2e/group__swid__tag.html#ga3e014621337aaa399eddaaf2df5e5984" title="swid_tag_create" alt="" coords="156,620,273,647"/>
+<area shape="rect" id="node27" href="$d6/d8f/group__swid__tag__id.html#ga262217cb766c31dc79488c6bf97d4613" title="swid_tag_id_create" alt="" coords="147,671,282,698"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="1662,544,1727,571"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="1247,215,1291,242"/>
+<area shape="rect" id="node8" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="370,63,478,90"/>
+<area shape="rect" id="node9" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="617,63,677,90"/>
+<area shape="rect" id="node11" href="$de/d46/enumerator_8c.html#ac7dea07bcb773c647b0ea6d615d14e55" title="enumerate_dir_enum" alt="" coords="575,316,718,343"/>
+<area shape="rect" id="node13" href="$de/d46/enumerator_8c.html#a9ab314b6f9e59b8cfd5e16f50ae7a347" title="destroy_dir_enum" alt="" coords="787,215,912,242"/>
+<area shape="rect" id="node12" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="824,316,875,343"/>
+<area shape="rect" id="node15" href="$d7/df1/group__host.html#gaa0dc359dc1c8e327bb484e3e12df59d7" title="host_create_from_dns" alt="" coords="349,411,499,438"/>
+<area shape="rect" id="node16" href="$d7/df1/group__host.html#ga75f9b1e7905a80d69bc3cc7a7c3775a5" title="host_create_from_string\l_and_family" alt="" coords="565,404,728,445"/>
+<area shape="rect" id="node23" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a5da61ec055ea1dffbb84ffe3caddb7dc" title="set_port" alt="" coords="1028,519,1097,546"/>
+<area shape="rect" id="node17" href="$df/da9/host_8c.html#a2670c8aac87ed6960c4e45f42f843b73" title="host_create_any_port" alt="" coords="776,468,923,495"/>
+<area shape="rect" id="node24" href="$da/d9b/group__windows.html#ga7fb1f8a8f40e09fa09e625d2a09dc04e" title="inet_pton" alt="" coords="812,367,887,394"/>
+<area shape="rect" id="node25" href="$d7/df1/group__host.html#ga3183b60055297ceaa19b4a5996496830" title="host_create_from_sockaddr" alt="" coords="971,418,1154,444"/>
+<area shape="rect" id="node18" href="$d7/df1/group__host.html#ga5f2c94740339664ce118776e13829cd0" title="host_create_any" alt="" coords="1003,468,1122,495"/>
+<area shape="rect" id="node19" href="$df/da9/host_8c.html#ac3854e66d5a7563cae9608acbcad6eb5" title="host_create_empty" alt="" coords="1203,468,1336,495"/>
+<area shape="rect" id="node22" href="$df/da9/host_8c.html#a1fb6a6590d2576c32709b890623cad8c" title="update_sa_len" alt="" coords="1216,418,1323,444"/>
+<area shape="rect" id="node20" href="$df/da9/host_8c.html#a809d5cf7574c1f5e27758950d53653f4" title="equals" alt="" coords="1406,519,1466,546"/>
+<area shape="rect" id="node21" href="$df/da9/host_8c.html#a0ea5fbf16ec81f3c5eaf6dc5da8d452a" title="ip_equals" alt="" coords="1536,519,1613,546"/>
+</map>

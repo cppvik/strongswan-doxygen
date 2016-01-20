@@ -1,0 +1,8 @@
+<map id="addr_map_entry_remove" name="addr_map_entry_remove">
+<area shape="rect" id="node2" href="$d1/d1f/kernel__pfroute__net_8c.html#a51815d80e21beb14539e8b424b21db43" title="process_addr" alt="" coords="385,5,485,32"/>
+<area shape="rect" id="node6" href="$d1/d1f/kernel__pfroute__net_8c.html#a0499b80b73951a5375a8a1073b1ca671" title="repopulate_iface" alt="" coords="219,56,336,83"/>
+<area shape="rect" id="node3" href="$d1/d1f/kernel__pfroute__net_8c.html#a3410e9fe61e3e2d01ed41c9d4fb56d7a" title="receive_events" alt="" coords="534,31,645,57"/>
+<area shape="rect" id="node4" href="$db/dcb/group__kernel__pfroute__net__i.html#ga632f3f98f781bd0981f8415f4158ac1e" title="kernel_pfroute_net\l_create" alt="" coords="694,23,823,65"/>
+<area shape="rect" id="node5" href="$d7/d87/kernel__pfroute__plugin_8c.html#a63ad182fc793b178c7f7f949bf125658" title="METHOD" alt="" coords="872,31,952,57"/>
+<area shape="rect" id="node7" href="$d1/d1f/kernel__pfroute__net_8c.html#a3e90a456584caf6bd4a45fcbf80f23bd" title="process_link" alt="" coords="387,56,482,83"/>
+</map>

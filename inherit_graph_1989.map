@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d9/de9/classvici_1_1exception_1_1CommandException.html" title="vici.exception.CommandException" alt="" coords="133,5,357,32"/>
+<area shape="rect" id="node3" href="$d7/d9a/classvici_1_1exception_1_1DeserializationException.html" title="vici.exception.Deserialization\lException" alt="" coords="149,57,341,98"/>
+<area shape="rect" id="node4" href="$d3/d45/classvici_1_1exception_1_1EventUnknownException.html" title="vici.exception.EventUnknown\lException" alt="" coords="148,122,343,163"/>
+<area shape="rect" id="node5" href="$d2/d3e/classvici_1_1exception_1_1SessionException.html" title="vici.exception.SessionException" alt="" coords="140,188,351,215"/>
+</map>

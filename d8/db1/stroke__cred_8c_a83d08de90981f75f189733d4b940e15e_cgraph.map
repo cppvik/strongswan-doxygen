@@ -1,0 +1,17 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$db/dab/keyid_8c.html#a049bbdebc2be4da80632f9b3af6fc046" title="keyid" alt="" coords="179,309,232,336"/>
+<area shape="rect" id="node11" href="$d8/db1/stroke__cred_8c.html#a7428ff2ef8c55c5b3171954122565316" title="load_from_smartcard" alt="" coords="133,132,277,159"/>
+<area shape="rect" id="node14" href="$d8/db1/stroke__cred_8c.html#a6761db1e92793833ee96cb45aa03b90d" title="parse_smartcard" alt="" coords="146,360,265,387"/>
+<area shape="rect" id="node15" href="$d4/d40/group__string__i.html#gad159dccbbc0d733f2ad32c9db6d292a4" title="strpfx" alt="" coords="178,436,233,463"/>
+<area shape="rect" id="node3" href="$d4/d87/group__chunk.html#ga207cbb568ad9c4bc26ac74a6dfd61355" title="chunk_from_fd" alt="" coords="333,132,441,159"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="525,183,569,209"/>
+<area shape="rect" id="node7" href="$dc/d53/group__command.html#ga5cf2c6b41420f51c7d7db9dfbd699f6b" title="command_getopt" alt="" coords="325,385,448,412"/>
+<area shape="rect" id="node8" href="$dc/d53/group__command.html#gac550624edb43a63d97310c54962c8f66" title="command_usage" alt="" coords="326,436,447,463"/>
+<area shape="rect" id="node9" href="$df/d1e/group__pki.html#ga63674711f2657b283b42d2c0bd0b78f3" title="set_file_mode" alt="" coords="335,233,438,260"/>
+<area shape="rect" id="node10" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="361,335,412,361"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="517,56,577,83"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="497,107,597,133"/>
+<area shape="rect" id="node12" href="$d4/d87/group__chunk.html#gaadc119e547e9a456a8c2c6271290b584" title="chunk_from_hex" alt="" coords="327,31,446,57"/>
+<area shape="rect" id="node13" href="$d8/d39/chunk_8c.html#a0674de9b4dc86d182ca6a08b9595279f" title="hex2bin" alt="" coords="513,5,580,32"/>
+<area shape="rect" id="node16" href="$d4/d40/group__string__i.html#ga5bb3e529b7dc584688ed2714c5b57e85" title="strneq" alt="" coords="357,487,416,513"/>
+</map>

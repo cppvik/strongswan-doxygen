@@ -1,0 +1,5 @@
+<map id="add_swid_inventory" name="add_swid_inventory">
+<area shape="rect" id="node2" href="$d3/de6/imc__swid_8c.html#a229947183624681536a133815b79b96e" title="receive_message" alt="" coords="193,31,317,57"/>
+<area shape="rect" id="node3" href="$de/d10/group__tncifimc.html#gac0904e90c720bf61161ebdcaa848ee28" title="TNC_IMC_ReceiveMessage" alt="" coords="379,5,570,32"/>
+<area shape="rect" id="node4" href="$de/d10/group__tncifimc.html#ga5a587fd64b9841c507b9638d218f1aca" title="TNC_IMC_ReceiveMessageLong" alt="" coords="365,56,584,83"/>
+</map>

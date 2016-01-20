@@ -1,0 +1,10 @@
+<map id="plugin_feature_get_string" name="plugin_feature_get_string">
+<area shape="rect" id="node2" href="$dd/df3/stroke__list_8c.html#a9dd925d19885f4220dfbfce6b1e7c035" title="list_plugins" alt="" coords="205,5,291,32"/>
+<area shape="rect" id="node4" href="$db/d66/plugin__loader_8c.html#a91ec0691eb786fe7e4806b9d8d733e5b" title="load_dependencies" alt="" coords="181,157,315,184"/>
+<area shape="rect" id="node5" href="$db/d66/plugin__loader_8c.html#a7255246feea191e7f13d81180846ab49" title="load_feature" alt="" coords="363,107,456,133"/>
+<area shape="rect" id="node6" href="$db/d66/plugin__loader_8c.html#ac62b11b33e669f6f28747ee5cd82f629" title="load_provided" alt="" coords="505,107,607,133"/>
+<area shape="rect" id="node3" href="$dd/df3/stroke__list_8c.html#abd44053672839dfc7369bb02c8820aab" title="METHOD" alt="" coords="369,5,449,32"/>
+<area shape="rect" id="node7" href="$db/d66/plugin__loader_8c.html#aa470007ca479ed96d1afe8e31e9a07e1" title="load_features" alt="" coords="662,107,762,133"/>
+<area shape="rect" id="node9" href="$db/d66/plugin__loader_8c.html#a4e098ac5c040feddbac5f01f0cf55bb6" title="load_registered" alt="" coords="657,157,767,184"/>
+<area shape="rect" id="node8" href="$db/d66/plugin__loader_8c.html#a40b7971807f3d4f5aea4549887ecb197" title="METHOD" alt="" coords="816,107,896,133"/>
+</map>

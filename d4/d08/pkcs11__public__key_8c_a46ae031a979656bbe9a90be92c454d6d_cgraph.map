@@ -1,0 +1,16 @@
+<map id="fingerprint_ecdsa" name="fingerprint_ecdsa">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaaa5a9811df1bd2ae5e331748f7fbaf75" title="chunk_clear" alt="" coords="551,87,643,114"/>
+<area shape="rect" id="node8" href="$d4/d08/pkcs11__public__key_8c.html#aac6285ab9748fb450d80c579c5acf44d" title="encode_ecdsa" alt="" coords="176,113,283,139"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#ga6d5ce21860b55e0c54353999c4f4f077" title="memwipe" alt="" coords="734,37,813,63"/>
+<area shape="rect" id="node6" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="730,87,817,114"/>
+<area shape="rect" id="node4" href="$dd/d74/group__memory__i.html#ga4d6f7708d6b8ea1ec0fbe97b3885ce1e" title="memwipe_inline" alt="" coords="1064,37,1179,63"/>
+<area shape="rect" id="node5" href="$dd/d74/group__memory__i.html#gabf6fa8b701d6f2052a551333b3694063" title="memwipe_noinline" alt="" coords="886,11,1015,38"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="929,138,973,165"/>
+<area shape="rect" id="node9" href="$d0/da0/group__asn1i.html#gae35067f22c85ee30622e924f160860a2" title="asn1_bitstring" alt="" coords="357,189,459,215"/>
+<area shape="rect" id="node13" href="$d0/da0/group__asn1i.html#gafc47ce497a7d333125fe7b4919ecf156" title="asn1_build_known_oid" alt="" coords="331,239,485,266"/>
+<area shape="rect" id="node14" href="$d0/da0/group__asn1i.html#gaa5b766a452be068282b808b6b6f85f7e" title="asn1_wrap" alt="" coords="365,138,451,165"/>
+<area shape="rect" id="node15" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="358,37,458,63"/>
+<area shape="rect" id="node10" href="$d0/da0/group__asn1i.html#gaa4b22cdadd3251eef380d585a8d3adc1" title="asn1_build_object" alt="" coords="534,189,661,215"/>
+<area shape="rect" id="node11" href="$d6/d36/asn1_8c.html#a72c37051a4d4cda52b0ab80893884abd" title="asn1_code_length" alt="" coords="710,189,837,215"/>
+<area shape="rect" id="node12" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="743,239,803,266"/>
+</map>

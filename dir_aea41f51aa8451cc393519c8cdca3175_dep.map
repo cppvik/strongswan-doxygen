@@ -1,0 +1,17 @@
+<map id="tnc_tnccs" name="tnc_tnccs">
+<area shape="rect" id="node1" href="dir_aea41f51aa8451cc393519c8cdca3175.html" title="tnc_tnccs" alt="" coords="56,52,134,100"/>
+<area shape="rect" id="node2" href="dir_0c96bf3061e49db820f4fd61efe724b9.html" title="libstrongswan" alt="" coords="44,340,146,388"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000297_000001.html" title="7" alt="" coords="41,315,49,329"/>
+<area shape="rect" id="node3" href="dir_3ab2caec36bc41377bca8a7e4f84eae9.html" title="libtncif" alt="" coords="23,244,95,292"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000297_000301.html" title="1" alt="" coords="71,220,79,235"/>
+<area shape="rect" id="node4" href="dir_e222e764d3cfb05ba74b1a6a5205e9a6.html" title="libtls" alt="" coords="170,244,242,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000297_000289.html" title="1" alt="" coords="208,218,216,232"/>
+<area shape="rect" id="node5" href="dir_08c7d3b18fc2dc63e59d50f862a6d805.html" title="tnc" alt="" coords="96,148,168,196"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000297_000149.html" title="5" alt="" coords="120,121,128,135"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000301_000001.html" title="11" alt="" coords="80,313,95,327"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000289_000001.html" title="44" alt="" coords="134,327,149,342"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000149_000001.html" title="12" alt="" coords="104,316,119,331"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000149_000301.html" title="6" alt="" coords="91,227,99,242"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000149_000289.html" title="1" alt="" coords="179,217,187,232"/>
+<area shape="rect" id="clust1" href="dir_2a299d2b0754ac8eaab5da4f8152df6c.html" title="plugins" alt="" coords="44,16,146,111"/>
+</map>

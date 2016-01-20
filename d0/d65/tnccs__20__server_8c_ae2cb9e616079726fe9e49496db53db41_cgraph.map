@@ -1,0 +1,6 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d0/d61/whitelist_8c.html#a32590eeb75db94323a7fd354dc31eeed" title="send_msg" alt="" coords="133,56,216,83"/>
+<area shape="rect" id="node3" href="$d0/d61/whitelist_8c.html#a46cbc3530d1b6d5af4c7728a67bcd3c6" title="make_connection" alt="" coords="265,5,389,32"/>
+<area shape="rect" id="node4" href="$d0/d61/whitelist_8c.html#adebf457eff03c857a09d83b310af96b1" title="write_all" alt="" coords="291,56,362,83"/>
+<area shape="rect" id="node5" href="$d0/d61/whitelist_8c.html#a66989870dd0d5ec8406294c9dda24350" title="read_all" alt="" coords="293,107,360,133"/>
+</map>

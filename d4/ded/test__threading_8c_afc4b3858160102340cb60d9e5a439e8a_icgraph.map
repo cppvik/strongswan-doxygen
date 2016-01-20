@@ -1,0 +1,7 @@
+<map id="close_fd_ptr" name="close_fd_ptr">
+<area shape="rect" id="node2" href="$d4/ded/test__threading_8c.html#a807caeef2a4a75f8aa5f4accf231d6fd" title="cancellation_accept" alt="" coords="147,5,285,32"/>
+<area shape="rect" id="node3" href="$d4/ded/test__threading_8c.html#ad5dcc0cc54fd31a376f70b6550791ff0" title="cancellation_poll" alt="" coords="157,56,275,83"/>
+<area shape="rect" id="node4" href="$d4/ded/test__threading_8c.html#a430d617fc1df0087295eba17b9ddd568" title="cancellation_read" alt="" coords="155,107,277,133"/>
+<area shape="rect" id="node5" href="$d4/ded/test__threading_8c.html#ae7daa3bb7c3504feacc34f269f517a13" title="cancellation_recv" alt="" coords="155,157,277,184"/>
+<area shape="rect" id="node6" href="$d4/ded/test__threading_8c.html#af31138c983b96d050505377d1226a149" title="cancellation_select" alt="" coords="149,208,283,235"/>
+</map>

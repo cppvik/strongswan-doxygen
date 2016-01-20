@@ -1,0 +1,26 @@
+var structsimaka__manager__t =
+[
+    [ "add_card", "d5/d85/structsimaka__manager__t.html#a8d4cb2cad0217c771adf313776d79b85", null ],
+    [ "add_hooks", "d5/d85/structsimaka__manager__t.html#afe9730f6bccc3835b9334c16cf08f8e5", null ],
+    [ "add_provider", "d5/d85/structsimaka__manager__t.html#acfef0de9421e702e9e21769c38e4b269", null ],
+    [ "card_get_pseudonym", "d5/d85/structsimaka__manager__t.html#ab2e583b90e03e410f4923906f8444ef0", null ],
+    [ "card_get_quintuplet", "d5/d85/structsimaka__manager__t.html#a03cc64027be1ee72b82097095d3d4dce", null ],
+    [ "card_get_reauth", "d5/d85/structsimaka__manager__t.html#ad2e3c5c2845c27230365d9da48bdbf41", null ],
+    [ "card_get_triplet", "d5/d85/structsimaka__manager__t.html#a8ae02b7d9ff790c38553b619fa58421c", null ],
+    [ "card_resync", "d5/d85/structsimaka__manager__t.html#a2bedf2621a4c1b12d536ed036b8feb75", null ],
+    [ "card_set_pseudonym", "d5/d85/structsimaka__manager__t.html#a45aa7a94120cae39837b2378d640cf20", null ],
+    [ "card_set_reauth", "d5/d85/structsimaka__manager__t.html#a2bf7eed7a048a0ca6225742b8e14370c", null ],
+    [ "destroy", "d5/d85/structsimaka__manager__t.html#a7ec3cddaadb0eaa0274db9697fc27477", null ],
+    [ "key_hook", "d5/d85/structsimaka__manager__t.html#a8ee8ce0de75aec1bd298ac562c591109", null ],
+    [ "message_hook", "d5/d85/structsimaka__manager__t.html#ae8680d96c0d98927e47b31abf50a1c79", null ],
+    [ "provider_gen_pseudonym", "d5/d85/structsimaka__manager__t.html#a5b0eec8edf08c16c410196d2917347b6", null ],
+    [ "provider_gen_reauth", "d5/d85/structsimaka__manager__t.html#a49ef2cca406fae015b00e9406f1b194c", null ],
+    [ "provider_get_quintuplet", "d5/d85/structsimaka__manager__t.html#a5dcca08aff392f1196a69f2ffb6c96c5", null ],
+    [ "provider_get_triplet", "d5/d85/structsimaka__manager__t.html#ace11041c17066594ff0e498791942e54", null ],
+    [ "provider_is_pseudonym", "d5/d85/structsimaka__manager__t.html#a0c97a01953b2ec881f2e0a5bd78888ee", null ],
+    [ "provider_is_reauth", "d5/d85/structsimaka__manager__t.html#a0f3d430c72896ae66a1b738ca26616d4", null ],
+    [ "provider_resync", "d5/d85/structsimaka__manager__t.html#a2e7a661b10830adc0d2cbe15bd114df3", null ],
+    [ "remove_card", "d5/d85/structsimaka__manager__t.html#a17f938c007440cb0016effb6b08f00ee", null ],
+    [ "remove_hooks", "d5/d85/structsimaka__manager__t.html#a17c90b7db9530306028afd471f8672b9", null ],
+    [ "remove_provider", "d5/d85/structsimaka__manager__t.html#ae541b3835ba5b98ea4047d54b90269cf", null ]
+];

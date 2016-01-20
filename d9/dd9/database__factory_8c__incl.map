@@ -1,0 +1,22 @@
+<map id="database_factory.c" name="database_factory.c">
+<area shape="rect" id="node2" href="$d7/db6/database__factory_8h.html" title="database_factory.h" alt="" coords="1013,80,1147,107"/>
+<area shape="rect" id="node31" href="$d1/d4a/linked__list_8h.html" title="collections/linked\l_list.h" alt="" coords="1163,155,1285,197"/>
+<area shape="rect" id="node32" href="$d0/df8/mutex_8h.html" title="threading/mutex.h" alt="" coords="1249,80,1375,107"/>
+<area shape="rect" id="node3" href="$d8/d9c/database_8h.html" title="database/database.h" alt="" coords="995,163,1137,189"/>
+<area shape="rect" id="node4" href="$d1/d47/enumerator_8h.html" title="collections/enumerator.h" alt="" coords="1063,245,1227,272"/>
+<area shape="rect" id="node5" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="1103,320,1188,347"/>
+<area shape="rect" id="node10" href="$da/d66/string_8h.html" title="string.h" alt="" coords="371,395,436,421"/>
+<area shape="rect" id="node18" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="1151,395,1244,421"/>
+<area shape="rect" id="node19" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="1269,395,1333,421"/>
+<area shape="rect" id="node21" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="1359,395,1465,421"/>
+<area shape="rect" id="node22" href="$d1/ddf/align_8h.html" title="utils/align.h" alt="" coords="1489,395,1577,421"/>
+<area shape="rect" id="node23" href="$d5/d17/byteorder_8h.html" title="utils/byteorder.h" alt="" coords="1601,395,1716,421"/>
+<area shape="rect" id="node24" href="$dc/d18/memory_8h.html" title="utils/memory.h" alt="" coords="1741,395,1848,421"/>
+<area shape="rect" id="node25" href="$d9/dd1/strerror_8h.html" title="utils/strerror.h" alt="" coords="1873,395,1975,421"/>
+<area shape="rect" id="node26" href="$d1/d13/status_8h.html" title="utils/status.h" alt="" coords="1999,395,2096,421"/>
+<area shape="rect" id="node27" href="$de/d10/object_8h.html" title="utils/object.h" alt="" coords="2121,395,2217,421"/>
+<area shape="rect" id="node28" href="$d7/dd4/path_8h.html" title="utils/path.h" alt="" coords="2242,395,2328,421"/>
+<area shape="rect" id="node29" href="$de/df7/time_8h.html" title="utils/time.h" alt="" coords="2353,395,2439,421"/>
+<area shape="rect" id="node30" href="$dd/d71/tty_8h.html" title="utils/tty.h" alt="" coords="2463,395,2539,421"/>
+<area shape="rect" id="node20" href="$dc/d6a/printf__hook_8h.html" title="utils/printf_hook/printf\l_hook.h" alt="" coords="699,470,845,511"/>
+</map>

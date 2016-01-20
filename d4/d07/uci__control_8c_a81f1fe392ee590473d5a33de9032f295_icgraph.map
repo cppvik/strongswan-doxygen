@@ -1,0 +1,6 @@
+<map id="status" name="status">
+<area shape="rect" id="node2" href="$d4/d07/uci__control_8c.html#a7991be914ecd741cd22ea080bb7d1a2f" title="process" alt="" coords="113,5,181,32"/>
+<area shape="rect" id="node3" href="$d4/d07/uci__control_8c.html#a9513515899cf5c24b192d857a52411aa" title="receive" alt="" coords="229,5,293,32"/>
+<area shape="rect" id="node4" href="$d5/df4/group__uci__control__t.html#ga66651aca294b20fd09939dcc48b385aa" title="uci_control_create" alt="" coords="341,5,469,32"/>
+<area shape="rect" id="node5" href="$d0/d8b/uci__plugin_8c.html#a9132499a3a5ed364f14edc9eea2d9477" title="uci_plugin_create" alt="" coords="517,5,640,32"/>
+</map>

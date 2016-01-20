@@ -1,0 +1,7 @@
+<map id="test_sighandler" name="test_sighandler">
+<area shape="rect" id="node2" href="$d3/d6d/group__backtrace.html#gad43362e2c73721f527240d06db1ab97e" title="backtrace_create" alt="" coords="165,56,288,83"/>
+<area shape="rect" id="node5" href="$de/d18/group__test__suite.html#gaaa0d65a0a69f09bd4d6f475e2d950331" title="test_fail_msg" alt="" coords="177,107,277,133"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="355,5,415,32"/>
+<area shape="rect" id="node4" href="$d7/de0/backtrace_8c.html#a86e2f83a774e462bece92a9a450aa67d" title="get_methods" alt="" coords="337,56,434,83"/>
+<area shape="rect" id="node6" href="$dd/d94/test__suite_8c.html#a385ad283f38387655af4104990777399" title="test_failure" alt="" coords="342,107,429,133"/>
+</map>

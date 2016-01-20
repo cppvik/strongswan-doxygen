@@ -1,0 +1,12 @@
+<map id="TNC_TNCS_BindFunction" name="TNC_TNCS_BindFunction">
+<area shape="rect" id="node2" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="336,5,387,32"/>
+<area shape="rect" id="node3" href="$de/dbd/group__tncifimv.html#ga232d55ece78fe808740a3379b36d2f94" title="TNC_TNCS_GetAttribute" alt="" coords="276,56,447,83"/>
+<area shape="rect" id="node4" href="$de/dbd/group__tncifimv.html#ga3fc1162de6612a971e8017782d16e44f" title="TNC_TNCS_ProvideRecommendation" alt="" coords="238,107,485,133"/>
+<area shape="rect" id="node5" href="$de/dbd/group__tncifimv.html#ga4edfce0c17f2784d4fce7f1bc7e166ee" title="TNC_TNCS_ReportMessageTypes" alt="" coords="247,157,476,184"/>
+<area shape="rect" id="node6" href="$de/dbd/group__tncifimv.html#ga63d25c72fe249f65acd90534142c4731" title="TNC_TNCS_ReportMessageTypesLong" alt="" coords="233,208,490,235"/>
+<area shape="rect" id="node7" href="$de/dbd/group__tncifimv.html#ga83972fc15c8969eb795e9a5637c3f4a0" title="TNC_TNCS_RequestHandshake\lRetry" alt="" coords="253,259,469,301"/>
+<area shape="rect" id="node8" href="$de/dbd/group__tncifimv.html#ga1ea99742cf7d4f7e987d0988a299eb90" title="TNC_TNCS_ReserveAdditional\lIMVID" alt="" coords="258,325,465,366"/>
+<area shape="rect" id="node9" href="$de/dbd/group__tncifimv.html#ga4521c1c365005fd129c6047f2a3ca664" title="TNC_TNCS_SendMessage" alt="" coords="269,391,453,417"/>
+<area shape="rect" id="node10" href="$de/dbd/group__tncifimv.html#ga6412496904e16808e58e0186bfa1cee9" title="TNC_TNCS_SendMessageLong" alt="" coords="255,441,467,468"/>
+<area shape="rect" id="node11" href="$de/dbd/group__tncifimv.html#gab7acaa9073b1ec0c7a0d1a9f02358f50" title="TNC_TNCS_SetAttribute" alt="" coords="276,492,447,519"/>
+</map>

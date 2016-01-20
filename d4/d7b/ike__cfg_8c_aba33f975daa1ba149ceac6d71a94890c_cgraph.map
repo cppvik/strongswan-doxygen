@@ -1,0 +1,16 @@
+<map id="resolve" name="resolve">
+<area shape="rect" id="node2" href="$d7/df1/group__host.html#ga5f2c94740339664ce118776e13829cd0" title="host_create_any" alt="" coords="755,31,874,57"/>
+<area shape="rect" id="node9" href="$d7/df1/group__host.html#gaa0dc359dc1c8e327bb484e3e12df59d7" title="host_create_from_dns" alt="" coords="118,31,269,57"/>
+<area shape="rect" id="node3" href="$df/da9/host_8c.html#ac3854e66d5a7563cae9608acbcad6eb5" title="host_create_empty" alt="" coords="955,31,1088,57"/>
+<area shape="rect" id="node7" href="$df/da9/host_8c.html#a1fb6a6590d2576c32709b890623cad8c" title="update_sa_len" alt="" coords="968,81,1075,108"/>
+<area shape="rect" id="node8" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="999,132,1043,159"/>
+<area shape="rect" id="node4" href="$df/da9/host_8c.html#a809d5cf7574c1f5e27758950d53653f4" title="equals" alt="" coords="1137,56,1197,83"/>
+<area shape="rect" id="node5" href="$df/da9/host_8c.html#a0ea5fbf16ec81f3c5eaf6dc5da8d452a" title="ip_equals" alt="" coords="1245,31,1323,57"/>
+<area shape="rect" id="node6" href="$dd/d74/group__memory__i.html#ga46d7935db00fd7092430dbf4f36c2850" title="memeq" alt="" coords="1371,31,1437,57"/>
+<area shape="rect" id="node10" href="$d7/df1/group__host.html#ga75f9b1e7905a80d69bc3cc7a7c3775a5" title="host_create_from_string\l_and_family" alt="" coords="317,125,480,166"/>
+<area shape="rect" id="node13" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a5da61ec055ea1dffbb84ffe3caddb7dc" title="set_port" alt="" coords="780,81,849,108"/>
+<area shape="rect" id="node11" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="576,132,627,159"/>
+<area shape="rect" id="node12" href="$df/da9/host_8c.html#a2670c8aac87ed6960c4e45f42f843b73" title="host_create_any_port" alt="" coords="528,81,675,108"/>
+<area shape="rect" id="node14" href="$da/d9b/group__windows.html#ga7fb1f8a8f40e09fa09e625d2a09dc04e" title="inet_pton" alt="" coords="564,183,639,209"/>
+<area shape="rect" id="node15" href="$d7/df1/group__host.html#ga3183b60055297ceaa19b4a5996496830" title="host_create_from_sockaddr" alt="" coords="723,132,906,159"/>
+</map>

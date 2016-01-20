@@ -1,0 +1,8 @@
+<map id="authority_t" name="authority_t">
+<area shape="rect" id="node2" href="$d6/d41/structcertificate__t.html" title="certificate_t" alt="" coords="181,209,272,236"/>
+<area shape="rect" id="node3" href="$d6/d02/structidentification__t.html" title="identification_t" alt="" coords="308,96,415,123"/>
+<area shape="rect" id="node4" href="$d0/d14/structchunk__t.html" title="chunk_t" alt="" coords="333,5,400,32"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="73,5,172,32"/>
+<area shape="rect" id="node7" href="$dc/de6/structlinked__list__t.html" title="linked_list_t" alt="" coords="5,148,96,175"/>
+<area shape="rect" id="node6" href="$d0/d6f/structpublic__key__t.html" title="public_key_t" alt="" coords="119,96,213,123"/>
+</map>

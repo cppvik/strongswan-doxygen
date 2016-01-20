@@ -1,0 +1,7 @@
+<map id="whitelist" name="whitelist">
+<area shape="rect" id="node1" href="$dc/d93/group__whitelist__msg.html" title="whitelist_msg" alt="" coords="246,5,349,32"/>
+<area shape="rect" id="node2" href="$d5/d79/group__whitelist__listener.html" title="whitelist_listener" alt="" coords="238,56,357,83"/>
+<area shape="rect" id="node4" href="$d2/d30/group__whitelist__plugin.html" title="whitelist_plugin" alt="" coords="242,107,353,133"/>
+<area shape="rect" id="node6" href="$d2/d83/group__whitelist__control.html" title="whitelist_control" alt="" coords="239,157,355,184"/>
+<area shape="rect" id="node5" href="$d8/dd9/group__cplugins.html" title="plugins" alt="" coords="6,81,69,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="thread_cancellation_point" name="thread_cancellation_point">
+<area shape="rect" id="node2" href="$d4/ded/test__threading_8c.html#a19146358b2c1d1399074b9276b7750fb" title="cancel_point_run" alt="" coords="203,5,323,32"/>
+<area shape="rect" id="node4" href="$dd/d22/blocking__queue_8c.html#ad0ebc5dd8cde015cf553ed0b69bd357d" title="METHOD" alt="" coords="223,56,303,83"/>
+<area shape="rect" id="node5" href="$d2/d21/group__apple.html#ga990739950458141a8f19041d304fa4b4" title="precancellable_poll" alt="" coords="197,107,329,133"/>
+<area shape="rect" id="node6" href="$d2/d21/group__apple.html#ga71c9f31287d27cc4d3b0f4db76dea351" title="precancellable_select" alt="" coords="189,157,336,184"/>
+<area shape="rect" id="node3" href="$d4/ded/test__threading_8c.html#aa6104886d956c5dfdae0b4bba6174b1e" title="START_TEST" alt="" coords="384,5,491,32"/>
+</map>

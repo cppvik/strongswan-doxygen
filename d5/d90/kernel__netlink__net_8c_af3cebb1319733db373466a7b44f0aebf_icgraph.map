@@ -1,0 +1,10 @@
+<map id="reinstall_routes" name="reinstall_routes">
+<area shape="rect" id="node2" href="$d5/d90/kernel__netlink__net_8c.html#a0f4d312f2e3ae7e2ef669ff35e21bee8" title="queue_route_reinstall" alt="" coords="166,56,311,83"/>
+<area shape="rect" id="node3" href="$d5/d90/kernel__netlink__net_8c.html#aeca4a8be4eca27916eee69fadda9b886" title="METHOD" alt="" coords="371,5,451,32"/>
+<area shape="rect" id="node4" href="$d5/d90/kernel__netlink__net_8c.html#a524a440e79bfb8f59290902a14bb30e8" title="process_addr" alt="" coords="361,107,461,133"/>
+<area shape="rect" id="node9" href="$d5/d90/kernel__netlink__net_8c.html#a0f87b0e61837c8bde853f9eda9756613" title="process_link" alt="" coords="363,56,458,83"/>
+<area shape="rect" id="node5" href="$d5/d90/kernel__netlink__net_8c.html#a6171ad9e6cb4f8e8abc248a8e14182ca" title="init_address_list" alt="" coords="510,56,626,83"/>
+<area shape="rect" id="node8" href="$d5/d90/kernel__netlink__net_8c.html#aadc72ac0ee4c3eee050dcde86c5230d6" title="receive_events" alt="" coords="513,107,623,133"/>
+<area shape="rect" id="node6" href="$d5/dbb/group__kernel__netlink__net__i.html#ga085e463746e0ef5b2537f94dee888bb3" title="kernel_netlink_net\l_create" alt="" coords="675,74,802,115"/>
+<area shape="rect" id="node7" href="$da/d4c/kernel__netlink__plugin_8c.html#afff6cb796b37dd206b1f16ec44e924d0" title="METHOD" alt="" coords="851,81,931,108"/>
+</map>

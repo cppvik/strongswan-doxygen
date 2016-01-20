@@ -1,0 +1,8 @@
+<map id="get_interface_address" name="get_interface_address">
+<area shape="rect" id="node2" href="$d5/d90/kernel__netlink__net_8c.html#add8ea34240fa67be8682f623e7b61891" title="get_route" alt="" coords="219,5,295,32"/>
+<area shape="rect" id="node4" href="$d5/d90/kernel__netlink__net_8c.html#aa4ee1f950fc5de3ab43335aebf95aeed" title="process_route" alt="" coords="205,56,309,83"/>
+<area shape="rect" id="node3" href="$d5/d90/kernel__netlink__net_8c.html#a427a6e01d6e9699d3396211dabe5fdbb" title="METHOD" alt="" coords="373,5,453,32"/>
+<area shape="rect" id="node5" href="$d5/d90/kernel__netlink__net_8c.html#aadc72ac0ee4c3eee050dcde86c5230d6" title="receive_events" alt="" coords="358,56,469,83"/>
+<area shape="rect" id="node6" href="$d5/dbb/group__kernel__netlink__net__i.html#ga085e463746e0ef5b2537f94dee888bb3" title="kernel_netlink_net\l_create" alt="" coords="518,49,645,90"/>
+<area shape="rect" id="node7" href="$da/d4c/kernel__netlink__plugin_8c.html#afff6cb796b37dd206b1f16ec44e924d0" title="METHOD" alt="" coords="693,56,773,83"/>
+</map>

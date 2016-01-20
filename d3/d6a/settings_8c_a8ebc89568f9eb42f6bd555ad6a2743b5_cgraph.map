@@ -1,0 +1,23 @@
+<map id="find_sections_buffered" name="find_sections_buffered">
+<area shape="rect" id="node2" href="$d1/d0e/group__array.html#ga3e425f86f35e101c1bfb0fc0b3a12760" title="array_bsearch" alt="" coords="229,31,333,57"/>
+<area shape="rect" id="node5" href="$d1/d0e/group__array.html#ga37bb7fb1dde90d6fb84dac0027bb3606" title="array_count" alt="" coords="573,81,664,108"/>
+<area shape="rect" id="node6" href="$d1/d0e/group__array.html#ga8f49cd8981e317a31801562481a983fe" title="array_get" alt="" coords="426,81,502,108"/>
+<area shape="rect" id="node7" href="$d1/d0e/group__array.html#gad2155c6672a55d685efbd8737b7873f8" title="array_insert_create" alt="" coords="215,183,348,209"/>
+<area shape="rect" id="node16" href="$d3/d6a/settings_8c.html#a42e49070f0440334b3e746903eab1970" title="print_key" alt="" coords="244,233,319,260"/>
+<area shape="rect" id="node22" href="$d4/d9d/group__settings__types.html#ga03454275a1bd119994e56de55ebf1e3c" title="settings_section_find" alt="" coords="209,284,354,311"/>
+<area shape="rect" id="node3" href="$dc/dcc/array_8c.html#a1814774789ffaf948b25734a7dd0f3ed" title="get_size" alt="" coords="886,208,957,235"/>
+<area shape="rect" id="node4" href="$dc/dcc/array_8c.html#abe6c54270f90085508c12e5c27e0d0a8" title="search_elements" alt="" coords="403,31,525,57"/>
+<area shape="rect" id="node8" href="$d1/d0e/group__array.html#ga9acc78bc2e06102ff37133b5aa0e0a4f" title="array_create" alt="" coords="417,183,511,209"/>
+<area shape="rect" id="node10" href="$d1/d0e/group__array.html#ga47238d69e35235b059ea47cdd82120e2" title="array_insert" alt="" coords="419,233,509,260"/>
+<area shape="rect" id="node9" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="589,132,649,159"/>
+<area shape="rect" id="node11" href="$dc/dcc/array_8c.html#ac4d67e4df8ac1f0185b4e122fdd39169" title="insert_head" alt="" coords="574,335,663,361"/>
+<area shape="rect" id="node14" href="$dc/dcc/array_8c.html#a7734db8d12ada729da8d593e21e9f161" title="insert_tail" alt="" coords="579,233,658,260"/>
+<area shape="rect" id="node12" href="$dc/dcc/array_8c.html#a49bc76dddc601773d22e55854d80d599" title="make_head_room" alt="" coords="712,385,837,412"/>
+<area shape="rect" id="node13" href="$d3/d18/bio__writer_8c.html#ac0780abbf27cfe6586832be791da0554" title="increase" alt="" coords="886,385,957,412"/>
+<area shape="rect" id="node15" href="$dc/dcc/array_8c.html#a0d1a5fbba30c6ff74cd9cfa9d2789952" title="make_tail_room" alt="" coords="717,233,832,260"/>
+<area shape="rect" id="node17" href="$d8/d11/cowfs_8c.html#a5b0505fc0548c5d6cf20d2488e284c14" title="copy" alt="" coords="439,411,489,437"/>
+<area shape="rect" id="node18" href="$d8/d11/cowfs_8c.html#a6bc193d06d35104f58eca4b16dd22a90" title="clone_path" alt="" coords="576,487,661,513"/>
+<area shape="rect" id="node19" href="$d8/d11/cowfs_8c.html#af229e42f46d714577ab5f90bb28b0004" title="get_rd" alt="" coords="589,385,648,412"/>
+<area shape="rect" id="node21" href="$d8/d11/cowfs_8c.html#ac5b3444ea5c41d728ba6cc339e882d35" title="get_wr" alt="" coords="588,436,649,463"/>
+<area shape="rect" id="node20" href="$d8/d11/cowfs_8c.html#a0495882a58d90abec4b4901207bd17b7" title="get_this" alt="" coords="741,436,809,463"/>
+</map>

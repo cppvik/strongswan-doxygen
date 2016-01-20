@@ -1,0 +1,6 @@
+<map id="verify_auth" name="verify_auth">
+<area shape="rect" id="node2" href="$d4/d87/group__chunk.html#gaef4ef97b1a4298f2b3aacb9fe48a2c85" title="chunk_equals_const" alt="" coords="141,5,283,32"/>
+<area shape="rect" id="node4" href="$d4/d87/group__chunk.html#gaa86c84493369a4254d5801cdca20d458" title="chunk_free" alt="" coords="169,56,255,83"/>
+<area shape="rect" id="node3" href="$dd/d74/group__memory__i.html#gaf513a161cbe0ba0964578ee21ca4263b" title="memeq_const" alt="" coords="331,5,435,32"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="361,56,405,83"/>
+</map>

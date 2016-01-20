@@ -1,0 +1,8 @@
+<map id="thread_exit" name="thread_exit">
+<area shape="rect" id="node2" href="$d4/ded/test__threading_8c.html#a28e5a1c433f7cd6f29e1c9b7f554c958" title="cleanup_exit_run" alt="" coords="141,5,261,32"/>
+<area shape="rect" id="node4" href="$d4/ded/test__threading_8c.html#a2eaeb2fbb7359f7148cab9fa7120f096" title="detach_exit_run" alt="" coords="144,56,259,83"/>
+<area shape="rect" id="node6" href="$d4/ded/test__threading_8c.html#ab288a7f6449b9d8bf708d979636c5316" title="exit_join_run" alt="" coords="154,107,249,133"/>
+<area shape="rect" id="node3" href="$d4/ded/test__threading_8c.html#a486210e3141b80e95c4ca8a53c37f07d" title="START_TEST" alt="" coords="309,5,416,32"/>
+<area shape="rect" id="node5" href="$d4/ded/test__threading_8c.html#a57b0dcf3d05eadf1590f756b6a8b458c" title="START_TEST" alt="" coords="309,56,416,83"/>
+<area shape="rect" id="node7" href="$d4/ded/test__threading_8c.html#aa4d66c0d15ddb7f573af5974a12f1e8f" title="START_TEST" alt="" coords="309,107,416,133"/>
+</map>

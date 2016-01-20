@@ -1,0 +1,5 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d0/d4c/group__cpu__feature.html#gae0b401b9c666d7ad00f80082e171caf2" title="cpu_feature_available" alt="" coords="134,5,282,32"/>
+<area shape="rect" id="node4" href="$db/d5c/group__rdrand__rng.html#gabc9a738fbc448136b2653169d0433dd2" title="rdrand_rng_create" alt="" coords="145,56,271,83"/>
+<area shape="rect" id="node3" href="$d0/d4c/group__cpu__feature.html#ga7853a90b81282ea2956998dc7350d242" title="cpu_feature_get_all" alt="" coords="331,5,466,32"/>
+</map>

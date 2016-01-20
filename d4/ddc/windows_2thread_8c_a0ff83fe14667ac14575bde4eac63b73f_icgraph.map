@@ -1,0 +1,20 @@
+<map id="create_internal" name="create_internal">
+<area shape="rect" id="node2" href="$d4/ddc/windows_2thread_8c.html#aa6f9626256b5d10ca9a0f173f3351b39" title="get_current_thread" alt="" coords="160,259,291,285"/>
+<area shape="rect" id="node18" href="$da/dd8/group__thread.html#ga96e0afa2f09818a84dfa1a3857be2a45" title="thread_create" alt="" coords="175,309,276,336"/>
+<area shape="rect" id="node19" href="$da/dd8/group__thread.html#gad1274f354a11e99df90972d386853116" title="threads_init" alt="" coords="181,360,270,387"/>
+<area shape="rect" id="node3" href="$d9/dfa/group__threadwindows.html#ga22756bb17b6e6d57c8a424a58913b80b" title="thread_tls_put" alt="" coords="376,5,480,32"/>
+<area shape="rect" id="node5" href="$d9/dfa/group__threadwindows.html#ga0ee070eb14d522acc23aa8193a34b748" title="thread_tls_get" alt="" coords="376,107,480,133"/>
+<area shape="rect" id="node7" href="$d9/dfa/group__threadwindows.html#gaf961660a058c846abadff0eaf96b4dce" title="thread_tls_remove" alt="" coords="363,56,493,83"/>
+<area shape="rect" id="node8" href="$d9/dfa/group__threadwindows.html#gac43e706f77e9aca4a7ae44f700e1b66e" title="thread_set_active_condvar" alt="" coords="339,157,517,184"/>
+<area shape="rect" id="node10" href="$da/dd8/group__thread.html#gaa19dc254d3a8e97795afcdc25d30bcb5" title="thread_current" alt="" coords="375,208,481,235"/>
+<area shape="rect" id="node11" href="$da/dd8/group__thread.html#ga25c5a8b5c130b45df0d1fc0a4c1d5063" title="thread_current_id" alt="" coords="367,259,489,285"/>
+<area shape="rect" id="node12" href="$da/dd8/group__thread.html#ga5c78b3b4d797a5e3fd535b81d1120857" title="thread_cleanup_push" alt="" coords="355,309,501,336"/>
+<area shape="rect" id="node13" href="$da/dd8/group__thread.html#ga669a6d403cfb4dc30e7a389b3b6cf48b" title="thread_cleanup_pop" alt="" coords="359,360,497,387"/>
+<area shape="rect" id="node14" href="$da/dd8/group__thread.html#gaa9eedaa0a0e7558e28a6b1107867fb03" title="thread_cleanup_popall" alt="" coords="353,411,503,437"/>
+<area shape="rect" id="node15" href="$da/dd8/group__thread.html#gac2bd836b3ee4e108d0aeff4e3e3ea88c" title="thread_cancelability" alt="" coords="359,461,497,488"/>
+<area shape="rect" id="node17" href="$da/dd8/group__thread.html#ga8b28b9fa8436aee6775b36456d796e23" title="thread_exit" alt="" coords="385,512,471,539"/>
+<area shape="rect" id="node4" href="$dc/d0b/windows_2thread__value_8c.html#a585a1a7241e48c094319ac30432d822b" title="METHOD" alt="" coords="593,31,673,57"/>
+<area shape="rect" id="node6" href="$dc/d0b/windows_2thread__value_8c.html#abd7c369d5de6b2cdbe840fa6090a4d17" title="METHOD" alt="" coords="593,107,673,133"/>
+<area shape="rect" id="node9" href="$d0/d7b/windows_2mutex_8c.html#adacc944f5b6c71c3ef6870709b3c476b" title="METHOD" alt="" coords="593,157,673,184"/>
+<area shape="rect" id="node16" href="$da/dd8/group__thread.html#ga74b3a6d872c1af1057cd98500b3d07f9" title="thread_cancellation\l_point" alt="" coords="566,454,701,495"/>
+</map>

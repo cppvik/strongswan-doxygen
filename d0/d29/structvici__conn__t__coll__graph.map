@@ -1,0 +1,7 @@
+<map id="vici_conn_t" name="vici_conn_t">
+<area shape="rect" id="node3" href="$d4/ddf/structstream__t.html" title="stream_t" alt="" coords="83,96,156,123"/>
+<area shape="rect" id="node4" href="$dd/d49/structhashtable__t.html" title="hashtable_t" alt="" coords="181,96,269,123"/>
+<area shape="rect" id="node5" href="$db/dd3/structenumerator__t.html" title="enumerator_t" alt="" coords="176,5,275,32"/>
+<area shape="rect" id="node6" href="$dd/d77/structmutex__t.html" title="mutex_t" alt="" coords="295,96,364,123"/>
+<area shape="rect" id="node7" href="$d7/dab/structcondvar__t.html" title="condvar_t" alt="" coords="389,96,467,123"/>
+</map>

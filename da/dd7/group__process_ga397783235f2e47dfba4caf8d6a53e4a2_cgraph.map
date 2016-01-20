@@ -1,0 +1,6 @@
+<map id="process_start" name="process_start">
+<area shape="rect" id="node2" href="$d0/d85/process_8c.html#a2c919fc237caeda3dc07e27e53896d49" title="close_if" alt="" coords="323,5,389,32"/>
+<area shape="rect" id="node3" href="$d6/d87/group__utils__i.html#gaae1c872491c8aaf5d990b5a868cb22ca" title="closefrom" alt="" coords="175,31,254,57"/>
+<area shape="rect" id="node4" href="$d0/d85/process_8c.html#a659316b59e477062c908e819357c81dc" title="process_destroy" alt="" coords="155,81,274,108"/>
+<area shape="rect" id="node5" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="334,81,378,108"/>
+</map>

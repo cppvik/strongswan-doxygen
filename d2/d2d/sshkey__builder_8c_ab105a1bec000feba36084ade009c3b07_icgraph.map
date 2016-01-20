@@ -1,0 +1,9 @@
+<map id="parse_ec_identifier" name="parse_ec_identifier">
+<area shape="rect" id="node2" href="$d2/d2d/sshkey__builder_8c.html#a7f79aabf2155a9f8c561ad747b30eb06" title="parse_public_key" alt="" coords="184,81,307,108"/>
+<area shape="rect" id="node3" href="$d2/d2d/sshkey__builder_8c.html#a9b27314ae7e586552b1d4b6c6bdf9867" title="load_from_stream" alt="" coords="355,56,482,83"/>
+<area shape="rect" id="node5" href="$d5/d2f/group__sshkey__public__key.html#ga3453a240bce57baa01395a2802878382" title="sshkey_public_key_load" alt="" coords="691,56,855,83"/>
+<area shape="rect" id="node4" href="$d2/d2d/sshkey__builder_8c.html#a958fe60669bf56074e37e1f086eeeeed" title="load_from_blob" alt="" coords="531,56,642,83"/>
+<area shape="rect" id="node7" href="$d2/d2d/sshkey__builder_8c.html#a28f0de2c00a164bd77000db17e523231" title="load_from_file" alt="" coords="535,5,638,32"/>
+<area shape="rect" id="node6" href="$d4/d88/sshkey__plugin_8c.html#aeff6a93501dd837bb2b9dcba565fd31b" title="METHOD" alt="" coords="904,31,984,57"/>
+<area shape="rect" id="node8" href="$d5/d2f/group__sshkey__public__key.html#ga087d8606b60f42e9983bd30cfd713477" title="sshkey_certificate_load" alt="" coords="694,5,853,32"/>
+</map>

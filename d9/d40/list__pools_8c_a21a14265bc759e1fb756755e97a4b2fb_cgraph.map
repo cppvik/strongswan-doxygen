@@ -1,0 +1,8 @@
+<map id="CALLBACK" name="CALLBACK">
+<area shape="rect" id="node2" href="$d4/d40/group__string__i.html#ga65c3d08890165aaa4663c72d07f93bb7" title="streq" alt="" coords="173,5,224,32"/>
+<area shape="rect" id="node3" href="$dc/d7a/group__libvici.html#ga22cdd47346d156dce100815b46593593" title="vici_find_str" alt="" coords="153,56,245,83"/>
+<area shape="rect" id="node4" href="$dc/d7a/group__libvici.html#gab0d6d99733e8f5c51926bc8bc9718924" title="vici_parse_cb" alt="" coords="147,107,250,133"/>
+<area shape="rect" id="node5" href="$dc/d7a/group__libvici.html#ga8ce91f7bbd32712758370e6dc5a49d64" title="vici_parse" alt="" coords="318,56,399,83"/>
+<area shape="rect" id="node6" href="$dc/d7a/group__libvici.html#ga096e5f3ed65379ecb6b96a4a67e50976" title="vici_parse_name" alt="" coords="299,107,419,133"/>
+<area shape="rect" id="node7" href="$dc/d7a/group__libvici.html#ga67fccc7d4a35ee88fdee2f860102656b" title="vici_parse_value" alt="" coords="299,157,418,184"/>
+</map>

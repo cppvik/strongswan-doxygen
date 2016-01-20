@@ -1,0 +1,8 @@
+<map id="sum_usage" name="sum_usage">
+<area shape="rect" id="node2" href="$d1/d64/vici__query_8c.html#aea048ee1f0df5d739d56636b330e8e9d" title="CALLBACK" alt="" coords="163,5,255,32"/>
+<area shape="rect" id="node3" href="$dd/dda/stroke__socket_8c.html#a1c74e56a3486cb2a702647150a545d80" title="stroke_memusage" alt="" coords="145,56,274,83"/>
+<area shape="rect" id="node4" href="$dd/dda/stroke__socket_8c.html#acc127cd2eeaa4ed7c6d30c613f02a76e" title="on_accept" alt="" coords="323,56,405,83"/>
+<area shape="rect" id="node5" href="$d3/d5b/group__stroke__socket.html#gad1f5f8940280e2e2b5066540a33f75af" title="stroke_socket_create" alt="" coords="453,56,600,83"/>
+<area shape="rect" id="node6" href="$d0/d10/stroke__plugin_8c.html#a6fec94fe501805d572fe2fb64018d91a" title="register_stroke" alt="" coords="649,56,757,83"/>
+<area shape="rect" id="node7" href="$d0/d10/stroke__plugin_8c.html#a5df13da493d5d6ff660fcf6f2eca38ca" title="METHOD" alt="" coords="805,56,885,83"/>
+</map>

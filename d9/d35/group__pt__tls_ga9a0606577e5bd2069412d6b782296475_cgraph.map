@@ -1,0 +1,8 @@
+<map id="pt_tls_read" name="pt_tls_read">
+<area shape="rect" id="node2" href="$dd/d1c/pt__tls_8c.html#ac1d8e65e1a3d3a4a8a2c75ff1e6d150c" title="read_tls" alt="" coords="142,81,210,108"/>
+<area shape="rect" id="node3" href="$d9/d83/group__bio__reader.html#ga69b0bb3132dc1cf3b5d2996d6ce98e8f" title="bio_reader_create_own" alt="" coords="259,5,415,32"/>
+<area shape="rect" id="node5" href="$d4/d87/group__chunk.html#gad94ca029616a107e89eaa618408fd7b6" title="chunk_create" alt="" coords="287,56,387,83"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="315,107,359,133"/>
+<area shape="rect" id="node7" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="307,157,367,184"/>
+<area shape="rect" id="node4" href="$d9/d83/group__bio__reader.html#gadd21cf8fb14c3ed5a27b4cb026abe8ff" title="bio_reader_create" alt="" coords="464,5,589,32"/>
+</map>

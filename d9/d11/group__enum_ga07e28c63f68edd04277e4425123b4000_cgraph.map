@@ -1,0 +1,9 @@
+<map id="enum_printf_hook" name="enum_printf_hook">
+<area shape="rect" id="node2" href="$d9/d11/group__enum.html#gaa16b665120274602f54f9b3b90d28096" title="enum_flags_to_string" alt="" coords="179,5,325,32"/>
+<area shape="rect" id="node4" href="$d9/d11/group__enum.html#ga1acffaec9549eafeee287b7a985a9f9c" title="enum_to_name" alt="" coords="197,56,307,83"/>
+<area shape="rect" id="node5" href="$d2/d15/group__printf__hook.html#gac652d692cae0531203f286059d6e1749" title="print_in_hook" alt="" coords="203,107,301,133"/>
+<area shape="rect" id="node3" href="$d9/d69/enum_8c.html#a40c6db2178284b228f0605cbbbf8fc41" title="find_flag_pos" alt="" coords="381,5,480,32"/>
+<area shape="rect" id="node6" href="$d1/dc8/group__printf__hook__builtin.html#gad5fb3c98ab0e9f5aa922c7b3c0f974fb" title="builtin_vsnprintf" alt="" coords="374,107,487,133"/>
+<area shape="rect" id="node7" href="$d0/dfb/printf__hook__builtin_8c.html#a79967ff4c081f98ab339deb2b247e78b" title="format_int" alt="" coords="548,81,628,108"/>
+<area shape="rect" id="node8" href="$d0/dfb/printf__hook__builtin_8c.html#a26a18529936c3e9f811409b68485cc6e" title="format_double" alt="" coords="536,132,640,159"/>
+</map>

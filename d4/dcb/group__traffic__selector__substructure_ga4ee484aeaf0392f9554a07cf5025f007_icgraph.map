@@ -1,0 +1,10 @@
+<map id="traffic_selector_substructure_create" name="traffic_selector_substructure_create">
+<area shape="rect" id="node2" href="$d0/d90/group__payload.html#ga7fdbedfeebbba4a57ae7a8520e7b8a09" title="payload_create" alt="" coords="281,5,391,32"/>
+<area shape="rect" id="node4" href="$d4/dcb/group__traffic__selector__substructure.html#ga1e3a0a8e10e82c3982f8abfbbef1e076" title="traffic_selector_substructure\l_create_from_traffic_selector" alt="" coords="241,57,431,98"/>
+<area shape="rect" id="node3" href="$db/dd5/libcharon_2encoding_2parser_8c.html#a90930bed63cf51b0e4d8b09b5bd558e3" title="METHOD" alt="" coords="521,5,601,32"/>
+<area shape="rect" id="node5" href="$d5/daa/group__ts__payload.html#gac70c5671195d35a7dde0ff0d6e03c9dc" title="ts_payload_create_from\l_traffic_selectors" alt="" coords="481,57,642,98"/>
+<area shape="rect" id="node6" href="$dc/d9a/child__create_8c.html#aa23c9fc9c750a07512ca2400fbcfc8d7" title="build_payloads" alt="" coords="717,39,825,65"/>
+<area shape="rect" id="node8" href="$d3/db3/pretend__auth_8c.html#a4495356dc82b4163d98ed5adcfd5cac8" title="process_auth_response" alt="" coords="691,89,851,116"/>
+<area shape="rect" id="node7" href="$dc/d9a/child__create_8c.html#aed56efb904bf815eb7b0c4fb3aa7e2c1" title="METHOD" alt="" coords="899,39,979,65"/>
+<area shape="rect" id="node9" href="$d3/db3/pretend__auth_8c.html#aadf45f2afe23f71e2c042730808ae155" title="METHOD" alt="" coords="899,89,979,116"/>
+</map>

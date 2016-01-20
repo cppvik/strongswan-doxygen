@@ -1,0 +1,11 @@
+<map id="settings_parser_restart" name="settings_parser_restart">
+<area shape="rect" id="node2" href="$d9/d7b/settings__lexer_8c.html#a7ae01c54e2bcf9fd7a55137fbb2a80ed" title="settings_parser__create\l_buffer" alt="" coords="209,67,370,109"/>
+<area shape="rect" id="node3" href="$d9/d7b/settings__lexer_8c.html#a4386e14dca16b9ec4faef188ba2d8d87" title="settings_parser__init\l_buffer" alt="" coords="426,26,569,67"/>
+<area shape="rect" id="node6" href="$d9/d7b/settings__lexer_8c.html#a33d4f53352a864e4f156061745955b95" title="settings_parser__load\l_buffer_state" alt="" coords="827,125,976,166"/>
+<area shape="rect" id="node9" href="$d9/d7b/settings__lexer_8c.html#a929da0caf3950387991ecbd5e8eef08e" title="settings_parser_ensure\l_buffer_stack" alt="" coords="211,133,368,174"/>
+<area shape="rect" id="node7" href="$d9/d7b/settings__lexer_8c.html#a41352d68c36dd7a4a1aac4cb7517274d" title="settings_parser_alloc" alt="" coords="425,96,570,123"/>
+<area shape="rect" id="node4" href="$d9/d7b/settings__lexer_8c.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="674,5,729,32"/>
+<area shape="rect" id="node5" href="$d9/d7b/settings__lexer_8c.html#abb6474cb0d8cf8c06c5f0570a0bfe36d" title="settings_parser__flush\l_buffer" alt="" coords="625,57,778,98"/>
+<area shape="rect" id="node8" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="671,123,731,149"/>
+<area shape="rect" id="node10" href="$d9/d7b/settings__lexer_8c.html#ab2f0df9a05dd8b94f35a272bf269ca2a" title="settings_parser_realloc" alt="" coords="419,147,575,173"/>
+</map>

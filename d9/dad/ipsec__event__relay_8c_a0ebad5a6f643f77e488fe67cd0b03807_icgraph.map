@@ -1,0 +1,10 @@
+<map id="ipsec_event_destroy" name="ipsec_event_destroy">
+<area shape="rect" id="node2" href="$d9/dad/ipsec__event__relay_8c.html#a9703e0d39f9456fa90b0d514a5411e07" title="handle_events" alt="" coords="197,85,304,112"/>
+<area shape="rect" id="node3" href="$d5/da4/pkcs11__plugin_8c.html#a4cc13964a3fdbc57fc0712bc748a169d" title="handle_certs" alt="" coords="597,87,693,113"/>
+<area shape="rect" id="node5" href="$da/d2c/group__ipsec__event__relay.html#ga92c28b48d184374a7327e3c3c62ad402" title="ipsec_event_relay_create" alt="" coords="352,33,523,60"/>
+<area shape="rect" id="node8" href="$d5/da4/pkcs11__plugin_8c.html#a213cd9959e2e8af489b68b0d14f92b25" title="token_event_cb" alt="" coords="380,136,495,163"/>
+<area shape="rect" id="node4" href="$d5/da4/pkcs11__plugin_8c.html#a70d291942da7e5dd4cb7053af86826f5" title="METHOD" alt="" coords="803,87,883,113"/>
+<area shape="rect" id="node6" href="$d3/db4/group__libipsec.html#gacaa228bf2aa5967ff63b609ac6510bd8" title="libipsec_init" alt="" coords="600,29,691,56"/>
+<area shape="rect" id="node7" href="$d2/d00/kernel__libipsec__plugin_8c.html#a5c850b5b11f56dd41f495396c0d670df" title="kernel_libipsec_plugin\l_create" alt="" coords="768,21,917,62"/>
+<area shape="rect" id="node9" href="$d5/da4/pkcs11__plugin_8c.html#a72409a3834b3c33ca44e2e35755183c0" title="pkcs11_plugin_create" alt="" coords="571,137,719,164"/>
+</map>

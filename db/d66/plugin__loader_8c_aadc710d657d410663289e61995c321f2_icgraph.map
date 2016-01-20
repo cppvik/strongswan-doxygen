@@ -1,0 +1,10 @@
+<map id="is_feature_loadable" name="is_feature_loadable">
+<area shape="rect" id="node2" href="$db/d66/plugin__loader_8c.html#a2e40790e2e36e0fe6b3348545d1ec8f0" title="loadable_feature_equals" alt="" coords="196,5,359,32"/>
+<area shape="rect" id="node9" href="$db/d66/plugin__loader_8c.html#a0d6dbee1eba7ad4c186a6695f1967487" title="loadable_feature_matches" alt="" coords="190,56,365,83"/>
+<area shape="rect" id="node3" href="$db/d66/plugin__loader_8c.html#a91ec0691eb786fe7e4806b9d8d733e5b" title="load_dependencies" alt="" coords="413,31,547,57"/>
+<area shape="rect" id="node4" href="$db/d66/plugin__loader_8c.html#a7255246feea191e7f13d81180846ab49" title="load_feature" alt="" coords="595,5,688,32"/>
+<area shape="rect" id="node5" href="$db/d66/plugin__loader_8c.html#ac62b11b33e669f6f28747ee5cd82f629" title="load_provided" alt="" coords="737,5,839,32"/>
+<area shape="rect" id="node6" href="$db/d66/plugin__loader_8c.html#a4e098ac5c040feddbac5f01f0cf55bb6" title="load_registered" alt="" coords="889,56,999,83"/>
+<area shape="rect" id="node7" href="$db/d66/plugin__loader_8c.html#aa470007ca479ed96d1afe8e31e9a07e1" title="load_features" alt="" coords="894,5,994,32"/>
+<area shape="rect" id="node8" href="$db/d66/plugin__loader_8c.html#a40b7971807f3d4f5aea4549887ecb197" title="METHOD" alt="" coords="1048,5,1128,32"/>
+</map>

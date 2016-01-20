@@ -1,0 +1,23 @@
+<map id="dhcp_socket.h" name="dhcp_socket.h">
+<area shape="rect" id="node2" href="$d6/d63/dhcp__transaction_8h.html" title="dhcp_transaction.h" alt="" coords="2185,80,2316,107"/>
+<area shape="rect" id="node3" href="$df/ded/host_8h.html" title="networking/host.h" alt="" coords="2344,155,2469,181"/>
+<area shape="rect" id="node33" href="$d1/d5e/identification_8h.html" title="utils/identification.h" alt="" coords="2183,155,2317,181"/>
+<area shape="rect" id="node35" href="$da/d6e/attributes_8h.html" title="attributes/attributes.h" alt="" coords="2011,155,2156,181"/>
+<area shape="rect" id="node4" href="$d5/d60/utils_8h.html" title="utils/utils.h" alt="" coords="1484,304,1569,331"/>
+<area shape="rect" id="node30" href="$dd/dd5/chunk_8h.html" title="utils/chunk.h" alt="" coords="2308,229,2404,256"/>
+<area shape="rect" id="node9" href="$da/d66/string_8h.html" title="string.h" alt="" coords="2358,379,2423,405"/>
+<area shape="rect" id="node17" href="$d9/d49/types_8h.html" title="utils/types.h" alt="" coords="465,379,559,405"/>
+<area shape="rect" id="node18" href="$d0/d9b/enum_8h.html" title="enum.h" alt="" coords="1839,379,1904,405"/>
+<area shape="rect" id="node20" href="$d8/d19/atomics_8h.html" title="utils/atomics.h" alt="" coords="583,379,689,405"/>
+<area shape="rect" id="node21" href="$d1/ddf/align_8h.html" title="utils/align.h" alt="" coords="713,379,801,405"/>
+<area shape="rect" id="node22" href="$d5/d17/byteorder_8h.html" title="utils/byteorder.h" alt="" coords="825,379,940,405"/>
+<area shape="rect" id="node23" href="$dc/d18/memory_8h.html" title="utils/memory.h" alt="" coords="965,379,1072,405"/>
+<area shape="rect" id="node24" href="$d9/dd1/strerror_8h.html" title="utils/strerror.h" alt="" coords="1097,379,1199,405"/>
+<area shape="rect" id="node25" href="$d1/d13/status_8h.html" title="utils/status.h" alt="" coords="1223,379,1320,405"/>
+<area shape="rect" id="node26" href="$de/d10/object_8h.html" title="utils/object.h" alt="" coords="1345,379,1441,405"/>
+<area shape="rect" id="node27" href="$d7/dd4/path_8h.html" title="utils/path.h" alt="" coords="1466,379,1552,405"/>
+<area shape="rect" id="node28" href="$de/df7/time_8h.html" title="utils/time.h" alt="" coords="1577,379,1663,405"/>
+<area shape="rect" id="node29" href="$dd/d71/tty_8h.html" title="utils/tty.h" alt="" coords="1687,379,1763,405"/>
+<area shape="rect" id="node19" href="$dc/d6a/printf__hook_8h.html" title="utils/printf_hook/printf\l_hook.h" alt="" coords="1839,454,1985,495"/>
+<area shape="rect" id="node34" href="$d1/d47/enumerator_8h.html" title="collections/enumerator.h" alt="" coords="1861,229,2024,256"/>
+</map>

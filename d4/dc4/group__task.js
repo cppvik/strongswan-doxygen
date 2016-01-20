@@ -1,0 +1,45 @@
+var group__task =
+[
+    [ "task_t", "d6/daa/structtask__t.html", [
+      [ "build", "d6/daa/structtask__t.html#a33fe7b92a800c9ebf4372ffc85b60781", null ],
+      [ "destroy", "d6/daa/structtask__t.html#a36fb95e491b8f58efa0aa0892f02ab14", null ],
+      [ "get_type", "d6/daa/structtask__t.html#a2b77b1ff27f5e12a7d4cb86ab6d6685c", null ],
+      [ "migrate", "d6/daa/structtask__t.html#aae9a10757b54cb0c95e4c9b9645fbb90", null ],
+      [ "process", "d6/daa/structtask__t.html#a59a2e281f1457de52f4becd04970038c", null ]
+    ] ],
+    [ "task_t", "d4/dc4/group__task.html#ga989e278a815d7ada960572a3e9fad896", null ],
+    [ "task_type_t", "d4/dc4/group__task.html#ga52d850047a9f1cf6f3252b92fb8a18c9", null ],
+    [ "task_type_t", "d4/dc4/group__task.html#gac2e16af418bca8dd01cdf7a5198d9b19", [
+      [ "TASK_IKE_INIT", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a7e2b1af720dc27a0ca693a1a70a5ae04", null ],
+      [ "TASK_IKE_NATD", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a756d0c68907ea8d0d59e7b78352eb11d", null ],
+      [ "TASK_IKE_MOBIKE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a833972c661174da8551a4e7ebfa26757", null ],
+      [ "TASK_IKE_AUTH", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a945b77d6d9963aa79ed9709fb9885fa9", null ],
+      [ "TASK_IKE_AUTH_LIFETIME", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a6493c12abc6fe461e3d7f917771593c0", null ],
+      [ "TASK_IKE_CERT_PRE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a45f43ec77ddac9bb75b2af23835f11d0", null ],
+      [ "TASK_IKE_CERT_POST", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a8a28fd9113097d6b773c95ec5c54e618", null ],
+      [ "TASK_IKE_CONFIG", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a0fc661878cd84ff3b6d27d1916e004a6", null ],
+      [ "TASK_IKE_REKEY", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a7736c11ebfbf41d70404e7fb4d95eb81", null ],
+      [ "TASK_IKE_REAUTH", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a962801df8ce05a1d81f42aae288d42ad", null ],
+      [ "TASK_IKE_REAUTH_COMPLETE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a553c0dfe652088efb33421b836decc0b", null ],
+      [ "TASK_IKE_DELETE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19aa02a587d3ec47da21689daaa16a981bc", null ],
+      [ "TASK_IKE_DPD", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a5fb8184c3f3506e390a10bbcc7e8bbb6", null ],
+      [ "TASK_IKE_VENDOR", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a9e02c84625d8913e4d699cc2a9fdc213", null ],
+      [ "TASK_CHILD_CREATE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a1df3c496d770e3077011d9243a254556", null ],
+      [ "TASK_CHILD_DELETE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19adbfd13e76fc63e3ed2e5be2b38e0c35a", null ],
+      [ "TASK_CHILD_REKEY", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19af07955e0471774da9258c6b627e06db6", null ],
+      [ "TASK_MAIN_MODE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19abc186a7ca50af193138af3a186d78e91", null ],
+      [ "TASK_AGGRESSIVE_MODE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a9b28802ccfaed1282166c9fb8ab9f947", null ],
+      [ "TASK_INFORMATIONAL", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19ab84be2df42814a853f0859117d488b99", null ],
+      [ "TASK_ISAKMP_DELETE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19aedc1365c47234abb7a8751e4ef95839b", null ],
+      [ "TASK_XAUTH", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a7401c0634b39a55dcfa3dfbde7f8da5f", null ],
+      [ "TASK_MODE_CONFIG", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19abc94dcec6a55808fea2a0c4286e95369", null ],
+      [ "TASK_QUICK_MODE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19ae7a12955fd7ddb2d4b361b1b9337633f", null ],
+      [ "TASK_QUICK_DELETE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a7395c13a00e8df19ae5e802ec4f89aed", null ],
+      [ "TASK_ISAKMP_VENDOR", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19af87e5303c3346f38384086cdb65eb3f2", null ],
+      [ "TASK_ISAKMP_NATD", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19afbae214bbdf30db380ef37144569aee0", null ],
+      [ "TASK_ISAKMP_DPD", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a9e55c74b13c7fc4261d2903ea2153445", null ],
+      [ "TASK_ISAKMP_CERT_PRE", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19abb5905d39842b17901da3e5c51cf76ed", null ],
+      [ "TASK_ISAKMP_CERT_POST", "d4/dc4/group__task.html#ggac2e16af418bca8dd01cdf7a5198d9b19a204650d9e5761c23e806f7db334a2075", null ]
+    ] ],
+    [ "task_type_names", "d4/dc4/group__task.html#gac5b8de6474e94c81a6fa37ddce514010", null ]
+];

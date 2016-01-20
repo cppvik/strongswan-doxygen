@@ -1,0 +1,26 @@
+<map id="public_key_equals" name="public_key_equals">
+<area shape="rect" id="node2" href="$d1/d4c/group__bliss__public__key.html#ga509639968cecc3bb5ce6a2bd4d10a513" title="bliss_public_key_load" alt="" coords="201,95,351,121"/>
+<area shape="rect" id="node4" href="$d4/d08/pkcs11__public__key_8c.html#aba411f8641b7fafc2e5321094473bdb9" title="create" alt="" coords="247,171,305,197"/>
+<area shape="rect" id="node16" href="$d1/d33/openssl__ec__public__key_8c.html#ae73e127c76f71b09bc0f6b2c691da233" title="create_empty" alt="" coords="225,247,327,273"/>
+<area shape="rect" id="node19" href="$d0/d99/group__gcrypt__rsa__public__key.html#ga4f31b8fc2432070ffa51b124414aedbc" title="gcrypt_rsa_public_key_load" alt="" coords="185,297,367,324"/>
+<area shape="rect" id="node21" href="$d2/d7a/group__gmp__rsa__public__key.html#ga6a72a1f70d5d2039dd030f7bb5714b4d" title="gmp_rsa_public_key_load" alt="" coords="190,348,362,375"/>
+<area shape="rect" id="node23" href="$db/dc7/pubkey__cert_8c.html#a21c20606f52a669193efd8f1ed369fe3" title="METHOD" alt="" coords="236,399,316,425"/>
+<area shape="rect" id="node24" href="$d1/d48/group__tkm-pubkey.html#ga4cf671c498d08614f1f41623691ef697" title="tkm_public_key_load" alt="" coords="204,449,348,476"/>
+<area shape="rect" id="node3" href="$d9/def/bliss__plugin_8c.html#a6e7caee2f2d5ad8c1b363e2175e6bdcb" title="METHOD" alt="" coords="471,19,551,45"/>
+<area shape="rect" id="node5" href="$d4/d08/pkcs11__public__key_8c.html#a812ab8c015b72d76f75c5bd5ef3a1007" title="create_key" alt="" coords="467,69,554,96"/>
+<area shape="rect" id="node10" href="$d4/d08/pkcs11__public__key_8c.html#a720c133db0bdf4b28e44dbb8c65bac24" title="find_key" alt="" coords="475,145,546,172"/>
+<area shape="rect" id="node13" href="$d4/d08/pkcs11__public__key_8c.html#af9c732550d70b0d2163e86497482d8ce" title="find_key_by_keyid" alt="" coords="445,196,576,223"/>
+<area shape="rect" id="node6" href="$d4/d08/pkcs11__public__key_8c.html#a61464b4873e07429ea778e86ce3065fc" title="create_ecdsa_key" alt="" coords="683,5,811,32"/>
+<area shape="rect" id="node9" href="$d4/d08/pkcs11__public__key_8c.html#a7924eb858bf4ef0f0d2511f53c4fe697" title="create_rsa_key" alt="" coords="691,56,802,83"/>
+<area shape="rect" id="node7" href="$db/d90/group__pkcs11__public__key.html#ga504ce72cb6f960456b18da0c9a7b8032" title="pkcs11_public_key_load" alt="" coords="889,107,1053,133"/>
+<area shape="rect" id="node8" href="$d5/da4/pkcs11__plugin_8c.html#a9ecaf3b3c4c947e3f53aec6d193afbb9" title="METHOD" alt="" coords="1101,147,1181,173"/>
+<area shape="rect" id="node11" href="$d4/d08/pkcs11__public__key_8c.html#a70c3fa9374d5a59c65229e5b0b475141" title="find_ecdsa_key" alt="" coords="690,107,803,133"/>
+<area shape="rect" id="node12" href="$d4/d08/pkcs11__public__key_8c.html#a2b7a63c57653e8d57aac9b59aba2cd97" title="find_rsa_key" alt="" coords="699,157,795,184"/>
+<area shape="rect" id="node14" href="$db/d90/group__pkcs11__public__key.html#ga75c7db7c27156ca148d1a6e80e368cd0" title="pkcs11_public_key_connect" alt="" coords="653,208,840,235"/>
+<area shape="rect" id="node15" href="$d0/d51/group__pkcs11__private__key.html#gab93b383fcef30b2a74405b4d604f3055" title="pkcs11_private_key\l_connect" alt="" coords="901,179,1040,221"/>
+<area shape="rect" id="node17" href="$de/dfe/group__openssl__ec__public__key.html#ga86dce2ce2bae43eadc5c9d803dedc116" title="openssl_ec_public_key_load" alt="" coords="417,247,605,273"/>
+<area shape="rect" id="node18" href="$d5/dea/openssl__plugin_8c.html#a6cb7014ee98f0ca392567d83fb943139" title="METHOD" alt="" coords="707,259,787,285"/>
+<area shape="rect" id="node20" href="$dd/dbf/gcrypt__plugin_8c.html#ab1cd342491263f553aae075e8954fc20" title="METHOD" alt="" coords="471,297,551,324"/>
+<area shape="rect" id="node22" href="$d1/d34/gmp__plugin_8c.html#a4bd9edf81354e3fa3ce5654d812ee046" title="METHOD" alt="" coords="471,348,551,375"/>
+<area shape="rect" id="node25" href="$d4/d9f/charon-tkm_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="485,449,536,476"/>
+</map>

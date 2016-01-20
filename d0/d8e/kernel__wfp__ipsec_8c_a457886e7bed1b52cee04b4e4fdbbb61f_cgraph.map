@@ -1,0 +1,9 @@
+<map id="remove_trap" name="remove_trap">
+<area shape="rect" id="node2" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a97d21289252ea0b179234af4d8cba0c0" title="destroy_trap" alt="" coords="459,5,554,32"/>
+<area shape="rect" id="node4" href="$d0/d8e/kernel__wfp__ipsec_8c.html#ad2a4ab300da8171b798d0ec303821b97" title="manage_route" alt="" coords="149,56,253,83"/>
+<area shape="rect" id="node8" href="$d0/d8e/kernel__wfp__ipsec_8c.html#afbf0a1a3aa3c16c2f4b31b297094499c" title="uninstall_trap" alt="" coords="152,107,251,133"/>
+<area shape="rect" id="node3" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="606,81,650,108"/>
+<area shape="rect" id="node5" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a50ac8eb1a5a817da41a4d8579f7b5c61" title="install_route" alt="" coords="309,56,401,83"/>
+<area shape="rect" id="node7" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a6153c1139cf41f4ef926c024fdd8402f" title="uninstall_route" alt="" coords="301,107,408,133"/>
+<area shape="rect" id="node6" href="$d0/d8e/kernel__wfp__ipsec_8c.html#a5c7434ebda3d6acde7c2a18b20c4a438" title="destroy_route" alt="" coords="456,107,557,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ipsec_sa_destroy" name="ipsec_sa_destroy">
+<area shape="rect" id="node2" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a5afff1f095523574fae74c5079623477" title="policy_sa_destroy" alt="" coords="179,31,306,57"/>
+<area shape="rect" id="node3" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a06c0dcec5f1f5080fbd63384bc73c6fe" title="policy_entry_destroy" alt="" coords="355,5,498,32"/>
+<area shape="rect" id="node5" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#a03525a90beb985a6723803fdcf3485eb" title="METHOD" alt="" coords="387,56,467,83"/>
+<area shape="rect" id="node4" href="$d9/dbc/kernel__pfkey__ipsec_8c.html#abc6bbade11303344b59a27750f8edf0b" title="METHOD" alt="" coords="547,5,627,32"/>
+</map>

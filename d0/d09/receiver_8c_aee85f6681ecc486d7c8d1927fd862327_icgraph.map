@@ -1,0 +1,9 @@
+<map id="cookie_build" name="cookie_build">
+<area shape="rect" id="node2" href="$d0/d09/receiver_8c.html#a67e9cde4ec756f79d16215b4f9c5c7b2" title="cookie_verify" alt="" coords="149,5,248,32"/>
+<area shape="rect" id="node4" href="$d0/d09/receiver_8c.html#a53a4f891a2364137d8bfe014a4197ce7" title="drop_ike_sa_init" alt="" coords="449,31,565,57"/>
+<area shape="rect" id="node3" href="$d0/d09/receiver_8c.html#ae970b33fb297c7707217da4786947f1c" title="check_cookie" alt="" coords="297,5,399,32"/>
+<area shape="rect" id="node5" href="$d0/d09/receiver_8c.html#a9bccfc7693a6ed7598f9d95d8f9d8c8c" title="receive_packets" alt="" coords="613,31,731,57"/>
+<area shape="rect" id="node6" href="$dc/d58/group__receiver.html#ga88db4d8a5ab4b6eff4136669e6a0a4c3" title="receiver_create" alt="" coords="779,31,890,57"/>
+<area shape="rect" id="node7" href="$dc/d21/daemon_8c.html#a9855945718e95854c7188893dba56359" title="sender_receiver_cb" alt="" coords="939,31,1074,57"/>
+<area shape="rect" id="node8" href="$dc/d21/daemon_8c.html#aa753a05efc444c05cc5028b3a9a29a86" title="METHOD" alt="" coords="1123,31,1203,57"/>
+</map>

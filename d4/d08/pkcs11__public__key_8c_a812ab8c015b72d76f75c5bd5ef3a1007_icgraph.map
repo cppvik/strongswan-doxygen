@@ -1,0 +1,6 @@
+<map id="create_key" name="create_key">
+<area shape="rect" id="node2" href="$d4/d08/pkcs11__public__key_8c.html#a61464b4873e07429ea778e86ce3065fc" title="create_ecdsa_key" alt="" coords="141,5,269,32"/>
+<area shape="rect" id="node5" href="$d4/d08/pkcs11__public__key_8c.html#a7924eb858bf4ef0f0d2511f53c4fe697" title="create_rsa_key" alt="" coords="150,56,261,83"/>
+<area shape="rect" id="node3" href="$db/d90/group__pkcs11__public__key.html#ga504ce72cb6f960456b18da0c9a7b8032" title="pkcs11_public_key_load" alt="" coords="318,31,482,57"/>
+<area shape="rect" id="node4" href="$d5/da4/pkcs11__plugin_8c.html#a9ecaf3b3c4c947e3f53aec6d193afbb9" title="METHOD" alt="" coords="531,31,611,57"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="handle_offer" name="handle_offer">
+<area shape="rect" id="node2" href="$d7/d9c/dhcp__socket_8c.html#a1787e3b02a30bd48b0d1a953c7c3643d" title="receive_dhcp" alt="" coords="147,5,245,32"/>
+<area shape="rect" id="node3" href="$d5/dcb/group__dhcp__socket.html#ga9a7544edfbcbc54c6890592fcd674504" title="dhcp_socket_create" alt="" coords="293,5,432,32"/>
+<area shape="rect" id="node4" href="$df/da0/dhcp__plugin_8c.html#a4d463038ce5b1946f5e7f959ec9420cd" title="plugin_cb" alt="" coords="480,5,557,32"/>
+<area shape="rect" id="node5" href="$df/da0/dhcp__plugin_8c.html#aba3f8ed40ce4bb383ee09193bc544dac" title="METHOD" alt="" coords="605,5,685,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="sasl_mechanism_create" name="sasl_mechanism_create">
+<area shape="rect" id="node2" href="$d7/d6a/pt__tls__server_8c.html#acf26fb32d65a8d6894226aead50152fd" title="read_sasl_mech_selection" alt="" coords="216,5,392,32"/>
+<area shape="rect" id="node6" href="$d2/d9f/pt__tls__client_8c.html#a6754ca153a16e414fae63b4ca6c5e2b1" title="select_and_do_sasl" alt="" coords="235,56,373,83"/>
+<area shape="rect" id="node3" href="$d7/d6a/pt__tls__server_8c.html#a684d6f661f6c86ca310bb47a93b3c2e7" title="do_sasl" alt="" coords="453,5,520,32"/>
+<area shape="rect" id="node4" href="$d7/d6a/pt__tls__server_8c.html#a7ea8b635513dc7a24eeb92db968b53b2" title="authenticate" alt="" coords="581,5,675,32"/>
+<area shape="rect" id="node5" href="$d7/d6a/pt__tls__server_8c.html#a4ff8e75a9fac70ff900ad8502255d726" title="METHOD" alt="" coords="723,5,803,32"/>
+<area shape="rect" id="node7" href="$d2/d9f/pt__tls__client_8c.html#a428de355d7d97ac7377ef8d11f4a73b2" title="authenticate" alt="" coords="440,56,533,83"/>
+<area shape="rect" id="node8" href="$d2/d9f/pt__tls__client_8c.html#aeb65c394c911cfe99ccf34a5f4bcdfab" title="METHOD" alt="" coords="588,56,668,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ntru_public_key_create" name="ntru_public_key_create">
+<area shape="rect" id="node2" href="$dd/d18/ntru__public__key_8c.html#ade8017e3959760523378ccba92cd78c2" title="generate_encoding" alt="" coords="211,5,341,32"/>
+<area shape="rect" id="node4" href="$da/dfc/settings__parser_8c.html#a5faf6a2d99f50a4655dd390199a8db7b" title="malloc" alt="" coords="246,56,306,83"/>
+<area shape="rect" id="node3" href="$d0/d6d/group__ntru__convert.html#gaa75ed08f16f179c06c7f9737be85de13" title="ntru_elements_2_octets" alt="" coords="390,5,551,32"/>
+</map>

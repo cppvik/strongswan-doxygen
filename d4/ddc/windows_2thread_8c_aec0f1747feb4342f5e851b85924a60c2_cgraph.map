@@ -1,0 +1,18 @@
+<map id="METHOD" name="METHOD">
+<area shape="rect" id="node2" href="$d4/ddc/windows_2thread_8c.html#a7da7cf0efedc9353cc8afd5fa5492702" title="docancel" alt="" coords="133,113,208,139"/>
+<area shape="rect" id="node3" href="$d4/ddc/windows_2thread_8c.html#a8ad439d506bba830e2479d164b77478b" title="end_thread" alt="" coords="257,113,343,139"/>
+<area shape="rect" id="node4" href="$d4/ddc/windows_2thread_8c.html#a343cd07ea8770e572cfe3a7d39ea8401" title="destroy" alt="" coords="414,62,479,89"/>
+<area shape="rect" id="node7" href="$d4/ddc/windows_2thread_8c.html#af7e133b3d7eb8327d367c824a2442573" title="docleanup" alt="" coords="559,87,641,114"/>
+<area shape="rect" id="node17" href="$d4/ddc/windows_2thread_8c.html#a4ea49e2dc91083092a1b33e905e2c360" title="remove_thread" alt="" coords="393,175,501,202"/>
+<area shape="rect" id="node5" href="$d1/d0e/group__array.html#ga3e37b3536492eca41bedb3d7957729cb" title="array_destroy" alt="" coords="549,37,651,63"/>
+<area shape="rect" id="node6" href="$da/dfc/settings__parser_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title="free" alt="" coords="913,11,957,38"/>
+<area shape="rect" id="node15" href="$d4/ddc/windows_2thread_8c.html#a135e731d9487e0225434d339e1343de5" title="set_leak_detective" alt="" coords="699,189,829,215"/>
+<area shape="rect" id="node8" href="$d1/d0e/group__array.html#ga55955a8b760f395c97d9ba0e24ed1f16" title="array_remove" alt="" coords="713,138,815,165"/>
+<area shape="rect" id="node16" href="$d9/dfa/group__threadwindows.html#ga3b1745dacb0aa0026280070a76a24785" title="thread_tls_cleanup" alt="" coords="699,87,829,114"/>
+<area shape="rect" id="node9" href="$d1/d0e/group__array.html#ga8f49cd8981e317a31801562481a983fe" title="array_get" alt="" coords="897,113,973,139"/>
+<area shape="rect" id="node10" href="$d1/d0e/group__array.html#ga37bb7fb1dde90d6fb84dac0027bb3606" title="array_count" alt="" coords="1040,87,1131,114"/>
+<area shape="rect" id="node12" href="$dc/dcc/array_8c.html#ab6b79352671c52c64680b40ec8f4b564" title="remove_tail" alt="" coords="890,163,979,190"/>
+<area shape="rect" id="node13" href="$dc/dcc/array_8c.html#adf752ea38951fc12706edf7f731b5417" title="remove_head" alt="" coords="885,214,985,241"/>
+<area shape="rect" id="node14" href="$d1/d0e/group__array.html#ga26cb748cd8a50b54dfa0b21dca9deff8" title="array_compress" alt="" coords="877,265,992,291"/>
+<area shape="rect" id="node11" href="$dc/dcc/array_8c.html#a1814774789ffaf948b25734a7dd0f3ed" title="get_size" alt="" coords="1050,189,1121,215"/>
+</map>

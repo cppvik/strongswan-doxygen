@@ -1,0 +1,12 @@
+<map id="builtin_vsnprintf" name="builtin_vsnprintf">
+<area shape="rect" id="node2" href="$d1/dc8/group__printf__hook__builtin.html#gab6fbfe1f65edd87bf8bcfc4a3bc15166" title="builtin_snprintf" alt="" coords="172,5,279,32"/>
+<area shape="rect" id="node3" href="$d1/dc8/group__printf__hook__builtin.html#gae23647307ccea7f85514aff1777a41f0" title="builtin_sprintf" alt="" coords="176,56,275,83"/>
+<area shape="rect" id="node4" href="$d1/dc8/group__printf__hook__builtin.html#gae861d1b28a5a94c2fd2a2679dc3f8007" title="builtin_vasprintf" alt="" coords="169,107,282,133"/>
+<area shape="rect" id="node6" href="$d1/dc8/group__printf__hook__builtin.html#ga86b82cc8fd3d5df6dc11ec6819c99462" title="builtin_vfprintf" alt="" coords="174,157,277,184"/>
+<area shape="rect" id="node10" href="$d1/dc8/group__printf__hook__builtin.html#ga290a9f75550656dbcaa9d82b3c9c6587" title="builtin_vsprintf" alt="" coords="172,208,279,235"/>
+<area shape="rect" id="node11" href="$d2/d15/group__printf__hook.html#gac652d692cae0531203f286059d6e1749" title="print_in_hook" alt="" coords="176,259,275,285"/>
+<area shape="rect" id="node5" href="$d1/dc8/group__printf__hook__builtin.html#ga4461ad55a210d2371fe3e50d30026e16" title="builtin_asprintf" alt="" coords="331,107,437,133"/>
+<area shape="rect" id="node7" href="$d1/dc8/group__printf__hook__builtin.html#ga8ca9084edbf6cb2efda4e32b20fa8f80" title="builtin_fprintf" alt="" coords="336,157,432,184"/>
+<area shape="rect" id="node8" href="$d1/dc8/group__printf__hook__builtin.html#ga44f14d273eaa6c09a9867fa89a12b080" title="builtin_vprintf" alt="" coords="335,208,433,235"/>
+<area shape="rect" id="node9" href="$d1/dc8/group__printf__hook__builtin.html#ga0d50b3e292a1910945db7253072bd79e" title="builtin_printf" alt="" coords="486,208,578,235"/>
+</map>
